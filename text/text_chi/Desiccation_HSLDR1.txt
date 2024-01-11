@@ -1,0 +1,44 @@
+1-42
+Oh! This pearl is remarkably intact!
+It seems to be a dumped result of the nearest High Speed Long Distance Rail.<LINE>I never knew that a close enough Rail existed.
+It must have been from outside our retaining wall?<LINE>Portions of it have collapsed, after all.
+...
+...!<LINE>Little creature, this is a remarkable find!
+It's a communication pearl! One between two Iterators situated on that rail...
+It was made to be able to send packages towards each other, after all~
+...<LINE>You dislike that tone?<LINE>Nevermind. Let me read the contents out, now.
+[LONGDISTANCECOMMUNICATIONRAIL 53881-23-433 - COURIER: YIELDING SHALLOW SEAS]<LINE>[PASS FORWARD REQUESTS - 4]<LINE>RECEIVER [TOPMOST DUSTSTORMS] LOCATED<LINE>BEGINNING BROADCAST...
+YSS: The snowstorms have taken away yet another member of the extended-radius high altitude local group.
+YSS: I fear soon that I will only be able to communicate with you.<LINE>YSS: No thanks to the sturdiness of our communication rail...
+TD: Greet...hello...<LINE>YSS: Greetings, courier.<LINE>TD: Howhow how how -are you... doing... doing...<LINE>YSS: Courier, thank you. I am faring well. Have snowstorms battered your exterior, as well?
+TD: Snow...?<LINE>TD: ...snow...?
+TD: Only... dust and sand and... sand... sandsandsand...<LINE>YSS: Your structure is that far away? Apologies for forgetting.
+YSS: ...<LINE>YSS: Are you still there?<LINE>YSS: Courier...?
+YSS: Courier, your game is not entertaining. You are unreadable to my overseers due to both the snowstorm and sheer distance.
+YSS: Answer me.<LINE>TD: ...broken thing broke...<LINE>YSS: ...Great. Mind if I cut communication?
+TD: ...<LINE>YSS: Mind. If. I. Cut. Communication?<LINE>TD: ...Okay...
+YSS: Thank you for contributing to the cause of finding out if conversations can get as bad as they were pre-mass ascension.
+YSS: Pass this package to Recursive Generating Burden, please. And keep the conversation pearl, if you so desire.
+...<LINE>Rail ID 53881-23-433...
+Strange, but the intricacies of the rail's number is a bit too complicated for you.
+哦！这颗珍珠完好无损！
+这似乎是最近的高速长距离铁路的倾销结果。<LINE>我从来不知道附近有这样一条铁路存在。
+它一定是从我们的挡土墙外面传来的<LINE>毕竟，它的一部分已经坍塌了。
+...
+...!<LINE>小小的绿色生物，这是一个了不起的发现！
+这是一颗沟通的明珠！位于铁轨上的两个迭代器中的一个...
+毕竟，它是为了能够相互发送包裹~
+[长途通信铁路53881-23-433-信使：浅海之源]<LINE>[传递转发请求-4]<LINE>接收者 [沙暴顶端] 已定位<LINE>开始广播...
+YSS：暴风雪夺走了另一个高海拔的本地群组成员。
+YSS：我担心很快我就只能和你交流了<LINE>YSS：不，多亏了我们通信铁路的坚固...
+TD：欢迎...你好<LINE>YSS：欢迎，信使。<LINE>你你...最近怎...怎么样...样<LINE>YSS：信使，谢谢你。我很好。暴风雪也袭击你的外壳了吗？
+TD：雪?<LINE>TD：...雪...?
+TD：这这这儿儿...只只有...尘埃和沙砾...以及...沙沙沙...沙砾砾...砾<LINE>YSS：你的结构有那么远吗？不好意思我忘了。
+YSS：...<LINE>你还在吗<LINE>YSS：信使...？
+YSS：信使，你的游戏不好玩。由于暴风雪和遥远的距离，我的监视器无法读取。
+YSS：回答我。<LINE>TD：...坏了...东西坏了...<行>YSS：...行...介意我切断通讯吗？
+TD：...<LINE>YSS：介意.如果.我切.通讯吗?>LINE>TD：...是
+YSS：谢谢你为发现对话是否会像提前大规模飞升那样糟糕的原因做出贡献。
+YSS：请将此包传递给递归结构负载。如果你愿意的话，保留对话珍珠。
+...<LINE>轨道ID 53881-23-433...
+很奇怪，但轨道数字的复杂性对你来说有点太复杂了。

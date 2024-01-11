@@ -1,0 +1,972 @@
+0Dreamstars.ModTranslation-name|模组翻译
+Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。
+Cycle Food Score|雨循环食物分数
+Food Score|食物分数
+splugpack-name|技师
+//2923214961
+Suburbs|郊市
+Oil Station|石油基站
+Living Areas|生活区
+Corrupted Refinery|腐蚀炼油厂
+Refinery|炼油厂
+Refinery (Pump Station)|炼油厂（泵站）
+Communication Relay|通信继电器
+Info (You can swim on the surface of oil, but if you dive, you will drown)|信息（你可以在油面上游泳，但如果你下潜，你会淹死的）
+Subway Lines|地铁线
+Abandoned Drainage System|废弃排水系统
+Incinerator|焚化炉
+Pump Station (Beta)|泵站（Beta）
+Pump Station (Alpha)|泵站（Alpha）
+Swamplands|沼泽
+Farlands|远岛
+Limestone Caves|石灰岩洞穴
+Stonepit|石洞
+Central Factory|中央工厂
+Central Factory - Sector A|中央工厂 - A区
+Central Factory - Sector A - Reactor|中央工厂 - A区 - 反应堆
+Reactor Core - Void fluid convertor|反应堆芯 - 虚空流体转换器
+Central Factory - Sector B - Water Intake System|中央工厂 - B区 - 取水系统
+Central Factory - Facade|中央工厂 - 立面
+Central Factory - Sector C|中央工厂 - C区
+Central Factory - Sector C - Chimney Canopy|中央工厂 - C区 - 烟囱顶棚
+Void fluid Central - Sector A|虚空流体中心 - A区
+Void fluid Central - Sector A - Reactor|虚空流体中心 - A区 - 反应堆
+Void fluid Central - Sector A - Reactor Core - Void fluid convertor|虚空流体中心 - A区 - 反应堆芯 - 虚空流体转换器
+Void fluid Central - Sector B - Water intake & filtration system|虚空流体中心 - B区 - 进水口和过滤系统
+Void fluid Central - Facade|中空流体中心 - 立面
+Void fluid Central - Sector C|虚空流体中心 - C区
+Void fluid Central - Sector C - Chimney Canopy|虚空流体中心 - C区 - 烟囱顶棚
+Railway|铁路线
+Rackdale|支架山谷
+Abyss|深渊
+Stormy lands|风暴岛
+//2923894366
+Pilgrims' Ascent|朝圣之升
+Five Pebbles (Blind Spot)|五卵石（盲点）
+//2936078781
+Hubert the Slugcat|舒伯特
+HUBERT THE SLUGCAT|舒伯特
+The Hubert the Slugcat|舒伯特
+Built for speed, Hubert in on a mission to get paid<LINE> Though, this could be a joke.|为速度而生，肩负着获得报酬的使命。<LINE>整活向。
+//2937285946
+The Lurker|潜伏者
+THE LURKER|潜伏者
+A quiet predator with a hunger for Lizards.<LINE>Ambushing prey will be your key to survive.|一个安静的捕食者，渴望捕获蜥蜴。<LINE>伏击猎物将是你生存的关键。
+//2937471209
+The Friend|朋友
+THE FRIEND|朋友
+Friend|朋友
+Beastly in nature yet with a soft heart, you defy the order of life and find alliance among predators. <LINE> In the frozen wastes you call home, you search for those in need of companionship.|天性凶猛，但内心柔软，你会挑战生活的秩序，发现捕食者之间的联盟。<LINE>在你称之为家的冰冻荒原上，你在寻找那些需要陪伴的人。
+Finding family among their predators, The Friend braves<LINE>a harsh winter to find happiness|朋友在捕食者中寻找亲缘，勇敢地度过严冬寻找幸福。
+The Stalker|潜行者
+THE STALKER|潜行者
+Stalker|潜行者
+Thriving in the snow, your ways are primal, tearing through flesh with tooth and claw. <LINE> Your agility is your strength as you scour the land for only the grandest of prey.|在雪地里茁壮成长，你的道路是原始的，用牙齿和爪子撕裂肉体。<LINE>当你在陆地上搜寻最凶猛的猎物时，你的敏捷就是你的力量。
+The Poacher|盗猎者
+THE POACHER|盗猎者
+Poacher|盗猎者
+Small, weak, yet crafty; set deadly traps to snare and kill your preferred prey.<LINE>Though the cold suits you poorly, you will find new purpose in your pursuits.|幼小，脆弱，但狡猾；设置致命的陷阱来捕杀你喜欢的猎物。<LINE>尽管严寒并不适合你，但你会在追求中找到新的目标。
+Rotten God|腐化的神
+The Mountain|山峦
+Dark Bog|黑暗泥塘
+Mudslide|污泥滑坡
+World's Ceiling|世界之巅
+Cliffside|峭壁
+Bedrock|基岩层
+Necropolis|墓地
+The Peak|山峰
+Dermis|真皮层
+Abandoned Post|废弃信杆
+Rotten God (Five Pebbles)|腐化的神（五卵石）
+Rotten God (Decaying Modules)|腐化的神（损毁模块）
+Corpse|遗迹
+Rotten God (Infected Channels)|腐化的神（污染通道）
+Rotten God (Dead Heart)|腐化的神（腐坏的心）
+Game Over - Press PAUSE BUTTON to restart, or find a way to survive|游戏结束 - 按“暂停键”重新开始，或是找到活下去的方法
+//2939135495
+THE VOCAL|龙猫
+VOCAL|龙猫
+A slugcat that uses his vocal cords and very strong jaw to survive,<LINE>stunning enemies that is in his way of his goal.|一只用强壮的下颌生存的蛞蝓，<LINE>让阻碍他的敌人目瞪口呆。
+//2939568597
+The Enigma|谜
+THE ENIGMA|谜
+Enigma|谜
+A purposed organism for ascension, created by two iterators from far away lands... <LINE> The experiment was ultimately a failure. However, it yielded very interesting results...|一个为飞升而创造的有机体，由两个来自遥远土地的迭代器创造。<LINE>实验最终失败了。然而，它产生了非常有趣的结果...
+//2939738770
+The Beecat|蜂猫
+BEECAT|蜂猫
+THE BEECAT|蜂猫
+Beecat|蜂猫
+A regular bee?|一只普通的……蜜蜂？
+//2946343057
+The Warrior|战士
+THE WARRIOR|战士
+Warrior|战士
+A Feast awaits.|一场期待已久的盛宴。
+//2946367105
+The Nymph|精灵
+THE NYMPH|精灵
+Nymph|精灵
+A strange creature, small and agile at the cost of physical strength.<LINE> Use your powers to make your way in this world and move fast, traveller.|一种奇异的生物，以体力为代价换取了无与伦比的敏捷。<LINE>旅者，用你的独特的力量在这个世界上闯出自己的路。
+//2947594650
+The DroneMaster|无人机大师
+THE DRONEMASTER|无人机大师
+DroneMaster|无人机大师
+Use your drones to kill them all! :D|用你的无人机去清除一切挡路的力量！
+DroneMaster's Dream|无人机大师的梦
+//2947805022
+The EscortMe|护卫
+THE ESCORTME|护卫
+The Escort|护卫
+THE ESCORT|护卫
+Escort|护卫
+A guardian from a faraway land, entrusted to bring a special creature through the thick and thin.|一个来自遥远国度的守护者，被委托带着一种特殊的生物穿越艰难险阻。
+The Child|孩童
+THE CHILD|孩童
+Child|孩童
+you shouldn't be seeing this >:( <LINE>... although there may be a secret to unlocking this campaign earlier than intended...<LINE>Shh! Keep quiet!|你不应该看到这个>：（<LINE>…尽管可能有一个秘密方法可以提前解锁这个故事……<LINE>嘘！别声张！
+Default|默认
+These options change Escort's main abilities and how they play.<LINE>You can find the easy mode and builds in BUILDS and additional funny shenanigans in GIMMICKS.|这些选项会改变护卫的主要能力和游戏方式。<LINE>你可以在builds中找到简单的模式和构建，在gimmicks中找到其他有趣的恶作剧。
+Brawler|角斗士
+brawler_desc|切换到近身格斗风格。
+brawler_shanktut_a|<BRAWLER>可以在挥舞长矛时刺穿生物。
+brawler_shanktut_b|只需近距离攻击，或者通过抓住生物并向其投掷来造成更多伤害。
+brawler_shanktut_c|投掷长矛，边滑边扔！
+brawler_punchtut|岩石可以用来击打捕食者。
+brawler_ms_expunchtut|炸弹可以让<BRAWLER>打出爆炸性的一拳！
+Deflector|偏转
+deflector_desc|接受一种风险更大的游戏风格，必须通过滑动、滚动或翻转来躲避才能生存。
+deflector_tut_a|<DEFLECTOR>默认情况下造成一半伤害。
+deflector_tut_b|他们可以两次攻击来弥补力量损失...
+deflector_tut_c|或者，通过滚动、滑动或翻转攻击来成功进行格挡，从而获得力量！
+deflector_tut_d|充能状态下造成三倍伤害，但只适用于一次攻击，如果不使用就会消失。
+deflector_tut_e|但没关系，已经够杀死捕食者了！
+deflector_ms_tut|招架投射物将武器打回去！
+Escapist|逃亡者
+escapist_desc|即使在空手的情况下，也能迫使生物抓住（按住投掷）。
+escapist_tut_a|在“游戏结束”文本出现之前，抓起东西扔给捕食者！
+escapist_tut_b|或者，如果附近什么都没有，就按住投掷，从抓握中挣扎出来。
+escapist_tut_c|小心，这会让你处于易受攻击的状态。
+escapist_new_desc|用技巧和风格逃离任何情况。愚弄捕食者。
+escapist_new_tut_a|点击地图键传送到两秒钟前<ESCAPIST>所在的位置。
+escapist_new_tut_b|任何夹在你的旧位置和新位置之间的生物都会变得脆弱，这将使技能的冷却时间重置一半。
+escapist_new_tut_c|攻击以利用这种情况并进一步重置冷却时间！
+Railgunner|狙击手
+railgunner_desc|双重使用两种相同类型的武器来增强攻击。
+railgunner_tut_a|<RAILGUNNER>几乎没有从战斗增强中获得什么好处，反而从充能状态中获得了额外的力量。
+railgunner_tut_b|拿着两件同类型的武器同时投掷，增加攻击力并充能。
+railgunner_tut_c|注意，过度充能会导致<RAILGUNNER>爆炸!
+railgunner_tut_d|倾听尖锐的”嗙“声，这表明过度充电处于危险水平，等待冷却。
+ralgunner_ms_tut|用两块石头可以合成炸弹，用两支长矛可以合成爆炸矛。
+railgunner_tut_spear|双矛：大大提高了速度和伤害。
+railgunner_tut_rock|双石头：大大提高了速度和击退。
+railgunner_tut_lily|双水莲花：速度提高，弹道改善。
+railgunner_tut_bomb|双炸弹：提高速度并对投掷炸弹免疫，从而实现真正的爆炸跳跃。
+railgunner_ms_tut_cracker|双爆竹：速度加快，最后爆炸威力巨大。
+railgunner_ms_tut_singularity|双奇点炸弹：跳跃反弹并在撞击时引爆。
+Speedster|速度
+speedster_desc|保持移动以提高速度，然后滑铲以释放能量。
+speedster_tut_a|移动时充能，滑铲时释放能量！
+speedster_tut_b|小心，如果你跑得太快，撞到任何东西都会让你眩晕！
+speedster_old_tut_a|继续前进以加快速度。越过某个阈值即可获得提升！
+speedster_old_tut_b|以提升的速度继续前进，以获得更快的提升！
+speedster_ms_tut_a|滑动从生物下方通过而不会让自己眩晕！
+speedster_ms_tut_b|达到3档及以上时无限滑动！
+speedster_ms_old_tut_b|达到额外提升时无限滑动！
+Gilded|镀金
+gilded_desc|利用借来的力量,从<REPLACE>中获得好处.
+gilded_sub_a|虚空
+gilded_sub_b|一个神秘的地方
+gilded_tut_a|跳到更高的地方。超级翻墙真的很高！
+gilded_tut_b||空着双手在半空中按投掷，踩一脚！免疫坠落伤害。
+gilded_tut_c|<GILDED>不能投掷石块或长矛自卫。首先使用能量改变物品！
+gilded_tut_rock|手握石块或炸弹进行投掷，将其转化为燃烧弹！
+gilded_tut_spear|用长矛按住投掷，把它变成烈焰之矛！
+gilded_tut_fullpower_a|用燃烧弹或火枪按住投掷，将其转化为奇点炸弹。
+gilded_tut_fullpower_b|飞行的持续时间现在不受限制。
+gilded_tut_guardian|<GILDED>只需杀死守护者一次即可通过！
+escoptions_insult_a|你不是我妈妈。
+escoptions_insult_b|滚！
+escoptions_insult_c|技能问题。
+escoptions_insult_d|我不在乎。
+escoptions_insult_e|给老子闭嘴。
+escoptions_sectret_spuphaiku|…尽管从来没有意图<LINE>...幼崽逃脱了控制<LINE>...小心点，对吧？...
+escoptions_sectret_gilded|这段代码本应提前解锁<GILDED>版本以进行预览，但由于该版本已公开发布，该代码不再用于此目的<LINE><LINE>现在此代码将<GILDED>发送到<REPLACE><LINE>尽情享受吧！
+escoptions_sectret_subgild|一个特殊的地方
+escoptions_sectret_invincible|无敌的但事实并非如此。你就是不会受到伤害哈哈。
+... what now?|……现在怎么办？
+OUT!|出去!
+Has Suns decided to insult me with yet another messenger?|红日又决定用另一个信使侮辱我了吗？
+...a rat|...一只老鼠
+... a vermin.|...一只害虫
+... a thing.|... a thing.
+... nothing interesting.|...无聊
+... a disease.|...一场疾病
+... a failure.|...一次失败
+... a mouse.|...一只老鼠
+Just my luck.|真倒霉。
+I don't have time to deal with this right now.|我现在可没时间处理这些。
+Get out.|出去。
+Get out of my chamber.|从我的罐头里出去。
+Fucking.|肏。
+Hello little beast. It is nice to see you again.|嗨，小野兽，再次见到你真高兴。
+Thank you for visiting me. I would not mind some company, but you cannot stay here. I do not want you to be caught in the collapse of my structure.|谢谢你来看我。我不介意有人陪伴，但你不能呆在这里。我不想让你陷入我倒塌的建筑中。
+It is nice to see you again, but I'm afraid I have nothing for you.|很高兴再次见到你，但恐怕我什么都没有了。
+I'm so sorry little creature! I never meant to hurt you!|我很抱歉，小家伙！我从来没有想过要伤害你！
+My structure is on the verge of collapsing. This is all I can offer...|我的建筑濒临倒塌。这就是我所能提供的...
+Isn't it funny? The last creature to enter my chamber had extreme adaptations as well.|这不是很有趣吗？最后一个进入我房间的生物也有极端的适应能力。
+Though yours seem vastly different... What are you?|虽然你的看起来大不相同。。。你是什么？
+I could look up the records of your body's blueprints, but it would be dangerous for you to stay here for the process.|我可以查一下你身体蓝图的记录，但你留在这里进行这个过程会很危险。
+My n...|我的...
+My neighb... b b b|我的邻邻邻邻...居
+My neighbor, Five Pebbles, has not stopped his output. If the messenger made it safely to the communications array, the local group would know.|我的邻居五块卵石并没有停止他的生产。如果信使安全到达通信阵列，本地群组就会知道。
+Were you sent by the local group?|你是本地群组派来的吗？
+Who sent you?|谁派你来的？
+I should not keep you here any longer.|我不应该再把你留在这里了。
+I cannot offer you hospitality either, poor thing. Run along now, before my structure collapses.|我也不能招待你，可怜的家伙。现在就跑吧，赶在我倒塌之前。
+My neighbor, Five Pebbles, has not stopped his output. I do not know if the messenger made it to him, or if he has chosen to ignore the message.|我的邻居五块卵石并没有停止他的生产。我不知道是信使找到了他，还是他选择忽略了这条信息。
+There is not much I can do, and I urge you to move on, before my structure fails.|我无能为力，我敦促你们在我的结构损毁之前继续前进。
+I would not mind some company, however I urge you to move along. I do not want you to be caught in the collapse of my structure.|我不介意有人陪伴，但我敦促你继续前进。我不想让你陷入我的建筑倒塌中。
+//2950073538
+Spearious Business|长矛业务
+Outskirt Sweep|清理郊区
+Little Archeologist|小考古学家
+Flexitarian Diet|自由素食
+Hypocritical Art|虚伪工匠
+In Denial|矢口否认
+Mother No More|护母之心
+Temple Raid|寺庙突袭
+//2950074548
+Hunter MXP|猎手
+Survivor MXP|求生者
+Monk MXP|僧侣
+Gourmand MXP|饕餮
+Artificer MXP|工匠
+Spearmaster MXP|矛大师
+Rivulet MXP|溪流
+Saint MXP|圣徒
+//2950268943
+Noir|诺尔
+The Noir|诺尔
+NOIR|诺尔
+A black-and-white, curious cat, who fights with claw and tooth.|一只黑白相间、好奇的猫，用爪子和牙齿战斗。
+//2955231211
+The Tinkerer|修补匠
+THE TINKERER|修补匠
+Tinkerer|修补匠
+The Tinkerer is one of many highly intelligent slugs. <LINE> But it seems as if a great hunger has reawaken you from your deep slumber...|修补匠是高智商的蛞蝓。<LINE>但似乎是一种巨大的饥饿将你从沉睡中唤醒...
+//2955624813
+The CowBoy|牛仔
+THE COWBOY|牛仔
+CowBoy|牛仔
+CowBoy know how to use rope to call back spear|牛仔知道怎样用绳索召回背矛
+//2955658730
+Soporific|催眠师
+The Soporific|催眠师
+THE SOPORIFIC|催眠师
+SOPORIFIC|催眠师
+Soporific, The Spider like Slugcat that you shoot out darts to stun your enemies.<LINE>You only eat meat. Your bite is powerful but risk waking them up.|像蜘蛛一样的蛞蝓猫，你可以射出飞镖来眩晕你的敌人。<LINE>你只吃肉。你咬合很厉害，但有唤醒它们的风险。
+//2955682251
+The Florist|花使
+THE FLORIST|花使
+Florist|花使
+A slugcat that has been incredibly entranced by the flowers and plants growing around it.<LINE>This slugcat is more in-tune with the plant life and knows how to procure what it needs.|这只蛞蝓被周围生长的花朵和植物迷住了。<LINE>这种蛞蝓更适应植物的生活，知道如何获得它需要的东西。
+//2958413080
+Horn|角
+To be released...|敬请期待...
+Feeble but cautious. Stranded in a harsh world and surrounded by<LINE>its creatures, your journey will be a significantly more challenging one.|虚弱但谨慎。被困在一个严酷的世界里，被其<LINE>生物所包围，你的旅程将更加具有挑战性。
+You are too young and weak to throw a metal rebar|你太年轻，太虚弱了，无法扔出钢筋。
+But stabbing does not stun foes|但刺伤不会使敌人眩晕
+Find an opening|找到出路
+Press PICK UP while holding a spear to block beforehand|在手持长矛时按下“拾取”进行格挡
+May you overcome this world of violence|愿你战胜这个充满暴力的世界
+Player <p_n> will be lancer|玩家<p_n>为枪骑兵
+Left click to change class, right click to toggle lancer for Player <X>|左键单击可更改类别，右键单击可切换玩家<X>为枪骑兵
+lancersl-tiny|幼小
+lancersl-student|学生
+lancersl-child|小
+lancersl-imp|小调皮
+lancersl-animal|动物
+A tiny animal. A young one, too. Your journey has taken you deep into my chamber,<LINE>but I doubt you came here on purpose.|一种小动物。一个年轻的也是。你的旅程把你带进了我的房间，但我觉得你不是故意来的。
+I'm afraid I can't assist you in the way you would have hoped for.<LINE> I do not know what would drive you to come all the way here in search for your family... Or how you managed it.|恐怕我不能按你所希望的方式帮助你。<LINE>我不知道是什么驱使你千里迢迢来到这里寻找你的家人...或者你是怎么做到的。
+I can assure you they are nowhere in my premises, your kind don't seem to take well to this place.<LINE>My overseers would take great delight in reporting an entire group of you, seeing how they react to just one.|我可以向你保证，他们根本不在我的住处，你们似乎不太喜欢这个地方。<LINE>我的监视者会非常高兴地报告你们整个群体，看看他们对一个群体的反应。
+Your family may be long gone by now... I can assure you they are nowhere in my premises,<LINE>your kind don't seem to take well to this place. My overseers would take great delight<LINE>in reporting an entire group of you, seeing how they react to just one.|你的家人可能早已离开...我可以向你保证，他们不在我的房间里，你们似乎不太喜欢这个地方。<LINE>我的监视者会非常高兴地报告你们整个群体，看看他们对一个群体的反应。
+However, if it's any consolation, I will give you an opportunity.<LINE>To go the way of my creators. Eternal bliss, how does that sound?|不过，如果有什么安慰的话，我会给你一个机会。<LINE>走我的创造者的路。永恒的幸福，听起来怎么样？
+From here, go west past the Farm Arrays and find the place where the land fissures.<LINE>Clamber down into the earth, as deep as you can reach, and then go further.|从这里向西经过农场阵列，找到大地开裂之处。<LINE>尽可能深入地下，然后走得更远。
+Saying you'll need luck is an understatement... but I admit I feel<LINE>a pang of sympathy for you, and it feels wrong to leave you empty handed.|说你需要运气是一种轻描淡写的说法...但我承认我对你深表同情，让你两手空空是不对的。
+At the end of time none of this will matter, I suppose. Even if you fail<LINE>you'll live an eternity of lives more, and maybe eventually, you'll make it in the end.|我想，归根结底，这些都无关紧要。即使你失败了，你也会活得更长久，也许最终，你会成功的。
+Either way, you must leave now. There's a perfectly good access shaft right here.|不管怎样，你现在必须离开。这里有一个非常好的出口。
+I hope you find what you're looking for. Don't bother coming back.|我希望你能找到你想要的东西。别回来了。
+What? Why would you take it back? Do you even know where you're going with that?|什么你为什么要带走它？你知道你要去哪里吗？
+Fine, little creature. Have it your way. Her name is Looks to the Moon, and she lies decrepit in the waters to the east.|很好，小家伙。随心所欲。她的名字叫望月，她躺在东边的水中。
+It's a shame you'd choose to waste such a precious resource on her.<LINE>But I respect your courage, and if you feel that's what's right, I won't stand in your way.|你竟然选择在她身上浪费这么宝贵的资源，真是太可惜了。<LINE>但我尊重你的勇气，如果你觉得这是对的，我不会妨碍你。
+Leave now, and don't come back.|现在离开，不要回来。
+Do you need some help, tiny creature?|你需要帮助吗，小家伙？
+Why have you returned? There is nothing left for you here.|你为什么回来了？这里什么都没有留给你了。
+I implore you, little creature, for the sake of both of us, to just leave already.|我恳求你，小家伙，为了我们两个，先离开吧。
+Well, child, if you'd rather spend time with me than<LINE>search for eternal happiness, I will have to accommodate you for the time being.|好吧，孩子，如果你宁愿花时间和我在一起，也不愿追求永恒的幸福，我就得暂时迁就你。
+Please don't waste any more of your time, little creature.|请不要再浪费你的时间了，小生物
+I cannot assist you further.|我帮不了你更多了。
+Just be aware of the mistake you're making.|只要意识到你正在犯的错误。
+It is too long a journey to stall for even a moment.|这是一段太长的旅程，哪怕是一刻也不能停下来。
+Get... get away... small.... thing.|出...出去...小...东西。
+I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far at all...|我看到有人给了你沟通的天赋<LINE>一定是五块卵石，因为你看起来根本不能走很远...
+He's sick, if you haven't noticed. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.|如果你没注意到的话，他病了。被自己的实验从内部腐蚀。<LINE>也许他们现在都是了，谁知道呢，我们不是为了飞升而设计的，它快把我们逼疯了。
+It is good to have someone to talk to even if that's a child like you.<LINE>My last visitor stopped coming here many cycles ago, and<LINE>here I was about to get used to its visits.|即使是像你这样的孩子，有人倾诉也是件好事。<LINE>我的最后一位访客在很多个循环前就不再来这里了，我正要习惯它的访问。
+Hello <PlayerName>. Are you lost?|你好<PlayerName>。你迷路了吗？
+I am sorry to say that there is nothing here for you.|很抱歉，这里什么都没有。
+I do enjoy the company though. You're welcome to stay a while, quiet petite thing.|不过我确实很喜欢有人陪伴。欢迎你住一段时间，安静的小东西。
+I have had another visitor from your specie before. And they left me alive!<LINE>But... I have told you that already, haven't I?|我以前还有一位来自你们物种的客人。他救活了我。<LINE>但是...我已经告诉过你了，不是吗？
+Even the last visitor that came here from time to time left with nothing. But... I have told you that already, haven't I?|即使是最后一个不时来这里的客人也一无所获。但是我已经告诉过你了，不是吗？
+Maybe this is asking too much for a child like you but...<LINE>could you bring me another one?|也许这对你这样的孩子要求太高了，但是...<LINE>你能再给我拿一个吗？
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, tiny creature!|事实上，我相信他会的，但他有这么多这个~<LINE>，这对他没有任何影响。<LINE>但是对我来说，影响很大！谢谢你，小家伙！请你再给我拿一个？
+This much effort, just to help me... It means more than you could ever know.|这么多的努力，只是为了帮助我…这意味着比你所知道的更多。
+All of this trouble just to save me... You are more generous than anyone I've known.|所有这些麻烦只是为了救我…你比我认识的任何人都慷慨。
+I am happy that I'm not alone.|我很高兴我并不孤单。
+//2960693310
+The Guide|向导
+THE GUIDE|向导
+Guide|向导
+A flighty SlugCat that specializes in running away from danger rather than facing it head-on. <LINE> You're far from home, in unknown territory. Hungry and afraid with new threats abound, <LINE> will you adapt to these challenges with your new allies, or will you make the journey back home?|一种轻巧的蛞蝓猫，专门逃离危险而不是面对。<LINE>你离家很远，在未知的领域。对新的威胁感到饥饿和恐惧，<LINE>你会和你的新盟友一起适应这些挑战，还是会踏上回家的旅程？
+Submerged Highway|浸没公路
+//2960701647
+Lost Cranny|失落裂缝
+//2960863440
+The Incandescent|烈火
+THE INCANDESCENT|烈火
+Incandescent|烈火
+A recluse capable of astounding mobility. Emotions stir you into a search for brighter lands, but<LINE>journeying through a wasteland so cold and cruel will require careful management of your needs.|一个行动能力惊人的隐者。情绪会促使你寻找更明亮的土地，<LINE>但在如此寒冷和残酷的荒原上旅行需要仔细管理你的需求。
+A sorrowful flame that looks for a brighter future. Returning to this painful land is<LINE>not a pleasant experience, but if it must be done, then the Incandescent will do their best.|一束悲伤的火焰，期待着更光明的未来。回到这片痛苦的土地不是一次愉快的经历，<LINE>但如果必须这样做，那么烈火会尽全力。
+//2961234259
+Washroom|卫生间
+//2961854585
+THE TECHNOMANCER|技师
+The TECHNOMANCER|技师
+TECHNOMANCER|技师
+Able to bend the ancient technology around you to your whim,<LINE>what sorts of things might you do with it?|能够让你周围的古老技术随心所欲，<LINE>你会用它做什么？
+Subway|地铁
+True Anointed Citadel|真匿城堡
+//2964671523
+The Gravel-Eater|食砾石者
+THE GRAVEL-EATER|食砾石者
+Gravel-Eater|食砾石者
+A thick-skinned avid consumer of gravel, reveals a feral side when starved of it. <LINE>  An ever present hunger drives this being to consume gravel and seek solace from it.|一个厚皮肤的砾石爱好者，在饥饿时展现出野性的一面。<LINE>持续存在的饥饿驱使这个生物消耗砾石并从中寻求慰藉。
+Ever hungry for more gravel to stomach, this slugcat begins<LINE>another search for some pebbles to chew on.|由于渴望有更多的砾石可以吃，这只蛞蝓猫开始了另一次寻找可以吃的石头的旅程。
+Sunbaked Archipelago|日照群岛
+Solventicon|溶解之地
+Deep Reservoir|深部储层
+Faulting Airducts|故障管道
+Fallen Cathedral|陨落大教堂
+//2966866355
+Hall of Fame|名人堂
+gallery|画廊
+//2967192800
+The Savage|野蛮人
+THE SAVAGE|野蛮人
+Savage|野蛮人
+A brutal hunter lost amongst prey and predators, forced to take danger head on to survive.<LINE>Bearing a sharp throw and honed teeth, press on and venture forwards in your search for your calling in this world.|一个残忍的猎人迷失在猎物和捕食者之间，被迫直面危险以求生存。<LINE>带着锋利的投掷和磨砺的牙齿，继续前进，在这个世界上寻找你的使命。
+Side House|侧堂
+Outer Domain|外域
+(lots of rain) Pier|暴雨码头
+Disposal Plant|处理厂
+//2975130544
+The Moonlight|月光
+THE MOONLIGHT|月光
+Moonlight|月光
+//2972537492
+The Parasite|寄生虫
+THE PARASITE|寄生虫
+Parasite|寄生虫
+Feeble, with no specialty to its name. Weak to all, but with the right preparations,<LINE>can take control of those who feed upon it. Rise and control the world, and attain godhood.|虚弱，没有任何特色。对所有人来说都是软弱的，但只要做好准备，<LINE>就可以控制那些以它为食的人。崛起并控制世界，获得神性。
+A control freak seeking to bring all under its control,<LINE>on a quest to find other things to do besides lust for control.|一个控制狂，试图把一切都控制在自己的控制之下，<LINE>寻求除了控制欲之外的其他事情。
+//2973938652
+Timeless Conservatory|永恒温室
+Five Pebbles (Biological Research Module)|五卵石（生物研究模块）
+Five Pebbles (4th Water Tank)|五卵石（第四水库）
+//2980542457
+The Ambidextrous|巧手
+THE AMBIDEXTROUS|巧手
+Ambidextrous|巧手
+A ambidextrous slugcat on some mission.<LINE>Nobody's sure where he came from and which Iterator he belongs to.<LINE>Nobody's sure where he came from and if he was/is an Iterator messenger|执行任务时双手灵巧的蛞蝓猫。<LINE>没有人知道他来自哪里，属于哪个迭代器。
+The Breadlord|面包侠
+THE BREADLORD|面包侠
+//2979857064
+The Nomad|流浪者
+THE NOMAD|流浪者
+Nomad|流浪者
+A gentle glider who lost its home long ago.<LINE>Now, you must find a treasure to exchange for your freedom.|一位很久以前就失去家园的温和滑翔者。<LINE>现在，你必须找到一个宝藏来换取你的自由。
+Arid Tunnels|干旱隧道
+The Dustbowl|漫尘盆地
+Salt Flats|盐滩
+The Pass|关隘
+Conurbation|集合都市
+Dustbowl|漫尘盆地
+The Conduit|管道
+Deadlands|死地
+//2980983880
+Barren Wastes|贫瘠荒地
+//2982592394
+The Begonia|残败
+THE BEGONIA|残败
+Begonia|残败
+The spirits have blessed you.\nThe world has forsaken you.\nThere is no future.|神灵保佑你。\n这个世界已经抛弃了你。\n你没有未来。
+Path Less Taken|无人小径
+Sea Of Stars|星海
+The Pit|坑洞
+Frozen Mast|寒霜桅杆
+A Walk Through The Storm|风暴之行
+Glacial Chasm|冰河裂隙
+Drowned Catacomb|水没墓穴
+//2983159427
+DARKNESS|黑暗
+Darkness|黑暗
+THE DARKNESS|黑暗
+The Darkness|黑暗
+//2983960438
+The Oasis|绿洲
+The Tunnel|隧道
+Lavish Knack|奢华诀窍
+The Coast|港口
+False Canopy|假顶棚
+False Canopy (Vents)|假顶棚（通风口）
+The Tower|塔
+//2987764922
+Scorched District|焦土
+The Interface|交面
+Distillation Column|蒸馏塔
+Railway Interchange|铁路立交
+Lost Campfire|失落营火
+//2987817211
+Howling Rift|呼啸裂谷
+//2989757351
+Forgotten Tundra|遗忘苔原
+Garbage Wastes 2 Electric Boogaloo|垃圾场 2 Electric Boogaloo
+Marshland Wastes|垃圾沼泽
+Scav Factory|拾荒工厂
+Scav Town|拾荒小镇
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+Industrial Ouput|工业输出
+The Slums|贫民窟
+Filter Residue|滤渣
+Slush Dispenser|泥浆分流
+Frozen City|霜冻城市
+Sludge Pipeway|污泥管道
+//2990306192
+The WIP Night Walker WIP|夜行客（未完成）
+WIP Night Walker WIP|夜行客（未完成）
+WIP NIGHT WALKER WIP|夜行客（未完成）
+A powerful slugcat that consumes the vitality of its enemies, its journey is solitary and confusing. <LINE> Will you be able to find your way back or perhaps you will meet your ultimate death after so long?|一只强大的蛞蝓，消耗着敌人的活力，它的旅程是孤独而困惑的。<LINE>你能找到回去的路吗？或者你会在长时间后遭遇最终的死亡吗？
+The Witness|见证者
+Witness|见证者
+WITNESS|见证者
+An extremely agile omnivore, although this sometimes works against him<LINE>he does not like to be alone and prefers to be accompanied by others of his kind|一个极其敏捷的杂食动物，尽管这有时对他不利<LINE>，但他不喜欢独处，而且更喜欢同类的陪伴。
+Dark Density|黑暗浓云
+//2998516763
+Stygian Depths|冥河深处
+River Styx|无归之河
+//2999820529
+The Nightcat|夜猫
+The Pup|幼崽
+Inv|怪猫
+//3001275271
+The Vinki|文基
+THE VINKI|文基
+Vinki|文基
+Play as an angsty teen wearing rail-grinding shoes and spraying graffiti to enact revenge on 5P.|扮演一个愤怒的青少年，穿着磨轨鞋，在五块卵石上涂鸦复仇。
+Five Pebbles (Research and Development)|五卵石（研究并建造）
+//3002853432
+The Sightseer|观光客
+THE SIGHTSEER|观光客
+Sightseer|观光客
+Northern Wall|北墙
+//3003902112
+The Tower|塔
+//3007444212
+The Tower|塔
+//3010350558
+The Scholar|学者
+THE SCHOLAR|学者
+Scholar|学者
+A swift and intelligent slugcat, Looks to the Moon has created you to catalogue every creature.|一只敏捷而聪明的蛞蝓，仰望皓月创造了你来编目每一种生物。
+After having finished their studies,<LINE>this creature has decided to go out and learn once again.|在完成了他们的研究之后，<LINE>这个生物决定再次出去学习。
+The Aquatic|水生
+THE AQUATIC|水生
+Aquatic|水生
+An aquatic Slugcat, perfectly built for this watery world.|一个水生的蛞蝓猫，完美地适应这个水世界。
+After a long journey, and perils and gains,<LINE>this Slugcat takes up the helm of adventure once again.|在经历了漫长的旅程、危险和收获之后，<LINE>这只蛞蝓猫再次掌舵冒险。
+The Forgotten|被遗忘者
+THE FORGOTTEN|被遗忘者
+Forgotten|被遗忘者
+A creature lost and forgotten, in a cold and harsh world.|一个迷失和被遗忘的生物，在一个寒冷和严酷的世界里。
+In a cold and forbidden wasteland,<LINE>A cobalt streak against the snow adventures again.|在一片寒冷而禁行的荒原上，<LINE>被遗忘者再次于雪地中冒险。
+test region|测试区域
+Outter Barrens|外部荒原
+Briny Conduit|盐水管道
+That Which Dances in the Sun|阳光起舞
+That Which Dances in the Sun (Linear Systems Bus)|阳光起舞（线性系统总线）
+That Which Dances in the Sun (Apathetic Drives)|阳光起舞（冷寂硬盘）
+That Which Dances in the Sun (Amygdalic Drives)|阳光起舞（防御银盘）
+That Which Dances in the Sun (Epicenter)|阳光起舞（震动中心）
+That Which Dances in the Sun (Dead Crypts)|阳光起舞（死亡地牢）
+Twisted Exterior|扭曲外部
+Twisted Exterior (Communications Tower)|扭曲外部（通信塔）
+Twisted Exterior (Threaded Scaffolding)|扭曲外部（螺纹脚手架）
+Twisted Exterior (Worn Ascent)|扭曲外部（磨损上坡）
+Twisted Exterior (Dreaded Overlook)|扭曲外部（恐怖俯瞰）
+Malfunctioning Telecommunications Broadcaster|故障广播核心
+Amygdalic Tombs|古旧陵墓
+Scavenger Hideout|拾荒者隐匿处
+Claustrophobic Dens|幽闭巢穴
+YEEETUS FEETUS|不认识，摆烂了
+Five Pebbles (Recursive Transform Array)|五块卵石（递归变压阵列）
+The Rot (Recursive Transform Array)|腐化之地（递归变压阵列）
+TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管道
+Mud Flats|泥滩
+The Salty Abyss|咸味深渊
+Fogbound Isles|迷雾岛屿
+Eroding Caverns|侵蚀洞穴
+Rotten Maw|腐化深渊
+Rotten Maw (Roots)|腐化深渊（根部）
+Rotten Maw (Cystic Veins)|腐化深渊（囊性静脉）
+Rotten Maw (Erratic Systems Rail)|腐化深渊（不稳系统导轨）
+Pitiful Bastion|可悲堡垒
+Purification Outpost|净化前哨
+Frosted Ruins|霜冻废墟
+Pilgrim's Journey|朝圣之旅
+Drenched Jungle|浸没丛林
+Oceanic Goddess|海底神明
+Overgrown Gardens|繁茂花园
+Corroded Fortress|侵蚀堡垒
+Swampy Landfill|沼泽填埋场
+Deep Channels|通道深处
+Where am I?|我在哪儿？
+Rotten Limb|腐化肢体
+Rotten Hide|腐化荫蔽
+//3014893271
+Lush Mire|葱郁泥潭
+Serene Grotto|宁静石窟
+//3014893557
+Undersea|海底
+The Dam|水坝
+The Lighthouse|灯塔
+The Undercity|地下城市
+Hollowed Tunnels|中空隧道
+//3014983131
+The Explorer|探索者
+THE EXPLORER|探索者
+Explorer|探索者
+An athletic little slugcat that can slow down time to deal deadly blows.|擅长运动的蛞蝓猫，可以减缓时间来进行致命的打击。
+//3016579669
+Hallowed Caves|神圣洞穴
+Hallowed Grotto|神圣石窟
+Hallowed Grotto (Depths)|神圣石窟（深处）
+Big Pebbles is watching|石老大哥正在看着你
+Big Pebbles likes ruins too|石老大哥也喜欢废墟
+Big Pebbles is not disuaded by water|石老大哥不会被水分解
+Assimilation|溶洞
+Anchialine System|Anchialine系统
+Primordial Assimilation|原始消化
+//3019770072
+Coral Caves|珊瑚洞穴
+Turbulent Pump|紊流泵
+Deep Reef|深礁
+Bleached Grotto|苍白石窟
+Stagnant Pump|停滞泵
+Submerged Superstructure (Struts)|被浸没的巨构建筑（支柱）
+//3021911328
+The Wingcat|翼猫
+Wingcat|翼猫
+WINGCAT|翼猫
+Born with a pair of glorious wings, adventure calls as you fly across the world with ease,<LINE>keeping out of harm's way. Exploration will be a breeze!|天生有一双美丽的翅膀，当你轻松地飞越世界时，冒险就召唤你，<LINE>远离伤害。探索将是轻而易举的事！
+//3022284148
+Hanging Gardens|悬苑
+Enduring Sanctuary|永久保护区
+//3022636951
+Aerial Arrays|天线阵列
+Scavenger City|拾荒者城市
+The Fallen Communication Array|陨落通信阵列
+The Spire|尖塔
+//3023731691
+Desperado|亡命之徒
+//3024646162
+The Estranged|疏远
+THE ESTRANGED|疏远
+Estranged|疏远
+Young and inexperienced, yet imbued with a combustible and volatile nature.<LINE>In spite of the situations you find yourself in, your journey will be one of curiosity and adventure.|年轻而缺乏经验，但充满了易燃和反复无常的天性。<LINE>无论你身处何种境地，你的旅程都将充满好奇和冒险。
+Disappointed by the findings of it's previous misadventures,<LINE>the Estranged sets out to find something of value once more|对之前的不幸遭遇感到失望，<LINE>疏远开始再次寻找有价值的东西。
+Steam Pillars|蒸汽支柱
+Train Tunnels|火车隧道
+Tube Maze|管道迷宫
+Ancient Homestacks|古代民居
+Pitch Darkness|漆黑之地
+Vast Stretches|浩瀚延展
+Aquaphobia|恐水
+Hometown|家乡
+Factory|工厂
+Outside World|外部世界
+Slug Colony|蛞蝓集群
+Wet Maze|潮湿迷宫
+Cloudscraping Towers|云卷尖塔
+Urban Marsh|郊区湿地
+//3026723782
+Lost Strand|失落河滨
+Far Shore|遥远海岸
+Woven Nest|编织巢穴
+Caldera|火山口
+//3031084852
+The Impulse|天枢
+THE IMPULSE|天枢
+Impulse|天枢
+Able to teleport short distances by expending bursts of energy; <LINE> your electricity-infused body invites you to venture to where the walls glow...|能够通过消耗能量爆发进行短距离传送。<LINE>你充满电的身体邀请你冒险去墙壁发光的地方...
+//3032862920
+The Beacon|灯塔
+THE BEACON|灯塔
+Beacon|灯塔
+In the wake of night, a frail but agile slugcat with a strange luminosity makes their presence known.\nLight your path and journey far; time is of the essence when under pursuit.|在夜色中醒来，一只身体虚弱但敏捷的蛞蝓以一种奇怪的光让人知道它的存在。\n照亮你的路，远行；时间是追求的本质。
+The Photomaniac|电狂
+THE PHOTOMANIAC|电狂
+Photomaniac|电狂
+A maniacal juvenile lost in the night, possessing a familiar luminosity.\nIts electrical abilities, though ill-wielded, give it a tactical advantage.|一个疯狂的少年迷失在夜色中，拥有熟悉的光芒。\n它的电能虽然使用不当，但在战术上有优势。
+The Stargazer|占星者
+Dusky Smokestack|昏暗烟囱
+Alleyways|狭窄小巷
+Misty Foundry|朦胧工厂
+Lightless Compound|无光场地
+Twilight Thicket|暮色树丛
+Solemn Drillsite|庄严钻场
+The Hide|荫蔽
+Soaring Archipelago|翱翔群岛
+Erstwhile Bastion|旧日壁垒
+The Carcass|遗迹
+The Carcass (Cerebellum)|遗迹（小脑）
+The Carcass (Vestige)|遗迹（遗迹）
+The Carcass (Guts)|遗迹（内脏）
+The Carcass (Arteries)|遗迹（动脉）
+The Carcass (Ventricles)|遗迹（心室）
+The Carcass (Neural Stem)|遗迹（神经干）
+Neglected Underbelly|遗忘腹地
+Roaring Breach|咆哮裂缝
+Barren Plains|贫瘠平原
+Moonlit Wasteyard|月光垃圾场
+Laden Stilt|满载高架
+Breached Passage|破损通道
+Upheld Rampart|高架堡垒
+Braces|支架
+The Shell|外壳
+Clouded Walkway|多云小路
+Septics|败迹
+WHAT THE FUCK|王德发？
+Nescient Graveyard|神秘墓地
+Apex|顶峰
+Dead Spot|死点
+Scavenger Camp|拾荒者营地
+Sewers|下水道
+//3033569804
+The Champion|冠军
+THE CHAMPION|冠军
+Champion|冠军
+Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead?|有着坚硬外壳和长矛的野兽，试图保护那些你所珍视的人。<LINE>你帮不了他们，也许你可以帮别人？
+The Tower of Pains|苦痛之塔
+Ruinous Facility|废墟设施
+The Panopticon|圆形监狱
+//3033901237
+Underground City|地下城市
+Lightless Sewers|无光下水道
+//3034151966
+Ashen Monolith|苍岩
+The Mast|桅杆
+Primary Transmission Node|主传输节点
+Marsh Flats|沼地平野
+Scavenger Den|拾荒者巢穴
+uh oh|啊哦
+Yeek Flats|呼号者平原
+Yeek Den|呼号者巢穴
+//3037783004
+Neuron Forest|神经元林
+//3042385413
+Sunlit Port|日照港湾
+Shrouded Coast|遮蔽海岸
+Desolate Port|荒凉港湾
+Stormy Coast|风暴海岸
+//3043034759
+The Adventurer|冒险家
+THE ADVENTURER|冒险家
+Adventurer|冒险家
+Explore a new world!|探索美丽新世界！
+The Marine|陆战
+THE MARINE|陆战
+Marine|陆战
+A carnivorus swimmer|肉食，水生。
+Edge Islands|边缘岛屿
+Retaining Wall|边界
+Floral Hollow|花谷
+Garbage Disposal|垃圾处理场
+Shaded Tract|荫蔽土地
+Industrial Wastes|工业废墟
+Core|核心
+Outer Fields|外场
+Power Rail|能源线路
+Tainted Supports|污染支架
+Corrupted Underbelly|腐蚀腹地
+Ruined Barrier|损毁屏障
+Railway|铁路
+Rotten Interior|腐化内部
+Rotten Interior (Cystic Memory Conflux)|腐化内部（囊性记忆汇流）
+Rotten Interior (Rotten Transform Array)|腐化内部（腐化传输阵列）
+8 Leaves Under Gold Rain (General Systems Bus)|八叶金雨（通用系统总线）
+Rotten Interior (The Source)|腐化内部（根源）
+8 Leaves Under Gold Rain (The Void Fluid Testing Area)|八叶金雨（虚空流体测试区）
+Slug Home|蛞蝓之家
+Vacant Facility|空置设施
+Edge Of Adventure|冒险边缘
+Ruined Exterior|损毁外部
+//3046659892
+The Outline|外岸
+The Overcast|荫蔽
+The Incinerator|焚化炉
+//3046862358
+The Dreamer|梦者
+THE DREAMER|梦者
+Dreamer|梦者
+Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the desert.|亿万年前的景象在你焦虑的梦中困住了你，你的终身目标<LINE>就是利用其长期侵蚀的知识在沙漠中生存。
+Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the changing lands.|亿万年前的景象在你焦虑的梦中困住了你，你的终身目标<LINE>就是利用其长期侵蚀的知识，在不断变化的土地上生存下来。
+Clawing your way out of the sea, you're deadset on your goals to survive.|挣扎着走出大海，你对自己的生存目标一筹莫展。
+uhhh dotn play this ok???|额能先别玩吗？？？
+UHHH DOTN PLAY THIS OK???|额能先别玩吗？？？
+(PLACEHOLDER) The greyest of buildings house a creature-priest. <LINE> Dedicated to your craft, you respectfully hunt and preserve your prey. (PLACEHOLDER)|（占位符）最灰色的建筑物里住着一位牧师<LINE>专注于您的工艺，您尊重地狩猎和保护您的猎物。（占位符）
+The Viper|毒蛇
+THE VIPER|毒蛇
+Viper|毒蛇
+The changing lands have stirred a venomous, deadly assassin. Reeling from a<LINE>devastating injury, you must use your fangs to battle your ravenous hunger and survive.|不断变化的土地激起了一个恶毒而致命的杀手。从<LINE>毁灭性的伤害中挣扎，你必须用你的獠牙来对抗你贪婪的饥饿并生存下来。
+I wouldn't recommend using this slugcat in expedition, as it's untested. You do you tho.|我不建议在探险中使用这种蛞蝓猫，因为它未经测试。取决于你。
+The Siren|塞壬
+THE SIREN|塞壬
+Siren|塞壬
+The colder waters have stirred an ancient predator. <LINE> You fumble with spears, but show prowess with the tides.|寒冷的海水搅动了一种古老的食肉动物。<LINE>你不善于使用矛，但在潮汐中表现出高超的技艺。
+The Trailblazer|开拓者
+THE TRAILBLAZER|开拓者
+Trailblazer|开拓者
+A master of combat raised by scavengers in the coldest of wastes, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|作为一名由拾荒者在最寒冷的荒原中培养的战斗大师，你<LINE>在逝去的众神的王国中漂移，寻找远在你小家之外的秘密。
+Your kin have assigned you another goal, and so <LINE> you embark on your journey once again.|你的王给你分配了另一个目标，<LINE>所以你再次踏上了你的旅程。
+...took... everything...|...带走了...一切...
+...hurt both... of us...|...伤害了...我们两个...
+...Trusted... terrible rodent... go... don't come back...|...我那么信任...可怕的老鼠...离开...别再回来...
+...Why... take all I... have...|...为什么...带走了我...所有的一切...
+...Trusted...|...我那么信任...
+...Give it... back...!|...还给...我...!
+...I know... know you c can...|...我知道...你...你可以...
+else it picks - ...Bring it back... round... round bring... back...|否则它会选择...把它带回来...圆形的...圆形的东西...
+...You... glow.|...你...在发光...
+...I don't...|...我没有...
+...I don't have much left of... what you ate...|...我没有多少...你吃的那些东西了...
+...You hurt her...|...你伤害了她...
+...You hurt her... bad... hurt v very very bad...|...你伤害了她...重重地...非常非常严重...
+...You hurt her... you...|...你伤害了她...你...
+...You kill her... |...你杀了她...
+...Don't talk to me... ever, ever...|...别和我说话...永远，永远...
+...Go away...|...走开...
+...Not forgotten pain...|...难以忘记的痛苦...
+...So little... left. Why hurt... me more...|...太少了...离开。为什么...还要伤害我...
+...hate...|...伤害...
+...Leave me... alone.|...让我...独自一人吧...
+...Hello... again... long time... since visit...|...你好...再次...很长时间...自访问以来...
+...Or different...?|...或者不同...？
+...Little... sharp, sharp... green thing... with ribbon...?|...渺小的...锋利，锋利...绿色的家伙...戴着飘带...？
+...Nothing left... still...|...没有什么...留下...仍旧...
+...You are... third to visit... in cold...|...你是...第三个客人...在严寒中...
+...Three...? Triple.. affirm... mh...|...第三个...?第三个...属实...唉...
+...Hah.|...哈哈
+...I don't... know what that... means... anymore|...我不知道...那代表着...什么
+...I feel... feel better already... a little bit...|...我感觉...感觉好了...一点...
+...You are new...?|...你是新来的?...
+...Nothing... left... nothing here...|...没有什么...留下...什么都没有...
+...You are... second to visit... in a while...|...你是...这段时间...第二个访问...
+...You are... warm in familiar way...|...你...以一种...熟悉的方式...温暖
+Like sea... at the bottom of world... at... sea...|就像海洋...世界的底端...
+So warm... stay close...?|如此温暖...请你别走...
+...are you cold?|...你冷吗?
+I...|我...
+...can't help. you...|...我帮不了你...
+...I can't help myself...|我甚至帮不了我自己...
+...You... are new...?|...你...是新来的?...
+...Nothing... left... nothing here...|...没有什么...留下...什么都没有...
+...You are... a strange thing...|...你...很奇怪...
+...your arm...|...你的胳膊...
+...are you cold?|...你冷吗?
+You don't look... from here... I...
+...can't help... you... I can't help myself..|...帮不了...你...我甚至帮不了我自己...
+Sorry, little... carnivore... I think you have... better things to do...|抱歉，小...野兽...我认为你...又更好的事情去做...
+Overgrown Furnace|繁茂熔炉
+Cold Depths|严寒深处
+Decayed Grasslands|腐朽草地
+Iron Glacier|钢铁冰川
+Dried Pipes|干燥管道
+Sunken Deity|浸没神祗
+Erratic Pulse|不稳脉冲
+Topmost Duststorms|沙暴至巅
+Topmost Duststorms (Torched Cerebrum)|沙暴至巅
+Topmost Duststorms (Sandchoked Internals)|沙暴至巅
+Topmost Duststorms (The Gash)|沙暴至巅（）
+Drifted Oasis|漂流绿洲
+Endless Desert|无尽沙漠
+Clockwork Tower|钟塔
+Bloodied Monument|鲜血纪念碑
+Brittle Husk|尖厉躯壳
+Humming Construct|蜂鸣结构
+Polluted Pools|污染水池
+Geothermal Swamp|地热沼泽
+Mourner's Tower|哀悼之塔
+Overgrown Boneyard|繁茂骨茔
+Frostbitten Basin|冻伤盆地
+Chilled Deadland|寒霜死地
+Wastewater Towers|废水塔
+Frozen Dump|冰冻垃圾场
+//3047080571
+The Sand Eater|食沙者
+SAND EATER|食沙者
+Sand Eater|食沙者
+Hey.|亻尔女子。
+//3051215766
+Testing Simulation|测试模拟器
+//3055117086
+The Shrieker|尖啸
+THE SHRIEKER|尖啸
+Shrieker|尖啸
+A slugcat that uses its sonic abilities to survive.|一个利用声波能力生存的蛞蝓猫。
+//3058851317
+Sizzling Sewers|蜂鸣水道
+Caustic Caverns|灼热迷宫
+//3062937590
+Kiki The Slugcat|奇奇
+The Kiki The Slugcat|奇奇
+KIKI THE SLUGCAT|奇奇
+Meet Kiki, a Vibrant Slugcat with a Stunning fur Coat of Flame-Like Orange, And brilliant white eyes.|认识奇奇，一个充满活力的蛞蝓猫，有着令人惊叹的橙色火焰皮毛和明亮的白色眼眸。
+//3064602186
+The Spookcat|幽灵
+THE SPOOKCAT|幽灵
+Spookcat|幽灵
+//3068084165
+Sunlit Sanctuary|日光庇护所
+Moonlit Acres|月光田地
+//3068986717
+The Flamboyant|焰火
+THE FLAMBOYANT|焰火
+Flamboyant|焰火
+A firey slugcat, far away from home in the snowy wastelands...|一只冒火的蛞蝓猫，远离家乡，在白雪皑皑的荒原上...
+//3073908797
+Ventalation Ducts|通风管道
+//3075403759
+The Entropy|热寂
+THE ENTROPY|热寂
+Entropy|热寂
+A slugpup who has escaped from confinement and wishes for peace.<LINE>While agile, it may prove difficult to find consistent food in a changing world.|一个从禁闭中逃脱并希望和平的幼崽。<LINE>虽然敏捷，但在一个不断变化的世界里，很难找到始终如一的食物。
+Flower's Paradise|花堂
+Pouring Towers|倾盆尖塔
+Fridged Signal|霜冻记号
+Home|家
+Awful Place|可憎之地
+I don't want to be here|我不想呆在此处
+//3075897716
+Deafening Silence|默神
+DEAFENING SILENCE|默神
+The Deafening Silence|默神
+That guy.|那个家伙。
+Slugkarl|卡尔
+SLUGKARL|卡尔
+The Slugkarl|卡尔
+Kills everything, but mostly aliens (aka everything).|杀死一切，但大多数是外星人（又名一切）。
+Bottleslug|瓶子
+The Bottleslug|瓶子
+BOTTLESLUG|瓶子
+Peaceful yet timid, causing extreme agility.|平和但胆小，导致极度敏捷。
+//3075938424
+Andrews Rooms|安德鲁房间群
+Storm Local Group|风暴本地群组
+FEAR Local Group|恐惧本地群组
+//3076010628
+Curious Ascent|好奇之升
+//3077237509
+The Pathfinder|探路者
+THE PATHFINDER|探路者
+Pathfinder|探路者
+A witty slugcat with a karma-based metabolism. Able to craft tools, and even make shortcuts of its own.<LINE>(Hold Q to craft. Hold E + direction to tunnel.)|一个机智的蛞蝓猫，有着基于业力的能力。能够制作工具，甚至可以传送。<LINE>（长按Q以创造，长按E和方向键以传送。）
+//3077239556
+Solemn Quarry|庄严采石场
+Two Colors of Smoke|双色烟雾
+//3081464445
+I don't even know the gimmick for this region|我甚至不知道这个区域的噱头
+Sacred Garden|神圣花园
+Chilled Hydroponics|冰冻水培
+//3083682990
+Archaic Tundra|古风苔原
+Badlands|恶地
+//3022693438
+Acerbic Station|酸液垃圾场
+Deep Maw|深入腹地
+Sunken Vents|浸没管道
+Facility Roots - Western Intake|设施根源 - 西侧入口
+Journey's End.|旅途终末
+Silent Construct (The Husk)|无声构造（躯壳）
+Silent Construct (Dimmed Grotto)|无声构造（昏暗洞穴）
+Silent Construct (Five Pebbles)|无声构造（五卵石）
+Silent Construct (The Leg)|无声构造（支架）
+//3089929720
+Deserted Wastelands|遗弃荒地
+Hydration System|水合系统
+Hydration System (Collapsed Main Control Environment)|水合系统（损毁主控环境）
+The Edge|边境
+The Backwall|后墙
+//3091642153
+The Priest|牧师
+THE PRIEST|牧师
+The Volatile|暴怒
+THE VOLATILE|暴怒
+//3102085094
+The Varmint|淘气鬼
+THE VARMINT|淘气鬼
+An annoying little creature who likes stealing pearls.|一个喜欢偷珍珠的烦人小家伙。
+//3102368089
+Breathes underwater, and requires a steady diet of meat to sustain itself.<LINE>Your electrical and vocal capabilities, though hazardous, will be necessary for your continued survival.|在水下呼吸，需要稳定的肉类饮食来维持身体<LINE>你的电能和发声能力很危险，对于你的持续生存是很必要的。
+//3103123670
+Side House|侧堂
+//3107395198
+The Hidden|隐匿者
+THE HIDDEN|隐匿者
+Hidden|隐匿者
+a slugpup that feeds on the corpeses of the lizards it kills.<LINE>FUCK YOU NO MERCY! NOONE CAN SAVE ME! NOT EVEN ARTIFICER OR RIVULET!!|一个吃蜥蜴为生的幼崽。
+//3110029849
+The Clandestine|隐秘
+THE CLANDESTINE|隐秘
+Clandestine|隐秘
+Stay quiet|嘘
+//3111174322
+The thing|事物
+thing|事物
+Thing|事物
+THE THING|事物
+A quiet predator. sneak 100, litterally|一个安静的捕食者。
+//3111329162
+THE SHAW|大黄蜂
+Shaw|大黄蜂
+The Shaw|大黄蜂
+A dream remains a dream if it never comes true.\nUnfortunately, your dream will never come true.\nSorry from Team Cherrybomb.|丝之鸽还是鸽了。
+//3120035228
+The Forager|觅食者
+THE FORAGER|觅食者
+Forager|觅食者
+A glutton capable of impressive mobility. Pride and indignance bring you to these frozen lands,<LINE>but surviving this expedition will require wits, tenacity, and use of your many tactical advantages.|一个暴食者，行动能力惊人。骄傲与愤怒将你带到这冰冻之地，<LINE>但要想在这次探险中幸存下来，需要智慧、坚韧和利用你的诸多战术优势。
+Seeking to prove their worth and hone their skills,<LINE>the Forager sets out into the cold once more|为了证明自己的价值并磨练自己的技能，<LINE>觅食者再次进入严寒。
+//3122525868
+Aqueducts|渡槽
+Oceanic Aqueduct|海洋渡槽
+Overgrown Aqueduct|繁盛渡槽
+Great filter|宏过滤器
+Storerooms|石屋
+Shell|外壳
+Rotten pipes|腐化管道
+//3124136312
+Traveller|旅者
+TRAVELLER|旅者
+The Traveller|旅者
+THE TRAVELLER|旅者
+White lizards will be jealous.|白蜥蜴会嫉妒你的。

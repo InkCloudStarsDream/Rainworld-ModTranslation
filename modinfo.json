@@ -1,0 +1,11 @@
+{
+	"id": "Dreamstars.ModTranslation",
+	"name": "Mod Translation",
+	"version": "1.0",
+	"authors": "DreamStars",
+	"description": "This mod is used to translate mods.",
+	"requirements": [],
+	"requirements_names": [],
+	"tags": ["Translations"],
+	"checksum_override_version": false
+}

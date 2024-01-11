@@ -3,3 +3,20 @@
 本人对于github并不熟悉，所以仓库有什么问题麻烦大家谅解和指出。
 
 安装方式:将本文件下载后，放到Rainworld\RainWorld_Data\StreamingAssets\mods下，完成后，目录应为Rainworld\RainWorld_Data\StreamingAssets\mods\Rainworld-ModTranslation
+本模组的steam创意工坊地址:https://steamcommunity.com/sharedfiles/filedetails/?id=3072912119
+
+以下为steam创意工坊描述:
+本模组用于翻译其他模组的文本。
+
+翻译范围:
+模组区域
+模组蛞蝓猫的描述及名称
+自定义珍珠
+自定义对话
+自定义挑战或使命
+
+目前只有中文翻译，欢迎协助我翻译至其他语言！
+如果你发现某些模组尚未翻译，请告诉我。
+
+本模组的非steam安装在这里:https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
+如果你想协助我进行翻译或做出什么建议，请发送请求，非常感谢。

@@ -185,7 +185,7 @@ gilded_tut_spear|用长矛按住投掷，把它变成烈焰之矛！
 gilded_tut_fullpower_a|用燃烧弹或火枪按住投掷，将其转化为奇点炸弹。
 gilded_tut_fullpower_b|飞行的持续时间现在不受限制。
 gilded_tut_guardian|<GILDED>只需杀死守护者一次即可通过！
-escoptions_insult_a|你不是我妈妈。
+escoptions_insult_a|你不是我母亲。
 escoptions_insult_b|滚！
 escoptions_insult_c|技能问题。
 escoptions_insult_d|我不在乎。
@@ -473,7 +473,7 @@ The Vinki|文基
 THE VINKI|文基
 Vinki|文基
 Play as an angsty teen wearing rail-grinding shoes and spraying graffiti to enact revenge on 5P.|扮演一个愤怒的青少年，穿着磨轨鞋，在五块卵石上涂鸦复仇。
-Five Pebbles (Research and Development)|五卵石（研究并建造）
+Five Pebbles (Research and Development)|五卵石（研究与建造）
 //3002853432
 The Sightseer|观光客
 THE SIGHTSEER|观光客
@@ -645,7 +645,7 @@ The Carcass (Arteries)|遗迹（动脉）
 The Carcass (Ventricles)|遗迹（心室）
 The Carcass (Neural Stem)|遗迹（神经干）
 Neglected Underbelly|遗忘腹地
-Roaring Breach|咆哮裂缝
+Roaring Breach|咆哮罅隙
 Barren Plains|贫瘠平原
 Moonlit Wasteyard|月光垃圾场
 Laden Stilt|满载高架
@@ -653,14 +653,20 @@ Breached Passage|破损通道
 Upheld Rampart|高架堡垒
 Braces|支架
 The Shell|外壳
-Clouded Walkway|多云小路
+Clouded Walkway|多云小径
+Disposal Unit|处理单元
+GET OUT|出去!
 Septics|败迹
 WHAT THE FUCK|王德发？
 Nescient Graveyard|神秘墓地
 Apex|顶峰
-Dead Spot|死点
+Dead Spot|亡点
 Scavenger Camp|拾荒者营地
 Sewers|下水道
+gottem|傀儡
+Voided Subterranean|虚空地底
+Null|空无一物
+Event Horizon|事件穹界
 //3033569804
 The Champion|冠军
 THE CHAMPION|冠军
@@ -910,6 +916,26 @@ Silent Construct (The Husk)|无声构造（躯壳）
 Silent Construct (Dimmed Grotto)|无声构造（昏暗洞穴）
 Silent Construct (Five Pebbles)|无声构造（五卵石）
 Silent Construct (The Leg)|无声构造（支架）
+//3088328875
+Sump Canal|集液导管
+Drizzled Shoreline|雨濛海岸
+Blue Precipice|蓝色峭壁
+Industrial Marshland|工业垃圾堆
+Fog Arrays|迷雾阵列
+Scarlet Islands|猩红群岛
+Chimney Overcast|云蔽烟囱
+Infected Underhang|腐化悬架
+Blue Wall|蓝色高墙
+Vents|管道
+Flood Pipeyard|漫洪管道
+Blanching Wastes|炽热废墟
+Ailment Crypts|不安陵墓
+Silent Construct (The Leg)|无声构造（下悬架）
+Silent Construct (Five Pebbles)|无声构造（五卵石）
+Silent Construct (The Husk)|无声构造（躯壳）
+Silent Construct (Dimmed Grotto)|无声构造（幽暗石窟）
+Rainy Outskirts|阴雨郊区
+Sullied Exterior|污染外缘
 //3089929720
 Deserted Wastelands|遗弃荒地
 Hydration System|水合系统
@@ -954,7 +980,7 @@ A dream remains a dream if it never comes true.\nUnfortunately, your dream will 
 The Forager|觅食者
 THE FORAGER|觅食者
 Forager|觅食者
-A glutton capable of impressive mobility. Pride and indignance bring you to these frozen lands,<LINE>but surviving this expedition will require wits, tenacity, and use of your many tactical advantages.|一个暴食者，行动能力惊人。骄傲与愤怒将你带到这冰冻之地，<LINE>但要想在这次探险中幸存下来，需要智慧、坚韧和利用你的诸多战术优势。
+A glutton capable of impressive mobility. Pride and indignance bring you to these frozen lands,<LINE>but surviving this expedition will require wits, tenacity, and use of your many tactical advantages.|一个暴食者，行动能力惊人。骄傲与愤怒将你带到这寒霜之地，<LINE>但要想在这次探险中幸存下来，需要智慧、坚韧和利用你的诸多战术优势。
 Seeking to prove their worth and hone their skills,<LINE>the Forager sets out into the cold once more|为了证明自己的价值并磨练自己的技能，<LINE>觅食者再次进入严寒。
 //3122525868
 Aqueducts|渡槽
@@ -970,8 +996,28 @@ TRAVELLER|旅者
 The Traveller|旅者
 THE TRAVELLER|旅者
 White lizards will be jealous.|白蜥蜴会嫉妒你的。
+Lighter|白夜
+LIGHTER|白夜
+The Lighter|白夜
+THE LIGHTER|白夜
+Strong aquatic predator. looks for all sorts of shiny objects underwater.|强壮的水生捕食者，热衷于寻找各种闪亮的物件。
+Love|协调
+LOVE|协调
+The Love|协调
+THE LOVE|协调
+She would like to restore harmony throughout the world..|她想恢复世界之协调...
+Green Fields|碧绿原野
+Mossy Construction|藓泛构造
+Overgrown Valley|繁茂山谷
+Blooming Islands|绽放岛屿
+Flooded Thickets|洪没灌丛
+The East|东缘
+Heavenly Heights|天空高地
+Overgrown Heights|繁茂高地
+STOP FALLING DOWN|不再下落
+HELP ME THERES SO MANY DADDY LONG LEGS|救命全是蓝香菇
 //3140380309
 Rotten City|腐化都市
 Twisted Tower|扭曲之塔
 Writhing Carpet|苦痛地表
-The Breach|裂缝
+The Breach|裂隙

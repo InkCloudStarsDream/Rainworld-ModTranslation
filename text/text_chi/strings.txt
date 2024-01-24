@@ -971,7 +971,7 @@ The Traveller|旅者
 THE TRAVELLER|旅者
 White lizards will be jealous.|白蜥蜴会嫉妒你的。
 //3140380309
-Rotten City|腐化之城
+Rotten City|腐化都市
 Twisted Tower|扭曲之塔
 Writhing Carpet|苦痛地表
 The Breach|裂缝

@@ -627,6 +627,20 @@ The Photomaniac|电狂
 THE PHOTOMANIAC|电狂
 Photomaniac|电狂
 A maniacal juvenile lost in the night, possessing a familiar luminosity.\nIts electrical abilities, though ill-wielded, give it a tactical advantage.|一个疯狂的少年迷失在夜色中，拥有熟悉的光芒。\n它的电能虽然使用不当，但在战术上有优势。
+Hold the pick-up button with a spear to electrically charge it.|手持长矛时按住拾取按钮，为其充电。
+Do not meddle with Random Gods.|不要干涉随机之神。
+Tap jump and pick-up together while airborne to let out an electric blast. Or while grounded; hold down and pick-up.|在空中轻按跳跃和拾取键，即可发出电击。或可在地面上按住下键不放并按拾取键。
+The air near it feels toxic|它附近的空气感觉有毒
+It's unbearable.|真是难以忍受。
+STEP FORTH|前进
+MEET GOLDEN STILLNESS|遇见金色的静谧
+AND DROWN|然后，沉没
+You're not supposed to be here.|你不该来这里的
+Hold the pick-up button to transmorgify rocks into flashbangs at the cost of food.|按住拾取按钮可将石头转化为闪光弹，但需要以消耗食物点为代价。
+With the same input; you can also store flashbangs around your neck.|按下相同的按键，还可以将闪光弹挂在脖子上。
+In a dark world all creatures are sensitive to bright light.|在这黑暗的世界中，所有生物都对亮光很敏感。
+In a dark world creatures are susceptible to bright light.|在这黑暗的世界中，生物对亮光很敏感。
+Deep Crypts|地穴深处
 The Stargazer|占星者
 Dusky Smokestack|昏暗烟囱
 Alleyways|狭窄小巷

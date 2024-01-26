@@ -825,9 +825,9 @@ Dried Pipes|干燥管道
 Sunken Deity|浸没神祗
 Erratic Pulse|不稳脉冲
 Topmost Duststorms|沙暴至巅
-Topmost Duststorms (Torched Cerebrum)|沙暴至巅
-Topmost Duststorms (Sandchoked Internals)|沙暴至巅
-Topmost Duststorms (The Gash)|沙暴至巅（）
+Topmost Duststorms (Torched Cerebrum)|沙暴至巅（焚毁之脑）
+Topmost Duststorms (Sandchoked Internals)|沙暴至巅（沙丘内部）
+Topmost Duststorms (The Gash)|沙暴至巅（裂谷）
 Drifted Oasis|漂流绿洲
 Endless Desert|无尽沙漠
 Clockwork Tower|钟塔
@@ -1038,3 +1038,16 @@ Writhing Carpet|苦痛地表
 The Breach|裂隙 
 //3134933859
 Bioengineering Center|生物工程中心
+//3139436454
+Exile|流放者
+Night Walker|夜行者
+Witness|见证者
+Domestic Slugcat|家养蛞蝓猫
+A powerful slugcat that consumes the vitality of its enemies, its journey is solitary and confusing. <LINE> Will you be able to find your way back or perhaps you will meet your ultimate death after so long?|一只能够消耗敌人的生命力的强大蛞蝓猫，它的旅程孤独而迷茫。<LINE>你能找到回去的路吗？或是在度过漫长的时间后终将面临死亡？
+An extremely agile omnivore, although this sometimes works against him<LINE>he does not like to be alone and prefers to be accompanied by others of his kind|一种极其敏捷的杂食动物，但这有时会对它不利。<LINE>它不喜欢独处，喜欢与其他同类为伴。
+Dark Density|黑暗浓云
+The Abyss|深渊
+Eight Scarlet Pillars (Internal Structure)|赤色八柱（内部结构）
+Cold Urban|寒冷郊区
+Icy Garbage|冰雪废料
+The Bastion|堡垒

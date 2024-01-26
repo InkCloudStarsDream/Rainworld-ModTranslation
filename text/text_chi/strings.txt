@@ -622,15 +622,15 @@ Able to teleport short distances by expending bursts of energy; <LINE> your elec
 The Beacon|灯塔
 THE BEACON|灯塔
 Beacon|灯塔
-In the wake of night, a frail but agile slugcat with a strange luminosity makes their presence known.\nLight your path and journey far; time is of the essence when under pursuit.|在夜色中醒来，一只身体虚弱但敏捷的蛞蝓以一种奇怪的光让人知道它的存在。\n照亮你的路，远行；时间是追求的本质。
+In the wake of night, a frail but agile slugcat with a strange luminosity makes their presence known.\nLight your path and journey far; time is of the essence when under pursuit.|在夜色中醒来，一只身体虚弱但敏捷的蛞蝓以一种奇怪的光让人知道它的存在。\n照亮你的路，远行吧；在被追逐时，时间至关重要。
 The Photomaniac|电狂
 THE PHOTOMANIAC|电狂
 Photomaniac|电狂
-A maniacal juvenile lost in the night, possessing a familiar luminosity.\nIts electrical abilities, though ill-wielded, give it a tactical advantage.|一个疯狂的少年迷失在夜色中，拥有熟悉的光芒。\n它的电能虽然使用不当，但在战术上有优势。
+A maniacal juvenile lost in the night, possessing a familiar luminosity.\nIts electrical abilities, though ill-wielded, give it a tactical advantage.|一个疯狂的少年迷失在夜色中，拥有一种熟悉的光芒。\n它的电能使用时虽然有些笨拙，但在战术上有优势。
 Hold the pick-up button with a spear to electrically charge it.|手持长矛时按住拾取按钮，为其充电。
 Do not meddle with Random Gods.|不要干涉随机之神。
 Tap jump and pick-up together while airborne to let out an electric blast. Or while grounded; hold down and pick-up.|在空中轻按跳跃和拾取键，即可发出电击。或可在地面上按住下键不放并按拾取键。
-The air near it feels toxic|它附近的空气感觉有毒
+The air near it feels toxic|这附近的空气感觉有毒
 It's unbearable.|真是难以忍受。
 STEP FORTH|前进
 MEET GOLDEN STILLNESS|遇见金色的静谧

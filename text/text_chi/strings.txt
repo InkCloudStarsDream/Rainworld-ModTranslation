@@ -640,6 +640,7 @@ Hold the pick-up button to transmorgify rocks into flashbangs at the cost of foo
 With the same input; you can also store flashbangs around your neck.|按下相同的按键，还可以将闪光弹挂在脖子上。
 In a dark world all creatures are sensitive to bright light.|在这黑暗的世界中，所有生物都对亮光很敏感。
 In a dark world creatures are susceptible to bright light.|在这黑暗的世界中，生物对亮光很敏感。
+Something's off...|有些不对劲……
 Deep Crypts|地穴深处
 The Stargazer|占星者
 Dusky Smokestack|昏暗烟囱

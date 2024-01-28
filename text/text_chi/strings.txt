@@ -68,7 +68,7 @@ Poacher|盗猎者
 Small, weak, yet crafty; set deadly traps to snare and kill your preferred prey.<LINE>Though the cold suits you poorly, you will find new purpose in your pursuits.|幼小，脆弱，但狡猾；设置致命的陷阱来捕杀你喜欢的猎物。<LINE>尽管严寒并不适合你，但你会在追求中找到新的目标。
 Rotten God|腐化的神
 The Mountain|山峦
-Dark Bog|黑暗泥塘
+Dark Bog|黑暗泥潭
 Mudslide|污泥滑坡
 World's Ceiling|世界之巅
 Cliffside|峭壁
@@ -126,7 +126,7 @@ THE CHILD|孩童
 Child|孩童
 you shouldn't be seeing this >:( <LINE>... although there may be a secret to unlocking this campaign earlier than intended...<LINE>Shh! Keep quiet!|你不应该看到这个>：（<LINE>…尽管可能有一个秘密方法可以提前解锁这个故事……<LINE>嘘！别声张！
 Default|默认
-These options change Escort's main abilities and how they play.<LINE>You can find the easy mode and builds in BUILDS and additional funny shenanigans in GIMMICKS.|这些选项会改变护卫的主要能力和游戏方式。<LINE>你可以在builds中找到简单的模式和构建，在gimmicks中找到其他有趣的恶作剧。
+These options change Escort's main abilities and how they play.<LINE>You can find the easy mode and builds in BUILDS and additional funny shenanigans in GIMMICKS.|这些选项会改变护卫的主要能力和游戏方式。<LINE>你可以在builds中找到简单的模式和构件，在gimmicks中找到其他有趣的恶作剧。
 Brawler|角斗士
 brawler_desc|切换到近身格斗风格。
 brawler_shanktut_a|<BRAWLER>可以在挥舞长矛时刺穿生物。
@@ -297,7 +297,7 @@ Saying you'll need luck is an understatement... but I admit I feel<LINE>a pang o
 At the end of time none of this will matter, I suppose. Even if you fail<LINE>you'll live an eternity of lives more, and maybe eventually, you'll make it in the end.|我想，归根结底，这些都无关紧要。即使你失败了，你也会活得更长久，也许最终，你会成功的。
 Either way, you must leave now. There's a perfectly good access shaft right here.|不管怎样，你现在必须离开。这里有一个非常好的出口。
 I hope you find what you're looking for. Don't bother coming back.|我希望你能找到你想要的东西。别回来了。
-What? Why would you take it back? Do you even know where you're going with that?|什么你为什么要带走它？你知道你要去哪里吗？
+What? Why would you take it back? Do you even know where you're going with that?|什么？你为什么要带走它？你知道你要去哪里吗？
 Fine, little creature. Have it your way. Her name is Looks to the Moon, and she lies decrepit in the waters to the east.|很好，小家伙。随心所欲。她的名字叫望月，她躺在东边的水中。
 It's a shame you'd choose to waste such a precious resource on her.<LINE>But I respect your courage, and if you feel that's what's right, I won't stand in your way.|你竟然选择在她身上浪费这么宝贵的资源，真是太可惜了。<LINE>但我尊重你的勇气，如果你觉得这是对的，我不会妨碍你。
 Leave now, and don't come back.|现在离开，不要回来。
@@ -967,7 +967,7 @@ The Varmint|淘气鬼
 THE VARMINT|淘气鬼
 An annoying little creature who likes stealing pearls.|一个喜欢偷珍珠的烦人小家伙。
 //3102368089
-Breathes underwater, and requires a steady diet of meat to sustain itself.<LINE>Your electrical and vocal capabilities, though hazardous, will be necessary for your continued survival.|在水下呼吸，需要稳定的肉类饮食来维持身体<LINE>你的电能和发声能力很危险，对于你的持续生存是很必要的。
+Breathes underwater, and requires a steady diet of meat to sustain itself.<LINE>Your electrical and vocal capabilities, though hazardous, will be necessary for your continued survival.|在水下呼吸，需要稳定的肉类饮食来维持身体。<LINE>你的电能和发声能力很危险，但对于你的持续生存是很有必要的。
 //3103123670
 Side House|侧堂
 //3107395198

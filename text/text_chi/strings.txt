@@ -42,6 +42,7 @@ Abyss|深渊
 Stormy lands|风暴岛
 //2923894366
 Pilgrims' Ascent|朝圣之升
+//TODO:这里建议翻译成“朝圣天路”。虽然和原文有差别但是更雅致。--Exmeow
 Five Pebbles (Blind Spot)|五卵石（盲点）
 //2936078781
 Hubert the Slugcat|舒伯特
@@ -56,7 +57,7 @@ A quiet predator with a hunger for Lizards.<LINE>Ambushing prey will be your key
 The Friend|朋友
 THE FRIEND|朋友
 Friend|朋友
-Beastly in nature yet with a soft heart, you defy the order of life and find alliance among predators. <LINE> In the frozen wastes you call home, you search for those in need of companionship.|天性凶猛，但内心柔软，你会挑战生活的秩序，发现捕食者之间的联盟。<LINE>在你称之为家的冰冻荒原上，你在寻找那些需要陪伴的人。
+Beastly in nature yet with a soft heart, you defy the order of life and find alliance among predators. <LINE> In the frozen wastes you call home, you search for those in need of companionship.|天性凶猛，但内心柔软，你会挑战生活的秩序，在掠食者中找到同盟。<LINE>在你称之为家的冰冻荒原上，你在寻找那些需要陪伴的人。
 Finding family among their predators, The Friend braves<LINE>a harsh winter to find happiness|朋友在捕食者中寻找亲缘，勇敢地度过严冬寻找幸福。
 The Stalker|潜行者
 THE STALKER|潜行者
@@ -65,7 +66,7 @@ Thriving in the snow, your ways are primal, tearing through flesh with tooth and
 The Poacher|盗猎者
 THE POACHER|盗猎者
 Poacher|盗猎者
-Small, weak, yet crafty; set deadly traps to snare and kill your preferred prey.<LINE>Though the cold suits you poorly, you will find new purpose in your pursuits.|幼小，脆弱，但狡猾；设置致命的陷阱来捕杀你喜欢的猎物。<LINE>尽管严寒并不适合你，但你会在追求中找到新的目标。
+Small, weak, yet crafty; set deadly traps to snare and kill your preferred prey.<LINE>Though the cold suits you poorly, you will find new purpose in your pursuits.|幼小、脆弱，但狡猾；设置致命的陷阱来捕杀你喜欢的猎物。<LINE>尽管严寒对你不利，但你会在追求中找到新的目标。
 Rotten God|腐化的神
 The Mountain|山峦
 Dark Bog|黑暗泥潭
@@ -86,7 +87,7 @@ Game Over - Press PAUSE BUTTON to restart, or find a way to survive|游戏结束
 //2939135495
 THE VOCAL|龙猫
 VOCAL|龙猫
-A slugcat that uses his vocal cords and very strong jaw to survive,<LINE>stunning enemies that is in his way of his goal.|一只用强壮的下颌生存的蛞蝓，<LINE>让阻碍他的敌人目瞪口呆。
+A slugcat that uses his vocal cords and very strong jaw to survive,<LINE>stunning enemies that is in his way of his goal.|一只用强壮的下颌生存的蛞蝓猫，<LINE>能够击晕那些阻碍他的敌人。
 //2939568597
 The Enigma|谜
 THE ENIGMA|谜
@@ -120,7 +121,7 @@ THE ESCORTME|护卫
 The Escort|护卫
 THE ESCORT|护卫
 Escort|护卫
-A guardian from a faraway land, entrusted to bring a special creature through the thick and thin.|一个来自遥远国度的守护者，被委托带着一种特殊的生物穿越艰难险阻。
+A guardian from a faraway land, entrusted to bring a special creature through the thick and thin.|一位来自遥远国度的守护者，受托带着一种特殊的生物穿越艰难险阻。
 The Child|孩童
 THE CHILD|孩童
 Child|孩童

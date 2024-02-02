@@ -584,7 +584,7 @@ Hanging Gardens|悬苑
 Enduring Sanctuary|永久保护区
 //3022636951
 //作者的拼写错误
-Aerrial Array|天线阵列
+Aerrial Arrays|天线阵列
 Aerial Arrays|天线阵列
 Scavenger City|拾荒者城市
 The Fallen Communication Array|陨落通信阵列

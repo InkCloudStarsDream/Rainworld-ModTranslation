@@ -1043,13 +1043,20 @@ The Breach|裂隙
 //3134933859
 Bioengineering Center|生物工程中心
 //3139436454
+//3139436454
 Exile|流放者
 Night Walker|夜行客
 //如果可以，避免翻译成XX者，会带来疲劳。--ICSD
 Witness|见证者
 EXILE|流放者
-NIGHT WALKER|夜行者
+NIGHT WALKER|夜行客
 WITNESS|见证者
+THE EXILE|流放者
+THE NIGHT WALKER|夜行客
+THE WITNESS|见证者
+The Exile|流放者
+The Night Walker|夜行客
+The Witness|见证者
 Domestic Slugcat|家养蛞蝓猫
 A powerful slugcat that consumes the vitality of its enemies, its journey is solitary and confusing. <LINE> Will you be able to find your way back or perhaps you will meet your ultimate death after so long?|一只能够消耗敌人的生命力的强大蛞蝓猫，它的旅程孤独而迷茫。<LINE>你能找到回去的路吗？或是在度过漫长的时间后终将面临死亡？
 An extremely agile omnivore, although this sometimes works against him<LINE>he does not like to be alone and prefers to be accompanied by others of his kind|一种极其敏捷的杂食动物，但这有时会对它不利。<LINE>它不喜欢独处，喜欢与其他同类为伴。

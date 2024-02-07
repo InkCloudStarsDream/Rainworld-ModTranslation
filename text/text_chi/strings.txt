@@ -42,8 +42,6 @@ Abyss|深渊
 Stormy lands|风暴岛
 //2923894366
 Pilgrims' Ascent|朝圣之升
-//TODO:这里建议翻译成“朝圣天路”。虽然和原文有差别但是更雅致。--Exmeow
-//这已受到Rainworld主群的广泛认识，修改恐怕不妥。--ICSD
 Five Pebbles (Blind Spot)|五卵石（盲点）
 //2936078781
 Hubert the Slugcat|舒伯特
@@ -1046,7 +1044,6 @@ Bioengineering Center|生物工程中心
 //3139436454
 Exile|流放者
 Night Walker|夜行客
-//如果可以，避免翻译成XX者，会带来疲劳。--ICSD
 Witness|见证者
 EXILE|流放者
 NIGHT WALKER|夜行客

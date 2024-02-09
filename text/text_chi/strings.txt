@@ -1065,3 +1065,7 @@ Icy Garbage|冰雪废料
 The Bastion|堡垒
 //3147907848
 Moss Fields|苔藓原野
+//3156584472
+Purification Conduits|净化管道
+Sterile Waterworks|消毒水厂
+SLOPTOWN|滑坡镇

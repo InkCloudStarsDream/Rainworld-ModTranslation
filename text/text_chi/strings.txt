@@ -62,10 +62,12 @@ The Stalker|潜行者
 THE STALKER|潜行者
 Stalker|潜行者
 Thriving in the snow, your ways are primal, tearing through flesh with tooth and claw. <LINE> Your agility is your strength as you scour the land for only the grandest of prey.|在雪地里茁壮成长，你的道路是原始的，用牙齿和爪子撕裂肉体。<LINE>当你在陆地上搜寻最凶猛的猎物时，你的敏捷就是你的力量。
+On the hunt for the sake of thrill,<LINE> The Stalker prowls the snow to the land's end|为了刺激而狩猎，<LINE>潜行者在雪地里徘徊至陆地的尽头。
 The Poacher|盗猎者
 THE POACHER|盗猎者
 Poacher|盗猎者
 Small, weak, yet crafty; set deadly traps to snare and kill your preferred prey.<LINE>Though the cold suits you poorly, you will find new purpose in your pursuits.|幼小、脆弱，但狡猾；设置致命的陷阱来捕杀你喜欢的猎物。<LINE>尽管严寒对你不利，但你会在追求中找到新的目标。
+In the destruction of their home, The Poacher<LINE>fights to keep their family's legacy alive|在家园被摧毁的过程中，偷猎者<LINE>为保护遗产而斗争。
 Rotten God|腐化的神
 The Mountain|山峦
 Dark Bog|黑暗泥潭

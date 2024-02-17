@@ -1069,3 +1069,8 @@ Moss Fields|苔藓原野
 Purification Conduits|净化管道
 Sterile Waterworks|消毒水厂
 SLOPTOWN|滑坡镇
+//3162052689
+The Sovereign|君王
+THE SOVEREIGN|君王
+Sovereign|君王
+Small, fast, and fragile, The Sovereign searches for guidance in the darkness...|轻快而脆弱，君王在黑暗中寻找指引...

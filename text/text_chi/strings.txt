@@ -707,7 +707,7 @@ uh oh|啊哦
 Yeek Flats|呼号者平原
 Yeek Den|呼号者巢穴
 //3037783004
-Neuron Forest|神经元林
+Neuron Forest|神经元森林
 //3042385413
 Sunlit Port|日照港湾
 Shrouded Coast|遮蔽海岸
@@ -1078,3 +1078,9 @@ Sovereign|君王
 Small, fast, and fragile, The Sovereign searches for guidance in the darkness...|轻快而脆弱，君王在黑暗中寻找指引...
 //3162153171
 Forgotten Pathway|遗忘小径
+//3162697023
+The radiosphere|广播站
+The pits|坑洞
+The plateau|高原
+The barrier|屏障
+Northern sealine|北海岸线

@@ -79,11 +79,11 @@ Necropolis|墓地
 The Peak|山峰
 Dermis|真皮层
 Abandoned Post|废弃信杆
-Rotten God (Five Pebbles)|腐化的神（五卵石）
-Rotten God (Decaying Modules)|腐化的神（损毁模块）
+Rotten God (Five Pebbles)|腐化神明（五卵石）
+Rotten God (Decaying Modules)|腐化神明（损毁模块）
 Corpse|遗迹
-Rotten God (Infected Channels)|腐化的神（污染通道）
-Rotten God (Dead Heart)|腐化的神（腐坏的心）
+Rotten God (Infected Channels)|腐化神明（污染通道）
+Rotten God (Dead Heart)|腐化神明（腐坏的心）
 Game Over - Press PAUSE BUTTON to restart, or find a way to survive|游戏结束 - 按“暂停键”重新开始，或是找到活下去的方法
 //2939135495
 THE VOCAL|龙猫

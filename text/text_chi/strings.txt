@@ -379,8 +379,8 @@ Moonlight|月光
 The Parasite|寄生虫
 THE PARASITE|寄生虫
 Parasite|寄生虫
-Feeble, with no specialty to its name. Weak to all, but with the right preparations,<LINE>can take control of those who feed upon it. Rise and control the world, and attain godhood.|虚弱，没有任何特色。对所有人来说都是软弱的，但只要做好准备，<LINE>就可以控制那些以它为食的人。崛起并控制世界，获得神性。
-A control freak seeking to bring all under its control,<LINE>on a quest to find other things to do besides lust for control.|一个控制狂，试图把一切都控制在自己的控制之下，<LINE>寻求除了控制欲之外的其他事情。
+Feeble, with no specialty to its name. Weak to all, but with the right preparations,<LINE>can take control of those who feed upon it. Rise and control the world, and attain godhood.|虚弱，没有任何特色。对所有生物来说都是软弱的，但只要做好准备，<LINE>就可以控制那些以它为食的生物。崛起并控制世界，最后登神。
+A control freak seeking to bring all under its control,<LINE>on a quest to find other things to do besides lust for control.|一个控制狂，试图把一切都置在自己的掌控之下，<LINE>尝试寻求除了控制欲之外的其他事情。
 //2973938652
 Timeless Conservatory|永恒温室
 Five Pebbles (Biological Research Module)|五卵石（生物研究模块）

@@ -976,6 +976,7 @@ THE VARMINT|淘气鬼
 An annoying little creature who likes stealing pearls.|一个喜欢偷珍珠的烦人小家伙。
 //3102368089
 Breathes underwater, and requires a steady diet of meat to sustain itself.<LINE>Your electrical and vocal capabilities, though hazardous, will be necessary for your continued survival.|在水下呼吸，需要稳定的肉类饮食来维持身体。<LINE>你的电能和发声能力很危险，但对于你的持续生存是很有必要的。
+An aquatic hunter and electrical expert,<LINE>The Siren sets off into the unknown to test their mettle|一个水中猎手，电击大师，<LINE>塞壬潜入未知，以探寻他的毅力。
 //3103123670
 Side House|侧堂
 //3107395198

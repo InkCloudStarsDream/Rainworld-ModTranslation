@@ -53,19 +53,25 @@ The Lurker|潜伏者
 THE LURKER|潜伏者
 A quiet predator with a hunger for Lizards.<LINE>Ambushing prey will be your key to survive.|一个安静的捕食者，渴望捕获蜥蜴。<LINE>伏击猎物将是你生存的关键。
 //2937471209
+thefriend-name|慰藉
+thefriend-description|扮演三个新的蛞蝓猫，朋友，盗猎者和潜行者（诺尔），对抗凛冬的暴风雪！三者都位于溪流和圣徒之间。处于β阶段，这些战役已经设计好了，但几乎未实现。
+
 The Friend|朋友
 THE FRIEND|朋友
 Friend|朋友
+FRIEND|朋友
 Beastly in nature yet with a soft heart, you defy the order of life and find alliance among predators. <LINE> In the frozen wastes you call home, you search for those in need of companionship.|天性凶猛，但内心柔软，你会挑战生活的秩序，在掠食者中找到同盟。<LINE>在你称之为家的冰冻荒原上，你在寻找那些需要陪伴的人。
 Finding family among their predators, The Friend braves<LINE>a harsh winter to find happiness|朋友在捕食者中寻找亲缘，勇敢地度过严冬寻找幸福。
 The Stalker|潜行者
 THE STALKER|潜行者
 Stalker|潜行者
+STALKER|潜行者
 Thriving in the snow, your ways are primal, tearing through flesh with tooth and claw. <LINE> Your agility is your strength as you scour the land for only the grandest of prey.|在雪地里茁壮成长，你的道路是原始的，用牙齿和爪子撕裂肉体。<LINE>当你在陆地上搜寻最凶猛的猎物时，你的敏捷就是你的力量。
 On the hunt for the sake of thrill,<LINE> The Stalker prowls the snow to the land's end|为了刺激而狩猎，<LINE>潜行者在雪地里徘徊至陆地的尽头。
 The Poacher|盗猎者
 THE POACHER|盗猎者
 Poacher|盗猎者
+POACHER|盗猎者
 Small, weak, yet crafty; set deadly traps to snare and kill your preferred prey.<LINE>Though the cold suits you poorly, you will find new purpose in your pursuits.|幼小、脆弱，但狡猾；设置致命的陷阱来捕杀你喜欢的猎物。<LINE>尽管严寒对你不利，但你会在追求中找到新的目标。
 In the destruction of their home, The Poacher<LINE>fights to keep their family's legacy alive|在家园被摧毁的过程中，偷猎者<LINE>为保护遗产而斗争。
 Rotten God|腐化神明
@@ -84,7 +90,55 @@ Rotten God (Decaying Modules)|腐化神明（损毁模块）
 Corpse|遗迹
 Rotten God (Infected Channels)|腐化神明（污染通道）
 Rotten God (Dead Heart)|腐化神明（腐坏的心）
+
 Game Over - Press PAUSE BUTTON to restart, or find a way to survive|游戏结束 - 按“暂停键”重新开始，或是找到活下去的方法
+Symbol|标志	
+Skull|头颅
+Solace||慰藉
+Rain World: Solace Config - Character Settings|雨世界:慰藉设置 - 角色设置
+Version 0.2.0.1|版本 0.2.0.1
+Heavy Foods|沉重的食物
+Legacy Hypothermia|传统低温
+Backspear Enable|允许背矛
+Pup Behaviors|幼崽行为
+Automatic Crouch|自动蹲下
+Pole Crawl|爬杆
+Legacy Movement|传统运动
+Cycle 0 Rep Lock|雨循环0声誉锁定
+Rain World: Solace Config - General Settings|雨世界:慰藉设置 - 基本设置
+Famines Disabled|禁用饥荒
+Famines For All|全员饥荒
+Expedition Famines|探险饥荒
+Local Liz Rep For All|全员蜥蜴声誉本地化
+Famines|饥荒
+Reputation|声誉
+Rain World: Solace Config - Experimental Settings|雨世界:慰藉设置 - 实验性设置
+Lizard Riding|蜥蜴骑行
+Universal Lizard Riding|通用蜥蜴骑行
+Lizard Rep Meter|蜥蜴声誉指示
+Universal Lizard Meter|通用蜥蜴声誉指示
+General|基本
+Characters|角色
+Experimental|实验性
+Famine mechanics and changes are disabled when checked|勾选时，饥荒机制和修改将会被禁用
+Famine mechanics and changes are given to every character|饥荒机制和修改应用于所有角色
+Forces famines to appear in Expedition Mode|强制饥荒在探险模式中出现
+Lizard reputation is localized for Solace slugcats when checked. May break things if disabled!|蜥蜴声誉已为慰藉模组中所有蛞蝓猫本地化处理，如果禁用，可能会导致问题!
+Lizard reputation is localized for every character|蜥蜴声誉为所有角色本地化处理
+Makes Friend crouch automatically after a standing jump|让朋友在站着跳起后自动趴下
+Allows Friend to crawl along the tops of poles like Noir Catto does. Noir Catto not required to work. Thank you Noir for giving this to me!|允许朋友像潜行者一样在沿着杆顶爬行
+Changes various Friend stats to be as they were earlier in the mod's development|使朋友的行为像早期开发时一样
+Allows Friend to use a backspear like they could earlier in the mod's development|允许朋友像早期开发时一样能够背矛
+Stops changes to lizard reputation happening on cycle 0 for Friend. Lizard reputation may break if disabled|禁用在朋友0雨循环时对蜥蜴声誉的更改，禁用时，蜥蜴声誉可能损坏!
+Allows Poacher to behave like a pup. Kind of subtle.|允许盗猎者表现得像蜥蜴幼崽，这个改动不明显。
+Allows Poacher to use a backspear as was planned early in their development|允许盗猎者像早期预想的一样能够背矛
+Makes Poacher get cold as fast as they did in earlier versions of the mod|让盗猎者失温像模组早期一样较快
+Allows some food items to affect Poacher's movement|允许某些食物改变盗猎者的行动
+Allows mother lizards to be ridden if lizard rep is high enough|当蜥蜴声誉足够高，允许骑行母亲蜥蜴
+Allows all lizards to be ridden if tamed (excluding Young and Mother lizards)|允许骑行所有被驯服的蜥蜴（不包括母亲蜥蜴和幼崽蜥蜴）
+Displays lizard reputation in the current region for Solace slugcats|在当前区域显示蜥蜴声誉（适用于慰藉蛞蝓猫）
+Displays lizard reputation in the current region for all slugcats|在当前区域显示蜥蜴声誉（适用于所有蛞蝓猫）
+Meow!|喵!
 //2939135495
 THE VOCAL|龙猫
 VOCAL|龙猫
@@ -342,6 +396,10 @@ A sorrowful flame that looks for a brighter future. Returning to this painful la
 //2961234259
 Washroom|卫生间
 //2961854585
+splugpack-name|技师
+splugpack-description|在游戏中添加一个新的可玩的蛞蝓猫：技师! <LINE>有了随心所欲地操纵周围古老技术的能力，你会用它做什么?  
+splugpack.DEVONLY-name|技师
+splugpack.DEVONLY-description|在游戏中添加一个新的可玩的蛞蝓猫：技师! <LINE>有了随心所欲地操纵周围古老技术的能力，你会用它做什么?  
 THE TECHNOMANCER|技师
 The TECHNOMANCER|技师
 TECHNOMANCER|技师
@@ -379,8 +437,8 @@ Moonlight|月光
 The Parasite|寄生虫
 THE PARASITE|寄生虫
 Parasite|寄生虫
-Feeble, with no specialty to its name. Weak to all, but with the right preparations,<LINE>can take control of those who feed upon it. Rise and control the world, and attain godhood.|虚弱，没有任何特色。对所有生物来说都是软弱的，但只要做好准备，<LINE>就可以控制那些以它为食的生物。崛起并控制世界，最后登神。
-A control freak seeking to bring all under its control,<LINE>on a quest to find other things to do besides lust for control.|一个控制狂，试图把一切都置在自己的掌控之下，<LINE>尝试寻求除了控制欲之外的其他事情。
+Feeble, with no specialty to its name. Weak to all, but with the right preparations,<LINE>can take control of those who feed upon it. Rise and control the world, and attain godhood.|虚弱，没有任何特色。对所有人来说都是软弱的，但只要做好准备，<LINE>就可以控制那些以它为食的人。崛起并控制世界，获得神性。
+A control freak seeking to bring all under its control,<LINE>on a quest to find other things to do besides lust for control.|一个控制狂，试图把一切都控制在自己的控制之下，<LINE>寻求除了控制欲之外的其他事情。
 //2973938652
 Timeless Conservatory|永恒温室
 Five Pebbles (Biological Research Module)|五卵石（生物研究模块）

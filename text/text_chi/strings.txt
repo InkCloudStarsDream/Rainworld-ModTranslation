@@ -55,7 +55,6 @@ A quiet predator with a hunger for Lizards.<LINE>Ambushing prey will be your key
 //2937471209
 thefriend-name|慰藉
 thefriend-description|扮演三个新的蛞蝓猫，朋友，盗猎者和潜行者（诺尔），对抗凛冬的暴风雪！三者都位于溪流和圣徒之间。处于β阶段，这些战役已经设计好了，但几乎未实现。
-
 The Friend|朋友
 THE FRIEND|朋友
 Friend|朋友
@@ -656,10 +655,10 @@ THE ESTRANGED|疏远
 Estranged|疏远
 Young and inexperienced, yet imbued with a combustible and volatile nature.<LINE>In spite of the situations you find yourself in, your journey will be one of curiosity and adventure.|年轻而缺乏经验，但充满了易燃和反复无常的天性。<LINE>无论你身处何种境地，你的旅程都将充满好奇和冒险。
 Disappointed by the findings of it's previous misadventures,<LINE>the Estranged sets out to find something of value once more|对之前的不幸遭遇感到失望，<LINE>疏远开始再次寻找有价值的东西。
-The Betrayed|被背叛者
-THE BETRAYED|被背叛者
-Betrayed|被背叛者
-A frail mercenary, able to use their equipment and intellect to best their adversaries.<LINE>Dexterous in your movement and a master of spears, your journey will be considerably more violent and perilous than those who came before you.|一个脆弱的雇佣兵，能够利用他们的装备和智慧战胜对手。<LINE>你动作敏且善于用矛，你的旅程将比之前更加激烈和危险。
+The Betrayed|背叛
+THE BETRAYED|背叛
+Betrayed|背叛
+A frail mercenary, able to use their equipment and intellect to best their adversaries.<LINE>Dexterous in your movement and a master of spears, your journey will be considerably more violent and perilous than those who came before you.|一个脆弱的战士，能够利用他们的装备和智慧战胜对手。<LINE>你动作敏且善于用矛，你的旅程将比之前更加激烈和危险。
 Steam Pillars|蒸汽支柱
 Train Tunnels|火车隧道
 Tube Maze|管道迷宫

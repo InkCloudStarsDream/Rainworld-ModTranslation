@@ -1,8 +1,5 @@
 0Dreamstars.ModTranslation-name|模组翻译
 Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。
-Cycle Food Score|雨循环食物分数
-Food Score|食物分数
-splugpack-name|技师
 //2923214961
 Suburbs|郊市
 Oil Station|石油基站
@@ -43,6 +40,9 @@ Stormy lands|风暴岛
 //2923894366
 Pilgrims' Ascent|朝圣之升
 Five Pebbles (Blind Spot)|五卵石（盲点）
+//2928004252
+Cycle Food Score|雨循环食物分数
+Food Score|食物分数
 //2936078781
 Hubert the Slugcat|舒伯特
 HUBERT THE SLUGCAT|舒伯特
@@ -54,7 +54,8 @@ THE LURKER|潜伏者
 A quiet predator with a hunger for Lizards.<LINE>Ambushing prey will be your key to survive.|一个安静的捕食者，渴望捕获蜥蜴。<LINE>伏击猎物将是你生存的关键。
 //2937471209
 thefriend-name|慰藉
-thefriend-description|扮演三个新的蛞蝓猫，朋友，盗猎者和潜行者（诺尔），对抗凛冬的暴风雪！三者都位于溪流和圣徒之间。处于β阶段，这些战役已经设计好了，但几乎未实现。
+thefriend-description|包含三只新的蛞蝓猫，朋友，盗猎者和潜行者（诺尔），时间线位于溪流和圣徒之间。
+
 The Friend|朋友
 THE FRIEND|朋友
 Friend|朋友
@@ -327,22 +328,31 @@ THE FLORIST|花使
 Florist|花使
 A slugcat that has been incredibly entranced by the flowers and plants growing around it.<LINE>This slugcat is more in-tune with the plant life and knows how to procure what it needs.|这只蛞蝓被周围生长的花朵和植物迷住了。<LINE>这种蛞蝓更适应植物的生活，知道如何获得它需要的东西。
 //2958413080
+0topicular.lancer-name|枪骑兵
+topicular.lancer-description|为蛞蝓猫添加枪骑兵变种。
+
 Horn|角
 To be released...|敬请期待...
 Feeble but cautious. Stranded in a harsh world and surrounded by<LINE>its creatures, your journey will be a significantly more challenging one.|虚弱但谨慎。被困在一个严酷的世界里，被其<LINE>生物所包围，你的旅程将更加具有挑战性。
-You are too young and weak to throw a metal rebar|你太年轻，太虚弱了，无法扔出钢筋。
+You are too young and weak to throw a metal rebar|你太年轻，太虚弱了，无法扔出钢筋
 But stabbing does not stun foes|但刺伤不会使敌人眩晕
 Find an opening|找到出路
 Press PICK UP while holding a spear to block beforehand|在手持长矛时按下“拾取”进行格挡
 May you overcome this world of violence|愿你战胜这个充满暴力的世界
+Stab / Throw|穿刺/投掷
+Lancer Interactions:|枪骑兵操作：
+Press THROW to stab with a spear|按下“投掷”以使用矛穿刺
+Press PICK UP to defend with a spear|按下“拾取”以使用矛防御
+Hold PICK UP with a mask to hang it onto your horn|长按“拾取”以将面具挂在角上
 Player <p_n> will be lancer|玩家<p_n>为枪骑兵
 Left click to change class, right click to toggle lancer for Player <X>|左键单击可更改类别，右键单击可切换玩家<X>为枪骑兵
+<A> to change class, <B> to toggle lancer for Player <X>|按下<A>可更改类别，按下<B>可切换玩家<X>为枪骑兵
 lancersl-tiny|幼小
-lancersl-student|学生
+lancersl-student|小小
 lancersl-child|小
 lancersl-imp|小调皮
 lancersl-animal|动物
-A tiny animal. A young one, too. Your journey has taken you deep into my chamber,<LINE>but I doubt you came here on purpose.|一种小动物。一个年轻的也是。你的旅程把你带进了我的房间，但我觉得你不是故意来的。
+A tiny animal. A young one, too. Your journey has taken you deep into my chamber,<LINE>but I doubt you came here on purpose.|一种小动物，也很年轻。你的旅程把你带进了我的房间，但我觉得你是不小心来到此地。
 I'm afraid I can't assist you in the way you would have hoped for.<LINE> I do not know what would drive you to come all the way here in search for your family... Or how you managed it.|恐怕我不能按你所希望的方式帮助你。<LINE>我不知道是什么驱使你千里迢迢来到这里寻找你的家人...或者你是怎么做到的。
 I can assure you they are nowhere in my premises, your kind don't seem to take well to this place.<LINE>My overseers would take great delight in reporting an entire group of you, seeing how they react to just one.|我可以向你保证，他们根本不在我的住处，你们似乎不太喜欢这个地方。<LINE>我的监视者会非常高兴地报告你们整个群体，看看他们对一个群体的反应。
 Your family may be long gone by now... I can assure you they are nowhere in my premises,<LINE>your kind don't seem to take well to this place. My overseers would take great delight<LINE>in reporting an entire group of you, seeing how they react to just one.|你的家人可能早已离开...我可以向你保证，他们不在我的房间里，你们似乎不太喜欢这个地方。<LINE>我的监视者会非常高兴地报告你们整个群体，看看他们对一个群体的反应。
@@ -650,6 +660,8 @@ The Spire|尖塔
 //3023731691
 Desperado|亡命之徒
 //3024646162
+pocky-raisin.theestranged-name|燃烧殆尽
+pocky-raisin.theestranged-description|与疏远一起跳进一个充满好奇、冒险和爆炸的世界！
 The Estranged|疏远
 THE ESTRANGED|疏远
 Estranged|疏远

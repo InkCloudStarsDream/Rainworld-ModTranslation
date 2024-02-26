@@ -1158,3 +1158,7 @@ The pits|坑洞
 The plateau|高原
 The barrier|屏障
 Northern sealine|北海岸线
+//3167884445
+Frosted Factory|寒霜工厂
+KELP ME|红树警告
+Overgrown Facility|繁茂工厂

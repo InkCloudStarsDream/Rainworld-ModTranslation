@@ -1,6 +1,12 @@
 0Dreamstars.ModTranslation-name|模组翻译
 Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。
 //2923214961
+Industrial District|工业遗迹
+Scavenger Colony|拾荒营地
+Industrial Port Area|工业码头区
+Yeah this area is scrapped lol|这个区域已经完蛋咯
+Sorry this one's still in NNH so we can't show you|前面的区域，乙后再来探索吧
+Hold right to exit animation|长按右键以退出动画
 Suburbs|郊市
 Oil Station|石油基站
 Living Areas|生活区
@@ -15,6 +21,8 @@ Incinerator|焚化炉
 Pump Station (Beta)|泵站（Beta）
 Pump Station (Alpha)|泵站（Alpha）
 Swamplands|沼泽
+Swamplands (Purple)|沼泽（皇家紫限定版）
+Sewers|下水道
 Farlands|远岛
 Limestone Caves|石灰岩洞穴
 Stonepit|石洞
@@ -1162,3 +1170,9 @@ Northern sealine|北海岸线
 Frosted Factory|寒霜工厂
 KELP ME|红树警告
 Overgrown Facility|繁茂工厂
+//3166938192
+Spore Factory|孢子工厂
+Grand Reservoir|恢弘水库
+East Garrison|东部要塞
+Hidden Excursion|幽匿之旅
+Over Underworld|黄泉之上

@@ -1161,7 +1161,7 @@ Small, fast, and fragile, The Sovereign searches for guidance in the darkness...
 //3162153171
 Forgotten Pathway|遗忘小径
 //3162697023
-The radiosphere|广播站
+The radiosphere|无线电层
 The pits|坑洞
 The plateau|高原
 The barrier|屏障

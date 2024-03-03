@@ -1,5 +1,5 @@
 0Dreamstars.ModTranslation-name|模组翻译
-Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。
+Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
 //2923214961
 Industrial District|工业遗迹
 Scavenger Colony|拾荒营地

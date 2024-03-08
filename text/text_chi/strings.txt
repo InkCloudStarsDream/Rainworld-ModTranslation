@@ -356,10 +356,10 @@ Player <p_n> will be lancer|玩家<p_n>为枪骑兵
 Left click to change class, right click to toggle lancer for Player <X>|左键单击可更改类别，右键单击可切换玩家<X>为枪骑兵
 <A> to change class, <B> to toggle lancer for Player <X>|按下<A>可更改类别，按下<B>可切换玩家<X>为枪骑兵
 lancersl-tiny|幼小
-lancersl-student|小小
-lancersl-child|小
-lancersl-imp|小调皮
-lancersl-animal|动物
+lancersl-student|学者
+lancersl-child|幼崽
+lancersl-imp|调皮
+lancersl-animal|生灵
 A tiny animal. A young one, too. Your journey has taken you deep into my chamber,<LINE>but I doubt you came here on purpose.|一种小动物，也很年轻。你的旅程把你带进了我的房间，但我觉得你是不小心来到此地。
 I'm afraid I can't assist you in the way you would have hoped for.<LINE> I do not know what would drive you to come all the way here in search for your family... Or how you managed it.|恐怕我不能按你所希望的方式帮助你。<LINE>我不知道是什么驱使你千里迢迢来到这里寻找你的家人...或者你是怎么做到的。
 I can assure you they are nowhere in my premises, your kind don't seem to take well to this place.<LINE>My overseers would take great delight in reporting an entire group of you, seeing how they react to just one.|我可以向你保证，他们根本不在我的住处，你们似乎不太喜欢这个地方。<LINE>我的监视者会非常高兴地报告你们整个群体，看看他们对一个群体的反应。

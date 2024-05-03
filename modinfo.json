@@ -1,0 +1,29 @@
+{
+	"id": "Dreamstars.ModTranslation",
+	"name": "Mod Translation",
+	"version": "1.0",
+	"authors": "DreamStars",
+	"description": "This mod is used to translate text that other mod added.
+
+translate area:
+mod regions
+mod slugcats
+custom pearls
+custom dialogs
+custom missons
+custom dev comments
+
+If you find something I forgot to translate,please tell me in the comments or github。
+
+non-steam version here:https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
+Currently only include Chinese,welcome to help me to translate into other languages.
+If you want to help me to translate or put up some advice,please pull requests,thanks for your help. 
+
+Special thanks:
+@Exmeow
+@Celen",
+	"requirements": [],
+	"requirements_names": [],
+	"tags": ["Translations"],
+	"checksum_override_version": false
+}

@@ -1,0 +1,18 @@
+SPECIAL : LOCKPATHS
+SPECIAL : GRAV
+WAIT : 5
+哦！
+SPECIAL : TAKENEURON
+这是什么？
+WAIT : 5
+渣滓重置密钥！而且很多...
+谢谢你，小家伙，但我不需要它们！
+我认为这些不是给我的，但你的责任感令人钦佩。
+嗯...
+我已经很久没有和月姐联系了。或许发生了什么？
+她可能是你应该交付的人。我建议你在这里稍作休息，但是...
+SPECIAL : RELEASENEURON
+WAIT : 5
+我希望我能做的更多，但我能力有限。
+SPECIAL : PARTIALGRAV
+SPECIAL : UNLOCKPATHS

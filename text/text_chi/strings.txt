@@ -773,7 +773,7 @@ Lavish Knack|奢华诀窍
 The Coast|港口
 False Canopy|去真顶棚
 False Canopy (Vents)|去真顶棚（通风口）
-The Tower|塔
+The Tower|高塔
 //2987764922
 Scorched District|焦土
 The Interface|交互面
@@ -1044,9 +1044,9 @@ THE SIGHTSEER|观光客
 Sightseer|观光客
 Northern Wall|北墙
 //3003902112
-The Tower|塔
+The Tower|高塔
 //3007444212
-The Tower|塔
+The Tower|高塔
 //3010350558
 The Scholar|学者
 THE SCHOLAR|学者
@@ -1411,9 +1411,9 @@ Topmost Duststorms (Sandchoked Internals)|沙暴至巅（沙丘内部）
 Topmost Duststorms (The Gash)|沙暴至巅（裂谷）
 Drifted Oasis|漂流绿洲
 Endless Desert|无尽沙漠
-Clockwork Tower|钟塔
+Clockwork Tower|时序塔
 Bloodied Monument|鲜血纪念碑
-Brittle Husk|尖厉躯壳
+Brittle Husk|霜凛躯壳
 Humming Construct|蜂鸣结构
 Polluted Pools|污染水池
 Geothermal Swamp|地热沼泽
@@ -1738,10 +1738,6 @@ THE SPEARSLUG|投矛手
 The SPEARSLUG|投矛手
 A hybrid between organic and artificial.|自然与人工之混杂。
 //3213500658
-The BudGermination|嫩芽
-THE BUDGERMINATION|嫩芽
-BudGermination|嫩芽
-BUDGERMINATION|嫩芽
 You have come a long way, carrying a heavy and fatal mission.<LINE> Please ensure your own safety while helping others.<LINE> The only one who depends on you is waiting for your victorious return in the distance...You have come a long way, carrying a heavy and fatal mission.<LINE> Please ensure your own safety while helping others.<LINE> The only one who depends on you is waiting for your victorious return in the distance...|远道而来的你，肩负着沉重而致命的任务......<LINE>在帮助他人之时，请谨记自己的安危。<LINE>唯一需要你的那个它，正等着你从渺远之处归来......
 Despite being well aware of the dangers of the world, and despite realizing that all efforts may be in vain,<LINE> you still choose to embark on the adventure...|尽管深知世界危险不尽，尽管努力可能化为徒劳，<LINE>你仍旧义无反顾，踏上征途...
 //3214959999
@@ -1826,3 +1822,28 @@ Chasing Wind (Lymphatic Conduits)|追逐清风（淋巴导管）
 Chasing Wind (Memory Conflux)|追逐清风（记忆汇流）
 Chasing Wind (Inner Wall)|追逐清风（内墙）
 The Anchor|支锚
+//3239623833
+ftns-name|禁忌热岛
+ftns-description|穿越郁郁葱葱却危机四伏的热带海岛。<LINE>躲避此地的狡猾生物，发现其背后的秘密。
+
+Forbidden Tropics|禁忌热岛
+Rotting Shoreline|腐化海岸
+Flooded Undergrowth|洪掩森林
+Shrouded Jungle|遮阴丛林
+Filtration Ducts|过滤导管
+Turn Back NOW|回去吧
+//3239840755
+Dark Meadows|暗夜草甸
+//3241213067
+The Capital of Dynasties|古都
+The Emperor|皇帝
+THE EMPEROR|皇帝
+Emperor|皇帝
+A recolored copy of The Survivor that demonstrates some custom SlugBase features.<LINE>This is a template mod for SlugBase.|求生者的重上色版，包含一些自定义功能。
+//3241250804
+Forgotten Complex|遗忘建筑
+Snow Cat|雪猫
+THE SNOW CAT|雪猫
+The Snow Cat|雪猫
+SNOW CAT|雪猫
+A custom campaign featuring a slugcat that must brave a freezing world|在寒霜之中求生。

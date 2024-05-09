@@ -34,5 +34,6 @@ SPECIAL : FOODMAX+KARMA10
 你足智多谋，我相信你可以找到路的。
 你可以使用左侧的检修井退出我的巨构。
 WAIT : 5
-祝你好运，小生物。SPECIAL : PARTIALGRAV
+祝你好运，小生物。
+SPECIAL : PARTIALGRAV
 SPECIAL : UNLOCKPATHS

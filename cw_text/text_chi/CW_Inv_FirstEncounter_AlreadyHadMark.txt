@@ -1,0 +1,16 @@
+SPECIAL : LOCKPATHS
+SPECIAL : GRAV
+WAIT : 5
+诶嘿嘿，你终于来了。
+小石男已经告诉我了一切。
+所以，赶紧把三重美味... 哦不，三重肯定交出来。
+WAIT : 10
+嗯？不给？
+...
+那你出去吧。
+你放心，我可不像小石男那么粗鲁。
+我是不会宰了你的。
+趁现在，滚吧。
+SPECIAL : PARTIALGRAV
+SPECIAL : UNLOCKPATHS
+WAIT : 10

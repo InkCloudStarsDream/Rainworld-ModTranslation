@@ -1762,7 +1762,7 @@ Sunlit Alleyways|日耀巷道
 Suburban Outpost|郊外哨所
 Pipegrave|管道坟茔
 Crumpled Scaffolding|损毁支架
-Smokestack Treetop|葱茏顶棚
+Smokestack Treetop|烟掩树梢
 The Stump|残桩
 Aquifer Tunnels|水浸隧道
 Melting Depths|熔融深渊

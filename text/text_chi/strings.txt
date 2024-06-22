@@ -1860,3 +1860,6 @@ Power rail|动力轨
 room where stuff happens|发生事故的房间
 Rocks,corpses and any creature can temporarily overload the arcs. Be careful!|石头、尸体和任何生物都可能使电弧暂时超载。当心！
 Be careful|当心
+//3265383340
+Gilded Sanctuary|镀金圣殿
+Tangled Steeple|蔓绕阶梯

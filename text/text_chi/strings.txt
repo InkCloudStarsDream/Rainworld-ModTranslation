@@ -1,14 +1,5 @@
 0Dreamstars.ModTranslation-name|模组翻译
 Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
-//moreslugcats
-Painage System|苦痛系统
-TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|管管管管管管管管管管管管管管管管管管管管管管管管管管管道
-Moist|潮湿地区
-Andrew's Basement|安德鲁的地下室儿~
-Nachos Will Never Be The Same|玉米卷永不相同
-we forgot to render this one sorry|忘了渲染了，抱歉，希望不会闪瞎你
-Tower of Gains|苦痛之塔
-Uberhang|菌悬挂
 //2923214961
 Industrial District|工业遗迹
 Scavenger Colony|拾荒营地
@@ -757,7 +748,6 @@ The spirits have blessed you.\nThe world has forsaken you.\nThere is no future.|
 Path Less Taken|无人小径
 Sea Of Stars|星海
 The Pit|坑洞
-Frozen Mast|寒霜桅杆
 A Walk Through The Storm|风暴之行
 Glacial Chasm|冰河裂隙
 Drowned Catacomb|水没墓穴
@@ -1268,14 +1258,7 @@ The Panopticon|圆形监狱
 Underground City|地下城市
 Lightless Sewers|昏暗水道
 //3034151966
-Ashen Monolith|苍岩
-The Mast|桅杆
-Primary Transmission Node|主传输节点
-Marsh Flats|沼地平野
-Scavenger Den|拾荒者巢穴
-uh oh|啊哦
-Yeek Flats|呼号者平原
-Yeek Den|呼号者巢穴
+（由于该模组已内置翻译，此处删除）
 //3035584896
 expandedindustrial-name|工业区扩展
 expandedindustrial-description|工业区低处的一个小扩展。

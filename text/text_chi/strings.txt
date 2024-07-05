@@ -1558,6 +1558,7 @@ THE SHAW|大黄蜂
 Shaw|大黄蜂
 The Shaw|大黄蜂
 A dream remains a dream if it never comes true.\nUnfortunately, your dream will never come true.\nSorry from Team Cherrybomb.|丝之鸽还是鸽了。
+Colosseum Rubicon|虚空万神殿
 //3120035228
 The Forager|觅食者
 THE FORAGER|觅食者

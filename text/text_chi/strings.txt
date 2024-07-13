@@ -1258,7 +1258,7 @@ The Panopticon|圆形监狱
 Underground City|地下城市
 Lightless Sewers|昏暗水道
 //3034151966
-（由于该模组已内置翻译，此处删除）
+//（由于该模组已内置翻译，此处删除）
 //3035584896
 expandedindustrial-name|工业区扩展
 expandedindustrial-description|工业区低处的一个小扩展。
@@ -1266,7 +1266,7 @@ expandedindustrial-description|工业区低处的一个小扩展。
 Neuron Forest|神经元森林
 //3042385413
 Sunlit Port|日照港湾
-Shrouded Coast|遮蔽海岸
+Shrouded Coast|雾蔽海滨
 Desolate Port|荒凉港湾
 Stormy Coast|风暴海岸
 //3043034759

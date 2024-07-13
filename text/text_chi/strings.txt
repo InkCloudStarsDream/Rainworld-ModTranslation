@@ -1839,7 +1839,7 @@ A custom campaign featuring a slugcat that must brave a freezing world|在寒霜
 //3254167010
 The grinder|磨床
 Kern|核心
-Crucible|坩埚
+Crucible|锻造炉
 Power rail|动力轨
 room where stuff happens|发生事故的房间
 Rocks,corpses and any creature can temporarily overload the arcs. Be careful!|石头、尸体和任何生物都可能使电弧暂时超载。当心！

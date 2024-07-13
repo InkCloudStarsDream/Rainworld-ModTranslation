@@ -1258,7 +1258,7 @@ The Panopticon|圆形监狱
 Underground City|地下城市
 Lightless Sewers|昏暗水道
 //3034151966
-（由于该模组已内置翻译，此处删除）
+//（由于该模组已内置翻译，此处删除）
 //3035584896
 expandedindustrial-name|工业区扩展
 expandedindustrial-description|工业区低处的一个小扩展。
@@ -1266,7 +1266,7 @@ expandedindustrial-description|工业区低处的一个小扩展。
 Neuron Forest|神经元森林
 //3042385413
 Sunlit Port|日照港湾
-Shrouded Coast|遮蔽海岸
+Shrouded Coast|雾蔽海滨
 Desolate Port|荒凉港湾
 Stormy Coast|风暴海岸
 //3043034759
@@ -1841,7 +1841,7 @@ A custom campaign featuring a slugcat that must brave a freezing world|在寒霜
 //3254167010
 The grinder|磨床
 Kern|核心
-Crucible|坩埚
+Crucible|锻造炉
 Power rail|动力轨
 room where stuff happens|发生事故的房间
 Rocks,corpses and any creature can temporarily overload the arcs. Be careful!|石头、尸体和任何生物都可能使电弧暂时超载。当心！

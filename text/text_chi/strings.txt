@@ -1,4 +1,4 @@
-0Dreamstars.ModTranslation-name|模组翻译
+﻿0Dreamstars.ModTranslation-name|模组翻译
 Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
 //2923214961
 Industrial District|工业遗迹
@@ -1851,3 +1851,37 @@ Gilded Sanctuary|镀金圣殿
 Tangled Steeple|蔓绕阶梯
 //3278042505
 The Backrooms|后室
+The Mast|桅杆
+Ashen Monolith|苍白石碑
+Primary Transmission Node|主传输节点
+Marsh Flats|沼泽滩
+Scavenger Den|拾荒者巢穴
+Eight Shells, Swaying Fronds|八枚贝壳，蕨叶摇曳
+dont climb to the top of the region please dont do it for your own good i swear if you go up there you will regret it immensely for the rest of your life|不要爬到这个地区的顶端，为了你自己好。我发誓如果你爬到那里，你会后悔一辈子的
+uh oh|哦不
+Yeek Flats|呼号者平原
+Yeek Den|呼号者巢穴
+themast-name|桅杆
+themast-description|一个位于地图西方区域的大型传输塔，构成了一个广阔的新区域
+Arid Barrens|荒芜之地
+//3265401327
+Miros World|钢鸟乐园
+//3265401327
+Windswept Barrens|风啸荒原
+//3265401327
+Frigid Desert|寒漠
+//3265401327
+Archaic Facility|古老设施
+//3272297488
+Mossy Grotto|苔藓洞窟
+//3272297488
+Lost Foundations|失落地基
+//3272297488
+Blooming Strait|繁盛海峡
+//3272297488
+Shrine of the Laborers|劳作圣殿
+//3272297488
+Weaverville|威弗维尔镇
+//3272297488
+Iceblasted Wastes|冰咒荒川
+//3272297488

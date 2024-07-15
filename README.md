@@ -16,9 +16,12 @@
 本模组的非steam安装在这里:https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
 如果你想协助我进行翻译或做出什么建议，请发送请求，非常感谢。
 
-在此非常感谢:
-@Exmeow
-@Celen
+贡献者:
+[InkCloudStarsDream](https://space.bilibili.com/2066384452)
+[Exmeow](https://space.bilibili.com/511930300)
+[Celen](https://space.bilibili.com/36856844)
+[方糖冰猫](https://space.bilibili.com/197345364)
+
 
 ## 状态
 ![Alt](https://repobeats.axiom.co/api/embed/dd840162af366dcb05c8af3b8babe867844fe7ea.svg "Repobeats analytics image")

@@ -1851,18 +1851,6 @@ Gilded Sanctuary|镀金圣殿
 Tangled Steeple|蔓绕阶梯
 //3278042505
 The Backrooms|后室
-The Mast|桅杆
-Ashen Monolith|苍白石碑
-Primary Transmission Node|主传输节点
-Marsh Flats|沼泽滩
-Scavenger Den|拾荒者巢穴
-Eight Shells, Swaying Fronds|八枚贝壳，蕨叶摇曳
-dont climb to the top of the region please dont do it for your own good i swear if you go up there you will regret it immensely for the rest of your life|不要爬到这个地区的顶端，为了你自己好。我发誓如果你爬到那里，你会后悔一辈子的
-uh oh|哦不
-Yeek Flats|呼号者平原
-Yeek Den|呼号者巢穴
-themast-name|桅杆
-themast-description|一个位于地图西方区域的大型传输塔，构成了一个广阔的新区域
 Arid Barrens|荒芜之地
 //3265401327
 Miros World|钢鸟乐园

@@ -1851,3 +1851,6 @@ Gilded Sanctuary|镀金圣殿
 Tangled Steeple|蔓绕阶梯
 //3278042505
 The Backrooms|后室
+WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
+Sunlit Power Plant|光能发电厂
+Overgrown Transfer System|蔓生运输系统

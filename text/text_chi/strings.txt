@@ -1876,3 +1876,13 @@ Iceblasted Wastes|冰咒荒川
 WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
 Sunlit Power Plant|光能发电厂
 Overgrown Transfer System|蔓生运输系统
+//3304867363
+Forsaken Station|遗弃站点
+Forlorn Valley|荒芜山谷
+Underwood|林木之下
+Summit Edge|顶峰边缘
+Pristine Lake|纯净湖泊
+Mountain Railways|山地铁路
+Deep Lake|深湖
+Forsaken Station (Auxiliary Storage)|遗弃站点（辅助储存区）
+Forsaken Station (Supply Network)|遗弃站点（供应网络）

@@ -1,4 +1,4 @@
-﻿0Dreamstars.ModTranslation-name|模组翻译
+0Dreamstars.ModTranslation-name|模组翻译
 Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
 //2923214961
 Industrial District|工业遗迹
@@ -1741,6 +1741,7 @@ Matriarch|族长
 MATRIARCH|族长
 PLACEHOLDER scug that starts in the postsaint worldstate|在圣徒之后的世界中开始游玩。
 PLACEHOLDER|占位符
+An ancient legend calls you to a familiar, faraway land<LINE>to establish a new home for your kind. With your three companions,<LINE>offspring and apprentices both, you will lead the future of your species.|一个古老的传说召唤你到一个熟悉的，遥远的土地，<LINE>你与你的三名同伴——后裔以及两位学徒一起<LINE>为你的族群开辟一个新的家园。你将领导你们一族的未来。
 Withstanding Factory|垒郁工厂
 Sunlit Alleyways|日耀巷道
 Suburban Outpost|郊外哨所
@@ -1753,7 +1754,10 @@ Melting Depths|熔融深渊
 Farflung Beach|渺远海滩
 Nascent Woods|新生森林
 Fallen Spires|陨落尖塔
-
+Rusted Basin|锈蚀湾流
+Gloomy Marshland|阴郁泽滩
+The Undergrowth|地底密林
+Heart of the Jungle|密林核心
 //3217841693
 The Scrap|破碎
 THE SCRAP|破碎
@@ -1876,13 +1880,21 @@ Iceblasted Wastes|冰咒荒川
 WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
 Sunlit Power Plant|光能发电厂
 Overgrown Transfer System|蔓生运输系统
-//3304867363
 Forsaken Station|遗弃站点
-Forlorn Valley|荒芜山谷
-Underwood|林木之下
-Summit Edge|顶峰边缘
-Pristine Lake|纯净湖泊
-Mountain Railways|山地铁路
-Deep Lake|深湖
-Forsaken Station (Auxiliary Storage)|遗弃站点（辅助储存区）
+Deep Lake|深层湖泊
+Mountain Railways|登山轨道
 Forsaken Station (Supply Network)|遗弃站点（供应网络）
+Forsaken Station (Auxiliary Storage)|遗弃站点（辅助存储器）
+Forsaken Factory|遗忘工厂
+The Overgrowth|繁茂之地
+Factory Roof|工厂顶棚
+Desert Bus|边漠巴士
+Fog Gulch|雾惘隘谷
+Hadal Depths|溟府深渊
+Steaming Edifice|氤氲宏筑
+Cold Dredge|寒冻疏浚
+Lunar Byway|皓月小径
+Forlorn Valley|孤寂碑谷
+Pristine Lake|原始湖泊
+Underwood|地下灌丛
+Summit Edge|巅顶边缘

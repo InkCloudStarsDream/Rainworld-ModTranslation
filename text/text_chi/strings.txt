@@ -1118,7 +1118,7 @@ Big Pebbles is watching|石老大哥正在看着你
 Big Pebbles likes ruins too|石老大哥也喜欢废墟
 Big Pebbles is not disuaded by water|石老大哥不会被水分解
 Assimilation|溶洞
-Anchialine System|Anchialine系统
+Anchialine System|海蚀洞系
 Primordial Assimilation|原始消化
 //3019770072
 Coral Caves|珊瑚洞穴

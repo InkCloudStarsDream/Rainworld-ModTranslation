@@ -1897,17 +1897,32 @@ Forlorn Valley|孤寂碑谷
 Pristine Lake|原始湖泊
 Underwood|地下灌丛
 Summit Edge|巅顶边缘
-\\3314072844
+//2989792103
+VOLATILE|爆炸性
+Water Spitter|喷水蜥蜴
+Mole Salamander|鼹蝾螈
+Gecko|守宫蜥蜴
+Maraca Spider|沙锤响蛛
+Baby Croaker|小黄蜥蜴
+Hoverfly|食蚜蝇
+Bouncing Ball|爆弹龟
+Blizzor|雪钢鸟
+Fat Fire Fly|烈焰鹫
+LOST|迷失
+CONFUSED|困惑
+MARKED|被锁定
+//3314072844
 Probationary District 4B|试用区4B
-\\3026723782
+//3026723782
 Tidal Pools|潮汐岩池
 Void Vents|热流喷口
-\\3265401327
-The Nest|鸟巢
+//3265401327
+The Nest|巢穴
 The Fortress|要塞
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna|无人爱苦，亦无人寻之欲之，乃因其苦......
 The Wall 2|高墙2.0
-\\3016579669
+//3016579669
+Hallowed Caves|神圣洞穴
 Dark Forest|黑暗森林
 Hallowed Forest|神圣森林
 Moss Fields 2|苔藓原野2.0
@@ -1919,11 +1934,9 @@ Anchialine System|海蚀洞系
 Lost Facility|迷掉设施
 Research Station|研究站点
 Lush Laboratory|葱郁科室
-SCIENCE!|科！学！
 Unstable System|不稳结构
 Unstable Moss|不稳苔原
 Cicatrix|瘢痕
-Big Pebbles does not like the implications of this subregion.|石老大哥不喜欢这个区域的的意蕴
 Sealed Intelligence Unit|密闭智元
 //2923214961
 This regionpack is made of scrapped regions%2and many of them are unfinished|这个区域包是由废弃区域组成的，其中许多区域尚未完成
@@ -1938,5 +1951,223 @@ Crypt|地窟
 Growth|繁茂
 Shrouded|巨构
 Monolith|石碑
-Respite|歇息
+Respite|小憩
 Diseased|顽疾
+//3323298843
+Side World|子世界
+Actual Rain World|雨世界现状
+Side World (Suburban)|子世界(郊区)
+Side World (Dense Urban)|子世界（工业区）
+Side World (Shadow Urban)|子世界（阴影城堡）
+Side World (Garbage Wastes)|子世界（垃圾堆）
+Side World (Drainage System)|子世界（排水系统）
+Side World (Shoreline)|子世界（海岸线）
+Side World (Root)|子世界（支架）
+Side World (Underhang)|子世界（下悬挂）
+Side World (Wall)|子世界（高墙）
+Side World (Superstructure)|子世界（五块卵石）
+Side World (Chimney Canopy)|子世界（烟囱天棚）
+Side World (Sky Islands)|子世界（天空群岛）
+Side World (Linear Farms)|子世界（农场阵列）
+Side World (Subterranean)|子世界（地下）
+Side World (Temple)|子世界（遗迹）
+Side World (Hell Region)|子世界（无归界）
+Side World (Lost City)|子世界（大都会）
+Side World (Looks to the Moon)|子世界（海滨设施）
+Side World (Depths of Moon)|子世界（仰望皓月）
+Side World (Moon Structure)|子世界（沉没巨构）
+Side World (Outer Expanse)|子世界（外部旷野）
+I'm sorry (not really).|我很抱歉（并不）
+You can unlock the rest of this message for 5.99$!|解锁此条信息剩余部分仅需5.99R
+House of sus.|疑犯之家
+This is the only thing you can see clearly lol|这是你唯一能看清的玩意儿233
+Don't look down!|别往下看！
+The Cave Salamander will rise again.|洞穴蝾螈将再次伟大
+01101010100101011101010100101110101101000110100101101101001011010110100011010010110110100101010111010100010101101101001011011001101010100101011101010100101110101|我勒个五石可乐啊
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|1145141919810
+I'm on break.|休息时间
+RELEASE ME!|放 开 我！
+If you're an NPC you're from video games.|如果你是一个NPC那你一定来自电子游戏
+BAKE YOUR ROOMS BEFORE PUBLISHING THEM!|你得在发布这个MOD区域前烤制你的房间！
+Always watching Always watching Always watching Always watching Always watching Always watching Always watching Always watching |一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你
+I'm tired.|我累了
+Behind you.|在你背后
+It's Toasty in here.|里面很温暖
+Two towers of DEATH!|死亡双子塔！
+Side World (General system Bus)|子世界（通用系统总线）
+Oh yeah, it's Mooning time!|太棒了，现在是月姐时间！
+Skull Emoji|嘟嘟哒嘟嘟哒
+Front House|前厅
+//3321866775
+Underbelly|灰色地带
+The Shallows|滩涂
+Power Core|电力核心
+Pipeline|输送管线
+Scavenger lair|拾荒者巢穴
+Wreckage|残骸
+//3319240539
+Seven Red Suns|七轮红日
+The Fastener|紧锁架
+Sunlit Exterior|日灼外缘
+Scorching Grid|炙热电网
+//3292691345
+Primordial Shore|原始海岸
+Palace Grounds|宫殿广场
+Sunken Drill Site|沉没钻井
+Basalt Facility|玄岩设施
+Smoldering Jungle|郁积丛林
+Temple|庙宇
+//3324777051
+The Wanderer|漫游者
+THE WANDERER|漫游者
+Curious and calm, with a deep desire to discover the ancient mysteries around it.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.|好奇且冷静，深切渴望发现身边的古老奥秘。<LINE>与你周身的世界及万事紧密联系，你的旅途将对远远大于你自身的存在产生深远影响。
+Intake System|吸入系统
+Looks to the Moon|仰望皓月
+The Fragmented Exterior|碎裂外缘
+Forest Sanctuary|森林圣域
+Depot Remnants|库运残骸
+Preservation Facility|维存设施
+Water Reservoir|水库
+Gravity Pump|重力泵
+The West Leg|西侧支架
+The East Leg|东部支架
+The Wall|高墙
+Looks To The Moon (General System Bus)|仰望皓月(通用系统总线)
+Looks To The Moon (Damaged Transform Arrays)|仰望皓月 (损坏的变压阵列)
+Looks To The Moon (Memory Conflux)|Looks To The Moon (内存集合)
+DroughtAssets folder is missing! Put DroughtAssets with [Rain World Drought.dll]!DroughtAssets文件夹丢失！请将DroughtAssets放入[Rain World Drought.dll]！
+EnumExtender is missing! Download EnumExtender from RainDB - Tools Category.|EnumExtender丢失! 请从RainDB - Tools类别下载EnumExtender。
+Directory [<assetDir>] is missing: Reinstall DroughtAssets.|目录[<assetDir>]丢失:请重新安装DroughtAssets。
+File [<file>] is missing: Reinstall DroughtAssets.|文件[< File >]丢失:请重新安装DroughtAssets。
+Error occured while loading Drought Atlas [<file>]: Reinstall DroughtAssets.|加载Drought Atlas [<file>]时发生错误:请重新安装DroughtAssets。
+While on the ground, tap MAP and then press JUMP to slow down time.|在地面上时，轻按地图键，然后按跳跃键来延缓时间。
+Then hold a DIRECTION and press JUMP to finish the boost.|然后按住任意方向键并按下跳跃键来结束推动。
+Little creature|小生灵
+little creature|小生灵
+Little messenger|小信使
+little messenger|小信使
+Messenger|信使
+messenger|信使
+Little tormentor|小魔头
+little tormentor|小魔头
+Little annoyance|小烦人精
+little annoyance|小烦人精
+Traitor|叛徒
+traitor|叛徒
+Little archaeologist|小考古学家
+little archaeologist|小考古学家
+Little friend|小朋友
+little friend|小朋友
+Little helper|小帮手
+little helper|小帮手
+My little friend|我的小朋友
+my little friend|我的小朋友
+You're reaching the end of your journey, little friend.|你即将抵达旅途的终点，小朋友。
+Thank you, for helping me.|感谢你帮助我。
+I have very little to give you.|我没什么可以给你的。
+Here.|在这。
+Please, don't play around with those.|拜托了，别玩弄那些东西。
+That's all. You can go now.|这就是全部了。你现在可以走了。
+LEAVE.|离开。
+You again.|又是你。
+Hello messenger.|你好信使。
+Do you have that pearl Suns was talking about?|你有红日说的那个珍珠吗？
+You are welcome to stay here, but I must return to my work shortly.|欢迎你留在这里，但我必须立刻回去工作。 
+Again?|还来？
+You.|你。
+Please stop annoying me.|麻烦别再烦我了。
+Oh, it's you, <PlayerName>.|哦，是你，<PlayerName>。
+Hello again, <PlayerName>.|又见面了, <PlayerName>。
+Hello, <PlayerName>.|你好, <PlayerName>。
+Welcome back.|欢迎回来。
+Oh, <PlayerName>. Hello.|哦，<PlayerName>。你好。
+It's you, <PlayerName>. Hello.|是你, <PlayerName>.你好。
+Ah... <PlayerName>, you're here again.|啊... <PlayerName>，你又来了。
+Ah... <PlayerName>, you're back.|啊... <PlayerName>, 你回来了。
+Hello again, <PlayerName>!|又见面了, <PlayerName>！
+Hello, <PlayerName>!|你好, <PlayerName>！
+How have you been?|最近过得怎么样?
+Oh, <PlayerName>. Hello!|哦, <PlayerName>。你好！
+It's you, <PlayerName>! Hello.|是你, <PlayerName>! 你好。
+Ah... <PlayerName>, you're here again!|啊... <PlayerName>，你又来了！
+Ah... <PlayerName>, you're back!|啊... <PlayerName>, 你回来了!
+Please. Calm down.|冷静点，拜托了。
+Stop it!|停下来！
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>！别动，仔细听。
+I won't let you stay here, if you continue like this.|如果你再这样下去，我不会让你待在这里。
+Why should I tolerate this?|我为什么要忍受这个？
+STOP!|停下！
+This again.|又来了。
+Calm down, <PlayerName>.|冷静下来，<PlayerName>。
+Are you done?|你忙完了吗？
+What are you doing?|你在干什么？
+Down you go.|忙你的去吧。
+Leave me alone!|别烦我！
+Thank you.|谢谢你。
+As I was saying...|正如我之前所述……
+As I tried to say to you...|正如我想对你说的……
+Little messenger, stop that immediately!|小信使，立刻停止那种行为！
+Let's continue...|让我们继续……
+And now you expect me to continue speaking?|现在你想让我继续说下去了?
+Let us try again - not that it has worked well before. I was saying...|让我们再来一次——这倒不是说之前的很顺利。我是说……
+As I tried to say to you...|正如我想对你说的……
+If you behave like this, why should I talk to you?|如果你这样做，我为什么要和你说话?
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|你远道而来，却不懂得尊重我。<LINE>这次你会好好听吗?
+Now, if you let me, I will try to say this again.|现在，如果你允许的话，我会试着再说一遍。
+Just a minute, little messenger.|等一下，小信使。
+You've helped me, and I am thankful for that, but you must go now.|我很感激你对我的帮助，但你现在必须得走了。
+Oh, Something from outside?|哦，外面来的东西？
+Another thing for me to inspect?|还有什么要我看看的吗？
+I will take a look.|我来看看。
+What is that, <PlayerName>?|那是什么，<PlayerName>？
+What is it, <PlayerName>?|是什么， <PlayerName>？
+Yet another thing?|还有事吗?
+Another thing for me to study?|另一个给我读的东西？ 
+You're unusually curious, <PlayerName>!|你的好奇心真重，<PlayerName>！
+Oh... I will look at it.|哦……我会仔细看看。
+Oh... sure, I will take a look.|哦……好的，我会仔细看看。
+Something new you want me to investigate, <PlayerName>?|Something new you want me to investigate, <PlayerName>？ /// 5th and so on
+Let me see.|让我看看。
+Oh, what is that, <PlayerName>?|哦，那是什么，<PlayerName>？
+Yet another thing?|还有另一样东西？
+Your curiosity seems expansive, <PlayerName>.|你的好奇心似乎没有极限， <PlayerName>。
+Something else you want me to look at?|你还有什么想给我看的？
+Something else you want me to see,<LINE>I suppose, <PlayerName>?|我猜，你还有什么想给我看的，<LINE><PlayerName>？
+Oh... I will take a look.|哦……我来看看。
+Do you want me to take a look at that?|你想让我看看这个吗？
+Oh... Should I look at that?|哦……是要我看这个吗？
+Another thing for me, <PlayerName>?|另一个给我的东西，<PlayerName>？
+A new object for me, <PlayerName>?|给我的新物品， <PlayerName>？
+I have already read this one to you, <PlayerName>.|我已经给你读过这个了， <PlayerName>。
+This one I've already read to you, <PlayerName>.|这个我已经给你读过了，<PlayerName>。
+This one, <PlayerName>?|这一个，<PlayerName>？
+We have already talked about this one, <PlayerName>.|我们已经讨论过这个了，<PlayerName>。
+I've told you about this one, <PlayerName>.|我和你讲过这个了，<PlayerName>。
+<PlayerName>! AGAIN with this?|<PlayerName>！又是这一个？
+GIVE THAT BACK, VERMIN!|还给我，害虫!
+Yes, take it and don't bother me.|对，把那个拿走别再打扰我了。
+And now you're taking it.|而现在你却要拿走了。
+Oh... Okay, have it back.|哦……好吧，拿回去吧。 
+You want it back?|你想拿回来?
+And now you're taking it back.|现在你又把它收回来了。
+Want it back, <PlayerName>?|想拿回来，<PlayerName>？
+Oh...|哦……
+Yes, you may to have it back.|是的，你可以把它拿回去。
+Ah, a pearl. Not the message though. Would you like me to read it to you?|啊，一颗珍珠。但不是信件。你想让我读给你听吗？
+Another pearl! You want me to read this one too? Just a moment...|另一颗珍珠!你想让我也读一下这颗吗?稍等……
+And yet another one! I will read it to you.|又一颗!我来读给你听。
+Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits?|又一个?你对知识的渴望真了不起!<LINE>还是我的阅读能令你感到平静?
+Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|让我们看看……<LINE>老实说，<PlayerName>，我和你一样好奇里面是什么。
+The scavengers must be envious of you.|拾荒者们一定会嫉妒你的。
+Here we go again, <PlayerName>. Let's read your pearl.|又来了，<PlayerName>。让我们看看你的珍珠吧。
+... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.|……知道吗，你越来越擅长这个了。考古的小生灵。<LINE>现在，让我们看看它上面写了什么。
+And yet another one! I will read it to you in a moment.|又来一个!我一会儿就读给你听。
+So many of these lately! I see you've been wandering the world a lot.|最近带来这么多珍珠!我猜你一直在漫游这个世界。
+You would like me to read this?|你想要我读这个？
+This pearl must have been used recently. You can still feel the heat.|这颗珍珠肯定最近被使用过。你仍然能感觉到它的温度。
+A pearl... This one is crystal clear - it was used recently.|一颗珍珠……这个非常清晰，是最近使用过的。
+Would you like me to read this pearl?|你想让我读这颗珍珠吗？
+It has been recently written to.|它一定是最近才被写入的。
+This pearl has been written to just now!|有人刚才写入了这颗珍珠!
+Let's see... A pearl...|让我看看...一颗珍珠...
+And this one is sharp! It was not long ago this data was written to it!|这颗很清晰！数据刚被写入其内部不久！

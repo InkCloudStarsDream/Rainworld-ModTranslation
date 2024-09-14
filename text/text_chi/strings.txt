@@ -1877,8 +1877,8 @@ Weaverville|威弗维尔镇
 Iceblasted Wastes|冰咒荒川
 //3272297488
 WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
-Sunlit Power Plant|光能发电厂
-Overgrown Transfer System|蔓生运输系统
+Sunlit Power Plant|日耀电厂
+Overgrown Transfer System|蔓生运线
 Forsaken Station|遗弃站点
 Deep Lake|深层湖泊
 Mountain Railways|登山轨道
@@ -1892,25 +1892,55 @@ Fog Gulch|雾惘隘谷
 Hadal Depths|溟府深渊
 Steaming Edifice|氤氲宏筑
 Cold Dredge|寒冻疏浚
-Lunar Byway|皓月小径
+Lunar Byway|月之小径
 Forlorn Valley|孤寂碑谷
 Pristine Lake|原始湖泊
 Underwood|地下灌丛
 Summit Edge|巅顶边缘
 //2989792103
-VOLATILE|爆炸性
-Water Spitter|喷水蜥蜴
+Water Spitter|射水蜥蜴
 Mole Salamander|鼹蝾螈
-Gecko|守宫蜥蜴
-Maraca Spider|沙锤响蛛
+Gecko|波动蜥蜴
+Echo Leviathan|回响利维坦
+Hunter Seeker|隐猎蜥蜴
+Maraca Spider|爆鳞响蛛
 Baby Croaker|小黄蜥蜴
+Jelly Long Legs|长腿果冻
+Mini Leviathan|迷你利维坦
+Bigrub|大型管虫
+Thorn Bug|棘刺虫
+Water Blob|活泡水果
+Silver Lizard|银蜥蜴
 Hoverfly|食蚜蝇
 Bouncing Ball|爆弹龟
 Blizzor|雪钢鸟
 Fat Fire Fly|烈焰鹫
+Bombardier Vulture|爆鳞鹫
+Drain Mites|水道螨
+Reaper Lizard|南瓜蜥蜴
+Scroungers|行乞者
+Scutigera|钢蜈蚣
+Noodle Eater|食面蜥蜴
+Polliwog|抗震蝾螈
+Sporantula|孢子狼蛛
+Surface Swimmer|水黾
+Red Horror Centipede|烈焰飞蜈蚣
+Udonfly|乌冬面蝇
+Mosquitos|蚊子
+Angry Mosquitos|怒蚊
+Exploding Mosquitos|爆炸蚊
+Fog Vulture|雾隐鹫
+Gray Lizard|灰蜥蜴
+Sea Drake|海龙怪
+Walker Beast|雨龙
+Bubble Weaver|气泡编蛛
+Sapphiric Weaver|蓝宝石编蛛
+Fanged Lizard|毒牙蜥蜴
+Great Fanged Lizard|巨啃蜥蜴
 LOST|迷失
 CONFUSED|困惑
 MARKED|被锁定
+VOLATILE|爆炸性
 //3314072844
 Probationary District 4B|试用区4B
 //3026723782
@@ -1955,7 +1985,7 @@ Respite|小憩
 Diseased|顽疾
 //3323298843
 Side World|子世界
-Actual Rain World|雨世界现状
+Actual Rain World|乙逝界
 Side World (Suburban)|子世界(郊区)
 Side World (Dense Urban)|子世界（工业区）
 Side World (Shadow Urban)|子世界（阴影城堡）
@@ -1999,7 +2029,7 @@ Oh yeah, it's Mooning time!|太棒了，现在是月姐时间！
 Skull Emoji|嘟嘟哒嘟嘟哒
 Front House|前厅
 //3321866775
-Underbelly|灰色地带
+Underbelly|结合部
 The Shallows|滩涂
 Power Core|电力核心
 Pipeline|输送管线
@@ -2031,17 +2061,17 @@ Water Reservoir|水库
 Gravity Pump|重力泵
 The West Leg|西侧支架
 The East Leg|东部支架
-The Wall|高墙
-Looks To The Moon (General System Bus)|仰望皓月(通用系统总线)
+The Decaying Wall|衰蚀高墙
+Looks to the Moon (General System Bus)|仰望皓月(通用系统总线)
 Looks To The Moon (Damaged Transform Arrays)|仰望皓月 (损坏的变压阵列)
-Looks To The Moon (Memory Conflux)|Looks To The Moon (内存集合)
+Looks To The Moon (Memory Conflux)|仰望皓月(内存汇流)
 DroughtAssets folder is missing! Put DroughtAssets with [Rain World Drought.dll]!DroughtAssets文件夹丢失！请将DroughtAssets放入[Rain World Drought.dll]！
 EnumExtender is missing! Download EnumExtender from RainDB - Tools Category.|EnumExtender丢失! 请从RainDB - Tools类别下载EnumExtender。
 Directory [<assetDir>] is missing: Reinstall DroughtAssets.|目录[<assetDir>]丢失:请重新安装DroughtAssets。
 File [<file>] is missing: Reinstall DroughtAssets.|文件[< File >]丢失:请重新安装DroughtAssets。
 Error occured while loading Drought Atlas [<file>]: Reinstall DroughtAssets.|加载Drought Atlas [<file>]时发生错误:请重新安装DroughtAssets。
 While on the ground, tap MAP and then press JUMP to slow down time.|在地面上时，轻按地图键，然后按跳跃键来延缓时间。
-Then hold a DIRECTION and press JUMP to finish the boost.|然后按住任意方向键并按下跳跃键来结束推动。
+Then hold a DIRECTION and press JUMP to finish the boost.|然后按住任意方向键并按下跳跃键来完成弹射。
 Little creature|小生灵
 little creature|小生灵
 Little messenger|小信使
@@ -2171,3 +2201,5 @@ It has been recently written to.|它一定是最近才被写入的。
 This pearl has been written to just now!|有人刚才写入了这颗珍珠!
 Let's see... A pearl...|让我看看...一颗珍珠...
 And this one is sharp! It was not long ago this data was written to it!|这颗很清晰！数据刚被写入其内部不久！
+//3022284148
+Old Hanging Gardens|旧悬苑

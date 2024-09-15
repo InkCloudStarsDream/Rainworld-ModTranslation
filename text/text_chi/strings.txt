@@ -1,4 +1,4 @@
-﻿0Dreamstars.ModTranslation-name|模组翻译
+0Dreamstars.ModTranslation-name|模组翻译
 Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
 //2923214961
 Industrial District|工业遗迹
@@ -1118,7 +1118,6 @@ Big Pebbles is watching|石老大哥正在看着你
 Big Pebbles likes ruins too|石老大哥也喜欢废墟
 Big Pebbles is not disuaded by water|石老大哥不会被水分解
 Assimilation|溶洞
-Anchialine System|Anchialine系统
 Primordial Assimilation|原始消化
 //3019770072
 Coral Caves|珊瑚洞穴
@@ -1741,6 +1740,7 @@ Matriarch|族长
 MATRIARCH|族长
 PLACEHOLDER scug that starts in the postsaint worldstate|在圣徒之后的世界中开始游玩。
 PLACEHOLDER|占位符
+An ancient legend calls you to a familiar, faraway land<LINE>to establish a new home for your kind. With your three companions,<LINE>offspring and apprentices both, you will lead the future of your species.|一个古老的传说召唤你到一个熟悉的，遥远的土地，<LINE>你与你的三名同伴——后裔以及两位学徒一起<LINE>为你的族群开辟一个新的家园。你将领导你们一族的未来。
 Withstanding Factory|垒郁工厂
 Sunlit Alleyways|日耀巷道
 Suburban Outpost|郊外哨所
@@ -1753,7 +1753,10 @@ Melting Depths|熔融深渊
 Farflung Beach|渺远海滩
 Nascent Woods|新生森林
 Fallen Spires|陨落尖塔
-
+Rusted Basin|锈蚀湾流
+Gloomy Marshland|阴郁泽滩
+The Undergrowth|地底密林
+Heart of the Jungle|密林核心
 //3217841693
 The Scrap|破碎
 THE SCRAP|破碎
@@ -1876,13 +1879,64 @@ Iceblasted Wastes|冰咒荒川
 WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
 Sunlit Power Plant|光能发电厂
 Overgrown Transfer System|蔓生运输系统
-//3304867363
 Forsaken Station|遗弃站点
-Forlorn Valley|荒芜山谷
-Underwood|林木之下
-Summit Edge|顶峰边缘
-Pristine Lake|纯净湖泊
-Mountain Railways|山地铁路
-Deep Lake|深湖
-Forsaken Station (Auxiliary Storage)|遗弃站点（辅助储存区）
+Deep Lake|深层湖泊
+Mountain Railways|登山轨道
 Forsaken Station (Supply Network)|遗弃站点（供应网络）
+Forsaken Station (Auxiliary Storage)|遗弃站点（辅助存储器）
+Forsaken Factory|遗忘工厂
+The Overgrowth|繁茂之地
+Factory Roof|工厂顶棚
+Desert Bus|边漠巴士
+Fog Gulch|雾惘隘谷
+Hadal Depths|溟府深渊
+Steaming Edifice|氤氲宏筑
+Cold Dredge|寒冻疏浚
+Lunar Byway|皓月小径
+Forlorn Valley|孤寂碑谷
+Pristine Lake|原始湖泊
+Underwood|地下灌丛
+Summit Edge|巅顶边缘
+\\3314072844
+Probationary District 4B|试用区4B
+\\3026723782
+Tidal Pools|潮汐岩池
+Void Vents|热流喷口
+\\3265401327
+The Nest|鸟巢
+The Fortress|要塞
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna|无人爱苦，亦无人寻之欲之，乃因其苦......
+The Wall 2|高墙2.0
+\\3016579669
+Dark Forest|黑暗森林
+Hallowed Forest|神圣森林
+Moss Fields 2|苔藓原野2.0
+Hallowed Depths|神圣石窟（深处）
+Moss Depths|苔藓深处
+Primordial Roots|原始根源
+Ancient Roots|古老根源
+Anchialine System|海蚀洞系
+Lost Facility|迷掉设施
+Research Station|研究站点
+Lush Laboratory|葱郁科室
+SCIENCE!|科！学！
+Unstable System|不稳结构
+Unstable Moss|不稳苔原
+Cicatrix|瘢痕
+Big Pebbles does not like the implications of this subregion.|石老大哥不喜欢这个区域的的意蕴
+Sealed Intelligence Unit|密闭智元
+//2923214961
+This regionpack is made of scrapped regions%2and many of them are unfinished|这个区域包是由废弃区域组成的，其中许多区域尚未完成
+There are many more dead ends like this one%2and several areas are very rough to play|还有更多像这样的死胡同，有几个区域非常粗糙
+These regions were each scrapped for a reason%2so please don't be too critical - most of that criticism is already known|这些区域的废弃都是有原因的，所以请不要太抱怨——大多数此类意见已经听多了
+This next area is entirely a dead end - proceed at your own pain|下个区域是一个完全的死胡同——接着自寻烦恼吧
+//3305713194
+Community Gallery 2024|社区画廊2024
+Bridge|栈桥
+Suspended|悬架
+Crypt|地窟
+Growth|繁茂
+Shrouded|巨构
+Monolith|石碑
+Respite|歇息
+Diseased|顽疾

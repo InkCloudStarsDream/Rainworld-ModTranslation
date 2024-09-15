@@ -2075,6 +2075,7 @@ Gravity Pump|重力泵
 The West Leg|西支架
 The East Leg|东支架
 The Wall|高墙
+The Decaying Wall|腐烂外缘
 /// 仰望皓月
 Looks To The Moon (General System Bus)|仰望皓月（通用串行总线）
 Looks To The Moon (Damaged Transform Arrays)|仰望皓月（损毁转换阵列）
@@ -2239,11 +2240,11 @@ Want it back, <PlayerName>?|你想要回他吗，<PlayerName>?
 Oh...|哦...
 Yes, you may to have it back.|行吧，看样子你想要回它。
 /// 其他珍珠引入语
-Ah, a pearl. Not the message though. Would you like me to read it to you?|啊，是个珍珠。尽管没有我想要的，<LINE>你像听我读它吗？/// 第一次
+Ah, a pearl. Not the message though. Would you like me to read it to you?|啊，是个珍珠。尽管没有我想要的，<LINE>你想听我读它吗？/// 第一次
 Another pearl! You want me to read this one too? Just a moment...|另一个珍珠！ 你想听我读这个吗？稍等一下 /// 第二次
 And yet another one! I will read it to you.|又是一个珍珠！我读一下。 /// 第三次
 Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits?|又是一个？你的求知欲可真强！<LINE>或者你只是把我读珍珠当休息时间？ /// 第四次
-Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|让我看看... 说真的，<LINE>我很好奇你们体内到底有什么。 /// 第四次，五块卵石喜欢时额外补充。
+Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|让我看看... 说真的，<LINE>我和你一样很好奇它里面有什么。 /// 第四次，五块卵石喜欢时额外补充。
 The scavengers must be envious of you.|拾荒者们会嫉妒你的。 /// 大于等于五次随机触发
 Here we go again, <PlayerName>. Let's read your pearl.|好，继续吧，<PlayerName>。让我看看你的珍珠。
 ... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.|... 我觉得，你应该知道你很擅长这个。小考古学家。<LINE>好，让我看看里面有什么。

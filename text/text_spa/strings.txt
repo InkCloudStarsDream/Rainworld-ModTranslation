@@ -1,0 +1,165 @@
+0Dreamstars.ModTranslation-name|Traducción de mods
+Dreamstars.ModTranslation-description|Este mod es utilizado para traducir el texto que otros mods agregan.<LINE><LINE>áreas de traducción:<LINE>regiones de mods<LINE>gato-babosas de mods<LINE>perlas personalizadas<LINE>diálogos personalizados<LINE>misiones personalizadas<LINE>comentarios de desarrollador personalizados<LINE><LINE>Si encuentran algo que me olvidé de traducir, dígamenlo en los comentarios o en github.<LINE><LINE>aquí les dejo la versión sin steam: https://github.com/InkCloudStarsDream/Rainworld-ModTranslation<LINE>Actualmente solo incluye chino y español, pero son libres de ayudarme a traducir a otros idiomas.<LINE>Si desean ayudarme a traducir o darme algún consejo, por favor, abran un pull request, gracias por su ayuda.<LINE><LINE>Agradecimientos especiales:<LINE>@Exmeow<LINE>@Celen
+TEXT ERROR|ERROR DE TEXTO
+//msc
+Thanks Andrew.|Gracias, Andrew.
+Painage System|Sistema de Drenadolor
+Nachos Will Never Be The Same|Los Nachos Nunca Serán Lo Mismo
+we forgot to render this one sorry|nos olvidamos de renderizar este, perdón
+Tower of Gains|Torre de Recompensas
+Uberhang|Súper Desnivel
+TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|TUBERÍAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+Moist|Humedal
+Andrew's Basement|Sótano de Andrew
+//2964671523
+THE GRAVEL-EATER|EL COMEGRAVA
+The Gravel-Eater|El comegrava
+Gravel-Eater|Comegrava
+Awoken from a deep slumber, and tragically stuck in a delicate equilibrium. <LINE> Given a chance at life, will you ever find normalcy? |Despertado de una duermevela profunda y trágicamente adherido a un equilibrio delicado. <LINE> Otorgado con una oportunidad en la vida, ¿podrás hallar algun día la normalidad? 
+Seeking refuge from their delacate balance, The Gravel-Eater<LINE>strides foreward through the constant pain|Buscando un refugio por su delicada estabilidad,<LINE>el Comegrava avanza a zancadas atravesando el dolor constante.
+You are starving, find rocks and other objects to consume.|Tienes inanición, encuentra rocas y otros objetos que consumir.
+While in the starved state, you have boosts in attacks and movement.|Mientras estés en un estado de inanición, tus ataques y movilidad mejorarán.
+Holding UP while swallowing or while an object is in your stomach may craft something new.|Mantener pulsado ARRIBA mientras tragas o mientras esté un objeto en tu estómago hará que fabriques algo nuevo.
+Options|Opciones
+Gravel Eater Config|Configuraciones del Comegrava
+Unlocked new config for Gravel Eater!|¡Nuevo ajuste desbloqueado para el Comegrava!
+You are now nourished and full of gravel.|Ahora estás nutrido y lleno de grava.
+You are more heavy and durable in this state, and can withstand some damage.|Eres más pesado y resistente en este estado, y puedes aguantar algo de daño.
+You can spit out rocks and empty your stomach to return to the Malnourished state.|Puedes escupir rocas y vaciar tu estómago para regresar al estado Desnutrido.
+Balance achieved|Estabilidad alcanzada
+Little Experiment?|¿Pequeño experimento?
+Alone again...|Otra vez en soledad...
+Oh...|Oh...
+You should leave quickly before the rain crushes you.|Debes irte enseguida antes de que te aplaste la lluvia.
+Quickly, find a shelter nearby. It will protect you from my rushing waters.|Rápido, encuentra un refugio cercano. Te protegerá de mis impetuosas aguas.
+Please find some safety for yourself. I want to see you again.|Por favor, encuentra un lugar del que resguardarte. Quiero verte otra vez.
+...Stars...|... Estrellas...
+pretty|hermosas.
+...Night... coming... Soon...|... Está por... ser de... noche...
+Night... You can stay. It will be fine.|Noche... puedes quedarte. No va a pasar nada.
+Night is coming. Now, leave me alone.|Está por ser de noche. Ahora déjame en paz.
+Take your offspring with you.|Llévate a tu retoño contigo.
+Take your pet with you.|Llévate a tu mascota contigo.
+I think night is approaching.|Creo que la noche se aproxima.
+You can stay if you like, <PlayerName>! It will be fine.<LINE>The stars are beautiful, somtimes it's hard to see them through the rain and snow..|¡Puedes quedarte si quieres, <PlayerName>! No va a pasar nada.<LINE>Las estrellas son hermosas, a veces son difíciles de ver por la lluvia y la nieve.
+Your family is welcome to stargaze too!|¡También puedes hacer que tu familia contemple las estrellas!
+Your friend is welcome to stargaze too!|¡También puedes hacer que tu amigo contemple las estrellas!
+Why have you taken all i have?|¿Por qué te has llevado todo lo que tengo?
+Give it to me.|Dámelo.
+Please bring it back to me.|Por favor, devuélvemelo.
+Go away|Vete.
+I have not forgotten the pain you have given me.|No he olvidado el dolor que me has causado.
+I have so little left. Why is it that you hurt me?|Me queda tan poco. ¿Por qué me haces daño?
+Please leave me alone.|Por favor, déjame en paz.
+Oh, little experiment!|Oh, ¡pequeño experimento!
+I... don't even know what to say.|Yo... no sé ni qué decir.
+Hm? You can understand me, can't you?|¿Hm? Puedes enterderme, ¿verdad?
+Some solution you were while in that vegetative state.|Eras, en cierto punto, una solución mientras estabas en ese estado vegetativo.
+I tried so hard to wake you; you were my last hope.|Intenté todo lo posible para despertarte, eras mi última esperanza.
+But who am I to put such trust in a simple creature?|Pero quién soy yo como para dar dicha confianza a una simple criatura.
+There is nothing you can do now, nothing left to save.|No hay nada que puedas hacer ahora, nada que salvar.
+Though I would enjoy the company for a while longer before you move on, if you please.|Aunque disfrutaría de la compañía un rato más antes de que sigas avanzando, si me lo permites.
+Hello again, little one.|Hola otra vez, pequeño.
+I bet you're wondering how it came to be that you are my creation.|Apuesto a que te estás preguntando cómo es que resultaste ser de mi creación.
+I took note of the persistence and... annoyance... of your kind repeatedly entering the floor of my chamber.|Tomé nota de la persistencia y... molestia... de los de tu especie entrando repetidamente al suelo de mi cámara.
+No easy feat for just any creature, might I add.|Es toda una proeza para cualquier criatura, agregaría yo.
+So, I deep-scanned one for myself to create a template and used the DNA scan to replicate my own.|Entonces, escaneé uno en profundidad para crear una plantilla y utilizé un escaneo de ADN para replicar el mío.
+A method used by some of my old peers, you see...|Un método usado por algunos de mis viejos colegas, ¿entiendes?
+Fallen Cathedral|Catedral Caída
+Solventicon|Solventicón
+The Fissure|La Grieta
+Deep Reservoir|Embalse Profundo
+Faulting Airducts|Conductos de Aire Defectuosos
+Sunbaked Archipelago|Archipiélago Quemado
+//3212425005
+SPEARSLUG|LANZABABOSA
+Spearslug|Lanzababosa
+The Spearslug|El lanzababosa
+by|de
+A hybrid between organic and artificial.|Un híbrido entre lo orgánico y lo artificial.
+If you wish to change the controls for making spears, or the Arti jump, go to input settings.|Si deseas cambiar los controles para crear lanzas o el salto de Arti, ve a los ajustes de entrada.
+Apex Predator|Superdepredador
+Allows you to use Arti's jump/parry mechanics.|Te permite usar las mecánicas de salto/bloqueo de Arti.
+Feed Using Spears|Alimentarte usando lanzas
+Allows you to feed off thrown spears.|Te permite alimentarte de lanzas arrojadas.
+Duel Wield|Doble empuñe
+Allows you to duel-wield spears.|Te permite empuñar dos lanzas a la vez.
+Enable Pups|Activar crías
+Allows pups to spawn naturally in-game.|Permite a las crías aparecer naturalmente dentro del juego.
+Make Spear|Crear lanza
+The key held to make Spearslug create a new spear. (Default: Q)|Botón que se mantiene pulsado para hacer que el Lanzababosa cree una nueva lanza.  (Predeterminado: Q)
+//3232063592
+Chasing Wind|Persiguiendo al Viento
+Chasing Wind (Main Processing Cortex)|Persiguiendo al Viento (Córtex de Procesamiento Principal)
+Chasing Wind (Lymphatic Conduits)|Persiguiendo al Viento (Conductos Linfáticos)
+Chasing Wind (Memory Conflux)|Persiguiendo al Viento (Confluencia de Recuerdos)
+Chasing Wind (Inner Wall)|Persiguiendo al Viento (Muro Interior)
+The Anchor|El Anclaje
+Met Chasing Wind|Has conocido a Persiguiendo al Viento
+Brought the slag keys to Chasing Wind|Llaves de escoria traídas a Pers. al Viento
+Unique pearls read by Chasing Wind : |Perlas únicas leídas por Pers. al Viento: 
+//3264144524
+Track:|Pista:
+//3288406859
+Sacrifice|Sacrificio
+The Sacrifice|El sacrificio
+THE SACRIFICE|EL SACRIFICIO
+A frail creature, sent unprepared into a harsh and unforgiving world, to an unknown fate...|Una criatura débil, enviada desprevenida a un mundo hostil y despiadado, a un destino desconocido...
+Executioner|Verdugo
+The Executioner|El verdugo
+THE EXECUTIONER|EL VERDUGO
+(WIP) A massive, powerful beast, intent on crushing and devouring the unworthy.|(WIP) Una bestia descomunal y poderosa, decidida a aplastar y devorar a los indignos.
+Hermit|Ermitaño
+The Hermit|El ermitaño
+THE HERMIT|EL ERMITAÑO
+(WIP) A snail slugcat, whose powerful snailpop and strong arms stand in contrast to its unassuming appearance.|(WIP) Un gato-babosa caracol, cuyos poderosos plums y fuertes brazos contrastan con su modesta apariencia.
+You are a small and frail creature, not built for sustained life.|Eres una criatura pequeña y débil, no hecha para una vida duradera.
+You must rely on wits to survive.|Debes confiar en tu buen juicio para sobrevivir.
+Hold (GRAB) to chirp.|Mantén pulsado (AGARRAR) para chirriar.
+Press (GRAB)+(JUMP) together to boostjump.|Pulsa (AGARRAR)+(SALTAR) juntos para saltar más alto.
+You can starve to change modes.|Puedes morirte de hambre para cambiar de modo.
+Holding (UP)+(THROW) together while at full food pips will also change modes.|Mantener pulsado (ARRIBA)+(LANZAR) juntos mientras te encuentras lleno también cambiará de modo.
+Executioner is still WIP! Story will be made soon.|¡El Verdugo es aún un trabajo en elaboración! La historia estará hecha pronto.
+You can swallow rocks to make electric grenades for 1 pip.|Puedes tragar rocas para hacer granadas eléctricas a cambio de 1 punto de comida.
+Hold (GRAB)+(UP) to charge yourself with the grenade.|Mantén pulsado (AGARRAR)+(ARRIBA) para cargarte con la granada.
+Press (GRAB)+(JUMP) together to dash, if you have charges.|Pulsa (AGARRAR)+(SALTAR) juntos para hacer un dash, si tienes cargas.
+Experiment with your abilities!|¡Experimenta con tus habilidades!
+Hermit is still WIP! Story will be made soon.|¡El Ermitaño es aún un trabajo en elaboración! La historia estará hecha pronto.
+You must crawl, swim, and climb. Your arms make up for your lack of legs.|Debes arrastrarte, nadar y trepar. Tus brazos compensan tu falta de patas.
+Your shell is a handy tool. It will help protect you.|Tu caparazón es una herramienta práctica. Te ayudará a protegerte.
+Press (GRAB)+(JUMP) together to snailpop.|Pulsa (AGARRAR)+(SALTAR) juntos para hacer plums de caracol.
+More to come soon!|¡Más por venir pronto!
+...|...
+... M-My thoughts... flooding b-b-back... A... Neuron? Mine?|... Mi-Mis pensamientos... regresa-sa-sando... ¿Una... Neurona? ¿Mía?
+... No... A creature of... s-some sort...|... No... Una criatura de... a-algún tipo...
+... What are you...? That color... You're formatted to me...|... ¿Qué eres?... Ese color... Estás formateado para mí...
+And yet... Your data... These memories...|Aunque... Tus datos... Estos recuerdos...
+A gift...?|¿Un obsequio?...
+Suns... why such a method...? It can't be...|Soles... ¿por qué tal método?... No puede ser...
+... Just so... I can live a little longer...?|... ¿Solo para... poder vivir un poco más?...
+I don't know what will become of us. It may be pointless.|No sé qué será de nosotros. Puede ser vano.
+... I don't want to be alone... not again, lost and unthinking...|... No quiero estar sola... no de nuevo, perdida e irreflexiva.
+... Thank you for... making this journey to me.|... Gracias por... hacer este viaje hacia mí.
+But I don't... I don't know if it matters.|Pero no... no sé si lo vale.
+You won't survive in the cold like this. Not with your current form.|No sobrevivirás en un frío así. No con tu forma actual.
+I don't think there's anything that can be done... I don't have the power to help you or myself.|No creo que haya nada que se pueda hacer...<LINE>No tengo el poder para ayudarte ni para ayudarme a mí misma.
+I'm sorry, my friend...|Lo siento, mi amigo...
+.|.
+... Nothing here...|... Nada aquí...
+Nothing left...|Nada que quede...
+Get away...|Vete...
+To safety... far from here...|A un lugar seguro... lejos de acá...
+..West... Old tunnels...|... Oeste... Viejos túneles...
+Maybe... gate... destroyed enough... to allow passage...|Quizá... puerta... suficiente destruida... para permitir paso...
+You are... one of the more interesting creatures to enter this chamber.|Eres... una de las criaturas más interesantes que haya entrado en esta cámara...
+That color... did Pebbles make you?|Ese color... ¿te hizo Guijarros?
+I would have thought such a thing impossible, given the state that he's in.|Hubiera pensado tal cosa imposible, dado el estado en el que se encuentra.
+I don't know how or why you've found your way to me.|No sé cómo ni por qué has encontrado tu camino hacia mí.
+You're not bearing any message or data, aside from your basic functions,|No llevas ningún mensaje ni información, aparte de tus funciones básicas,
+so I don't believe you were sent to me purposefully. You don't even have recording functionality like an overseer would.|Así que 
+Firmament Basilica|Basílica del Firmamento
+//3319024564
+THE ROCK|LA ROCA
+The Rock|La roca
+Rock|Roca
+A being of pure karmic attunement.<LINE>Your journey has already ended.|Un ser de pura sintonía kármica.<LINE>Tu viaje ya ha terminado.

@@ -2075,7 +2075,7 @@ Gravity Pump|重力泵
 The West Leg|西支架
 The East Leg|东支架
 The Wall|高墙
-The Decaying Wall|腐烂外缘
+The Decaying Wall|腐化高墙
 /// 仰望皓月
 Looks To The Moon (General System Bus)|仰望皓月（通用串行总线）
 Looks To The Moon (Damaged Transform Arrays)|仰望皓月（损毁转换阵列）

@@ -14,7 +14,10 @@
 如果你发现某些模组尚未翻译，请告诉我。
 
 本模组的非steam安装在这里:https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
-如果你想协助我进行翻译或做出什么建议，请发送请求，非常感谢。
+
+如果你想协助我们进行翻译或做出建议，
+请在QQ群内联系我们:星郢/实验喵，
+或在Discord上联系我:MoseYanyun。
 
 贡献者:
 [InkCloudStarsDream](https://space.bilibili.com/2066384452)

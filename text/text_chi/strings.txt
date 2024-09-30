@@ -1103,7 +1103,7 @@ Serene Grotto|宁静石窟
 Undersea|海底
 The Dam|水坝
 The Lighthouse|灯塔
-The Undercity|地下城市
+The Undercity |地下城市
 Hollowed Tunnels|中空隧道
 //3014983131
 The Explorer|探索者
@@ -1931,7 +1931,7 @@ Angry Mosquitos|怒蚊
 Exploding Mosquitos|爆炸蚊
 Fog Vulture|雾隐鹫
 Gray Lizard|灰蜥蜴
-Sea Drake|海鸭
+Sea Drake|海龙
 Walker Beast|雨龙
 Bubble Weaver|气泡编蛛
 Sapphiric Weaver|蓝宝石编蛛
@@ -2074,8 +2074,7 @@ Gravity Pump|重力泵
 /// 断裂外缘
 The West Leg|西支架
 The East Leg|东支架
-The Wall|高墙
-The Decaying Wall|腐化高墙
+The Decaying Wall|衰蚀高墙
 /// 仰望皓月
 Looks To The Moon (General System Bus)|仰望皓月（通用串行总线）
 Looks To The Moon (Damaged Transform Arrays)|仰望皓月（损毁转换阵列）
@@ -2166,7 +2165,7 @@ Hello again, <PlayerName>!|你好啊, <PlayerName>!
 Hello, <PlayerName>!|你好, <PlayerName>!
 How have you been?|最近怎么样？
 Oh, <PlayerName>. Hello!|哦，<PlayerName>。你好!
-It's you, <PlayerName>! Hello.|是你，，<PlayerName>！你好
+It's you, <PlayerName>! Hello.|是你，<PlayerName>！你好
 Ah... <PlayerName>, you're here again!|啊...<PlayerName>，欢迎再来！
 Ah... <PlayerName>, you're back!|啊... <PlayerName>，你回来了!
 /// 玩家打断对话
@@ -2244,7 +2243,7 @@ Ah, a pearl. Not the message though. Would you like me to read it to you?|啊，
 Another pearl! You want me to read this one too? Just a moment...|另一个珍珠！ 你想听我读这个吗？稍等一下 /// 第二次
 And yet another one! I will read it to you.|又是一个珍珠！我读一下。 /// 第三次
 Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits?|又是一个？你的求知欲可真强！<LINE>或者你只是把我读珍珠当休息时间？ /// 第四次
-Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|让我看看... 说真的，<LINE>我和你一样很好奇它里面有什么。 /// 第四次，五块卵石喜欢时额外补充。
+Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|让我看看... 说真的，<LINE>我和你一样好奇他里面到底有什么。 /// 第四次，五块卵石喜欢时额外补充。
 The scavengers must be envious of you.|拾荒者们会嫉妒你的。 /// 大于等于五次随机触发
 Here we go again, <PlayerName>. Let's read your pearl.|好，继续吧，<PlayerName>。让我看看你的珍珠。
 ... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.|... 我觉得，你应该知道你很擅长这个。小考古学家。<LINE>好，让我看看里面有什么。
@@ -2261,3 +2260,22 @@ Let's see... A pearl...|让我看看... 是个珍珠.../// 4
 And this one is sharp! It was not long ago this data was written to it!|崭新的珍珠！它近期还被写入过！
 //3022284148
 Old Hanging Gardens|旧悬苑
+//3333889094
+Unparalelled Innocence|无比纯真
+Unparalelled Innocence (General System Bus)|无比纯真（通用系统总线）
+Unparalelled Innocence (Memory Conflux)|无比纯真（记忆汇流）
+Unparalelled Innocence (Distribution Matrix)|无比纯真（分配矩阵）
+Unparalelled Innocence (Desalination)|无比纯真（海水淡化系统）
+Unparalelled Innocence (Electrical Network)|无比纯真（供电网络）
+Unparalelled Innocence (Access Shaft)|无比纯真（竖井通道）
+GET DUNKED ON CHEATER! YOU WILL RUE THE DAY YOU OPENED WARP MENU FOR THAT DAY YOU BECAME DAMNED FOR ALL ETERNITY! YOUR IMMORTAL SOUL WILL WARP FOREVER AIMLESSLY FOR IT DOES NOT KNOW HOW TO MOVE LIKE A NORMAL PERSON!|花式灌篮!作弊狂！你会后悔打开Warp Menu的那一天因为你将永远被诅咒!你不灭的灵魂将永远漫无目的游荡，因为它不懂怎么好好走路!
+//3337851216
+Drowned Pantheon|沉没神殿
+Spooderland|蛛巢
+//3338330562
+Secluded Pass|隐匿幽径
+Forgotten Reach|遗忘水道
+Eastern Communications Tower|东通讯塔
+Retaining Wall|挡土墙
+Derelict Spire|废弃塔尖
+Perilous Ascent|艰险天路

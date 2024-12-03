@@ -39,7 +39,7 @@ Void fluid Central - Sector A|虚空流体中心 - A区
 Void fluid Central - Sector A - Reactor|虚空流体中心 - A区 - 反应堆
 Void fluid Central - Sector A - Reactor Core - Void fluid convertor|虚空流体中心 - A区 - 反应堆芯 - 虚空流体转换器
 Void fluid Central - Sector B - Water intake & filtration system|虚空流体中心 - B区 - 进水口和过滤系统
-Void fluid Central - Facade|中空流体中心 - 立面
+Void fluid Central - Facade|虚空流体中心 - 立面
 Void fluid Central - Sector C|虚空流体中心 - C区
 Void fluid Central - Sector C - Chimney Canopy|虚空流体中心 - C区 - 烟囱顶棚
 Railway|铁路
@@ -1103,7 +1103,7 @@ Serene Grotto|宁静石窟
 Undersea|海底
 The Dam|水坝
 The Lighthouse|灯塔
-The Undercity|地下城市
+The Undercity |地下城市
 Hollowed Tunnels|中空隧道
 //3014983131
 The Explorer|探索者
@@ -1877,37 +1877,87 @@ Weaverville|威弗维尔镇
 Iceblasted Wastes|冰咒荒川
 //3272297488
 WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
-Sunlit Power Plant|光能发电厂
-Overgrown Transfer System|蔓生运输系统
+//3289086902
+Sunlit Power Plant|日耀电厂
+Overgrown Transfer System|蔓生运线
+//3304867363
 Forsaken Station|遗弃站点
 Deep Lake|深层湖泊
 Mountain Railways|登山轨道
 Forsaken Station (Supply Network)|遗弃站点（供应网络）
 Forsaken Station (Auxiliary Storage)|遗弃站点（辅助存储器）
-Forsaken Factory|遗忘工厂
-The Overgrowth|繁茂之地
-Factory Roof|工厂顶棚
-Desert Bus|边漠巴士
-Fog Gulch|雾惘隘谷
-Hadal Depths|溟府深渊
-Steaming Edifice|氤氲宏筑
-Cold Dredge|寒冻疏浚
-Lunar Byway|皓月小径
 Forlorn Valley|孤寂碑谷
 Pristine Lake|原始湖泊
 Underwood|地下灌丛
 Summit Edge|巅顶边缘
-\\3314072844
+//3301169303
+Forsaken Factory|遗忘工厂
+The Overgrowth|繁茂之地
+Factory Roof|工厂顶棚
+//3314840317
+Desert Bus|边漠巴士
+//3316476691
+Fog Gulch|雾惘隘谷
+Hadal Depths|溟府深渊
+Steaming Edifice|氤氲宏筑
+Cold Dredge|寒冻疏浚
+Lunar Byway|月之小径
+//2989792103
+Water Spitter|射水蜥蜴
+Mole Salamander|鼹蝾螈
+Gecko|波动蜥蜴
+Echo Leviathan|回响利维坦
+Hunter Seeker|隐猎蜥蜴
+Maraca Spider|爆鳞响蛛
+Baby Croaker|小黄蜥蜴
+Jelly Long Legs|长腿果冻
+Mini Leviathan|迷你利维坦
+Bigrub|大型管虫
+Thorn Bug|棘刺虫
+Water Blob|活泡水果
+Silver Lizard|银蜥蜴
+Hoverfly|食蚜蝇
+Bouncing Ball|爆弹龟
+Blizzor|雪钢鸟
+Fat Fire Fly|烈焰鹫
+Bombardier Vulture|爆鳞鹫
+Drain Mites|水道螨
+Reaper Lizard|南瓜蜥蜴
+Scroungers|行乞者
+Scutigera|钢蜈蚣
+Noodle Eater|食面蜥蜴
+Polliwog|抗震蝾螈
+Sporantula|孢子狼蛛
+Surface Swimmer|水黾
+Red Horror Centipede|烈焰飞蜈蚣
+Udonfly|乌冬面蝇
+Mosquitos|蚊子
+Angry Mosquitos|怒蚊
+Exploding Mosquitos|爆炸蚊
+Fog Vulture|雾隐鹫
+Gray Lizard|灰蜥蜴
+Sea Drake|海龙
+Walker Beast|雨龙
+Bubble Weaver|气泡编蛛
+Sapphiric Weaver|蓝宝石编蛛
+Fanged Lizard|毒牙蜥蜴
+Great Fanged Lizard|巨啃蜥蜴
+LOST|迷失
+CONFUSED|困惑
+MARKED|被锁定
+VOLATILE|爆炸性
+//3314072844
 Probationary District 4B|试用区4B
-\\3026723782
+//3026723782
 Tidal Pools|潮汐岩池
 Void Vents|热流喷口
-\\3265401327
-The Nest|鸟巢
+//3265401327
+The Nest|巢穴
 The Fortress|要塞
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna|无人爱苦，亦无人寻之欲之，乃因其苦......
 The Wall 2|高墙2.0
-\\3016579669
+//3016579669
+Hallowed Caves|神圣洞穴
 Dark Forest|黑暗森林
 Hallowed Forest|神圣森林
 Moss Fields 2|苔藓原野2.0
@@ -1919,11 +1969,9 @@ Anchialine System|海蚀洞系
 Lost Facility|迷掉设施
 Research Station|研究站点
 Lush Laboratory|葱郁科室
-SCIENCE!|科！学！
 Unstable System|不稳结构
 Unstable Moss|不稳苔原
 Cicatrix|瘢痕
-Big Pebbles does not like the implications of this subregion.|石老大哥不喜欢这个区域的的意蕴
 Sealed Intelligence Unit|密闭智元
 //2923214961
 This regionpack is made of scrapped regions%2and many of them are unfinished|这个区域包是由废弃区域组成的，其中许多区域尚未完成
@@ -1938,5 +1986,304 @@ Crypt|地窟
 Growth|繁茂
 Shrouded|巨构
 Monolith|石碑
-Respite|歇息
+Respite|小憩
 Diseased|顽疾
+//3323298843
+Side World|子世界
+Actual Rain World|乙逝界
+Side World (Suburban)|子世界(郊区)
+Side World (Dense Urban)|子世界（工业区）
+Side World (Shadow Urban)|子世界（阴影城堡）
+Side World (Garbage Wastes)|子世界（垃圾堆）
+Side World (Drainage System)|子世界（排水系统）
+Side World (Shoreline)|子世界（海岸线）
+Side World (Root)|子世界（支架）
+Side World (Underhang)|子世界（下悬挂）
+Side World (Wall)|子世界（高墙）
+Side World (Superstructure)|子世界（五块卵石）
+Side World (Chimney Canopy)|子世界（烟囱天棚）
+Side World (Sky Islands)|子世界（天空群岛）
+Side World (Linear Farms)|子世界（农场阵列）
+Side World (Subterranean)|子世界（地下）
+Side World (Temple)|子世界（遗迹）
+Side World (Hell Region)|子世界（无归界）
+Side World (Lost City)|子世界（大都会）
+Side World (Looks to the Moon)|子世界（海滨设施）
+Side World (Depths of Moon)|子世界（仰望皓月）
+Side World (Moon Structure)|子世界（沉没巨构）
+Side World (Outer Expanse)|子世界（外部旷野）
+I'm sorry (not really).|我很抱歉（并不）
+You can unlock the rest of this message for 5.99$!|解锁此条信息剩余部分仅需5.99R
+House of sus.|疑犯之家
+This is the only thing you can see clearly lol|这是你唯一能看清的玩意儿233
+Don't look down!|别往下看！
+The Cave Salamander will rise again.|洞穴蝾螈将再次伟大
+01101010100101011101010100101110101101000110100101101101001011010110100011010010110110100101010111010100010101101101001011011001101010100101011101010100101110101|我勒个五石可乐啊
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|1145141919810
+I'm on break.|休息时间
+RELEASE ME!|放 开 我！
+If you're an NPC you're from video games.|如果你是一个NPC那你一定来自电子游戏
+BAKE YOUR ROOMS BEFORE PUBLISHING THEM!|你得在发布这个MOD区域前烤制你的房间！
+Always watching Always watching Always watching Always watching Always watching Always watching Always watching Always watching |一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你一直在看着你
+I'm tired.|我累了
+Behind you.|在你背后
+It's Toasty in here.|里面很温暖
+Two towers of DEATH!|死亡双子塔！
+Side World (General system Bus)|子世界（通用系统总线）
+Oh yeah, it's Mooning time!|太棒了，现在是月姐时间！
+Skull Emoji|嘟嘟哒嘟嘟哒
+Front House|前厅
+//3321866775
+Underbelly|结合部
+The Shallows|滩涂
+Power Core|电力核心
+Pipeline|输送管线
+Scavenger lair|拾荒者巢穴
+Wreckage|残骸
+//3319240539
+Seven Red Suns|七轮红日
+The Fastener|紧锁架
+Sunlit Exterior|日灼外缘
+Scorching Grid|炙热电网
+//3292691345
+Primordial Shore|原始海岸
+Palace Grounds|宫殿广场
+Sunken Drill Site|沉没钻井
+Basalt Facility|玄岩设施
+Smoldering Jungle|郁积丛林
+Temple|庙宇
+//3324777051
+drought-name|雨世界：干旱
+drought-descrpition|雨世界：干旱 是一个雄心勃勃的旧项目，让世界回到它曾经最为繁茂之时。扮演漫游者，探索全新的世界和秘密，为未来做好准备。
+0|0 /// 标记此文件是否被加密(0 = 未加密, 1 = 已加密)
+/// 在每一行的末尾加上|，然后添加翻译, '///' 后的文本将被忽略
+
+/// 角色 ///
+The Wanderer|漫游者
+THE WANDERER|漫游者
+Curious and calm, with a deep desire to discover the ancient mysteries around it.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.|好奇而冷静，期望探索周遭的上古秘密。<LINE>与世界共鸣，你此行将会比你想象的影响更为显著。
+Curious and calm, with an innate desire to discover ancient mysteries around.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.|好奇而冷静，期望探索周遭的上古秘密。<LINE>与世界共鸣，你此行将会比你想象的影响更为显著。
+
+/// 区域名称 ///
+Intake System|摄水系统
+Looks to the Moon|仰望皓月
+The Fragmented Exterior|残碎外缘
+Forest Sanctuary|森林圣域
+/// 子区域
+/// 森林圣域
+Depot Remnants|车站遗迹
+Preservation Facility|保护设施
+/// 摄水系统
+Water Reservoir|水库
+Gravity Pump|重力泵
+/// 断裂外缘
+The West Leg|西支架
+The East Leg|东支架
+The Decaying Wall|衰蚀高墙
+/// 仰望皓月
+Looks To The Moon (General System Bus)|仰望皓月（通用串行总线）
+Looks To The Moon (Damaged Transform Arrays)|仰望皓月（损毁转换阵列）
+Looks To The Moon (Memory Conflux)|仰望皓月（记忆汇流）
+
+
+/// 错误信息 ///
+DroughtAssets folder is missing! Put DroughtAssets with [Rain World Drought.dll]!|找不到 DroughtAssets 文件夹！请将 DroughtAssets 文件夹与 [Rain World Drought.dll] 放在一起！
+EnumExtender is missing! Download EnumExtender from RainDB - Tools Category.|找不到 EnumExtender！请从 RainDB - Tools Category 中下载 EnumExtender。
+Directory [<assetDir>] is missing: Reinstall DroughtAssets.|找不到 [<assetDir>] 目录: 请重新安装 DroughtAssets.
+File [<file>] is missing: Reinstall DroughtAssets.|找不到 [<file>] 文件: 请重新安装 DroughtAssets.
+Error occured while loading Drought Atlas [<file>]: Reinstall DroughtAssets.|在加载 Drought Atlas [<file>]时出现错误: 请重新安装 DroughtAssets.
+
+/// 教程 ///
+While on the ground, tap MAP and then press JUMP to slow down time.|在地面上时，按下 "地图" 后按下 "跳跃" 以减缓时间。
+Then hold a DIRECTION and press JUMP to finish the boost.|然后按住一个方向键并按下 "跳跃" 以推进。
+
+/// PlayerName参数 ///
+/// 仰望皓月
+Little creature|小生灵
+little creature|小生灵
+/// 五块卵石
+Little messenger|小信使
+little messenger|小信使
+/// 七轮红日-中性
+Messenger|信使
+messenger|信使
+/// 仰望皓月-厌恶
+Little tormentor|小折磨者
+little tormentor|小折磨者
+/// 五块卵石-厌恶
+Little annoyance|小烦人精
+little annoyance|小烦人精
+/// 七轮红日-厌恶
+Traitor|叛徒
+traitor|叛徒
+/// 三迭-喜爱，每解读一个珍珠+10
+Little archaeologist|小考古学家
+little archaeologist|小考古学家
+/// 仰望皓月-喜爱
+Little friend|小朋友
+little friend|小朋友
+/// l五块卵石-喜爱
+Little helper|小助手
+little helper|小助手
+/// 七轮红日-喜爱
+My little friend|我的小小朋友
+my little friend|我的小小朋友
+
+/// 珍珠对话 ~ 使用月姐标记远程交流 ///
+/// 月姐收到神经元
+You're reaching the end of your journey, little friend.|小朋友，你已经到了你旅途的终点。
+Thank you, for helping me.|谢谢你帮助我。
+
+/// 仰望皓月对话 ///
+/// 仰望皓月-厌恶，第二次以上对话
+/// 我想知道，你到底想要什么？ /// 下面的话紧接着这句原版对话。
+I have very little to give you.|我没什么能给你的。
+/// 给交流印记前
+Here.|给。
+/// 抓住了月姐珍珠
+Please, don't play around with those.|请不要玩那些。
+/// 从演算室扔出去
+That's all. You can go now.|就这样。你可以走了。
+LEAVE.|滚。
+
+/// 五块卵石对话 ///
+/// 仰望皓月-厌恶，第二次以上对话 (还没把CC珍珠送达月姐)
+You again.|又是你。 /// 厌恶
+Hello messenger.|你好，信使。 /// 中性或喜爱
+Do you have that pearl Suns was talking about?|你带着七轮红日说的那个珍珠吗？
+You are welcome to stay here, but I must return to my work shortly.|欢迎留在这里，但是我得尽快返回我的工作了。 /// 喜爱，重新给印记。
+/// 第三次及以上造访-厌恶
+Again?|又来了？
+You.|你。
+Please stop annoying me.|别来烦我了。
+Oh, it's you, <PlayerName>.|哦，又是你，<PlayerName>.
+/// 第三次及以上造访-中性
+Hello again, <PlayerName>.|你好，<PlayerName>.
+Hello, <PlayerName>.|你好，<PlayerName>.
+Welcome back.|欢迎回来。
+Oh, <PlayerName>. Hello.|哦，<PlayerName>。你好。
+It's you, <PlayerName>. Hello.|哦，是你，<PlayerName>。你好。
+Ah... <PlayerName>, you're here again.|啊... <PlayerName>, 你又来了。
+Ah... <PlayerName>, you're back.|啊... <PlayerName>, 你回来了。
+/// 第三次及以上造访-喜爱
+Hello again, <PlayerName>!|你好啊, <PlayerName>!
+Hello, <PlayerName>!|你好, <PlayerName>!
+How have you been?|最近怎么样？
+Oh, <PlayerName>. Hello!|哦，<PlayerName>。你好!
+It's you, <PlayerName>! Hello.|是你，<PlayerName>！你好
+Ah... <PlayerName>, you're here again!|啊...<PlayerName>，欢迎再来！
+Ah... <PlayerName>, you're back!|啊... <PlayerName>，你回来了!
+/// 玩家打断对话
+Please. Calm down.|请冷静一下。 /// 第一次
+Stop it!|停下！ /// 第二次
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>！停下来听说我。 /// 大于等于三次
+I won't let you stay here, if you continue like this.|你要是再这样，我就把你赶出去。
+Why should I tolerate this?|为什么我要忍受这个？
+STOP!|停下！
+This again.|又来了。
+Calm down, <PlayerName>.|冷静一下，<PlayerName>。
+/// 惹恼五块卵石
+Are you done?|有完没完？
+What are you doing?|你在干什么？
+Down you go.|冷静一下行不行。
+Leave me alone!|让我一个人安静一下！
+/// 继续被暂停的对话
+Thank you.|谢谢。/// 前三次打断
+As I was saying...|正如我之前所说的那样... /// 第一次
+As I tried to say to you...|正如我想说的... /// 第二次
+Little messenger, stop that immediately!|小信使，别再那样做了！/// 第三次
+Let's continue...|继续吧...
+And now you expect me to continue speaking?|我还继续说不说了？/// 第四次
+Let us try again - not that it has worked well before. I was saying...|继续吧，如果没有被打断，我想说的是...
+As I tried to say to you...|我想对你说的是... /// 大于等于五次
+If you behave like this, why should I talk to you?|如果你一直是这样的态度，那我又为什么要和你交谈？
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|又来了，你一直不好好听我说话。<LINE>这次你打算好好听吗？
+Now, if you let me, I will try to say this again.|要是你想的话，我就再说一遍。
+/// 给交流印记前
+Just a minute, little messenger.|小信使，稍等一下。
+/// 扔出去
+You've helped me, and I am thankful for that, but you must go now.|你帮助了我，我对此不胜感激，但是你现在必须得走了。
+/// 杂类物品引入语
+Oh, Something from outside?|哦，来自外界的什么东西？ /// 第一次
+Another thing for me to inspect?|想让我再看看这些？ /// 第二次
+I will take a look.|我看一下。
+What is that, <PlayerName>?|那是什么啊，<PlayerName>？ /// 第三次-喜爱
+What is it, <PlayerName>?|这是啥，<PlayerName>？ /// 第三次-中性或厌恶
+Yet another thing?|又有什么新东西？ /// 第四次
+Another thing for me to study?|又是一件研究品？ /// 大于等于五次-喜爱
+You're unusually curious, <PlayerName>!|你有着异乎寻常的好奇心，<PlayerName>!
+Oh... I will look at it.|哦... 我看看。
+Oh... sure, I will take a look.|哦... 好，让我看看。
+Something new you want me to investigate, <PlayerName>?|<PlayerName>，又是什么想让我看的东西? /// 大于等于五次
+Let me see.|我看看。
+Oh, what is that, <PlayerName>?|哦，那是什么，<PlayerName>？
+Yet another thing?|这又是什么？
+Your curiosity seems expansive, <PlayerName>.|看起来你的好奇与日俱增，<PlayerName>.
+Something else you want me to look at?|又有什么想让我看的呢？
+Something else you want me to see,<LINE>I suppose, <PlayerName>?|我猜，又这肯定又是什么想让我看的东西，<LINE>对吧，<PlayerName>?
+Oh... I will take a look.|哦... 让我看看。
+Do you want me to take a look at that?|想让我看看那个？
+Oh... Should I look at that?|哦... 我看看那是什么？
+Another thing for me, <PlayerName>?|又是一个给我，<PlayerName>？
+A new object for me, <PlayerName>?|又是一件给我的物品，<PlayerName>?
+/// 已经解读过该物品
+I have already read this one to you, <PlayerName>.|我已经给你读过这个了，<PlayerName>。 /// 珍珠
+This one I've already read to you, <PlayerName>.|这个？我已经读过了, <PlayerName>。
+This one, <PlayerName>?|这个吗，<PlayerName>？
+We have already talked about this one, <PlayerName>.|我已经给你谈过这个了，<PlayerName>。 /// 不是珍珠
+I've told you about this one, <PlayerName>.|我已经告诉过你这是什么了，<PlayerName>。
+<PlayerName>! AGAIN with this?|<PlayerName>！又来？
+/// 抢走物品
+GIVE THAT BACK, VERMIN!|淘气包！给我还回来。/// 仰望皓月-CC（自毁禁忌）
+Yes, take it and don't bother me.|行吧，拿着东西，然后出去，别再打扰我了。 /// 厌恶
+And now you're taking it.|然而，你抢走了它。
+Oh... Okay, have it back.|哦... 好吧，拿回去吧。/// 中性或喜爱
+You want it back?|你想要回它？
+And now you're taking it back.|然而，你把他要了回去。
+Want it back, <PlayerName>?|你想要回他吗，<PlayerName>?
+Oh...|哦...
+Yes, you may to have it back.|行吧，看样子你想要回它。
+/// 其他珍珠引入语
+Ah, a pearl. Not the message though. Would you like me to read it to you?|啊，是个珍珠。尽管没有我想要的，<LINE>你想听我读它吗？/// 第一次
+Another pearl! You want me to read this one too? Just a moment...|另一个珍珠！ 你想听我读这个吗？稍等一下 /// 第二次
+And yet another one! I will read it to you.|又是一个珍珠！我读一下。 /// 第三次
+Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits?|又是一个？你的求知欲可真强！<LINE>或者你只是把我读珍珠当休息时间？ /// 第四次
+Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|让我看看... 说真的，<LINE>我和你一样好奇他里面到底有什么。 /// 第四次，五块卵石喜欢时额外补充。
+The scavengers must be envious of you.|拾荒者们会嫉妒你的。 /// 大于等于五次随机触发
+Here we go again, <PlayerName>. Let's read your pearl.|好，继续吧，<PlayerName>。让我看看你的珍珠。
+... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.|... 我觉得，你应该知道你很擅长这个。小考古学家。<LINE>好，让我看看里面有什么。
+And yet another one! I will read it to you in a moment.|又是一个！我给你读一下。
+So many of these lately! I see you've been wandering the world a lot.|过了一小会儿就又有一个！<LINE>我觉得你对这个世界充满了好奇。
+/// 仰望皓月珍珠，随机触发
+You would like me to read this?|想让我读读这个？/// 0
+This pearl must have been used recently. You can still feel the heat.|这个珍珠近期才被使用过。你可以在上面感觉到它的余温。
+A pearl... This one is crystal clear - it was used recently.|一颗崭新的珍珠 ——它最近才被使用过。/// 1
+Would you like me to read this pearl?|你想让我读这个珍珠？ /// 2
+It has been recently written to.|它近期被写入过。
+This pearl has been written to just now!|这颗珍珠刚才才被写入过！ /// 3
+Let's see... A pearl...|让我看看... 是个珍珠.../// 4
+And this one is sharp! It was not long ago this data was written to it!|崭新的珍珠！它近期还被写入过！
+//3022284148
+Old Hanging Gardens|旧悬苑
+//3333889094
+Unparalelled Innocence|无比纯真
+Unparalelled Innocence (General System Bus)|无比纯真（通用系统总线）
+Unparalelled Innocence (Memory Conflux)|无比纯真（记忆汇流）
+Unparalelled Innocence (Distribution Matrix)|无比纯真（分配矩阵）
+Unparalelled Innocence (Desalination)|无比纯真（海水淡化系统）
+Unparalelled Innocence (Electrical Network)|无比纯真（供电网络）
+Unparalelled Innocence (Access Shaft)|无比纯真（竖井通道）
+GET DUNKED ON CHEATER! YOU WILL RUE THE DAY YOU OPENED WARP MENU FOR THAT DAY YOU BECAME DAMNED FOR ALL ETERNITY! YOUR IMMORTAL SOUL WILL WARP FOREVER AIMLESSLY FOR IT DOES NOT KNOW HOW TO MOVE LIKE A NORMAL PERSON!|花式灌篮!作弊狂！你会后悔打开Warp Menu的那一天因为你将永远被诅咒!你不灭的灵魂将永远漫无目的游荡，因为它不懂怎么好好走路!
+//3337851216
+Drowned Pantheon|沉没神殿
+Spooderland|蛛巢
+//3338330562
+Secluded Pass|隐匿幽径
+Forgotten Reach|遗忘走廊
+Eastern Communications Tower|东通讯塔
+Retaining Wall|挡土墙
+Derelict Spire|荒弃塔尖
+Perilous Ascent|艰险天路
+//3342976438
+Scrapped Peaks|崩毁山峦
+Five Pebbles (Waste Disposal Compound)|五块卵石（废料处理区）

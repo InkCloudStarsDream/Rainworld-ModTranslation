@@ -2,7 +2,7 @@
 	"id": "Dreamstars.ModTranslation",
 	"name": "Mod Translation",
 	"version": "1.0",
-	"authors": "DreamStars",
+	"authors": "METeam(Mass-Energy Trans team)",
 	"description": "This mod is used to translate text that other mod added.
 
 translate area:
@@ -13,15 +13,18 @@ custom dialogs
 custom missons
 custom dev comments
 
-If you find something I forgot to translate,please tell me in the comments or github。
+non-steam version here: https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
 
-non-steam version here:https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
-Currently only include Chinese,welcome to help me to translate into other languages.
-If you want to help me to translate or put up some advice,please pull requests,thanks for your help. 
+Currently support Chinese, welcome to help us to translate into other languages.
 
-Special thanks:
+If you want to help us to translate or put up some advice, feel free to DM me on Discord:@MoseYanyun
+
+Contributors:
+@MoseYanyun
 @Exmeow
-@Celen",
+@Celen
+@W1LD1CECA7
+",
 	"requirements": [],
 	"requirements_names": [],
 	"tags": ["Translations"],

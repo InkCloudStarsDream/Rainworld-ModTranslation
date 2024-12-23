@@ -769,6 +769,7 @@ Scorched District|焦土
 The Interface|交互面
 Distillation Column|蒸馏塔
 Railway Interchange|铁路立交
+Skyline Railway|天际轨道
 Lost Campfire|失落营火
 //2987817211
 Howling Rift|呼啸裂谷
@@ -1657,7 +1658,7 @@ Small, fast, and fragile, The Sovereign searches for guidance in the darkness...
 Forgotten Pathway|遗忘小径
 //3162697023
 The radiosphere|无线电层
-The pits|坑洞
+The pits |坑洞
 The plateau|高原
 The barrier|屏障
 Northern sealine|北海岸线
@@ -2277,6 +2278,7 @@ GET DUNKED ON CHEATER! YOU WILL RUE THE DAY YOU OPENED WARP MENU FOR THAT DAY YO
 //3337851216
 Drowned Pantheon|沉没神殿
 Spooderland|蛛巢
+Artic Chasm|极地鸿沟
 //3338330562
 Secluded Pass|隐匿幽径
 Forgotten Reach|遗忘走廊
@@ -2287,3 +2289,80 @@ Perilous Ascent|艰险天路
 //3342976438
 Scrapped Peaks|崩毁山峦
 Five Pebbles (Waste Disposal Compound)|五块卵石（废料处理区）
+//3222863079
+Howling Trenches|凛风堑壕
+//3357751340
+Preservatory|储藏所
+Forgone Cycles|循环之弃
+//3360162744
+Eventide|黄昏薄暮
+Glimmering Gulf|跃光海湾
+//3359771227
+Tainted Overpass|腐朽天桥
+Abandoned Sanctuary|废弃庇护所
+The Leg (Recording Medium)|支架（记录载体）
+//3359185954
+Dusty Wireworks|尘染丝厂
+//3359176343
+ The Steamyard|蒸汽堆场
+ Its like... totally covered in rot and stuff...|它像是...被腐化物完全覆盖的什么玩意...
+ Desolate Foundry|荒凉铸造
+ The Boiler|锅炉
+ bird.|丸辣。
+ Temperate Crevice|温和裂隙
+Watch out%2the steam could be dangerous|小心，蒸汽很危险
+Watch out,..................................................................................................................................|小心，..................................................................................................................................
+This water is boiling. You should probably know that isnt safe.|这片水域是沸腾的。你应该知道那并不安全。
+This water is water. duh. whats 19 +10? "21?" you stupid.|这水可真水。嗯...19+10是多少？“21?”你真是个笨蛋。
+//3373996610
+Underpass|地下通道
+Transit Control|运输中枢
+Rusting Sanctuary|锈蚀庇护所
+Sanctuary's Peak|庇护所之巅
+underass|地下脱道
+BLOOOOO0OOOOOOOOOOM|盛开开开开开开
+Drainage Canal|排水渠
+Fridged Valley|冰封裂谷
+Aspirational Level Design|理想关卡设计
+//3364527943
+Forgotten Boiler|失落之釜
+South Warehouse|南仓库
+Centipede's Lair|蜈蚣巢穴
+//3375820548
+Weakened Platform|衰败平台
+Use long jump to traverse under the vent|通过大跳从通风口下飞跃
+//3388224007
+henpemaz_rainmeadow-name|雨甸
+henpemaz_rainmeadow-description|多人游戏引擎，包含剧情，竞技场和一个受Might和Delight的“Meadow”所启发的自定义模式。
+MEADOW|联机
+TO HUB|返回中心
+TO OUTSKIRTS|返回郊区
+UNSTUCK|脱离卡点
+LOBBY|大厅
+QUIT|退出
+Display names|显示名字
+Cllision|开启碰撞
+PLAYERS|玩家
+Mode:|模式：
+Meadow|牧原
+Story|剧情
+ArenaCompetitive|竞技对抗
+Player max:|玩家数量
+All|全部
+Lobby Mode|大厅游戏模式
+Public Lobbies Only|仅公开大厅
+Max Lobby Size|大厅容量上限
+Search Lobbies|搜索大厅
+Credits|制作组
+CREATE!|创建！
+BACK|退出
+Password|密码
+Visibility:|可见性：
+Public|公开
+Friends Only|仅好友可见
+Private|私密
+A peaceful mode about exploring around and discovering little secrets,together or on your own.|一个关于探索周遭和发掘秘密的和平模式，团队协作或独自游玩。
+Adventure together with friends in the world of Rain World, fight together and die together.|与朋友一同在雨世界的世界里冒险，一起战斗，一起死亡。
+Fight against unforgiving creatues and foes where only the strong survive.|与无情的生物和敌人战斗，唯强者生。
+CANCEL|取消
+The Max of the Players for the Lobby [up to 32]|大厅可容纳的人数上限【至多32人】

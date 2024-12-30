@@ -928,11 +928,11 @@ metallic plateau|meseta metálica
 Ready: {0} / {1}|Listos: {0} / {1}
 Current Mode: |Modo actual: 
 Waiting for others...|Esperando a los demás...
-WAIT FOR OTHERS|ESPERA A LOS DEMÁS
-LOBBY WILL LOCK|LA SALA SE CERRARÁ
+WAIT FOR OTHERS|ESTOY LISTO
+LOBBY WILL LOCK|COMENZAR
 ENTER|ENTRAR
-GAME IN SESSION|PARTIDA EN CURSO
-Welcome to Arena Online!<LINE>All players must ready up to begin.|¡Bienvenido al modo arena en línea!<LINE>Todos los jugadores deben estar listos para comenzar.
+GAME IN SESSION|EN CURSO
+Welcome to Arena Online!<LINE>All players must ready up to begin.|¡Bienvenido al modo arena en línea!<LINE>Todos los jugadores deben estar listos para comenzar.<LINE>Si has entrado a la sala mientras la partida está en curso,<LINE>espera a que esta termine.
 Press 'Enter' to chat, press '{0}' to toggle the chat log|Pulsa «Enter» para chatear, pulsa «{0}» para ver o quitar el chat
 CONFIRM|CONFIRMAR
 Players|Jugadores

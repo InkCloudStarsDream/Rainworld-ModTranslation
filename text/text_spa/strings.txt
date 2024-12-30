@@ -403,7 +403,7 @@ Breached Passage|Pasaje Aportillado
 Upheld Rampart|Muralla Sostenida
 beast's hide|piel de la bestia
 laden stilt|pilote cargado
-belly of the beast|barriga de la bestia
+belly of the beast|panza de la bestia
 Solemn Drillsite|Área Solemne de Perforación
 Septics|Fosas Sépticas
 WHAT THE FUCK|QUÉ CARAJO

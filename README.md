@@ -6,25 +6,30 @@
 本模组的steam创意工坊地址:https://steamcommunity.com/sharedfiles/filedetails/?id=3072912119
 
 以下为steam创意工坊描述:
+——————————————————————————
 本模组用于翻译其他模组的文本。
 
 翻译范围:
 区域,蛞蝓猫,珍珠,对话,挑战或使命,开发者评论
 
-如果你发现某些模组尚未翻译，请告诉我。
-
-本模组的非steam安装在这里:https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
-
+本模组目前支持简体中文和西班牙语，
 如果你想协助我们进行翻译或做出建议，
-请在QQ群内联系我们:星郢/实验喵，
-或在Discord上联系我:MoseYanyun。
+请在QQ群内联系我们:@墨色烟云,@实验喵
+QQ群号：690841592（欢迎加入以反馈意见）
+或在Discord上联系我:@MoseYanyun
+
+本模组的非steam安装在这里：https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
+
+贡献者：@墨色烟云，@实验喵，@celen，@方糖冰猫，@zbiotr
+
+——————————————————————————
 
 贡献者:
 [InkCloudStarsDream](https://space.bilibili.com/2066384452)
 [Exmeow](https://space.bilibili.com/511930300)
 [Celen](https://space.bilibili.com/36856844)
 [方糖冰猫](https://space.bilibili.com/197345364)
-
+[zbiotr]
 
 ## 状态
 ![Alt](https://repobeats.axiom.co/api/embed/dd840162af366dcb05c8af3b8babe867844fe7ea.svg "Repobeats analytics image")

@@ -1817,6 +1817,8 @@ Chasing Wind (Lymphatic Conduits)|追逐清风（淋巴导管）
 Chasing Wind (Memory Conflux)|追逐清风（记忆汇流）
 Chasing Wind (Inner Wall)|追逐清风（内墙）
 The Anchor|支锚
+Luminous Cove|夜光海湾
+Derelict Rigs|弃置钻井
 //3239623833
 ftns-name|禁忌热岛
 ftns-description|穿越郁郁葱葱却危机四伏的热带海岛。<LINE>躲避此地的狡猾生物，发现其背后的秘密。

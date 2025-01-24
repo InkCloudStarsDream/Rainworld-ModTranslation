@@ -2368,3 +2368,5 @@ Adventure together with friends in the world of Rain World, fight together and d
 Fight against unforgiving creatues and foes where only the strong survive.|与无情的生物和敌人战斗，唯强者生。
 CANCEL|取消
 The Max of the Players for the Lobby [up to 32]|大厅可容纳的人数上限【至多32人】
+//3408344390
+Hardcore Mode|硬核模式

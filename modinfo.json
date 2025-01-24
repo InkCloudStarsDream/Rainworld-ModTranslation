@@ -2,10 +2,11 @@
 	"id": "Dreamstars.ModTranslation",
 	"name": "Mod Translation",
 	"version": "1.0",
+    "hide_version": true,
 	"authors": "METeam(Mass-Energy Trans team)",
 	"description": "This mod is used to translate text that other mod added.
 
-translate area:
+translate covers:
 mod regions
 mod slugcats
 custom pearls

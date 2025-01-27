@@ -1857,8 +1857,9 @@ Gilded Sanctuary|镀金圣殿
 Tangled Steeple|蔓绕阶梯
 //3278042505
 The Backrooms|后室
-Arid Barrens|荒芜之地
+DONT MOVE STAY STILL|留在原地别动
 //3265401327
+Arid Barrens|荒芜之地
 Miros World|钢鸟乐园
 //3265401327
 Windswept Barrens|风啸荒原
@@ -2378,6 +2379,7 @@ Hardcore Mode|硬核模式
 //3413218083
 amidstthedeluge-name|雨世界: 洪水
 amidstthedeluge-description|穿过外层空间，在一片冷酷的平坦草原之上，一个崭新的世界已然开放，静待那些足以抵抗迎面洪水的生灵...
+Spearmaster can now start in Consecrated Steppe|矛大师现已可在圣灵草原开始游戏
 Consecrated Steppe|圣灵草原
 Resting Grounds|休憩所
 Forlorn Glade|悲凉林地

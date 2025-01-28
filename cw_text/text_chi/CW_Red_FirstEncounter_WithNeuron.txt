@@ -1,7 +1,7 @@
 SPECIAL : LOCKPATHS
 SPECIAL : GRAV
 WAIT : 5
-欢迎，好奇的小生物！
+欢迎你，好奇的生灵!
 WAIT : 5
 哦！
 SPECIAL : TAKENEURON
@@ -27,6 +27,6 @@ WAIT : 5
 从那里开始，你将要走的路由你自己决定。
 留意你剩余的时间。
 WAIT : 5
-再会。
+一路顺风。
 SPECIAL : PARTIALGRAV
 SPECIAL : UNLOCKPATHS

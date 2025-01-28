@@ -94,7 +94,7 @@ Mudslide|污泥滑坡
 World's Ceiling|世界之巅
 Cliffside|峭壁
 Bedrock|基岩层
-Necropolis|墓地
+Necropolis|墓城
 The Peak|山峰
 Dermis|真皮层
 Abandoned Post|废弃信杆
@@ -1860,6 +1860,7 @@ The Backrooms|后室
 DONT MOVE STAY STILL|留在原地别动
 //3265401327
 Arid Barrens|荒芜之地
+//3265401327
 Miros World|钢鸟乐园
 //3265401327
 Windswept Barrens|风啸荒原
@@ -2374,6 +2375,26 @@ Adventure together with friends in the world of Rain World, fight together and d
 Fight against unforgiving creatues and foes where only the strong survive.|与无情的生物和敌人战斗，唯强者生。
 CANCEL|取消
 The Max of the Players for the Lobby [up to 32]|大厅可容纳的人数上限【至多32人】
+//3389998896
+Floating Isles|浮空群岛
+Cloud Condensation|凝云所
+//3387060956
+The Foundry|铸造厂
+Enduring Forge|弥坚锻造
+//3377469453
+Freezing Flights|冻结航线
+Drenched Dwellings|浸湿居所
+Global Hyper-Transit System|全球超运系统
+Subzero Locomotive System|深寒铁路系统
+//3393900034
+Gray Urban|灰城
+Gay Urban|多彩都市
+//3393902748
+Necropolis
+//3393904120
+Seer|先知
+The Seer|先知
+A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 //3408344390
 Hardcore Mode|硬核模式
 //3413218083

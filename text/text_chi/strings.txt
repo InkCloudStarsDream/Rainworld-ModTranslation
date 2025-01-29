@@ -2395,6 +2395,7 @@ Necropolis
 Seer|先知
 The Seer|先知
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
+Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。
 //3408344390
 Hardcore Mode|硬核模式
 //3413218083

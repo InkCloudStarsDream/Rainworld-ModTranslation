@@ -7,13 +7,22 @@ jobs:
   byd:
     runs-on: ubuntu-latest
     steps:
-      - name: steam-workshop-upload
-        uses: weilbyte/steam-workshop-upload@v1 
-        with: 
-          appid: 312520 # 雨世界的ID
-          itemid: 3072912119 # 模组翻译的ID
-          path: 'Rainworld-ModTranslation' # 模组的根目录
-        env: 
-          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }} # Your Steam username 
-          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }} # Your Steam password 
-          STEAM_TFASEED: ${{ secrets.STEAM_TFASEED }} # Your Steam Guard 2FA shared secret (Optional)
+    # sets up the steamcmd command alias
+    - uses: RageAgainstThePixel/setup-steamcmd@v1
+    # uploads a build or workshop item to steam
+    - uses: RageAgainstThePixel/upload-steam@v1
+      id: upload
+      with:
+        username: ${{ secrets.STEAM_USERNAME }}
+        password: ${{ secrets.STEAM_PASSWORD }}
+        shared_secret: ${{ secrets.STEAM_TFASEED }}
+        app_id: 312520
+        workshop_item_id: 3072912119
+        depot_file_exclusions: |
+          bin/tools*
+          *.meta
+      # use outputs
+    - run: |
+        manifest="${{ steps.upload.outputs.manifest }}"
+        cat $manifest
+      shell: bash

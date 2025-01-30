@@ -1815,7 +1815,9 @@ Chatoyant Waterfalls|辉映瀑流
 Chasing Wind (Main Processing Cortex)|追逐清风（基础处理皮层）
 Chasing Wind (Lymphatic Conduits)|追逐清风（淋巴导管）
 Chasing Wind (Memory Conflux)|追逐清风（记忆汇流）
+Subregion: Chasing Wind (Embedded Heat Frame)|追逐清风（内嵌热机区）
 Chasing Wind (Inner Wall)|追逐清风（内墙）
+Met Chasing Wind|见到追逐清风
 The Anchor|支锚
 Luminous Cove|夜光海湾
 Derelict Rigs|弃置钻井
@@ -2312,6 +2314,7 @@ Abandoned Sanctuary|废弃庇护所
 The Leg (Recording Medium)|支架（记录载体）
 //3359185954
 Dusty Wireworks|尘染丝厂
+Consdier this an Echo|请把这个当做是回响
 //3359176343
  The Steamyard|蒸汽堆场
  Its like... totally covered in rot and stuff...|它像是...被腐化物完全覆盖的什么玩意...
@@ -2394,7 +2397,6 @@ Necropolis
 //3393904120
 Seer|先知
 The Seer|先知
-THE SEER|先知
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。
 //3408344390

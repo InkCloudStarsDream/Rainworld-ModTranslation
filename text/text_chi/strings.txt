@@ -1818,6 +1818,8 @@ Chasing Wind (Memory Conflux)|追逐清风（记忆汇流）
 Subregion: Chasing Wind (Embedded Heat Frame)|追逐清风（内嵌热机区）
 Chasing Wind (Inner Wall)|追逐清风（内墙）
 Met Chasing Wind|见到追逐清风
+< Met Chasing Wind>|< 见到追逐清风>
+<Met Chasing Wind>|<见到追逐清风>
 The Anchor|支锚
 Luminous Cove|夜光海湾
 Derelict Rigs|弃置钻井
@@ -2378,6 +2380,9 @@ Adventure together with friends in the world of Rain World, fight together and d
 Fight against unforgiving creatues and foes where only the strong survive.|与无情的生物和敌人战斗，唯强者生。
 CANCEL|取消
 The Max of the Players for the Lobby [up to 32]|大厅可容纳的人数上限【至多32人】
+You were removed from the previous online game|你已被移出房间
+You need Steam active to play Rain Meadow|要玩在线游戏，Steam应当被开启
+Please disable JollyCoop before playing Online|在游玩在线游戏前，请禁用惬意合作
 //3389998896
 Floating Isles|浮空群岛
 Cloud Condensation|凝云所
@@ -2397,6 +2402,7 @@ Necropolis
 //3393904120
 Seer|先知
 The Seer|先知
+THE SEER|先知
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。
 //3408344390

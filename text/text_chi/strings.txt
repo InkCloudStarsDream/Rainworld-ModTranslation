@@ -2419,6 +2419,19 @@ The Seer|先知
 THE SEER|先知
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。
+Hello, little creature!|你好，小生灵！
+What brings you here?|你为什么来这里呢？
+I haven't received any visitors of your kind in a long time!|我已经很久没有招待过你们物种的访客了！
+The last one was very brave, but you probably are too to have come this far.|上一位小访客非常勇敢，不过你或许也一样，既然你能走这么远。
+I do wonder where you got that mark. Definitely not from around here.|我很想知道你在哪里获得的这个印记。肯定不是在附近。
+My neighbor, Five Pebbles, has become completely unresponsive.|我的邻居，五块卵石，已经完全没有回应了。
+His can is showing increasing signs of decay with each passing cycle.|他的罐头显示出越来越多的腐化迹象，随每个雨循环增长。
+At least the frequent outbursts of water have stabilized, but I'm not sure if this is a great indicator of his health.|至少频繁的暴雨开始稳定下来，但我不确定这是不是他健康情况好转的表现。
+This lull seems to have brought new life to this land. I would stay careful if I was you.|降雨的平静似乎为这片土地带来了新的生物，如果我是你，我会保持小心。
+Oh, hello! It's you again.|哦，你好！你又来了。
+I appreciate the company, but I'm afraid I can't really help you in any way.|感谢你的陪伴，但恐怕我无法为你提供任何实际的帮助。
+I will continue following you around with my overseer, but stay cautious.|我会依靠我的监视者持续关注你在附近的活动，但你也要保持小心。
+You look like you're used to the world outside though.<LINE>You must have seen a lot.|不过看上去你已经习惯了外面的世界。<LINE>你一定见识过很多东西了。
 //3408344390
 Hardcore Mode|硬核模式
 //3413218083

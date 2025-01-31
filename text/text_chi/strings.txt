@@ -1406,6 +1406,20 @@ Frostbitten Basin|冻伤盆地
 Chilled Deadland|寒霜死地
 Wastewater Towers|废水塔
 Frozen Dump|冰冻垃圾场
+Rewilded Urban|野化郊外
+Coastal Citadel|海岸城堡
+Rewilded Cranny|野化罅隙
+Ashworks|残余灰烬
+Sprawling Waterworks|宏伟水厂
+Slag Mill|矿渣磨机
+Rift|罅隙
+Drowned Slums|浸没贫窟
+Internal Crucible|内附坩埚
+Luna|皓月
+Vents|管道
+Sewers|水道
+Cutscene|景致
+Bleached Crypts|褪色地穴
 //3047080571
 The Sand Eater|食沙者
 SAND EATER|食沙者

@@ -934,7 +934,7 @@ It is a very adorable depiction of a lizard.|这是一幅非常可爱的蜥蜴�
 It is a very accurate depiction of a part of our systems.|它非常准确地描述了我们系统的一部分。
 It is a very accurate depiction of a jellyfish, swimming with pearls.|这是一个对水母与珍珠游泳非常准确的描绘。
 It is a simple depiction of a fern-like plant. I believe that it is a fly lure, which was used often to lure away pests from areas where their continuous presence would be damaging.|这是一种蕨类植物的简单描绘。我相信这是一种诱蝇剂，通常用来引诱害虫离开那些持续存在会造成破坏的地区。
-It is a red centipede, looking at a pearl. From the color, I can tell that it is the aggressive kind.|它是一只红色的蜈蚣，正看着一颗珍珠。从颜色上看，它是攻击性的。
+It is a red centipede, looking at a pearl. From the color, I can tell that it is the aggressive kind.|它是一只红色的蜈蚣，正看着一颗珍珠。从颜色上看，它有攻击性。
 It is a picture of you. Are you trying to ensure that I remember you forever by putting portraits of yourself over my walls?|这是你的肖像。你是想让我记住你吗?
 It is a lizard that had spray paint thrown at it. I hope that their eyes are alright, as paint in places it is not meant to be can be quite harmful, and might even cause loss of vision.|这是一只被喷了油漆的蜥蜴。我希望他们的眼睛没事，因为喷漆对生物体有害，甚至可能导致视力丧失。
 It is a difficult goal to achieve. I can only hope that they succeeded in what they wanted to do.|这是一个难以实现的目标。我只能希望他们能成功地做他们想做的事。
@@ -985,7 +985,7 @@ I do have to admit that your ability to capture bodies in motion is incredible. 
 I do find this depiction amusing. I might even send it to a few friends, if you don't mind...?|我不得不承认你捕捉运动中的身体的能力令人难以置信。然而...我宁愿保持我的墙干净，拜托。
 I do believe it was intended, however, due to the nature of this particular picture.|我相信这是故意的，但是，由于这张特殊图片的性质。
 I definitely see the inspiration, and it truly makes vultures look scary, that's for sure. I'm glad I don't have to encounter them myself!|我确实看到了灵感，它真的让秃鹫看起来很可怕，这是肯定的。我很高兴我不用亲自遇到他们!
-I can tell that those are meant to be overseers of my neighbor, Five Pebbles, exchanging information.|我能看出来他们是我邻居“五颗鹅卵石”的监督人，他们在交换信息。
+I can tell that those are meant to be overseers of my neighbor, Five Pebbles, exchanging information.|我能看出来他们是我邻居“五块卵石”的监视器，他们在交换信息。
 I believe you got inspired by them at least a little bit, didn't you? It is surprisingly close in style.|我相信你至少受到了一点启发，不是吗?它的风格惊人地接近。
 I believe that this piece is based on an ancient species of dangling mold?|我相信这件作品是基于一种古老的悬垂霉菌?
 I believe that it is a pile of makeshift weapons, crafted by scavengers?|我相信那是一堆临时武器，是拾荒者制造的?
@@ -2364,39 +2364,83 @@ henpemaz_rainmeadow-name|雨甸
 henpemaz_rainmeadow-description|多人游戏引擎，包含剧情，竞技场和一个受Might和Delight的“Meadow”所启发的自定义模式。
 MEADOW|联机
 TO HUB|返回中心
+Teleport to the closest hub|传送至最近的中心
 TO OUTSKIRTS|返回郊区
-UNSTUCK|脱离卡点
-LOBBY|大厅
+Teleport to outskirts|传送至郊区
+Passage to another shelter|传送至其他避难所
+UNSTUCK|脱离
+Teleport to a nearby pipe|传送至最近的管道
+LOBBY|房间
+Go back to the charater selection screen|返回选择角色屏幕
 QUIT|退出
-Display names|显示名字
-Cllision|开启碰撞
+Exit back to the main menu|返回主菜单
+Hub zone volume|中心区表
+New character unlocked|新角色已解锁
+New emote unlocked|新表情已解锁
+New skin unlocked|新皮肤已解锁
+CONFIRM|确认
+PLAYER|玩家
+New character!|新角色！
+Current Mode: {arena.currentGameMode}|当前模式：{arena.currentGameMode}
+Ready: {arena.clientsAreReadiedUp} / {OnlineManager.players.Count}|准备：{arena.clientsAreReadiedUp} / {OnlineManager.players.Count}
+Playlist Progress: {arena.currentLevel} / {arena.totalLevelCount}|播放列表：{arena.currentLevel} / {arena.totalLevelCount}
 PLAYERS|玩家
 Mode:|模式：
 Meadow|牧原
 Story|剧情
 ArenaCompetitive|竞技对抗
-Player max:|玩家数量
+Player max:|玩家上限:
 All|全部
-Lobby Mode|大厅游戏模式
-Public Lobbies Only|仅公开大厅
-Max Lobby Size|大厅容量上限
-Search Lobbies|搜索大厅
+Lobby Mode|房间游戏模式
+Public Lobbies Only|仅公开房间
+Max Lobby Size|房间容量上限
+Search Lobbies|搜索房间
 Credits|制作组
 CREATE!|创建！
-BACK|退出
+BACK|返回
 Password|密码
 Visibility:|可见性：
 Public|公开
 Friends Only|仅好友可见
 Private|私密
+READY|准备
+ABOUT|关于
+STATS|状态
+UNLOCKS|解锁
+CONTINUE|继续
+Close this menu|关闭此菜单
+Display names|显示名字
+Collision|碰撞
+- New Game|- 新游戏
+Slugcats|蛞蝓猫
+Invite Friends|邀请好友
+Friendly Fire|友伤
+Match save|存档匹配
+Waiting for others...|等待其他人...
+WAIT FOR OTHERS|等待其他人
+LOBBY WILL LOCK|房间将锁定
+ENTER|进入
+GAME IN SESSION|游戏中
+SKINS|皮肤
+Tint color|色彩
+Press '{RainMeadow.rainMeadowOptions.ChatButtonKey.Value}' to chat, press '{RainMeadow.rainMeadowOptions.ChatLogKey.Value}' to toggle the chat log|按下 '{RainMeadow.rainMeadowOptions.ChatButtonKey.Value}' 以聊天，按下 '{RainMeadow.rainMeadowOptions.ChatLogKey.Value}' 以切换日志
+RESTART|重新开始
+READY|准备
+EXIT|退出
+Refresh list|刷新列表
+Require Campaign Slugcat|需要游戏中蛞蝓猫
 A peaceful mode about exploring around and discovering little secrets,together or on your own.|一个关于探索周遭和发掘秘密的和平模式，团队协作或独自游玩。
 Adventure together with friends in the world of Rain World, fight together and die together.|与朋友一同在雨世界的世界里冒险，一起战斗，一起死亡。
 Fight against unforgiving creatues and foes where only the strong survive.|与无情的生物和敌人战斗，唯强者生。
 CANCEL|取消
 The Max of the Players for the Lobby [up to 32]|大厅可容纳的人数上限【至多32人】
 You were removed from the previous online game|你已被移出房间
+Leaving Lobby|离开房间
+Rain Meadow failed to start|在线游戏启动失败
+Mod Mismatch!|模组不匹配！
 You need Steam active to play Rain Meadow|要玩在线游戏，Steam应当被开启
 Please disable JollyCoop before playing Online|在游玩在线游戏前，请禁用惬意合作
+Wait for others to shelter or rescue you, press Tab to spectate, or press PAUSE BUTTOM to restart|等待他人进入避难所或自杀，按下“Tab”以旁观，或按下“空格”以重新开始
 //3389998896
 Floating Isles|浮空群岛
 Cloud Condensation|凝云所
@@ -2419,19 +2463,6 @@ The Seer|先知
 THE SEER|先知
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。
-Hello, little creature!|你好，小生灵！
-What brings you here?|你为什么来这里呢？
-I haven't received any visitors of your kind in a long time!|我已经很久没有招待过你们物种的访客了！
-The last one was very brave, but you probably are too to have come this far.|上一位小访客非常勇敢，不过你或许也一样，既然你能走这么远。
-I do wonder where you got that mark. Definitely not from around here.|我很想知道你在哪里获得的这个印记。肯定不是在附近。
-My neighbor, Five Pebbles, has become completely unresponsive.|我的邻居，五块卵石，已经完全没有回应了。
-His can is showing increasing signs of decay with each passing cycle.|他的罐头显示出越来越多的腐化迹象，随每个雨循环增长。
-At least the frequent outbursts of water have stabilized, but I'm not sure if this is a great indicator of his health.|至少频繁的暴雨开始稳定下来，但我不确定这是不是他健康情况好转的表现。
-This lull seems to have brought new life to this land. I would stay careful if I was you.|降雨的平静似乎为这片土地带来了新的生物，如果我是你，我会保持小心。
-Oh, hello! It's you again.|哦，你好！你又来了。
-I appreciate the company, but I'm afraid I can't really help you in any way.|感谢你的陪伴，但恐怕我无法为你提供任何实际的帮助。
-I will continue following you around with my overseer, but stay cautious.|我会依靠我的监视者持续关注你在附近的活动，但你也要保持小心。
-You look like you're used to the world outside though.<LINE>You must have seen a lot.|不过看上去你已经习惯了外面的世界。<LINE>你一定见识过很多东西了。
 //3408344390
 Hardcore Mode|硬核模式
 //3413218083

@@ -1829,7 +1829,7 @@ Chatoyant Waterfalls|辉映瀑流
 Chasing Wind (Main Processing Cortex)|追逐清风（基础处理皮层）
 Chasing Wind (Lymphatic Conduits)|追逐清风（淋巴导管）
 Chasing Wind (Memory Conflux)|追逐清风（记忆汇流）
-Subregion: Chasing Wind (Embedded Heat Frame)|追逐清风（内嵌热机区）
+Chasing Wind (Embedded Heat Frame)|追逐清风（内嵌热机区）
 Chasing Wind (Inner Wall)|追逐清风（内墙）
 Met Chasing Wind|见到追逐清风
 < Met Chasing Wind>|< 见到追逐清风>

@@ -54,7 +54,7 @@ Cycle Food Score|雨循环食物分数
 Food Score|食物分数
 //2928752589
 SBCameraScroll-name|平滑相机
-SBCameraScroll-description|创建一个随蛞蝓猫移动的平滑相机。基于pipi toki的平滑相机模组。<LINE>已知冲突：<LINE>-Slugcat Eyebrow Raise模组的相机缩放
+SBCameraScroll-description|创建一个随蛞蝓猫移动的平滑相机。基于pipi toki的平滑相机模组。<LINE>已知冲突: <LINE>-Slugcat Eyebrow Raise模组的相机缩放
 SBCameraScroll: Merging camera textures completed.|平滑相机: 已合并相机纹理。
 //2936078781
 Hubert the Slugcat|舒伯特
@@ -108,10 +108,10 @@ Game Over - Press PAUSE BUTTON to restart, or find a way to survive|游戏结束
 Symbol|标志
 Skull|头颅
 Solace||慰藉
-Rain World: Solace Config - Character Settings|雨世界:慰藉设置 - 角色设置
-Rain World: Solace Config - Character|雨世界:慰藉设置 - 角色设置
-Rain World: Solace Config - Friend|雨世界:慰藉设置 - 朋友设置
-Rain World: Solace Config - Poacher|雨世界:慰藉设置 - 盗猎者设置
+Rain World: Solace Config - Character Settings|雨世界: 慰藉设置 - 角色设置
+Rain World: Solace Config - Character|雨世界: 慰藉设置 - 角色设置
+Rain World: Solace Config - Friend|雨世界: 慰藉设置 - 朋友设置
+Rain World: Solace Config - Poacher|雨世界: 慰藉设置 - 盗猎者设置
 Version 0.3.0.1|版本 0.3.0.1
 Heavy Foods|沉重的食物
 Legacy Hypothermia|传统低温
@@ -121,8 +121,8 @@ Automatic Crouch|自动蹲下
 Pole Crawl|爬杆
 Legacy Movement|传统运动
 Cycle 0 Rep Lock|雨循环0声誉锁定
-Rain World: Solace Config - General Settings|雨世界:慰藉设置 - 基本设置
-Rain World: Solace Config - General|雨世界:慰藉设置 - 基本设置
+Rain World: Solace Config - General Settings|雨世界: 慰藉设置 - 基本设置
+Rain World: Solace Config - General|雨世界: 慰藉设置 - 基本设置
 Lizards|蜥蜴相关
 Global Rides|广泛骑行
 Universal Meter|通用指示器
@@ -136,8 +136,8 @@ Blizzard Timer|雪计时器
 Forces the rain timer to be visible for Solace slugcats and Saint|强制雨计时器在圣慰藉蛞蝓和圣徒战役中可用
 Local Liz Rep For All|全员蜥蜴声誉本地化
 Reputation|声誉
-Rain World: Solace Config - Experimental Settings|雨世界:慰藉设置 - 实验性设置
-Rain World: Solace Config - Experimental|雨世界:慰藉设置 - 实验性设置
+Rain World: Solace Config - Experimental Settings|雨世界: 慰藉设置 - 实验性设置
+Rain World: Solace Config - Experimental|雨世界: 慰藉设置 - 实验性设置
 Lizard Riding|蜥蜴骑行
 Universal Lizard Riding|通用蜥蜴骑行
 Lizard Rep Meter|蜥蜴声誉指示
@@ -150,7 +150,7 @@ Rep Lock|声誉锁定
 Pup Behavior|幼崽行为
 Legacy Cold|传统寒冷
 Main|基本
-Slash conditions: Default - Empty hands, or no directional input while holding an object|倾斜条件：默认 - 空手，或手持一件物品时无方向输入
+Slash conditions: Default - Empty hands, or no directional input while holding an object|倾斜条件: 默认 - 空手，或手持一件物品时无方向输入
 Custom Start (disable if Story Mode fails load)|自定义开场（在剧情模式加载失败时禁用）
 Fun and Extras|娱乐与额外
 Creatures react to Meows|生物对猫叫做出反应
@@ -242,7 +242,7 @@ Take that rarefaction cell with you to the far east.<LINE>Then for your own sake
 Have you got the cell to Looks to the Moon?|你已经将电池送达仰望皓月了吗？
 Have you been to Looks to the Moon yet?|你到达仰望皓月了吗？
 The energy rail has shut down. Dit you get the cell to it's new owner?<LINE>...if she is somehow still alive.|能源线路已经关闭。你将电池带到它的新主人那里了吗？<LINE>...如果她还活着的话。
-Thanks for playing. But again, you should leave.<LINE>Leave quickly while you still can.|感谢游玩。但是我重申：出于安全考虑，趁现在，赶紧离开。
+Thanks for playing. But again, you should leave.<LINE>Leave quickly while you still can.|感谢游玩。但是我重申: 出于安全考虑，趁现在，赶紧离开。
 This structure is in a constant state of decay.<LINE>Please find a way out little creature.|这个巨构即将倒塌。小生灵，请尽快离开。
 Sure, I'll play a game with you!|没问题，开始玩吧！
 It's been a while since I last played this one...|我上次玩这个是很久以前的事了...
@@ -325,7 +325,7 @@ A guardian from a faraway land, entrusted to bring a special creature through th
 The Child|孩童
 THE CHILD|孩童
 Child|孩童
-you shouldn't be seeing this >:( <LINE>... although there may be a secret to unlocking this campaign earlier than intended...<LINE>Shh! Keep quiet!|你不应该看到这个>：（<LINE>...尽管可能有一个秘密方法可以提前解锁这个故事......<LINE>嘘！别声张！
+you shouldn't be seeing this >:( <LINE>... although there may be a secret to unlocking this campaign earlier than intended...<LINE>Shh! Keep quiet!|你不应该看到这个 >:( <LINE>...尽管可能有一个秘密方法可以提前解锁这个故事......<LINE>嘘！别声张！
 
 GILDED UPDATE|镀金更新
 [Beta]|[测试版]
@@ -402,12 +402,12 @@ railgunner_tut_b|拿着两件同类型的武器同时投掷，增加攻击力并
 railgunner_tut_c|注意，过度充能会导致<RAILGUNNER>爆炸!
 railgunner_tut_d|倾听尖锐的 "嗙" 声，这表明过度充能处于危险水平，等待冷却。
 ralgunner_ms_tut|用两块石头可以合成炸弹，用两支长矛可以合成爆炸矛。
-railgunner_tut_spear|双矛：大大提高了速度和伤害。
-railgunner_tut_rock|双石头：大大提高了速度和击退。
-railgunner_tut_lily|双水莲花：速度提高，弹道改善。
-railgunner_tut_bomb|双炸弹：提高速度并对投掷炸弹免疫，从而实现真正的爆炸跳跃。
-railgunner_ms_tut_cracker|双爆竹：速度加快，最后爆炸威力巨大。
-railgunner_ms_tut_singularity|双奇点炸弹：跳跃反弹并在撞击时引爆。
+railgunner_tut_spear|双矛: 大大提高了速度和伤害。
+railgunner_tut_rock|双石头: 大大提高了速度和击退。
+railgunner_tut_lily|双水莲花: 速度提高，弹道改善。
+railgunner_tut_bomb|双炸弹: 提高速度并对投掷炸弹免疫，从而实现真正的爆炸跳跃。
+railgunner_ms_tut_cracker|双爆竹: 速度加快，最后爆炸威力巨大。
+railgunner_ms_tut_singularity|双奇点炸弹: 跳跃反弹并在撞击时引爆。
 Speedster|速度星
 speedster_desc|保持移动以提高速度，然后滑铲以释放能量。
 speedster_tut_a|移动时充能，滑铲时释放能量！
@@ -526,7 +526,7 @@ ENDING ONE UPDATE|结局一更新
 At the cost of a karma flower, the slugpup respawns!|以业力花为代价，幼崽重生了！
 Bringing a karma flower into the shelter while already reinforced will consume the karma flower instead!|将业力花带进庇护所，同时已经得到强化，会消耗业力花！
 escoptions_pupsforeveryone_text|解锁护卫幼崽
-escoptions_pupsforeveryone_desc|允许其他护卫流派也可以发现幼崽。注意：可能会导致意外行为。
+escoptions_pupsforeveryone_desc|允许其他护卫流派也可以发现幼崽。注意: 可能会导致意外行为。
 <-PLAYER #|<-玩家 #
 Speedster Gear Limit|速度星档位限制
 Sets the gear limit for the Speedster build. Handle with care!|设置速度星类型的档位限制。谨慎处理！
@@ -592,7 +592,7 @@ Find an opening|找到出路
 Press PICK UP while holding a spear to block beforehand|在手持长矛时按下“拾取”进行格挡
 May you overcome this world of violence|愿你战胜这个充满暴力的世界
 Stab / Throw|穿刺/投掷
-Lancer Interactions:|枪骑兵操作：
+Lancer Interactions:|枪骑兵操作: 
 Press THROW to stab with a spear|按下“投掷”以使用矛穿刺
 Press PICK UP to defend with a spear|按下“拾取”以使用矛防御
 Hold PICK UP with a mask to hang it onto your horn|长按“拾取”以将面具挂在角上
@@ -659,9 +659,9 @@ A sorrowful flame that looks for a brighter future. Returning to this painful la
 Washroom|厕所
 //2961854585
 splugpack-name|技师
-splugpack-description|在游戏中添加一个新的可玩的蛞蝓猫：技师! <LINE>有了随心所欲地操纵周围古老技术的能力，你会用它做什么?  
+splugpack-description|在游戏中添加一个新的可玩的蛞蝓猫: 技师! <LINE>有了随心所欲地操纵周围古老技术的能力，你会用它做什么?  
 splugpack.DEVONLY-name|技师
-splugpack.DEVONLY-description|在游戏中添加一个新的可玩的蛞蝓猫：技师! <LINE>有了随心所欲地操纵周围古老技术的能力，你会用它做什么?  
+splugpack.DEVONLY-description|在游戏中添加一个新的可玩的蛞蝓猫: 技师! <LINE>有了随心所欲地操纵周围古老技术的能力，你会用它做什么?  
 
 Please keep in mind that this region is unfinished, regionmaking is exhausting!|请注意此区域尚未完工，制作区域真的很累人！
 THE TECHNOMANCER|技师
@@ -798,7 +798,7 @@ An extremely agile omnivore, although this sometimes works against him<LINE>he d
 Dark Density|黑暗浓云
 //2993225799
 jevmen.drainagesystemplus-name|排水系统扩展
-jevmen.drainagesystemplus-description|大幅扩展排水系统和地下森林，特色：<LINE>-超过200个新屏幕<LINE>-5个新音乐曲目<LINE>-重新设计的布局和代币位置<LINE>-3个新的可解锁竞技场<LINE>-更多样的生物生成<LINE>-位于郊区扩展新入口<LINE<LINE>注意：需要郊区扩展和豪华避难所加载顺序早于更多蛞蝓猫拓展包（在其下方），否则游戏将崩溃。<LINE>当添加新的模组时，拓展有时会改变模组的顺序，请留意此。
+jevmen.drainagesystemplus-description|大幅扩展排水系统和地下森林，特色: <LINE>-超过200个新屏幕<LINE>-5个新音乐曲目<LINE>-重新设计的布局和代币位置<LINE>-3个新的可解锁竞技场<LINE>-更多样的生物生成<LINE>-位于郊区扩展新入口<LINE<LINE>注意: 需要郊区扩展和豪华避难所加载顺序早于更多蛞蝓猫拓展包（在其下方），否则游戏将崩溃。<LINE>当添加新的模组时，拓展有时会改变模组的顺序，请留意此。
 //2998516763
 Stygian Depths|冥河深处
 River Styx|无归之河
@@ -2076,8 +2076,8 @@ Basalt Facility|玄岩设施
 Smoldering Jungle|郁积丛林
 Temple|庙宇
 //3324777051
-drought-name|雨世界：干旱
-drought-descrpition|雨世界：干旱 是一个雄心勃勃的旧项目，让世界回到它曾经最为繁茂之时。扮演漫游者，探索全新的世界和秘密，为未来做好准备。
+drought-name|雨世界: 干旱
+drought-descrpition|雨世界: 干旱 是一个雄心勃勃的旧项目，让世界回到它曾经最为繁茂之时。扮演漫游者，探索全新的世界和秘密，为未来做好准备。
 0|0 /// 标记此文件是否被加密(0 = 未加密, 1 = 已加密)
 /// 在每一行的末尾加上|，然后添加翻译, '///' 后的文本将被忽略
 
@@ -2318,6 +2318,13 @@ rivuletouterexpanse-name|溪流外层空间
 rivuletouterexpanse-description|为溪流开放外层空间。
 Fading Expanse|褪色外域
 Humid Fields|潮湿原野
+//3345632296
+lunaraerie-name|皓月城 - 矛大师的严寒巢穴
+lunaraerie-description|目前开发中，允许矛大师访问修改版的严寒巢穴
+Lunar Aerie|皓月城
+Lunar Aerie - Water Pumping Unit|水泵单元
+Lunar Aerie - Maintenance Relay|维护中继器
+Lunar Aerie - Auxillary|辅助传输
 //3357751340
 Preservatory|储藏所
 Forgone Cycles|循环之弃
@@ -2381,11 +2388,11 @@ New skin unlocked|新皮肤已解锁
 CONFIRM|确认
 PLAYER|玩家
 New character!|新角色！
-Current Mode: {arena.currentGameMode}|当前模式：{arena.currentGameMode}
-Ready: {arena.clientsAreReadiedUp} / {OnlineManager.players.Count}|准备：{arena.clientsAreReadiedUp} / {OnlineManager.players.Count}
-Playlist Progress: {arena.currentLevel} / {arena.totalLevelCount}|播放列表：{arena.currentLevel} / {arena.totalLevelCount}
+Current Mode: {arena.currentGameMode}|当前模式: {arena.currentGameMode}
+Ready: {arena.clientsAreReadiedUp} / {OnlineManager.players.Count}|准备: {arena.clientsAreReadiedUp} / {OnlineManager.players.Count}
+Playlist Progress: {arena.currentLevel} / {arena.totalLevelCount}|播放列表: {arena.currentLevel} / {arena.totalLevelCount}
 PLAYERS|玩家
-Mode:|模式：
+Mode:|模式:
 Meadow|牧原
 Story|剧情
 ArenaCompetitive|竞技对抗
@@ -2399,7 +2406,7 @@ Credits|制作组
 CREATE!|创建！
 BACK|返回
 Password|密码
-Visibility:|可见性：
+Visibility:|可见性: 
 Public|公开
 Friends Only|仅好友可见
 Private|私密
@@ -2472,3 +2479,14 @@ Spearmaster can now start in Consecrated Steppe|矛大师现已可在圣灵草�
 Consecrated Steppe|圣灵草原
 Resting Grounds|休憩所
 Forlorn Glade|悲凉林地
+//3413424952
+The Stargazer|占星师
+THE STARGAZER|占星师
+Stargazer|占星师
+With nothing to help besides your curiosity,<LINE> you set to seek stories and tales of the past.|唯有好奇相伴，你启程去搜寻过往的故事。
+//3413539281
+Hot Roots|灼热根源
+Roots|根源
+Steam Plant|蒸汽工厂
+Desert Hill|沙山
+Forsaken Rail|遗弃铁路

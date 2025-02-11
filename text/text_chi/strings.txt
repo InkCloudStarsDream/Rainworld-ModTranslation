@@ -2490,3 +2490,9 @@ Roots|根源
 Steam Plant|蒸汽工厂
 Desert Hill|沙山
 Forsaken Rail|遗弃铁路
+//3416325333
+Weeping Edifice|渗漏楼宇
+The Rotting Labyrinth|腐化迷宫
+Communications tower|通讯塔楼
+//3418712280
+Side Wall|侧墙

@@ -1311,14 +1311,16 @@ THE DREAMER|梦者
 Dreamer|梦者
 Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the desert.|亿万年前的景象在你的梦中困住了你，你的终身目标<LINE>就是利用其长期侵蚀的知识在沙漠中生存。
 Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the changing lands.|亿万年前的景象在你的梦中困住了你，你的终身目标<LINE>就是利用其长期侵蚀的知识，在这方变迁的土地上生存下来。
+Adorned in decoration of the past, you aim to understand this world.|被遗弃在过去的景象里，你试图理解这个世界。
 Clawing your way out of the sea, you're deadset on your goals to survive.|挣扎着走出荒漠，你对自己的生存一筹莫展。
 uhhh dotn play this ok???|额能先别玩吗？？？
 UHHH DOTN PLAY THIS OK???|额能先别玩吗？？？
-(PLACEHOLDER) The greyest of buildings house a creature-priest. <LINE> Dedicated to your craft, you respectfully hunt and preserve your prey. (PLACEHOLDER)|（占位符）最灰色的建筑物里住着一位牧师<LINE>专注于您的工艺，您尊重地狩猎和保护您的猎物。（占位符）
+(PLACEHOLDER) The greyest of buildings house a creature-priest. <LINE> Dedicated to your craft, you respectfully hunt and preserve your prey. (PLACEHOLDER)|（占位符）灰色建筑里住着一位牧师<LINE>专注于你的工艺，你尊敬地狩猎和保护你的猎物。（占位符）
 The Viper|毒蛇
 THE VIPER|毒蛇
 Viper|毒蛇
 The changing lands have stirred a venomous, deadly assassin. Reeling from a<LINE>devastating injury, you must use your fangs to battle your ravenous hunger and survive.|变迁的土地唤醒了一个恶毒而致命的杀手。在<LINE>致命的境地中求生，你必须用你的獠牙来对抗你饥饿并生存下来。
+An experienced assassin with a devastating injury,<LINE>you hit to stun and use your venom to finish the job.|经验丰富的刺客，身受重伤，<LINE>你能一击昏迷，然后用毒液完成你的任务。
 I wouldn't recommend using this slugcat in expedition, as it's untested. You do you tho.|我不建议在探险中使用这种蛞蝓猫，因为它未经测试。
 The Siren|塞壬
 THE SIREN|塞壬
@@ -1328,7 +1330,12 @@ The Trailblazer|开拓者
 THE TRAILBLAZER|开拓者
 Trailblazer|开拓者
 A master of combat raised by scavengers in the coldest of wastes, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|由拾荒者在凛原中培养的战斗大师，你<LINE>在逝去的众神的王国中漂流，寻找远在你小家之外的秘密。
+A master of combat raised by scavengers in the dying lands, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|由拾荒者在奄奄一息的土地上培养的战斗大师，你<LINE>在逝去的众神的王国中漂流，寻找远在你小家之外的秘密。
 Your kin have assigned you another goal, and so <LINE> you embark on your journey once again.|你的君主给你分配了另一个目标，<LINE>所以你再次踏上了你的旅程。
+The Oracle|神谕
+Oracle|神谕
+THE ORACLE|神谕
+Found. Portable. Applicable.<LINE>This world will wake right back up again.<LINE>So wake up, little metal god.|已找到，可移植的，普适的。<LINE>这个世界将会苏醒并重回正轨。<LINE>所以醒来吧，小小的金属神明。
 You awaken for the first time. Your goal is one of curiosity. Learn the history of this world, and use that knowledge for survival.|这是你的首次苏醒。你的目标完全出于好奇。学习这个世界的过往，并用之生存下去。
 While your karma is at its lowest, your violent instincts take hold. In this state, you crawl as fast as you walk.|当业力处于最低等级时，你的暴力本能便会占据上风。在这种状态下，爬行和行走速度相当。
 Press GRAB and JUMP at the same time while standing to kick yourself into the air.|在站立状态下，同时按下“抓取”和“跳跃”可以将自己推向空中。
@@ -2467,6 +2474,7 @@ Necropolis
 //3393904120
 Seer|先知
 The Seer|先知
+THE SEER|先知
 THE SEER|先知
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。

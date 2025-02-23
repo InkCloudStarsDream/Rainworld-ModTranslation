@@ -1,5 +1,15 @@
 0Dreamstars.ModTranslation-name|模组翻译
 Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
+//moreslugcat
+we forgot to render this one sorry|我们忘记渲染了骚瑞
+Painage System|受苦系统
+Nachos Will Never Be The Same|永远没有一样的炸玉米片
+TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|管AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN子
+Andrew's Basement|Andrew的地下室
+Moist|潮湿
+Tower of Gains|获利高塔
+Uberhang|下优步挂
+Thanks Andrew.|谢了，Andrew。
 //2923214961
 Industrial District|工业遗迹
 Scavenger Colony|拾荒营地
@@ -2373,6 +2383,9 @@ Centipede's Lair|蜈蚣巢穴
 //3375820548
 Weakened Platform|衰败平台
 Use long jump to traverse under the vent|通过大跳从通风口下飞跃
+//3380455262
+Gate to  + regionFullName|前往  + regionFullName
+Gate to  |前往
 //3388224007
 henpemaz_rainmeadow-name|雨甸
 henpemaz_rainmeadow-description|多人游戏引擎，包含剧情，竞技场和一个受Might和Delight的“Meadow”所启发的自定义模式。
@@ -2502,5 +2515,176 @@ Forsaken Rail|遗弃铁路
 Weeping Edifice|渗漏楼宇
 The Rotting Labyrinth|腐化迷宫
 Communications tower|通讯塔楼
+//3418539114
+Western Forest|西部森林
 //3418712280
 Side Wall|侧墙
+//3424930016
+SnowBee.Snow-name|凛冬终末
+SnowBee.Snow-description|探索一个独特的世界。
+Conduit Reliquary|圣明灌渠
+NaturePath|自然道径
+Outpost Citadel|前哨堡垒
+Terrestrial Tower|领陆塔楼
+Blizzard's Embrace|严寒之怀
+Frostbite Hailstorm|霜寒雹暴
+Tundra Ruinfields|苔原遗迹
+Terranium Train|领陆列车
+Ashen Desolation|荒芜苍白
+Dusk|暮霭
+Eroded Ridge|侵蚀山脊
+FrostFall Expanse|霜降外缘
+Withered Wall|凋零高墙
+CryoBloom|霜凝雾华
+CryoBloom (General Bus)|霜凝雾华（通用串行总线）
+CryoBloom (Data Recursive Data)|霜凝雾华（数据递归阵列）
+CryoBloom (PowerLine System)|霜凝雾华（电源线控系统）
+CryoBloom (Memory Flux Lane)|霜凝雾华（存储回流阵列）
+Glacial Tower|冰川高塔
+The Frost|寒霜
+THE FROST|寒霜
+Frost|寒霜
+A nimble and agile ice-type slugcat, adept at navigating frozen terrains with ease. <LINE>Its sleek blend seamlessly into icy environments, making it survival in the coldest of climates.|一个机敏且适应严寒的蛞蝓猫，擅于在冰雪之上航线。<LINE>光滑的外表与冰冷的环境无缝融合，它得以在极寒中生存。
+The Lumia|流光
+THE LUMIA|流光
+Lumia|流光
+Seems concerned about the two iterators.|似乎很关心两个迭代器。
+The SnowFlake|雪花
+THE SNOWFLAKE|雪花
+SnowFlake|雪花
+Snowflake|雪花
+Fragile in the embrace of its icy power, navigates the brutal blizzards with a remarkable resilience. <LINE>Its unique survival skills keep it thriving amidst the unforgiving snowscape.|在严寒之怀和它极寒的力量面前显得脆弱，却以非凡的韧性在残酷的暴雪中航行。<LINE>它独特的生存技能使它在无情的暴雪中茁壮成长。
+*BeeNoPearl
+…|……
+..?|……？
+A creature?|一只生物？
+How interesting. It got into my chamber.|真有趣。它进了我的演算室。
+I must assume you did not arrive here of your own volition.|我只能假定你不是靠自己的意志到达这儿的。
+Whatever led you here whether accident or intention it is wasted effort.|不论有意还是无意，你来这里都是白费力气。
+There is nothing of value for you within this place.|这里没有对你有价值的东西。
+I suggest you turn back. No curiosity for beings such as yourself.|我建议你回去。像你这样的存在不应该有好奇心。
+
+*BeeEncounterMetbefore
+Oh.|哦。
+You're back|你回来了。
+There is nothing i can do in this chamber.|在这演算室里我做不了什么。
+Who brought you here still?|是谁仍然将你引来？
+Although, i feel something you have..|不过，我感觉你有某些东西……
+May I see?|我能看一下吗？
+...
+This pearl...|这颗珍珠……
+It holds significance beyond your understanding.|它所承载的远超你的理解。
+Deliver it to the tower. It is imperative.|把它送到塔那里。这很紧要。
+You may not comprehend its importance, but you have my gratitude.|你或许不明白它的重要性，但我会很感激你。
+Do not delay.|不要再拖延了。
+
+*BeeEncounter
+...
+..?
+A creature?
+How interesting. It got into my chamber.
+Who brought you here, intelligent creature?|谁带你来到这里，聪明的生灵？
+Although, i feel something you have..
+May I see?
+...
+This pearl...
+It holds significance beyond your understanding.
+Deliver it to the tower. It is imperative.
+You may not comprehend its importance, but you have my gratitude.
+Do not delay.
+
+*Snow_MeetCB
+…
+Does this method suffice? Is this reaching you?|这个方法可行吗？你能听到吗？
+You two are quite adorable. You should work together in this situation.|你们两个真可爱。在这种情况下，你们应该齐心协力。
+Perhaps a kinder entity has already tried, though their success is uncertain.|也许一个更和善的存在已经尝试过，尽管无法确认是否成功。
+Now, I find myself requiring your assistance to stabilize this decaying structure.|现在，我发觉自己需要你的协助，来稳定这个正在衰败的结构。
+Time is not a resource we can afford to squander|我们的时间经不起浪费了。
+Here. This device will serve as your temporary Drone.|来。这个设备会暂时成为你的无人机。
+It's calibrated to interact with the core systems of the power network.|它被校准为可以与能量网络的核心系统互动。
+Travel to where the ancients once thrived. Beyond that, head westward.|前往古人曾繁荣兴盛的地方，越过它，继续向西。
+There lies the system drawing power to sustain this place.|那里的系统汲取着维持这个地方运转的能量。
+We will speak further when the energy flow is restored. I trust you.|能量流恢复后，我们可以进一步聊聊。我相信你。
+...
+I will wait... for as long as I can.|我会等待……只要我还能等待。
+
+*unkown
+…
+A different species.|一个不同的物种。
+Curious. Speak.|好奇。言语。
+Your kind should not persist in these conditions.|你们不应该坚持留在这种环境里。
+I am surprised you survive so far from safer habitats.|我很惊讶，你离安全的栖息地如此遥远，还能存活下来。
+Your body temperature teeters dangerously close to hyperthermic collapse.|你的体温正濒临高热衰竭的危险边缘。
+Yet... you are alive. Resilient, against odds.|然而……你仍然活着。正在顽强地适应。
+What drives you here, small creature? Is it mere instinct?|是什么驱使你来到这里，小生物？仅仅是本能吗？
+Or perhaps... something more?|又或许……是另外一些东西？
+Your presence warrants observation. Speak or act. I will watch.|你的存在值得观察。说话或行动。我会看着的。
+Bye.|再见。
+
+*unkownagain
+…
+There is nothing i can talk.|我没有什么可说的。
+
+*SecondMeet
+…
+We don't have time.|我们没有时间了。
+Please.|拜托你。
+
+*IgnoreMeet
+…
+
+*Snow_thankyou
+...!|……！
+Thank you.|谢谢你。
+Your efforts have preserved my existence an outcome I had not dared to hope for.|你的努力使我的存在得以维持，这曾是我不敢奢望的结果。
+Now, I must attempt to establish contact with an acquaintance.|现在，我必须尝试与一位熟人建立联系。
+....
+... It appears I cannot.|……看起来我不能。
+What has become of the other places, I wonder?|我想知道其它地方现在已经变成什么样了？
+...
+Nevertheless, my gratitude remains.|尽管如此，我仍然心怀感激。
+If you carry pearls or seek answers, I will do what I can to assist.|如果你带来珍珠或寻求解答，我会尽我所能提供帮助。
+...
+I can only hope they are safe.|我只希望他们平安无事。
+
+You two should be along together.|你们两个应该待在一起。
+
+
+*Snow_again
+Hello.|你好。
+All the system is restored.|所有系统均已恢复。
+Again, thank you.|再次感谢你。
+i don't have any plans but you can enjoy resting here.|我没有任何计划了，但你可以在这里尽情休息。
+As your own big little chamber with me.|就像你自己的大大演算室，和我一起。
+i have nothing to do on, Take a good rest.|我手头没有要做的事，好好休息吧。
+
+*IDONTHAVETIME
+I do not have time, please.|我没有时间了，求你。
+I cant help with this, i need you to restore my power.|我无法提供帮助，我需要你恢复我的供能。
+Time is ticking, please quick.|时间在流逝，请尽快。
+
+You really like to know this pearl, Later after you restore the power.|你很想知道这颗珍珠的内容，等你把能量恢复后。
+...
+
+*blanklol
+Lets see.|让我们看看。
+...?
+Let me read this pearl.|让我读一下这颗珍珠。
+A pearl. How intriguing.|一颗珍珠。相当有趣。
+Its data is fragmented, but I will extract what I can.|它的数据支离破碎，但我会尽力提取。
+Pearl one? These objects hold secrets even their creators forgot.|一颗珍珠？这些物品携带着它们的创造者都忘记了的秘密。
+This will take a moment to process.|这个需要一点时间来处理。
+Hmm. This pearl is unlike the others.|嗯……这颗珍珠不同于其它的。
+The data might be corrupted, but there’s something here...|数据可能损坏了，但仍然有一些……
+What is this? An offering?|这是什么？祭品？
+Very well. Let me see if it holds anything of value.|很好。让我看看有没有什么重要的东西。
+//3427461064
+Data Manifold|数据汇集
+HOUSE MD BABY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!|MD小宝贝的家！！！！！！！！！！！！！！！！！！
+//3427933524
+Howler|呼喊者
+HOWLER|呼喊者
+THE HOWLER|呼喊者
+The howler|呼喊者
+The Howler|呼喊者
+You are the nest of parasites. Move this twisted body and survive. Mother nature rejects you.|你是寄生虫的温床。<LINE>拖着这副扭曲的身体生存。<LINE>充满母爱的自然拒绝了你。

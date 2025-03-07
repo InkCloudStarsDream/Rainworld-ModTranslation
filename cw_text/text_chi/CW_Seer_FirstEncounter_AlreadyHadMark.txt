@@ -4,10 +4,6 @@ SPECIAL : GRAV
 
 WAIT : 10
 
-SPECIAL : SHOWBRAINPIC
-
-WAIT : 10
-
 你好啊，小闯入者！
 
 WAIT : 5

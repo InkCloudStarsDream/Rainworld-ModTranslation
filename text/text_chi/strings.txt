@@ -1986,6 +1986,46 @@ LOST|迷失
 CONFUSED|困惑
 MARKED|被锁定
 VOLATILE|爆炸性
+//3311812030
+//The M4rblelous Entity Pack
+//Thorny Strawberry
+It's a delicious fruit but remove the thorns before eating it.|这是一种美味的水果，但记得吃之前把刺去掉。
+//Blob Piece
+It's a glob of something gelatinous... It's making my skin tingle.|这是一团胶状物……它让我皮肤刺痛。
+//Little Balloon
+It's an unstable plant. Be careful when you throw it!|这是一种不稳定的植物。把它扔出去时要小心！
+//Bouncing Melon
+It's a large green fruit.<LINE>It's not very nutritious but it could have other effects.|这是一种大型绿色水果。<LINE>它含有的营养不多，但可能有其他功效。
+//Physalis
+It's a tasty little fruit. Do not confuse it with a pearl!|这是一种美味的小水果。不要把它和珍珠混淆了！
+//Lime Mushrooms
+It's a poisonous mushroom, don't eat it! It even scares away some creatures.|这是一种有毒的蘑菇，不要吃它！它甚至会把一些生物吓跑。
+//Gummy Anther
+It's a plant anther. You can eat it safely!|这是一个植物的花药。你可以放心吃它！
+//Marine Eye
+It's a strange edible flower filled with a blue substance.|这是一种奇怪的可食用花朵，里面充满了蓝色物质。
+//Star Lemon
+It's a very big shiny fruit, how did you bring it here?|这是一个非常大的会发光的水果，你怎么把它带到这里来的？
+//Spore Projectile
+It's the egg of a creature.<LINE>Although its membrane is thin, it is covered with a fungus whose spores keep predators away.|这是某种生物的卵。<LINE>它的膜很薄，但上面覆盖着一层真菌，真菌的孢子可以防止捕食者靠近。
+//Dendritic Neuron
+What have you brought me this time?|这次你给我带来了什么？
+Ah...|啊……
+Thank you small creature.|谢谢你小生灵。
+I am sincerely grateful for this, however in my current predicament<LINE>I lack the processing strata required to interface with this type of neuron.|我对此表示衷心的感谢，然而，由于我目前的处境，<LINE>我缺少与这类神经元连接的处理层。
+Their morphology, in addition to being more imposing,<LINE>uses vastly more complex signaling than the ones you see before me.|除了外形更壮观，<LINE>它们使用的信号也比你在我面前看到的这些复杂得多。
+Although, the gesture is appreciated...|尽管如此，还是感谢你……
+//Mini Blue Fruit
+It's a fragile little chrysalis.<LINE>Eat it quickly please, I find this kind of thing quite disgusting.|这是个小的脆弱的蛹。<LINE>请快点把它吃掉吧，我觉得这种东西很恶心。
+//Red Horror Centi
+Oh, that is not a friend...|哦，那可不是朋友……
+//Fat Fire Fly
+It is on fire! How did you bring that in here?!|它在燃烧！你怎么把它带进这里的？
+//Flying Big Eel
+Your friend is very large, how did you fit them in here?|你的朋友很大，你是怎么把它塞进来的？
+//Creature Joke Dialog
+How did you fit them inside here anyhow?|你到底怎么把它塞进来的？
+Your friend is on fire! Take it with you, please!|你的朋友在燃烧！请把它带走！
 //3314072844
 Probationary District 4B|试用区4B
 //3026723782

@@ -2528,9 +2528,116 @@ Necropolis
 Seer|先知
 The Seer|先知
 THE SEER|先知
-THE SEER|先知
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。
+
+//获得交流印记后第一次遇到Moon
+//剩余1神经元
+...|……
+//剩余2神经元
+Get... get away... glowy...yellow.... thing.|离我……远点……发光的……黄色东西。
+Please... thiss all I have left.|求你了……我剩下的只有这这个了。
+//剩余3神经元
+You!|你!
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|……你吃了……我。请离开。我不会和你……说话了。<LINE>我……不 能 和你说话……因为……你吃了……我……
+//剩余4神经元
+Oh so you've returned.|哦，你又回来了。
+Come to take more from me? My memories, my thoughts... just something to fill your stomach?|又来从我这里拿东西？我的记忆，我的思想……就为了填饱你的肚子？
+Your predecessor was definitely more polite!|上一位你的同类要有礼貌很多！
+No... never mind.|不……算了。
+It's useless to be angry at an animal following its instincts. Once, a single neuron meant nothing to me...|对一只遵循本能的动物发怒无济于事。要是在以前，一个神经元对我来说微不足道……
+I do wonder where you got that mark. Definitely not from around here.|我很想知道你在哪里获得的这个印记。肯定不是在附近。
+My neighbor, Five Pebbles, have become completely unresponsive.|我的邻居，五块卵石，已经完全没有回应了。
+His can is showing increasing signs of decay with each passing cycle.|他的罐头显示出越来越多的腐化迹象，随每个雨循环增长。
+At least the frequent outbursts of water have stabilized, but I'm not sure if this is a great indicator of his health.|至少频繁的暴雨开始稳定下来，但我不确定这是不是他健康情况好转的表现。
+…|……
+I'm still angry at you, but it is good to have someone to talk to after all this time.|我仍然生你的气，但经过这么长时间，能和谁说话也是件好事。
+//剩余5神经元
+Hello, little creature!|你好，小生灵！
+You came back!|你回来了！
+What brings you here?|你为什么来这里呢？
+I haven't received any visitors of your kind in a long time!|我已经很久没有招待过你们物种的访客了！
+The last one was very brave, but you probably are too to have come this far.|上一位小访客非常勇敢，不过你或许也一样，既然你能走这么远。
+I do wonder where you got that mark. Definitely not from around here.|我很想知道你在哪里获得的这个印记。肯定不是在附近。
+My neighbor, Five Pebbles, has become completely unresponsive.|我的邻居，五块卵石，已经完全没有回应了。
+His can is showing increasing signs of decay with each passing cycle.|他的罐头显示出越来越多的腐化迹象，随每个雨循环增长。
+At least the frequent outbursts of water have stabilized, but I'm not sure if this is a great indicator of his health.|至少频繁的暴雨开始稳定下来，但我不确定这是不是他健康情况好转的表现。
+This lull seems to have brought new life to this land. I would stay careful if I was you.|降雨的平静似乎为这片土地带来了新的生物，如果我是你，我会保持小心。
+//获得交流印记后第二次见Moon
+//剩余1神经元
+...|……
+//剩余2神经元
+...leave...|……走开……
+//剩余3神经元
+You...|你……
+Please don't... take... more from me... Go.|请别……再……拿走我的东西了……走吧。
+//剩余4神经元
+//讨厌
+Oh. You.|哦。是你。
+//喜爱
+Oh, hello! It's you again!|哦，你好！你又来了！
+Oh, hello! It's you again.|哦，你好！你又来了。
+I appreciate the company, but I'm afraid I can't really help you in any way.|感谢你的陪伴，但恐怕我无法为你提供任何实际的帮助。
+Eating one of my neuron definitely didn't help!<LINE>But I forgive you.|吃掉我的一个神经元绝对不会有帮助！<LINE>但我原谅你。
+I will continue following you around with my overseer, but stay cautious.|我会依靠我的监视者持续关注你在附近的活动，但你也要保持小心。
+//剩余5神经元
+//讨厌
+You again.|又是你。
+//喜爱
+I appreciate the company, but I'm afraid I can't really help you in any way.|感谢你的陪伴，但恐怕我无法为你提供任何实际的帮助。
+I will continue following you around with my overseer, but stay cautious.|我会依靠我的监视者持续关注你在附近的活动，但你也要保持小心。
+You look like you're used to the world outside though.<LINE>You must have seen a lot.|不过看上去你已经习惯了外面的世界。<LINE>你一定见识过很多东西了。
+//携带生物
+Good luck. You and your family are always welcome here.|祝你好运。永远欢迎你和你家人来这里。
+Good luck to you and your friend, <PlayerName>.|祝你和你的朋友好运，<PlayerName>。
+Good luck. You can stay here a while if you want, but don't get caught in the rain!|祝你好运。如果你想的话可以在这里呆一段时间，但是别被雨淋到！
+//给予CW的神经元
+You... Strange thing. Now this?|你……奇怪的东西。现在又这样了？
+I will accept your gift...|我会接受你的礼物……
+//剩余2神经元
+You!|你！
+...you...killed...|……你……杀了……
+...me|……我
+//剩余3神经元
+...thank you... better...|……谢谢你……好点了……
+still, very... bad.|还是，很……糟。
+//剩余4神经元
+Thank you... That is a little better. Thank you, creature.|谢谢你……现在好一点了。谢谢你，生灵。
+Where does this neuron come from? My nearest functional neighbor is so... far.|这个神经元是哪里来的？离我最近的仍在运行的邻居是如此……遥远。
+//默认对话
+Thank you. I do wonder what you want.|谢谢你。我很好奇你想要什么。
+
+I am grateful - the relief is indescribable!|我很感激……终于如释重负的感觉难以言表。
+I could read a bit of Chasing Wind in this neuron before formatting it.<LINE>What a weird bundle of ideas this neuron was carrying. I don't think I understood any of it.|在格式化这个神经元之前，我还能读到一点追逐清风。<LINE>这个神经元携带着一堆多么古怪的想法。我不认为我理解其中任何一个。
+We were supposed to help everyone, you know. Everything.<LINE>That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently.<LINE>Many with madness.|我们本来要帮助每个生命的，我是说，世间万物。<LINE>那曾经是我们的目标：一份给世界上芸芸众生的伟大礼物。<LINE>当面对无能为力的境地时，我们的反应各不相同。<LINE>大多数都陷入了疯狂。
+Some, out there, might still be trying.<LINE>Communications have been bad for a long time, and by now I suspect most of us are isolated like me, or connected only in small groups.|可能其它地方的某些迭代器仍在尝试。<LINE>不过糟糕的通讯情况已经持续很久了，而且现在我怀疑大多数迭代器和我一样被隔离开来，或者只能进行小范围联络。
+But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.|但即使在我们或多或少地还有些联系的时候，还是有一些迭代器对自己的使命做出了愤怒的反应。<LINE>我只能想象到他们现在会更加愤怒，只剩下贪得无厌的欲望和自己待在罐头里。
+But to be honest, I don't know how many of us are still alive at this point.<LINE>Knowing Grey Wind is still out here is reassuring though.|不过说实话，我不确定现在还有多少迭代器活着。<LINE>知道灰风仍在那里让我感到宽慰。
+
+//第二次给予神经元
+You brought these all the way from Chasing Wind?<LINE>Thank you so much.|你一路从追逐清风那里把这些带过来？<LINE>太感谢你了。
+I deeply appreciate your efforts.|我对你的努力深表感谢。
+I hope they don't mind.<LINE>I have no way of knowing their current state.<LINE>...<LINE>Thank you, little creature.|我希望他不介意。<LINE>我无法知道他目前的情况。<LINE>……<LINE>谢谢你，小生灵。
+
+//给予更多神经元
+Thank you, again. I feel wonderful.|再次谢谢你。我感觉很棒。
+Thank you so very much!|非常感谢！
+It is strange... I'm remembering myself, but also... them.|奇怪了……我想起了自己，但也……想起了他。
+Thank you... Sincerely.|谢谢……真的很感谢你。
+
+//没太看懂什么条件下触发的一些
+...|……
+...oh... to... save me?|……哦……来……救我？
+You... brought that... for me?|你……带来那个……给我？
+You are bringing a neuron. Is it to taunt me?|你带来一个神经元。这是为了嘲讽我吗？
+A neuron.|一个神经元。
+That... That is for me?|那是……那是给我的？
+Ah... <PlayerName>, a neuron from Chasing Wind?|啊……<PlayerName>，一个来自追逐清风的神经元？
+Hello|你好
+!|！
+.|。
+That... Oh, thank you.|那……哦，谢谢你。
+
 //3408344390
 Hardcore Mode|硬核模式
 //3413218083
@@ -2594,130 +2701,6 @@ THE SNOWFLAKE|雪花
 SnowFlake|雪花
 Snowflake|雪花
 Fragile in the embrace of its icy power, navigates the brutal blizzards with a remarkable resilience. <LINE>Its unique survival skills keep it thriving amidst the unforgiving snowscape.|在严寒之怀和它极寒的力量面前显得脆弱，却以非凡的韧性在残酷的暴雪中航行。<LINE>它独特的生存技能使它在无情的暴雪中茁壮成长。
-*BeeNoPearl
-…|……
-..?|……？
-A creature?|一只生物？
-How interesting. It got into my chamber.|真有趣。它进了我的演算室。
-I must assume you did not arrive here of your own volition.|我只能假定你不是靠自己的意志到达这儿的。
-Whatever led you here whether accident or intention it is wasted effort.|不论有意还是无意，你来这里都是白费力气。
-There is nothing of value for you within this place.|这里没有对你有价值的东西。
-I suggest you turn back. No curiosity for beings such as yourself.|我建议你回去。像你这样的存在不应该有好奇心。
-
-*BeeEncounterMetbefore
-Oh.|哦。
-You're back|你回来了。
-There is nothing i can do in this chamber.|在这演算室里我做不了什么。
-Who brought you here still?|是谁仍然将你引来？
-Although, i feel something you have..|不过，我感觉你有某些东西……
-May I see?|我能看一下吗？
-...
-This pearl...|这颗珍珠……
-It holds significance beyond your understanding.|它所承载的远超你的理解。
-Deliver it to the tower. It is imperative.|把它送到塔那里。这很紧要。
-You may not comprehend its importance, but you have my gratitude.|你或许不明白它的重要性，但我会很感激你。
-Do not delay.|不要再拖延了。
-
-*BeeEncounter
-...
-..?
-A creature?
-How interesting. It got into my chamber.
-Who brought you here, intelligent creature?|谁带你来到这里，聪明的生灵？
-Although, i feel something you have..
-May I see?
-...
-This pearl...
-It holds significance beyond your understanding.
-Deliver it to the tower. It is imperative.
-You may not comprehend its importance, but you have my gratitude.
-Do not delay.
-
-*Snow_MeetCB
-…
-Does this method suffice? Is this reaching you?|这个方法可行吗？你能听到吗？
-You two are quite adorable. You should work together in this situation.|你们两个真可爱。在这种情况下，你们应该齐心协力。
-Perhaps a kinder entity has already tried, though their success is uncertain.|也许一个更和善的存在已经尝试过，尽管无法确认是否成功。
-Now, I find myself requiring your assistance to stabilize this decaying structure.|现在，我发觉自己需要你的协助，来稳定这个正在衰败的结构。
-Time is not a resource we can afford to squander|我们的时间经不起浪费了。
-Here. This device will serve as your temporary Drone.|来。这个设备会暂时成为你的无人机。
-It's calibrated to interact with the core systems of the power network.|它被校准为可以与能量网络的核心系统互动。
-Travel to where the ancients once thrived. Beyond that, head westward.|前往古人曾繁荣兴盛的地方，越过它，继续向西。
-There lies the system drawing power to sustain this place.|那里的系统汲取着维持这个地方运转的能量。
-We will speak further when the energy flow is restored. I trust you.|能量流恢复后，我们可以进一步聊聊。我相信你。
-...
-I will wait... for as long as I can.|我会等待……只要我还能等待。
-
-*unkown
-…
-A different species.|一个不同的物种。
-Curious. Speak.|好奇。言语。
-Your kind should not persist in these conditions.|你们不应该坚持留在这种环境里。
-I am surprised you survive so far from safer habitats.|我很惊讶，你离安全的栖息地如此遥远，还能存活下来。
-Your body temperature teeters dangerously close to hyperthermic collapse.|你的体温正濒临高热衰竭的危险边缘。
-Yet... you are alive. Resilient, against odds.|然而……你仍然活着。正在顽强地适应。
-What drives you here, small creature? Is it mere instinct?|是什么驱使你来到这里，小生物？仅仅是本能吗？
-Or perhaps... something more?|又或许……是另外一些东西？
-Your presence warrants observation. Speak or act. I will watch.|你的存在值得观察。说话或行动。我会看着的。
-Bye.|再见。
-
-*unkownagain
-…
-There is nothing i can talk.|我没有什么可说的。
-
-*SecondMeet
-…
-We don't have time.|我们没有时间了。
-Please.|拜托你。
-
-*IgnoreMeet
-…
-
-*Snow_thankyou
-...!|……！
-Thank you.|谢谢你。
-Your efforts have preserved my existence an outcome I had not dared to hope for.|你的努力使我的存在得以维持，这曾是我不敢奢望的结果。
-Now, I must attempt to establish contact with an acquaintance.|现在，我必须尝试与一位熟人建立联系。
-....
-... It appears I cannot.|……看起来我不能。
-What has become of the other places, I wonder?|我想知道其它地方现在已经变成什么样了？
-...
-Nevertheless, my gratitude remains.|尽管如此，我仍然心怀感激。
-If you carry pearls or seek answers, I will do what I can to assist.|如果你带来珍珠或寻求解答，我会尽我所能提供帮助。
-...
-I can only hope they are safe.|我只希望他们平安无事。
-
-You two should be along together.|你们两个应该待在一起。
-
-
-*Snow_again
-Hello.|你好。
-All the system is restored.|所有系统均已恢复。
-Again, thank you.|再次感谢你。
-i don't have any plans but you can enjoy resting here.|我没有任何计划了，但你可以在这里尽情休息。
-As your own big little chamber with me.|就像你自己的大大演算室，和我一起。
-i have nothing to do on, Take a good rest.|我手头没有要做的事，好好休息吧。
-
-*IDONTHAVETIME
-I do not have time, please.|我没有时间了，求你。
-I cant help with this, i need you to restore my power.|我无法提供帮助，我需要你恢复我的供能。
-Time is ticking, please quick.|时间在流逝，请尽快。
-
-You really like to know this pearl, Later after you restore the power.|你很想知道这颗珍珠的内容，等你把能量恢复后。
-...
-
-*blanklol
-Lets see.|让我们看看。
-...?
-Let me read this pearl.|让我读一下这颗珍珠。
-A pearl. How intriguing.|一颗珍珠。相当有趣。
-Its data is fragmented, but I will extract what I can.|它的数据支离破碎，但我会尽力提取。
-Pearl one? These objects hold secrets even their creators forgot.|一颗珍珠？这些物品携带着它们的创造者都忘记了的秘密。
-This will take a moment to process.|这个需要一点时间来处理。
-Hmm. This pearl is unlike the others.|嗯……这颗珍珠不同于其它的。
-The data might be corrupted, but there’s something here...|数据可能损坏了，但仍然有一些……
-What is this? An offering?|这是什么？祭品？
-Very well. Let me see if it holds anything of value.|很好。让我看看有没有什么重要的东西。
 //3427461064
 Data Manifold|数据汇集
 HOUSE MD BABY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!|MD小宝贝的家！！！！！！！！！！！！！！！！！！

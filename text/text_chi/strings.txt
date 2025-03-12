@@ -821,9 +821,9 @@ Inv|怪猫
 fpexpansion-description|扩展了五卵石区域，增加了淋巴系统、原始皮层、线性系统导轨等。
 Five Pebbles (Lymphatic System)|五卵石（淋巴系统）
 //3001275271
-The Vinki|文基
-THE VINKI|文基
-Vinki|文基
+The Vinki|芬奇
+THE VINKI|芬奇
+Vinki|芬奇
 Play as an angsty teen wearing rail-grinding shoes and spraying graffiti to enact revenge on 5P.|个性的青少年，穿着磨轨鞋，在五块卵石上展现自己的风采。
 Five Pebbles (Research and Development)|五卵石（研究与建设）
 
@@ -1888,7 +1888,7 @@ room where stuff happens|发生事故的房间
 Rocks,corpses and any creature can temporarily overload the arcs. Be careful!|石头、尸体和任何生物都可能使电弧暂时超载。当心！
 Be careful|当心
 //3265383340
-Gilded Sanctuary|镀金圣殿
+Gilded Sanctuary|鎏金圣殿
 Tangled Steeple|蔓绕阶梯
 //3278042505
 The Backrooms|后室
@@ -2711,3 +2711,99 @@ THE HOWLER|呼喊者
 The howler|呼喊者
 The Howler|呼喊者
 You are the nest of parasites. Move this twisted body and survive. Mother nature rejects you.|你是寄生虫的温床。<LINE>拖着这副扭曲的身体生存。<LINE>充满母爱的自然拒绝了你。
+//3441764924
+Befriend a <crit>|和一个<crit>交朋友
+Befriending a creature|和一个生物交朋友
+Visiting echoes|朝见回响
+Maul creatures [<current>/<amount>] times|啃咬生物[<current>/<amount>]次
+Mauling creatures a certain amount of times|啃咬生物特定次数
+Craft [{current}/{amount.Value}] <item>|创造[{current}/{amount.Value}]个<item>
+Crafting items|创造物品
+Drop a <crit> into the depths drop room|将一个<crit>扔下悬崖
+Dropping a creature in the depth pit|将一个生物扔下悬崖
+Do not die before completing [<current>/<amount>] bingo challenges|完成[<current>/<amount>]个任务前没有死亡
+Not dying before completing challenges|完成任务前没有死亡
+Eat [<current>/<amount>] <food_type>|吃[<current>/<amount>]个<food_type>
+Eating specific food|吃特定的食物
+Feed the Rarefaction Cell to a Leviathan (completes if you die)|将质量稀释电池喂给利维坦(死亡后也视为完成任务)
+Feeding the Rarefaction Cell to a Leviathan|将质量稀释电池喂给利维坦
+Trade [<current>/<amount>] worth of value to Scavenger Merchants|和拾荒者商贩交易价值为[<current>/<amount>]的物品
+Trading items to merchants|和拾荒者商贩交易
+Do not enter |不要进入
+Avoiding a region|绕过一个区域
+common pearls|普通珍珠
+colored pearls|彩色珍珠
+Store <amount> <target_pearl> in a shelter in <region_name>|在<region_name>的避难所里储藏<amount>个<target_pearl>
+Hoarding pearls in shelters|在避难所里储藏珍珠
+Reactivate Looks to the Moon|重启仰望皓月
+Deliver the green neuron to Five Pebbles|将绿色神经元运达五块卵石
+Delivering the green neuron|运达绿色神经元
+Never |不要
+eat|吃
+use|使用
+Avoiding items|避免物品
+Earn <achievement_name> passage|完成<achievement_name>通行证
+Obtaining passages|获得通行证
+Collect the <pearl> pearl from <region>|收集来自<region>的<pearl>珍珠
+Collect [<current>/<amount>] colored pearls|收集[<current>/<amount>]个彩色珍珠
+Collecting pearls|收集珍珠
+Deliver the music pearl to Five Pebbles|将赞美诗珍珠运达五块卵石
+Delivering the music pearl to Five Pebbles|将赞美诗珍珠运达五块卵石
+Dodge a leviathan's bite|
+躲避一次利维坦的啃咬
+Dodging a leviathan|躲避利维坦
+Hatch [<current>/<amount>] noodlefly eggs|孵化[<current>/<amount>]个面条蝇卵
+ in one cycle|在一个雨循环之内
+Hatching noodlefly eggs|孵化面条蝇卵
+Earn [<current_score>/<score_target>] points from creature kills|通过击杀生物获得[<current_score>/<score_target>]分
+Scoring global points|获得总分
+Store <amount> <target_item> in the same shelter|在相同的避难所里储藏<amount>个<target_item>
+Hoarding items in shelters|在避难所里储藏物品
+Earn [<current_score>/<score_target>] points from creature kills in one cycle|在一个雨循环里通过急击杀生物获得[<current_score>/<score_target>]分
+Scoring cycle points|单个雨循环获得分数
+Hit <crit> with <weapon> [<current>/<amount>] times|用<weapon>击打<crit>[<current>/<amount>]次
+Hitting creatures with items|用物品击打生物
+Trade [<current>/<amount>]|交易[<current>/<amount>]个
+item|物品
+ from Scavenger Merchants to other Scavenger Merchants|从一个拾荒者商贩到另一个拾荒者商贩
+Trading already traded items|倒卖物品
+Enter [<current>/<required>] regions without visiting|进入[<current>/<required>]区域而不途径
+Entering regions without visiting one|不途径某区域情况下进入某区域
+Visiting vistas|访问瞭望点
+Reach the vista point in <region_name>|到达位于 <region_name>的瞭望点
+You feel the presence of a vista . . .|你感受到了瞭望点的存在...
+Get the |获得
+unlock|代币
+Getting arena unlocks|获得解锁代币
+First time entering <to> must be from <from>|必须通过<from>首次进入<to>
+Entering a region from another region|从一个区域到另一个区域
+Pin [<current_pin>/<pin_amount>] <crit> to walls or floors<region>|将[<current_pin>/<pin_amount>]个<crit>钉在<region>的墙上或地面上
+Pinning creatures to walls|将生物钉在墙上
+Transport a <crit><from><to>|将一个<crit>从<from>运到<to>
+Transporting creatures|运送生物
+Kill [<current>/<amount>] <crit><location><pitorweapon><starving><onecycle>|在<onecycle>内，处于<starving>，使用<pitorweapon>杀死[<current>/<amount>]个位于<location>的<crit>
+Killing creatures|杀死生物
+Transport the same <crit> through [<current>/<amount>] gates|将同一个<crit>运送穿过[<current>/<amount>]个业力门
+Transporting the same creature through gates|运送同一个生物穿过业力门
+Open [<current>/<amount>] popcorn plants|打开[<current>/<amount>]个爆米花
+Popping popcorn plants|打开爆米花
+Maul [<current>/<amount>] different types of creatures|啃咬[<current>/<amount>]种生物
+Mauling different types of creatures|啃咬不同种生物
+Enter |进入
+Entering a region|进入区域
+Eat [<current>/<amount>] popcorn plant seeds|吃[<current>/<amount>]个爆米花种子
+Eating popcorn plant seeds|吃爆米花种子
+<region> colored pearl delivered to <iterator>|将位于<region>的彩色珍珠送达<iterator>
+Delivering colored pearls to an iterator|彩色珍珠送达迭代器
+Consume [<current>/<amount>] Karma Flowers|吃[<current>/<amount>]朵业力花
+Consuming karma flowers|吃业力花
+Do not gift Needles to Scavengers|不要把矛送给拾荒者
+Avoiding gifting Needles to Scavengers|避免把矛送给拾荒者
+Throw a grenade at the <toll> scavenger toll|将一个炸弹扔进<toll>拾荒者收费站
+ then pass it|然后通过那里
+Throwing grenades at scavenger tolls|将炸弹扔进拾荒者收费站
+Steal [<current>/<amount>] <item> from |盗取[<current>/<amount>]个<item>来自
+a Scavenger toll|一个拾荒者收费站
+Stealing items|盗取东西
+Neurons delivered to Looks to the Moon <progress>|将神经元递给仰望皓月<progress>
+Gifting neurons|递送神经元

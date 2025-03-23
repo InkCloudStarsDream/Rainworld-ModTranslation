@@ -2807,3 +2807,31 @@ a Scavenger toll|一个拾荒者收费站
 Stealing items|盗取东西
 Neurons delivered to Looks to the Moon <progress>|将神经元递给仰望皓月<progress>
 Gifting neurons|递送神经元
+
+\\3448525198
+LOST SOUL|迷失者
+The Lost Soul|迷失者
+Explore an new land, far from the reaches of Pebbles' destruction|探索一片新的土地，远在五块卵石的破坏范围之外。
+Sunlit Scaffolds|日晒支架
+Sunbathed Cathedral|日耀圣堂
+
+\\3449085772
+Decaying Wastes|腐朽荒地
+His pearl glows...|他的珍珠在发光……
+\\normal
+Exsected Husk|切除的躯壳
+Western Intake System|西部摄水系统
+\\spear
+Severence|切断之处
+Western Intake System|西部摄水系统
+\\arti
+So...Much...WATER WHAT THE FUCK!!!|这么……多……水卧槽！！！
+Wild Wild Western Intake System|超级狂野西部摄水系统
+\\red
+\\同Spear
+\\Saint
+The Corpse|尸骸
+Obsolete Pipelines|废弃管道
+\\inv
+OOPS! ALL MOMMIES!|哎呀妈呀
+Resident Evil 7|生化危机7

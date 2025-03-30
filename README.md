@@ -3,7 +3,7 @@
 本人对于github并不熟悉，所以仓库有什么问题麻烦大家谅解和指出。
 
 安装方式:将本文件下载后，放到Rainworld\RainWorld_Data\StreamingAssets\mods下，完成后，目录应为Rainworld\RainWorld_Data\StreamingAssets\mods\Rainworld-ModTranslation
-本模组的steam创意工坊地址:https://steamcommunity.com/sharedfiles/filedetails/?id=3072912119
+[本模组的Steam创意工坊地址](https://steamcommunity.com/sharedfiles/filedetails/?id=3072912119)
 
 以下为steam创意工坊描述:
 ——————————————————————————
@@ -21,6 +21,8 @@ QQ群号：690841592（欢迎加入以反馈意见）
 本模组的非steam安装在这里：https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
 
 贡献者：@墨色烟云，@实验喵，@celen，@方糖冰猫，@zbiotr, @Echo Wings
+
+——————————————————————————
 
 ## 状态
 ![Alt](https://repobeats.axiom.co/api/embed/dd840162af366dcb05c8af3b8babe867844fe7ea.svg "Repobeats analytics image")

@@ -21,13 +21,11 @@ Currently support Chinese, welcome to help us to translate into other languages.
 If you want to help us to translate or put up some advice, feel free to DM me on Discord:@MoseYanyun
 
 Contributors:
-@MoseYanyun
-@Exmeow
-@Celen
-@W1LD1CECA7
+@MoseYanyun,@Exmeow,@Celen,@W1LD1CECA7,@Echo Wings
 ",
 	"requirements": [],
 	"requirements_names": [],
+	"priorities": ["watcher"],
 	"tags": ["Translations"],
 	"checksum_override_version": false
 }

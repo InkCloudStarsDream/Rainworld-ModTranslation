@@ -20,7 +20,7 @@ QQ群号：690841592（欢迎加入以反馈意见）
 
 本模组的非steam安装在这里：https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
 
-贡献者：@墨色烟云，@实验喵，@celen，@方糖冰猫，@zbiotr
+贡献者：@墨色烟云，@实验喵，@celen，@方糖冰猫，@zbiotr, @Echo Wings
 
 ——————————————————————————
 
@@ -29,6 +29,7 @@ QQ群号：690841592（欢迎加入以反馈意见）
 [Exmeow](https://space.bilibili.com/511930300)
 [Celen](https://space.bilibili.com/36856844)
 [方糖冰猫](https://space.bilibili.com/197345364)
+[方糖冰猫](https://space.bilibili.com/326181935)
 [zbiotr]
 
 ## 状态

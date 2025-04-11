@@ -1945,9 +1945,9 @@ Lunar Byway|月之小径
 //2989792103
 Water Spitter|射水蜥蜴
 Mole Salamander|鼹蝾螈
-Gecko|波动蜥蜴
+Gecko|壁虎
 Echo Leviathan|回响利维坦
-Hunter Seeker|隐猎蜥蜴
+Hunter Seeker|白青蜥蜴
 Maraca Spider|爆鳞响蛛
 Baby Croaker|小黄蜥蜴
 Jelly Long Legs|长腿果冻
@@ -1966,7 +1966,7 @@ Reaper Lizard|南瓜蜥蜴
 Scroungers|行乞者
 Scutigera|钢蜈蚣
 Noodle Eater|食面蜥蜴
-Polliwog|抗震蝾螈
+Polliwog|紫蝾螈
 Sporantula|孢子狼蛛
 Surface Swimmer|水黾
 Red Horror Centipede|烈焰飞蜈蚣
@@ -2841,3 +2841,6 @@ Mossy Rifts|苔原裂隙
 serniczek|奶酪蛋糕
 Retaining Wall (South-West Entrance)|挡土墙（西南入口）
 Marsh Pier|沼泽码头
+\\3457887314
+Auxiliary Intake|摄水辅助
+The Reservior|水库

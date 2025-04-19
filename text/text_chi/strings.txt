@@ -2844,3 +2844,27 @@ Marsh Pier|沼泽码头
 \\3457887314
 Auxiliary Intake|摄水辅助
 The Reservior|水库
+
+\\3466384338
+Barnacle World|珊世界
+Replaces everything with Barnacles|珊瑚虫占领世界
+Coral Canopy|珊瑚顶棚
+Deep Sea Dranage|深海排水系统
+Garbage Reef|垃圾礁
+Industrial Seafloor|海底工业区
+Deep Arrays|深洋阵列
+Subsurface|基岩
+Sea of Ascension|飞升之海
+Seabed Citadel|比奇堡
+Memory Sea|记忆深渊
+Sea Islands|海洋群岛
+Communications Ocean|通讯汪洋
+Blue Shore|海蓝线
+Coral Brain|珊瑚脑
+Coral Brain (Memory Conflux)|珊瑚脑（内存汇流）
+Coral Brain (Recursive Transform Array)|珊瑚脑（递归变压阵列）
+Coral Brain (Corruption)|珊瑚脑（已腐化）
+Coral Brain (General Systems Bus)|珊瑚脑（通用系统总线）
+Coralskirts|珊瑚郊
+Upper Reef|礁顶
+Oceanic Tower|海之高塔

@@ -2809,8 +2809,8 @@ Neurons delivered to Looks to the Moon <progress>|将神经元递给仰望皓月
 Gifting neurons|递送神经元
 
 \\3448525198
-LOST SOUL|迷失者
-The Lost Soul|迷失者
+LOST SOUL|迷失灵魂
+The Lost Soul|迷失灵魂
 Explore an new land, far from the reaches of Pebbles' destruction|探索一片新的土地，远在五块卵石的破坏范围之外。
 Sunlit Scaffolds|日晒支架
 Sunbathed Cathedral|日耀圣堂

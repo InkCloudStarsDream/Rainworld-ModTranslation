@@ -1257,9 +1257,9 @@ Voided Subterranean|虚空地底
 Null|空无一物
 Event Horizon|事件穹界
 //3033569804
-The Champion|冠军
-THE CHAMPION|冠军
-Champion|冠军
+The Champion|英杰
+THE CHAMPION|英杰
+Champion|英杰
 Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead?|有着坚硬外壳和长矛的野兽，试图保护那些你所珍视的人。<LINE>你帮不了他们，也许你可以帮别人？
 The Tower of Pains|苦痛之塔
 Ruinous Facility|废墟设施
@@ -2810,7 +2810,7 @@ Gifting neurons|递送神经元
 
 \\3448525198
 LOST SOUL|迷失灵魂
-The Lost Soul|迷失灵魂
+ The Lost Soul|迷失灵魂
 Explore an new land, far from the reaches of Pebbles' destruction|探索一片新的土地，远在五块卵石的破坏范围之外。
 Sunlit Scaffolds|日晒支架
 Sunbathed Cathedral|日耀圣堂
@@ -2844,10 +2844,9 @@ Marsh Pier|沼泽码头
 \\3457887314
 Auxiliary Intake|摄水辅助
 The Reservior|水库
-
 \\3466384338
-Barnacle World|珊世界
-Replaces everything with Barnacles|珊瑚虫占领世界
+mk.barnacleworld-name|珊世界
+mk.barnacleworld-description|珊瑚虫占领世界!
 Coral Canopy|珊瑚顶棚
 Deep Sea Dranage|深海排水系统
 Garbage Reef|垃圾礁

@@ -2867,3 +2867,10 @@ Coral Brain (General Systems Bus)|珊瑚脑（通用系统总线）
 Coralskirts|珊瑚郊
 Upper Reef|礁顶
 Oceanic Tower|海之高塔
+
+\\3474041462
+Ashen Bow|苍弓
+Undertracks|下部轨道
+Starlit Spire|烁星高塔
+The Spine|山脊
+Reticent Line|缄默航线

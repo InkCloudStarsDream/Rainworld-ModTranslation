@@ -2874,3 +2874,33 @@ Undertracks|下部轨道
 Starlit Spire|烁星高塔
 The Spine|山脊
 Reticent Line|缄默航线
+
+\\3466127398
+mk.Watcher Expeditions-name|观望者探险
+mk.Watcher Expeditions-description|在探险模式中添加观望者作为可选蛞蝓猫 \n以及为观望者增加了特殊挑战，使命任务和一个新负担。 \n\n将观望者添加入竞技场 \n在竞技场中添加观望者DLC生物。
+As the Watcher,form new pathe and search within <LINE>the ripples with newfound purpose.|观望者将开辟新的道路，<LINE>带着新的目标再度潜入涟漪。
+PoisonSpear|毒矛
+Poison Spear|毒矛
+Start the expedition with a poison tipped Spear|携带毒矛开始探险
+Camouflage|伪装
+Gain the ability to camouflage for a short time from predators by holding the SPECIAL button.|按住特殊键以针对掠食者短暂进行伪装。
+Permament Warps|永久裂隙
+Formed paths(Warps) are permament instead of expiring after 5 cycles.<LINE>Watcher Exclusive|使生成的路径（裂隙）永久有效而不会在5个雨循环后消失<LINE>仅限观望者使用
+Rot World|腐化世界
+Rotten|腐化
+Rotten+25%|腐化+25%
+All regions start entirely overtaken and infected with rot.<LINE>This is meant to be for the challenge only.|所有区域初始时完全感染并腐化。<LINE>此挑战仅限观望者开启。
+
+\\3471172003
+Gloaming Refinery|暗暮油厂
+Lower Hydrovaults|下储水库
+Vapor Tunnels|蒸汽甬道
+
+\\3470843514
+morerotregions.elsafogen-name|更多腐化区域
+morerotregions.elsafogen-description|增加更多使用无业力花传送到达的重度腐化惩罚区域。<LINE>包括烟囱天棚、天空群岛、外缘、农场阵列、阴影城堡、海岸线、地底、大都会、外层空间，当然还有大家最爱的管道堆场。
+Festering Towers|朽败弃塔
+
+\\3479823994
+Coastal Building|临海建筑
+The River|河流

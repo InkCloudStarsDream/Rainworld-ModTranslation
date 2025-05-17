@@ -2904,3 +2904,15 @@ Festering Towers|朽败弃塔
 \\3479823994
 Coastal Building|临海建筑
 The River|河流
+
+\\3480541871
+Six Strange Sights|六处奇景
+The Mossy Leg|苔痕支架
+Sun Soaked Exterior|浸日外缘
+Rot Core|腐化核心
+Sunken Ridge|沉没山脊
+
+\\3482731057
+Cliffside|峭壁
+Bygone Mineshaft|古老矿井
+Summit of Mistakes|错误山峰

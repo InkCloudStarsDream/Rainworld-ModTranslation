@@ -2916,3 +2916,8 @@ Sunken Ridge|沉没山脊
 Cliffside|峭壁
 Bygone Mineshaft|古老矿井
 Summit of Mistakes|错误山峰
+
+\\3482943061
+Anti-gravity caves|反重力洞穴
+Functional Wing|运行侧翼 
+Damaged sector|受损扇区

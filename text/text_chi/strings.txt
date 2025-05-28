@@ -2921,3 +2921,12 @@ Summit of Mistakes|错误山峰
 Anti-gravity caves|反重力洞穴
 Functional Wing|运行侧翼 
 Damaged sector|受损扇区
+
+\\3488620216
+The Labyrinth|迷宫
+Virgil's Vile Vmaze|维吉尔歪恶V迷宫
+Hidden Crevice|隐藏裂缝
+Our House, In The Middle Of Our House|我们的房子，在我们的房子中央
+
+\\3488862857
+Echo's Rooms|Echo的画廊房间

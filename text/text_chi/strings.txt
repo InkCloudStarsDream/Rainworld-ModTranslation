@@ -2993,3 +2993,8 @@ Our House, In The Middle Of Our House|我们的房子，在我们的房子中央
 
 \\3488862857
 Echo's Rooms|Echo的画廊房间
+
+\\3491839053
+Peripheral Wreckage|外围残骸
+Flooded Vents|浸没通风口
+Fallen Ruins|坠落残骸

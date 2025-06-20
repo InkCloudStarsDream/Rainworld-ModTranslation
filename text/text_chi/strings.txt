@@ -2808,43 +2808,45 @@ Stealing items|盗取东西
 Neurons delivered to Looks to the Moon <progress>|将神经元递给仰望皓月<progress>
 Gifting neurons|递送神经元
 
-\\3448525198
+//3448525198
 LOST SOUL|迷失灵魂
  The Lost Soul|迷失灵魂
 Explore an new land, far from the reaches of Pebbles' destruction|探索一片新的土地，远在五块卵石的破坏范围之外。
 Sunlit Scaffolds|日晒支架
 Sunbathed Cathedral|日耀圣堂
 
-\\3449085772
+//3449085772
 Decaying Wastes|腐朽荒地
 His pearl glows...|他的珍珠在发光……
-\\normal
+//normal
 Exsected Husk|切除的躯壳
 Western Intake System|西部摄水系统
-\\spear
+//spear
 Severence|切断之处
 Western Intake System|西部摄水系统
-\\arti
+//arti
 So...Much...WATER WHAT THE FUCK!!!|这么……多……水卧槽！！！
 Wild Wild Western Intake System|超级狂野西部摄水系统
-\\red
-\\同Spear
-\\Saint
+//red
+//同Spear
+//Saint
 The Corpse|尸骸
 Obsolete Pipelines|废弃管道
-\\inv
+//inv
 OOPS! ALL MOMMIES!|哎呀妈呀
 Resident Evil 7|生化危机7
 
-\\3453076577
+//3453076577
 Mossy Rifts|苔原裂隙
 serniczek|奶酪蛋糕
 Retaining Wall (South-West Entrance)|挡土墙（西南入口）
 Marsh Pier|沼泽码头
-\\3457887314
+
+//3457887314
 Auxiliary Intake|摄水辅助
 The Reservior|水库
-\\3466384338
+
+//3466384338
 mk.barnacleworld-name|珊世界
 mk.barnacleworld-description|珊瑚虫占领世界!
 Coral Canopy|珊瑚顶棚
@@ -2868,65 +2870,141 @@ Coralskirts|珊瑚郊
 Upper Reef|礁顶
 Oceanic Tower|海之高塔
 
-\\3474041462
+//3474041462
 Ashen Bow|苍弓
 Undertracks|下部轨道
 Starlit Spire|烁星高塔
 The Spine|山脊
 Reticent Line|缄默航线
 
-\\3466127398
+//3466127398
 mk.Watcher Expeditions-name|观望者探险
 mk.Watcher Expeditions-description|在探险模式中添加观望者作为可选蛞蝓猫 \n以及为观望者增加了特殊挑战，使命任务和一个新负担。 \n\n将观望者添加入竞技场 \n在竞技场中添加观望者DLC生物。
 As the Watcher,form new pathe and search within <LINE>the ripples with newfound purpose.|观望者将开辟新的道路，<LINE>带着新的目标再度潜入涟漪。
-PoisonSpear|毒矛
-Poison Spear|毒矛
-Start the expedition with a poison tipped Spear|携带毒矛开始探险
-Camouflage|伪装
-Gain the ability to camouflage for a short time from predators by holding the SPECIAL button.|按住特殊键以针对掠食者短暂进行伪装。
-Permament Warps|永久裂隙
-Formed paths(Warps) are permament instead of expiring after 5 cycles.<LINE>Watcher Exclusive|使生成的路径（裂隙）永久有效而不会在5个雨循环后消失<LINE>仅限观望者使用
-Rot World|腐化世界
-Rotten|腐化
-Rotten+25%|腐化+25%
-All regions start entirely overtaken and infected with rot.<LINE>This is meant to be for the challenge only.|所有区域初始时完全感染并腐化。<LINE>此挑战仅限观望者开启。
+Perk_Camo_Name|伪装
+Perk_Camo_Desc|按住“特殊”按钮可短时间获得躲避捕食者的伪装能力。
+Perk_LongWarp_Name|永久扭曲
+Perk_LongWarp_Desc|形成永久而不是会在五个循环内消失的涟漪。<LINE>观察者专属
+Perk_PoisonSpear_Name|毒矛
+Perk_PoisonSpear_Desc|用毒矛开始探险。
+Perk_Boomerang_Name|回旋镖热潮
+Perk_Boomerang_Desc|所有的石头都有机会被回旋镖取代。
 
-\\3471172003
+Burden_Rot_Name|被腐化
+Burden_Rot_Desc|所有区域在开始时就会被全部占领并感染。<LINE>这是为挑战而准备的。
+
+Challenge_Rot_Name|腐化蔓延
+Challenge_Rot_Desc|用觉知腐化感染 <score_target> 区域 
+ [<current_score>/<score_target>]
+Challenge_ST_Name|陀螺
+Challenge_ST_Desc|拜访在 <region> 的陀螺
+Challenge_Warp_Name|传送周期
+Challenge_Warp_Desc|在一个循环内传送 <target> 次 [<current>/<target>]
+challenge_Prince_Name|王子交付
+challenge_Prince_Desc|交付 <item> 给王子
+
+Mission_Rot|腐化世界
+Watcher_Ex_Description|作为观察者，形成新的路径，在<LINE>涟漪中寻找新的目标。
+
+
+WatcherExpeditions_Name|~观望者探险模组~
+WatcherExpeditions_Desc|非官方的观望者探险
+
+WEConfig_Name_RippleMax|最高涟漪等级
+WEConfig_Desc_RippleMax|最高涟漪等级的起始量。 你需要三级最高涟漪等级来开启传送，五级涟漪等级来开启浮空，八级涟漪等级来传送到所有区域，九级业力等级来开启恶魔。
+WEConfig_Name_RippleMin|最小涟漪等级
+WEConfig_Desc_RippleMin|最小涟漪等级的起始量。 也许你不值得，你的最小涟漪等级会随着你拜访陀螺的次数增加而增加。
+WEConfig_Name_RippleStart|起始涟漪
+WEConfig_Desc_RippleStart|涟漪等级的起始量，业力的替换品。
+WEConfig_Name_ChangeRipple|回响改变的最大/最小涟漪等级
+WEConfig_Desc_ChangeRipple|允许陀螺增加的最大和最小的涟漪等级。可以将涟漪设置到它可以达到的最大值。对原版探险中的回响无效。
+WEConfig_Name_KarmaFlower|全区域业力花
+WEConfig_Desc_KarmaFlower|允许业力花在每个观望者探险区域产生，作为观望者传送能力所需的重要物品。如果被禁用，它们仍然会产生在外缘，破碎露台，恶魔和腐化区域。
+WEConfig_Name_Unlock|解锁力量
+WEConfig_Desc_Unlock|不管是否完成战役，解锁观望者探险。
+WEConfig_Name_UnlockPerks|
+WEConfig_Desc_UnlockPerks|
+ 
+ 
+WEConfig_Name_Hunt_Barnacle|狩猎——藤壶
+WEConfig_Desc_Hunt_Barnacle|允许狩猎挑战选择：藤壶 从1.10.2开始，它们可以用波动龟来去壳。
+WEConfig_Name_Hunt_SandWorm|狩猎——沙虫
+WEConfig_Desc_Hunt_SandWorm|允许狩猎挑战选择：沙虫。类似于红树，但眩晕使你一旦被抓住就难以逃脱，并且他们会隐藏。
+WEConfig_Name_Hunt_BigMoth|狩猎——大蛾
+WEConfig_Desc_Hunt_BigMoth|允许狩猎挑战选择：大蛾。在1.10.2中，他们似乎更容易与之战斗和逃脱
+WEConfig_Name_Hunt_BoxWorm|狩猎——箱虫
+WEConfig_Desc_Hunt_BoxWorm允许狩猎挑战选择：箱虫。箱虫可以很轻易地困住你，在可以被杀死之前需要激活他们，和他们的战斗并不是很有趣。没有火精灵的箱虫是无法被杀死的。
+WEConfig_Name_Hunt_BoneShaker|狩猎——震骨者
+WEConfig_Desc_Hunt_BoneShaker|允许狩猎挑战选择：震骨者。 它们只会出现在腐化地图或者被腐化的地图之中。可以通过击倒他们从顶部杀死他们。 
+WEConfig_Name_Challenge_Rot|腐化传播挑战
+WEConfig_Desc_Challenge_Rot|需要你感染区域来达成的挑战。5个为正常难度，范围为3-9.
+WEConfig_Name_Challenge_ST|
+WEConfig_Desc_Challenge_ST|
+  
+WEConfig_Name_RotWorld_Hunt|腐化维度——狩猎
+WEConfig_Desc_RotWorld_Hunt|狩猎计入腐化区域内的敌人，例如长腿菌和烈焰蜈蚣。因为你无法选择传送到哪个腐化区域，所以不建议勾选这个选项。
+WEConfig_Name_RotWorld_Shelter|腐化维度——庇护所
+WEConfig_Desc_RotWorld_Shelter|探险可以从腐化区域开始。你需要找到一个出口，然后传送你到一个随机的区域。永远不会到达外缘。
+ 
+
+WEConfig_Name_VanillaPassage|观望者战役的段落
+WEConfig_Desc_VanillaPassage|在观望者战役中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
+WEConfig_Name_ColorFix|修复自定义颜色
+WEConfig_Desc_ColorFix|观望者拥有他自己的身体颜色覆盖和一部分黑色阴影，忽略自定义颜色，惬意合作的自定义合作以及他的默认设置为深蓝色。这使得拓展自定义和惬意合作的自定义颜色起效。
+WEConfig_Name_Sandbox|观望者沙盒
+WEConfig_Desc_Sandbox|在沙盒和竞技场中添加观望者的生物和物品。官方最终会正式添加这些东西。没有解锁要求。腐化蜥蜴不存在在这些当中，因为它们并不是单独的生物。
+WEConfig_Name_Music|观望者音乐盒
+WEConfig_Desc_Music|在音乐盒中加入观望者原声带，无需解锁。
+WEConfig_Name_STSpeak|陀螺对话
+WEConfig_Desc_STSpeak|允许陀螺对话，它将按照顺序选择对话。
+
+//3471172003
 Gloaming Refinery|暗暮油厂
 Lower Hydrovaults|下储水库
 Vapor Tunnels|蒸汽甬道
 
-\\3470843514
+//3470843514
 morerotregions.elsafogen-name|更多腐化区域
 morerotregions.elsafogen-description|增加更多使用无业力花传送到达的重度腐化惩罚区域。<LINE>包括烟囱天棚、天空群岛、外缘、农场阵列、阴影城堡、海岸线、地底、大都会、外层空间，当然还有大家最爱的管道堆场。
 Festering Towers|朽败弃塔
 
-\\3479823994
+//3479823994
 Coastal Building|临海建筑
 The River|河流
 
-\\3480541871
+//3480541871
 Six Strange Sights|六处奇景
 The Mossy Leg|苔痕支架
 Sun Soaked Exterior|浸日外缘
 Rot Core|腐化核心
 Sunken Ridge|沉没山脊
 
-\\3482731057
+//3482731057
 Cliffside|峭壁
 Bygone Mineshaft|古老矿井
 Summit of Mistakes|错误山峰
 
-\\3482943061
+//3482943061
 Anti-gravity caves|反重力洞穴
 Functional Wing|运行侧翼 
 Damaged sector|受损扇区
 
-\\3488620216
+//3488620216
 The Labyrinth|迷宫
 Virgil's Vile Vmaze|维吉尔歪恶V迷宫
 Hidden Crevice|隐藏裂缝
 Our House, In The Middle Of Our House|我们的房子，在我们的房子中央
 
-\\3488862857
+//3488862857
 Echo's Rooms|Echo的画廊房间
+
+//3491839053
+Peripheral Wreckage|外围残骸
+Flooded Vents|浸没通风口
+Fallen Ruins|坠落残骸
+
+//3496527411
+Urban Expanse|郊区拓展
+Water Purification Center|水流净化中心
+Grim Urban|阴森都市
+Dense Urban|稠密都市

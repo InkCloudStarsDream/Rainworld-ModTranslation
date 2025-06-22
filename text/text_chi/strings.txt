@@ -3003,8 +3003,35 @@ Peripheral Wreckage|外围残骸
 Flooded Vents|浸没通风口
 Fallen Ruins|坠落残骸
 
+//3494542551
+Regent's Ascent|摄政天路
+Old Infrastructure|陈旧基建
+Vagrant|漂泊者
+The Vagrant|漂泊者
+THE VAGRANT|漂泊者
+A life lived in isolation, idle survival and merryment. But there might be something more beyond, as the world around you changes.|一只与世隔绝、享受着悠闲生活的生物。<LINE>但伴随着周遭世界的变化，或许会有新事物闯入你的生活。
+
 //3496527411
 Urban Expanse|郊区拓展
 Water Purification Center|水流净化中心
 Grim Urban|阴森都市
 Dense Urban|稠密都市
+
+//3494010013
+Miry Strath|泥泞河谷
+
+//3497918836
+Rebuilt Umbra|重铸暗影
+Outer Barrens|外部荒地
+Primary Intake|初级摄水系统
+Upper Towers|高塔上部
+mk.warped|扭曲者
+The Warped|扭曲者
+THE WARPED|扭曲者
+A very lost slugcat.<LINE>How did it even get here?|一只迷路的蛞蝓猫。<LINE>他是怎么到这来的？
+
+//3498563217
+Pearlescent Chambers|珍珠储藏所
+Fragmented Storerooms|破碎储藏室
+
+

@@ -3034,4 +3034,7 @@ A very lost slugcat.<LINE>How did it even get here?|一只迷路的蛞蝓猫。<
 Pearlescent Chambers|珍珠储藏所
 Fragmented Storerooms|破碎储藏室
 
+//3459890439
+Dark Caves|晦暗洞窟
+Eastern Expanse|东向广域
 

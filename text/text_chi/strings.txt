@@ -3038,3 +3038,33 @@ Fragmented Storerooms|破碎储藏室
 Dark Caves|晦暗洞窟
 Eastern Expanse|东向广域
 
+//3153903951
+//Shrouded Assembly Code
+//PureCrystal
+This is the crystalline fruit of some sort of plant.<LINE>It seems very delicate, so handle it with care!|这是某种植物结出的晶状果实。<LINE>它好像非常易碎，要小心轻放！
+//RockFruit
+It’s some sort of shelled fruit, of no nutritional value to you.<LINE>The indentations in it’s mantle help build up air inside, releasing in a pop when provoked.|这是一种带壳果实，于你而言没有营养价值。<LINE>其外壳的凹陷结构会在内部积聚空气，受激时发出爆裂声。
+//BigGoldenPearl
+//5P
+Oh. Interesting. This is a standard issue confluence pearl,<LINE>many times larger than the standard fare, printed from a similarly colossal strand manipulator.|哦，有趣。这是颗标准制式的汇流珍珠，<LINE>比常规型号大了不少，由同样巨型的链式操控器打印而成。
+The pearl itself contains a barely living liquid center,<LINE>rendering the data easily overwritten by any skilled technician.|珍珠内部包含一个近乎死亡的液态核心，<LINE>使得任何娴熟的技师都能轻易复写其数据。
+The data on this traces its ownership back to a massive cargo sail,<LINE>with a departure date scheduled soon after our benefactors mass ascension. How peculiar.|数据显示这颗珍珠属于一艘大型货船，<LINE>启航日期设定在我们的施舍者集体飞升后不久，真是蹊跷。
+It’s highly likely whichever rebellious citizen commandeered this ship belonged to one of many groups of dissident monks.|强征了这艘船的反叛公民大概率来自于许多持不同政见的僧侣群体之一。
+Given the ships proximity to a particularly weak spot in the firmament,<LINE>they could have been a pure spindle fanatic, one of few remaining after the monastic purges carried out during the void fluid revolution.|由于该船迫近于天穹的薄弱点，<LINE>其大概是纯净纺锤体的狂热信徒，这类人在虚空流体革命期间的修道院清洗进行之后已经所剩无几。
+Focused on a physical and spiritual un-birth, this reclusive order felt their fate lie in the stars rather than beneath them,<LINE>and this particular believer may have escaped in order to decipher the nature of this ancient belief, unheeded by everyday needs.|追求着肉体和精神的双重“非生”，这个隐秘组织认为他们的命运在于星辰之间而非尘世，<LINE>其中的这位信徒或许正是为了解密古老教义而逃亡，忽视世俗需求。
+As for where it departed from? The tracking data suggests it came from one of my neighboring cans-<LINE>not that I care enough to discover its exact origin.|至于启航地点？记录数据显示它来自于我某个邻居的巨构————<LINE>不过我对寻找它的确切起点并不关心。
+Although it hardly aligns with my present ambitions, I thank you for this strange insight.|虽然这与我的当前目标毫不相干，还是感谢你带来的奇怪线索。
+//LTTM
+This seems to be a larger variant of the standard data pearls you may have seen around,<LINE>meant for more direct interfacing.|这是你所发现过的标准数据珍珠中一个更大的变体，<LINE>用于适配更直接的接口。
+The data stored on this shows a trade route traversing the celestial underlayer,<LINE>our creators ever so wary of any slips in the firmament.|上面储存的数据显示了一条穿越天空下层的贸易路线，<LINE>我们的创造者们始终如此警戒天空中的失误。
+I never payed them any mind, however.<LINE>My kind concerned themselves with matters below, rather than above.|不过我从来没关心过这些。<LINE>我和我的同类们专注于地面的事务，而非天空。
+Besides that, this includes the departure and docking log for the ship.|除此之外，珍珠还记录着货船的启程和停靠日志。
+Strangely, it records docking at a refueling tower when no ships should have been active,<LINE>after the final days of my creators ascent.|奇怪的是，在本应无船航行的时间段，数据显示出在燃料补给塔停泊的记录，<LINE>届时是我们的创造者飞升的最后阶段之后。
+Whoever departed in this vessel must have felt their fate lied in the stars,<LINE>rather than beneath the earth.|让这艘船启航的人一定认为其命运存在于繁星之间，<LINE>,而非深入于地底。
+Select few superstitious old monks used to believe the same,<LINE>despite their shunning by wider society.|曾经一些迷信的老僧侣持有同样的观点，<LINE>虽然遭到主流社会的排斥。
+Even still, some still clung to their belief,<LINE>evident with the existence of this pearl.|尽管如此，仍有人固执信仰，<LINE>这颗珍珠的存在就是证明。
+So much effort, endless ruminating,<LINE>our gift swatted away without care.|如此的多的努力，永无止境的沉思，<LINE>我们的礼物却就这样被毫不关心地丢弃。
+It infuriates me.|这让我愤怒。
+Like a selfish child, they defied what would have benefited them,<LINE>leaving us to clean up the mess.|就像任性的孩子一般，他们拒绝了应有的福祉，<LINE>留给我们去收拾烂摊子。
+Not that I could, anyways, in the state that I am in.|无论如何，以我目前的状态，也无力去收拾。
+But I apologize, I shouldn’t have gotten so worked up.<LINE>It’s ultimately insignificant.|抱歉，我不该这么激动。<LINE>这只是无关紧要的小事罢了。

@@ -3068,3 +3068,21 @@ It infuriates me.|这让我愤怒。
 Like a selfish child, they defied what would have benefited them,<LINE>leaving us to clean up the mess.|就像任性的孩子一般，他们拒绝了应有的福祉，<LINE>留给我们去收拾烂摊子。
 Not that I could, anyways, in the state that I am in.|无论如何，以我目前的状态，也无力去收拾。
 But I apologize, I shouldn’t have gotten so worked up.<LINE>It’s ultimately insignificant.|抱歉，我不该这么激动。<LINE>这只是无关紧要的小事罢了。
+
+\\3483303152
+music volume adjuster
+Main Music|主音乐
+Threat Music|威胁音乐
+Random Music|随机音乐
+
+\\3264144524
+jukebox everywhere
+Set a track to play as the Expedition menu theme|将音乐设定为探险菜单音乐
+Set a track to play as the main menu theme|将音乐设定为主菜单音乐
+THREAT THEMES|威胁音乐
+Opens Rotwall's Threatmixer in a web browser|在浏览器中打开Rotwall的威胁音乐混合器
+
+\\3298609957
+unlimited saves
+Name: |名称: 
+Delete save|删除存档

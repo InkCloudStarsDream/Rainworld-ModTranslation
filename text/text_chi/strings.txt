@@ -3086,3 +3086,26 @@ Opens Rotwall's Threatmixer in a web browser|在浏览器中打开Rotwall的威�
 unlimited saves
 Name: |名称: 
 Delete save|删除存档
+
+//3443958927
+//Tick Ticker
+Increase metronome speed|加快节拍器速度
+Decrease metronome speed|减缓节拍器速度
+Toggle metronome|开关节拍器
+Change Volume|调节音量
+Change metronome volume|调节节拍器音量
+
+//2940029256
+//PhysicsSpeedConfig
+physicsspeedconfig mod by pinecubes|物理速度调整模组 by pinecubes
+laura#2871 for any questions or suggestions!|有问题或建议请找laura#2871！
+Configure keys to change the physics speed while ingame!|设置热键来实时修改游戏内物理速度！
+Slowdown multiplier|减速乘数
+Speedup multiplier|加速乘数
+Slowdown keybind|减速按键
+Speedup keybind|加速按键
+Kill process keybind|终止按键
+Toggle with key|按键来启用
+25% by default|默认25%
+300% by default|默认300%
+On by default|默认启用

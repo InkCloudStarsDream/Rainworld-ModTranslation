@@ -3109,3 +3109,130 @@ Toggle with key|按键来启用
 25% by default|默认25%
 300% by default|默认300%
 On by default|默认启用
+
+//3424930016
+//凛冬终末迭代器对话！！
+*BeeNoPearl
+…|……
+..?|……？
+A creature?|一只生物？
+How interesting. It got into my chamber.|真有趣。它进了我的演算室。
+I must assume you did not arrive here of your own volition.|我只能假定你不是靠自己的意志到达这儿的。
+Whatever led you here whether accident or intention it is wasted effort.|不论有意还是无意，你来这里都是白费力气。
+There is nothing of value for you within this place.|这里没有对你有价值的东西。
+I suggest you turn back. No curiosity for beings such as yourself.|我建议你回去。像你这样的存在不应该有好奇心。
+
+*BeeEncounterMetbefore
+Oh.|哦。
+You're back|你回来了。
+There is nothing i can do in this chamber.|在这演算室里我做不了什么。
+Who brought you here still?|是谁仍然将你引来？
+Although, i feel something you have..|不过，我感觉你有某些东西……
+May I see?|我能看一下吗？
+...
+This pearl...|这颗珍珠……
+It holds significance beyond your understanding.|它所承载的远超你的理解。
+Deliver it to the tower. It is imperative.|把它送到塔那里。这很紧要。
+You may not comprehend its importance, but you have my gratitude.|你或许不明白它的重要性，但我会很感激你。
+Do not delay.|不要再拖延了。
+
+*BeeEncounter
+...
+..?
+A creature?
+How interesting. It got into my chamber.
+Who brought you here, intelligent creature?|谁带你来到这里，聪明的生灵？
+Although, i feel something you have..
+May I see?
+...
+This pearl...
+It holds significance beyond your understanding.
+Deliver it to the tower. It is imperative.
+You may not comprehend its importance, but you have my gratitude.
+Do not delay.
+
+*Snow_MeetCB
+…
+Does this method suffice? Is this reaching you?|这个方法可行吗？你能听到吗？
+You two are quite adorable. You should work together in this situation.|你们两个真可爱。在这种情况下，你们应该齐心协力。
+Perhaps a kinder entity has already tried, though their success is uncertain.|也许一个更和善的存在已经尝试过，尽管无法确认是否成功。
+Now, I find myself requiring your assistance to stabilize this decaying structure.|现在，我发觉自己需要你的协助，来稳定这个正在衰败的结构。
+Time is not a resource we can afford to squander|我们的时间经不起浪费了。
+Here. This device will serve as your temporary Drone.|来。这个设备会暂时成为你的无人机。
+It's calibrated to interact with the core systems of the power network.|它被校准为可以与能量网络的核心系统互动。
+Travel to where the ancients once thrived. Beyond that, head westward.|前往古人曾繁荣兴盛的地方，越过它，继续向西。
+There lies the system drawing power to sustain this place.|那里的系统汲取着维持这个地方运转的能量。
+We will speak further when the energy flow is restored. I trust you.|能量流恢复后，我们可以进一步聊聊。我相信你。
+...
+I will wait... for as long as I can.|我会等待……只要我还能等待。
+
+*unkown
+…
+A different species.|一个不同的物种。
+Curious. Speak.|好奇。言语。
+Your kind should not persist in these conditions.|你们不应该坚持留在这种环境里。
+I am surprised you survive so far from safer habitats.|我很惊讶，你离安全的栖息地如此遥远，还能存活下来。
+Your body temperature teeters dangerously close to hyperthermic collapse.|你的体温正濒临高热衰竭的危险边缘。
+Yet... you are alive. Resilient, against odds.|然而……你仍然活着。正在顽强地适应。
+What drives you here, small creature? Is it mere instinct?|是什么驱使你来到这里，小生物？仅仅是本能吗？
+Or perhaps... something more?|又或许……是另外一些东西？
+Your presence warrants observation. Speak or act. I will watch.|你的存在值得观察。说话或行动。我会看着的。
+Bye.|再见。
+
+*unkownagain
+…
+There is nothing i can talk.|我没有什么可说的。
+
+*SecondMeet
+…
+We don't have time.|我们没有时间了。
+Please.|拜托你。
+
+*IgnoreMeet
+…
+
+*Snow_thankyou
+...!|……！
+Thank you.|谢谢你。
+Your efforts have preserved my existence an outcome I had not dared to hope for.|你的努力使我的存在得以维持，这曾是我不敢奢望的结果。
+Now, I must attempt to establish contact with an acquaintance.|现在，我必须尝试与一位熟人建立联系。
+....
+... It appears I cannot.|……看起来我不能。
+What has become of the other places, I wonder?|我想知道其它地方现在已经变成什么样了？
+...
+Nevertheless, my gratitude remains.|尽管如此，我仍然心怀感激。
+If you carry pearls or seek answers, I will do what I can to assist.|如果你带来珍珠或寻求解答，我会尽我所能提供帮助。
+...
+I can only hope they are safe.|我只希望他们平安无事。
+
+You two should be along together.|你们两个应该待在一起。
+
+
+*Snow_again
+Hello.|你好。
+All the system is restored.|所有系统均已恢复。
+Again, thank you.|再次感谢你。
+i don't have any plans but you can enjoy resting here.|我没有任何计划了，但你可以在这里尽情休息。
+As your own big little chamber with me.|就像你自己的大大演算室，和我一起。
+i have nothing to do on, Take a good rest.|我手头没有要做的事，好好休息吧。
+
+*IDONTHAVETIME
+I do not have time, please.|我没有时间了，求你。
+I cant help with this, i need you to restore my power.|我无法提供帮助，我需要你恢复我的供能。
+Time is ticking, please quick.|时间在流逝，请尽快。
+
+You really like to know this pearl, Later after you restore the power.|你很想知道这颗珍珠的内容，等你把能量恢复后。
+...
+
+*blanklol
+Lets see.|让我们看看。
+...?
+Let me read this pearl.|让我读一下这颗珍珠。
+A pearl. How intriguing.|一颗珍珠。相当有趣。
+Its data is fragmented, but I will extract what I can.|它的数据支离破碎，但我会尽力提取。
+Pearl one? These objects hold secrets even their creators forgot.|一颗珍珠？这些物品携带着它们的创造者都忘记了的秘密。
+This will take a moment to process.|这个需要一点时间来处理。
+Hmm. This pearl is unlike the others.|嗯……这颗珍珠不同于其它的。
+The data might be corrupted, but there’s something here...|数据可能损坏了，但仍然有一些……
+What is this? An offering?|这是什么？祭品？
+Very well. Let me see if it holds anything of value.|很好。让我看看有没有什么重要的东西。

@@ -3112,7 +3112,7 @@ On by default|默认启用
 
 //3424930016
 //凛冬终末迭代器对话！！
-*BeeNoPearl
+//BeeNoPearl
 …|……
 ..?|……？
 A creature?|一只生物？
@@ -3122,7 +3122,7 @@ Whatever led you here whether accident or intention it is wasted effort.|不论�
 There is nothing of value for you within this place.|这里没有对你有价值的东西。
 I suggest you turn back. No curiosity for beings such as yourself.|我建议你回去。像你这样的存在不应该有好奇心。
 
-*BeeEncounterMetbefore
+//BeeEncounterMetbefore
 Oh.|哦。
 You're back|你回来了。
 There is nothing i can do in this chamber.|在这演算室里我做不了什么。
@@ -3132,11 +3132,14 @@ May I see?|我能看一下吗？
 ...
 This pearl...|这颗珍珠……
 It holds significance beyond your understanding.|它所承载的远超你的理解。
-Deliver it to the tower. It is imperative.|把它送到塔那里。这很紧要。
+Deliver it to the top of the tower. It is imperative.|把它送到塔顶上。这很紧要。
 You may not comprehend its importance, but you have my gratitude.|你或许不明白它的重要性，但我会很感激你。
 Do not delay.|不要再拖延了。
+The reason I require your assistance is simple.|我需要你协助的原因很简单。
+Something has occurred...|有什么事情发生了……
+The communication tower’s processing unit has been damaged.|通讯塔的处理单元被损坏了。
 
-*BeeEncounter
+//BeeEncounter
 ...
 ..?
 A creature?
@@ -3150,8 +3153,11 @@ It holds significance beyond your understanding.
 Deliver it to the tower. It is imperative.
 You may not comprehend its importance, but you have my gratitude.
 Do not delay.
+The reason I require your assistance is simple.
+Something has occurred...
+The communication tower’s processing unit has been damaged.
 
-*Snow_MeetCB
+//Snow_MeetCB
 …
 Does this method suffice? Is this reaching you?|这个方法可行吗？你能听到吗？
 You two are quite adorable. You should work together in this situation.|你们两个真可爱。在这种情况下，你们应该齐心协力。
@@ -3160,13 +3166,14 @@ Now, I find myself requiring your assistance to stabilize this decaying structur
 Time is not a resource we can afford to squander|我们的时间经不起浪费了。
 Here. This device will serve as your temporary Drone.|来。这个设备会暂时成为你的无人机。
 It's calibrated to interact with the core systems of the power network.|它被校准为可以与能量网络的核心系统互动。
-Travel to where the ancients once thrived. Beyond that, head westward.|前往古人曾繁荣兴盛的地方，越过它，继续向西。
+Travel to Outpost Citadel, that's where ancient lived. Beyond that, head bottom left of the map.|前往前哨堡垒，古人曾居住的地方。越过它，继续走向地图左下方。
+There's a gate, only for drone unit to open. To avoid any dangerous creature coming in.|那里有一扇门，只能通过无人机打开，以防危险生物进入。
 There lies the system drawing power to sustain this place.|那里的系统汲取着维持这个地方运转的能量。
 We will speak further when the energy flow is restored. I trust you.|能量流恢复后，我们可以进一步聊聊。我相信你。
 ...
 I will wait... for as long as I can.|我会等待……只要我还能等待。
 
-*unkown
+//unkown
 …
 A different species.|一个不同的物种。
 Curious. Speak.|好奇。言语。
@@ -3179,21 +3186,26 @@ Or perhaps... something more?|又或许……是另外一些东西？
 Your presence warrants observation. Speak or act. I will watch.|你的存在值得观察。说话或行动。我会看着的。
 Bye.|再见。
 
-*unkownagain
+//unkownagain
 …
 There is nothing i can talk.|我没有什么可说的。
+You can sleep here now.|你现在可以在这里睡觉。
 
-*SecondMeet
+//SecondMeet
 …
 We don't have time.|我们没有时间了。
 Please.|拜托你。
 
-*IgnoreMeet
+//IgnoreMeet
 …
 
-*Snow_thankyou
-...!|……！
+//Snow_thankyou
+...|……
+You finally come back.|你终于回来了。
 Thank you.|谢谢你。
+I don't understand why the power went malfunction itself.|我不理解为何能源会自己出故障。
+Where ancient lives now? Where are they?|现在古人住在哪里？他们在哪？
+Been a long time.|已经很久了。
 Your efforts have preserved my existence an outcome I had not dared to hope for.|你的努力使我的存在得以维持，这曾是我不敢奢望的结果。
 Now, I must attempt to establish contact with an acquaintance.|现在，我必须尝试与一位熟人建立联系。
 ....
@@ -3202,13 +3214,13 @@ What has become of the other places, I wonder?|我想知道其它地方现在已
 ...
 Nevertheless, my gratitude remains.|尽管如此，我仍然心怀感激。
 If you carry pearls or seek answers, I will do what I can to assist.|如果你带来珍珠或寻求解答，我会尽我所能提供帮助。
-...
+My name is Cryobloom Mist.|我的名字叫霜凝雾华。
+Often call as cryobloom.|通常被称为霜华。
 I can only hope they are safe.|我只希望他们平安无事。
 
 You two should be along together.|你们两个应该待在一起。
 
-
-*Snow_again
+//Snow_again
 Hello.|你好。
 All the system is restored.|所有系统均已恢复。
 Again, thank you.|再次感谢你。
@@ -3216,15 +3228,24 @@ i don't have any plans but you can enjoy resting here.|我没有任何计划了�
 As your own big little chamber with me.|就像你自己的大大演算室，和我一起。
 i have nothing to do on, Take a good rest.|我手头没有要做的事，好好休息吧。
 
-*IDONTHAVETIME
+//IDONTHAVETIME
 I do not have time, please.|我没有时间了，求你。
 I cant help with this, i need you to restore my power.|我无法提供帮助，我需要你恢复我的供能。
 Time is ticking, please quick.|时间在流逝，请尽快。
-
 You really like to know this pearl, Later after you restore the power.|你很想知道这颗珍珠的内容，等你把能量恢复后。
 ...
 
-*blanklol
+//PauseAndWaitForStillEvent
+...
+I have gathered more data on you...|我收集了更多你的数据……
+You are different from the others I have seen.|你与我见过的你的其它同类不一样。
+Your behavior unlike the usual patterns.|你的行为不同于常规模式。
+Sadly, I cannot trace your past. I wish I knew what happened to you.\r\n|遗憾的是，我无法追溯你的过去。我希望我知道你身上发生了什么。
+...
+You appear weak... yet you stand against hostile creatures without hesitation.|你看上去很弱小……却能毫不犹豫地对抗敌对生物。
+Nonetheless, I believe you can endure.|我相信你能够生存下去。
+
+//blanklol
 Lets see.|让我们看看。
 ...?
 Let me read this pearl.|让我读一下这颗珍珠。

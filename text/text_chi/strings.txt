@@ -56,6 +56,10 @@ Railway|铁路
 Rackdale|支架山谷
 Abyss|深渊
 Stormy lands|风暴岛屿
+This regionpack is made of scrapped regions%2and many of them are unfinished|这个区域包是由废弃区域组成的，其中许多区域尚未完成
+There are many more dead ends like this one%2and several areas are very rough to play|还有更多像这样的死胡同，有几个区域非常粗糙
+These regions were each scrapped for a reason%2so please don't be too critical - most of that criticism is already known|这些区域的废弃都是有原因的，所以请不要太抱怨——大多数此类意见已经听多了
+This next area is entirely a dead end - proceed at your own pain|下个区域是一个完全的死胡同——接着自寻烦恼吧
 //2923894366
 Pilgrims' Ascent|朝圣天路
 Five Pebbles (Blind Spot)|五卵石（盲点）
@@ -1187,6 +1191,8 @@ Lost Strand|失落河滨
 Far Shore|遥远海岸
 Woven Nest|盘丝洞
 Caldera|火山口
+Tidal Pools|潮汐岩池
+Void Vents|热流喷口
 //3031084852
 The Impulse|天枢
 THE IMPULSE|天枢
@@ -1604,6 +1610,7 @@ Great filter|宏过滤器
 Storerooms|石屋
 Shell|外壳
 Rotten pipes|腐化管道
+WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
 //3124136312
 Traveller|旅者
 TRAVELLER|旅者
@@ -1810,6 +1817,7 @@ Old Canals|昔日运河
 Dark Pipework|暗夜导管
 //3222863079
 Corroded Passage|腐蚀通道
+Howling Trenches|凛风堑壕
 //3222612907
 Urban Reservoir|郊外水库
 //3225408858
@@ -1895,28 +1903,21 @@ The Backrooms|后室
 DONT MOVE STAY STILL|留在原地别动
 //3265401327
 Arid Barrens|荒芜之地
-//3265401327
 Miros World|钢鸟乐园
-//3265401327
 Windswept Barrens|风啸荒原
-//3265401327
 Frigid Desert|寒漠
-//3265401327
+The Nest|巢穴
+The Fortress|要塞
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna|无人爱苦，亦无人寻之欲之，乃因其苦......
+The Wall 2|高墙2.0
+//3272297488
 Archaic Facility|古老设施
-//3272297488
 Mossy Grotto|苔藓洞窟
-//3272297488
 Lost Foundations|失落地基
-//3272297488
 Blooming Strait|繁盛海峡
-//3272297488
 Shrine of the Laborers|劳作圣殿
-//3272297488
 Weaverville|威弗维尔镇
-//3272297488
 Iceblasted Wastes|冰咒荒川
-//3272297488
-WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
 //3289086902
 Sunlit Power Plant|日耀电厂
 Overgrown Transfer System|蔓生运线
@@ -1943,6 +1944,31 @@ Steaming Edifice|氤氲宏筑
 Cold Dredge|寒冻疏浚
 Lunar Byway|月之小径
 //2989792103
+Expeditions Enhanced
+LOST|迷失
+Slugcat is teleported to a random shelter in the current region every time it hibernates :((<LINE>How did this happen|蛞蝓猫每次雨眠后会被传送到当前区域内的随机一个庇护所:(<LINE>这是怎么回事呢
+CONFUSED|困惑
+Due to an earlier incident, slugcat can't view the map or check the cycle timer.|由于一点小问题，蛞蝓猫无法查看地图或雨循环计时器
+MARKED|被锁定
+Causes spontaneous rumbles to happen below the slugcat's feet, best not to know what causes them. Tread carefully.|蛞蝓猫脚下将发出隆隆声，最好不要问是怎么回事。请谨慎行事。
+VOLATILE|爆炸性
+Causes all creatures to drop deadly explosives upon death.|使所有生物死亡时掉出致命炸弹
+Gourmet|美食
+Start the expedition with 6 random food items!|携带6个随机食物开始探险！
+Leeching|吸血
+When killing a creature, gain a quarter pip of food. Bigger creatures killed yield more food!|杀死生物将获得饱食度
+Friend|朋友
+Start the expedition with a friendly lizard, the type of lizard is different for all base slugcats.|和一只蜥蜴朋友开始探险！蜥蜴种类会随所选蛞蝓猫改变。
+Saint's Tongue|圣徒长舌
+Allows the player to use Saint's tongue ability|允许玩家使用圣徒的长舌功能
+Make a Wish|许愿
+Throw any pearl into a death pit in order to receive a random prize. Could be anything!|将珍珠掷入无底深渊，就能获得随机物品！
+Flying Thunder Cat|飞雷猫
+Hold the throw button when throwing something to swap places with it!|投掷物品时按住投掷键即可与该物品交换位置！
+Ground Spikes|地刺
+Pouncing and other movement techniques spawn two spikes where the player stood before jumping.|在猛扑后在地面上刷出尖刺
+Explosive Damage|爆炸伤害
+Your attacks explode!|你的攻击产生了爆炸！
 Water Spitter|射水蜥蜴
 Mole Salamander|鼹蝾螈
 Gecko|壁虎
@@ -1982,10 +2008,6 @@ Bubble Weaver|气泡编蛛
 Sapphiric Weaver|蓝宝石编蛛
 Fanged Lizard|毒牙蜥蜴
 Great Fanged Lizard|巨啃蜥蜴
-LOST|迷失
-CONFUSED|困惑
-MARKED|被锁定
-VOLATILE|爆炸性
 //3311812030
 //The M4rblelous Entity Pack
 //Thorny Strawberry
@@ -2028,14 +2050,6 @@ How did you fit them inside here anyhow?|你到底怎么把它塞进来的？
 Your friend is on fire! Take it with you, please!|你的朋友在燃烧！请把它带走！
 //3314072844
 Probationary District 4B|试用区4B
-//3026723782
-Tidal Pools|潮汐岩池
-Void Vents|热流喷口
-//3265401327
-The Nest|巢穴
-The Fortress|要塞
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna|无人爱苦，亦无人寻之欲之，乃因其苦......
-The Wall 2|高墙2.0
 //3016579669
 Hallowed Caves|神圣洞穴
 Dark Forest|黑暗森林
@@ -2053,11 +2067,6 @@ Unstable System|不稳结构
 Unstable Moss|不稳苔原
 Cicatrix|瘢痕
 Sealed Intelligence Unit|密闭智元
-//2923214961
-This regionpack is made of scrapped regions%2and many of them are unfinished|这个区域包是由废弃区域组成的，其中许多区域尚未完成
-There are many more dead ends like this one%2and several areas are very rough to play|还有更多像这样的死胡同，有几个区域非常粗糙
-These regions were each scrapped for a reason%2so please don't be too critical - most of that criticism is already known|这些区域的废弃都是有原因的，所以请不要太抱怨——大多数此类意见已经听多了
-This next area is entirely a dead end - proceed at your own pain|下个区域是一个完全的死胡同——接着自寻烦恼吧
 //3305713194
 Community Gallery 2024|社区画廊2024
 Bridge|栈桥
@@ -2368,8 +2377,6 @@ Perilous Ascent|艰险天路
 //3342976438
 Scrapped Peaks|崩毁山峦
 Five Pebbles (Waste Disposal Compound)|五块卵石（废料处理区）
-//3222863079
-Howling Trenches|凛风堑壕
 //3338239924
 rivuletouterexpanse-name|溪流外层空间
 rivuletouterexpanse-description|为溪流开放外层空间。
@@ -2644,6 +2651,7 @@ Hardcore Mode|硬核模式
 amidstthedeluge-name|雨世界: 洪水
 amidstthedeluge-description|穿过外层空间，在一片冷酷的平坦草原之上，一个崭新的世界已然开放，静待那些足以抵抗迎面洪水的生灵...
 Spearmaster can now start in Consecrated Steppe|矛大师现已可在圣灵草原开始游戏
+Hunter can now start in Consecrated Steppe|猎手现已可在圣灵草原开始游戏
 Consecrated Steppe|圣灵草原
 Resting Grounds|休憩所
 Forlorn Glade|悲凉林地
@@ -2841,11 +2849,9 @@ Mossy Rifts|苔原裂隙
 serniczek|奶酪蛋糕
 Retaining Wall (South-West Entrance)|挡土墙（西南入口）
 Marsh Pier|沼泽码头
-
 //3457887314
 Auxiliary Intake|摄水辅助
 The Reservior|水库
-
 //3466384338
 mk.barnacleworld-name|珊世界
 mk.barnacleworld-description|珊瑚虫占领世界!
@@ -2878,9 +2884,6 @@ The Spine|山脊
 Reticent Line|缄默航线
 
 //3466127398
-mk.Watcher Expeditions-name|观望者探险
-mk.Watcher Expeditions-description|在探险模式中添加观望者作为可选蛞蝓猫 \n以及为观望者增加了特殊挑战，使命任务和一个新负担。 \n\n将观望者添加入竞技场 \n在竞技场中添加观望者DLC生物。
-As the Watcher,form new pathe and search within <LINE>the ripples with newfound purpose.|观望者将开辟新的道路，<LINE>带着新的目标再度潜入涟漪。
 Perk_Camo_Name|伪装
 Perk_Camo_Desc|按住“特殊”按钮可短时间获得躲避捕食者的伪装能力。
 Perk_LongWarp_Name|永久扭曲
@@ -2896,8 +2899,8 @@ Burden_Rot_Desc|所有区域在开始时就会被全部占领并感染。<LINE>�
 Challenge_Rot_Name|腐化蔓延
 Challenge_Rot_Desc|用觉知腐化感染 <score_target> 区域 
  [<current_score>/<score_target>]
-Challenge_ST_Name|陀螺
-Challenge_ST_Desc|拜访在 <region> 的陀螺
+Challenge_ST_Name|回响拜访
+Challenge_ST_Desc|拜访在 <region> 的回响
 Challenge_Warp_Name|传送周期
 Challenge_Warp_Desc|在一个循环内传送 <target> 次 [<current>/<target>]
 challenge_Prince_Name|王子交付
@@ -2957,6 +2960,10 @@ WEConfig_Name_Music|观望者音乐盒
 WEConfig_Desc_Music|在音乐盒中加入观望者原声带，无需解锁。
 WEConfig_Name_STSpeak|陀螺对话
 WEConfig_Desc_STSpeak|允许陀螺对话，它将按照顺序选择对话。
+
+Info Dump|信息转存
+Dump a  bunch of info|转存一些信息
+
 
 //3471172003
 Gloaming Refinery|暗暮油厂
@@ -3069,24 +3076,6 @@ Like a selfish child, they defied what would have benefited them,<LINE>leaving u
 Not that I could, anyways, in the state that I am in.|无论如何，以我目前的状态，也无力去收拾。
 But I apologize, I shouldn’t have gotten so worked up.<LINE>It’s ultimately insignificant.|抱歉，我不该这么激动。<LINE>这只是无关紧要的小事罢了。
 
-\\3483303152
-music volume adjuster
-Main Music|主音乐
-Threat Music|威胁音乐
-Random Music|随机音乐
-
-\\3264144524
-jukebox everywhere
-Set a track to play as the Expedition menu theme|将音乐设定为探险菜单音乐
-Set a track to play as the main menu theme|将音乐设定为主菜单音乐
-THREAT THEMES|威胁音乐
-Opens Rotwall's Threatmixer in a web browser|在浏览器中打开Rotwall的威胁音乐混合器
-
-\\3298609957
-unlimited saves
-Name: |名称: 
-Delete save|删除存档
-
 //3443958927
 //Tick Ticker
 Increase metronome speed|加快节拍器速度
@@ -3112,7 +3101,7 @@ On by default|默认启用
 
 //3424930016
 //凛冬终末迭代器对话！！
-//BeeNoPearl
+*BeeNoPearl
 …|……
 ..?|……？
 A creature?|一只生物？
@@ -3122,7 +3111,7 @@ Whatever led you here whether accident or intention it is wasted effort.|不论�
 There is nothing of value for you within this place.|这里没有对你有价值的东西。
 I suggest you turn back. No curiosity for beings such as yourself.|我建议你回去。像你这样的存在不应该有好奇心。
 
-//BeeEncounterMetbefore
+*BeeEncounterMetbefore
 Oh.|哦。
 You're back|你回来了。
 There is nothing i can do in this chamber.|在这演算室里我做不了什么。
@@ -3132,14 +3121,11 @@ May I see?|我能看一下吗？
 ...
 This pearl...|这颗珍珠……
 It holds significance beyond your understanding.|它所承载的远超你的理解。
-Deliver it to the top of the tower. It is imperative.|把它送到塔顶上。这很紧要。
+Deliver it to the tower. It is imperative.|把它送到塔那里。这很紧要。
 You may not comprehend its importance, but you have my gratitude.|你或许不明白它的重要性，但我会很感激你。
 Do not delay.|不要再拖延了。
-The reason I require your assistance is simple.|我需要你协助的原因很简单。
-Something has occurred...|有什么事情发生了……
-The communication tower’s processing unit has been damaged.|通讯塔的处理单元被损坏了。
 
-//BeeEncounter
+*BeeEncounter
 ...
 ..?
 A creature?
@@ -3153,11 +3139,8 @@ It holds significance beyond your understanding.
 Deliver it to the tower. It is imperative.
 You may not comprehend its importance, but you have my gratitude.
 Do not delay.
-The reason I require your assistance is simple.
-Something has occurred...
-The communication tower’s processing unit has been damaged.
 
-//Snow_MeetCB
+*Snow_MeetCB
 …
 Does this method suffice? Is this reaching you?|这个方法可行吗？你能听到吗？
 You two are quite adorable. You should work together in this situation.|你们两个真可爱。在这种情况下，你们应该齐心协力。
@@ -3166,14 +3149,13 @@ Now, I find myself requiring your assistance to stabilize this decaying structur
 Time is not a resource we can afford to squander|我们的时间经不起浪费了。
 Here. This device will serve as your temporary Drone.|来。这个设备会暂时成为你的无人机。
 It's calibrated to interact with the core systems of the power network.|它被校准为可以与能量网络的核心系统互动。
-Travel to Outpost Citadel, that's where ancient lived. Beyond that, head bottom left of the map.|前往前哨堡垒，古人曾居住的地方。越过它，继续走向地图左下方。
-There's a gate, only for drone unit to open. To avoid any dangerous creature coming in.|那里有一扇门，只能通过无人机打开，以防危险生物进入。
+Travel to where the ancients once thrived. Beyond that, head westward.|前往古人曾繁荣兴盛的地方，越过它，继续向西。
 There lies the system drawing power to sustain this place.|那里的系统汲取着维持这个地方运转的能量。
 We will speak further when the energy flow is restored. I trust you.|能量流恢复后，我们可以进一步聊聊。我相信你。
 ...
 I will wait... for as long as I can.|我会等待……只要我还能等待。
 
-//unkown
+*unkown
 …
 A different species.|一个不同的物种。
 Curious. Speak.|好奇。言语。
@@ -3186,26 +3168,21 @@ Or perhaps... something more?|又或许……是另外一些东西？
 Your presence warrants observation. Speak or act. I will watch.|你的存在值得观察。说话或行动。我会看着的。
 Bye.|再见。
 
-//unkownagain
+*unkownagain
 …
 There is nothing i can talk.|我没有什么可说的。
-You can sleep here now.|你现在可以在这里睡觉。
 
-//SecondMeet
+*SecondMeet
 …
 We don't have time.|我们没有时间了。
 Please.|拜托你。
 
-//IgnoreMeet
+*IgnoreMeet
 …
 
-//Snow_thankyou
-...|……
-You finally come back.|你终于回来了。
+*Snow_thankyou
+...!|……！
 Thank you.|谢谢你。
-I don't understand why the power went malfunction itself.|我不理解为何能源会自己出故障。
-Where ancient lives now? Where are they?|现在古人住在哪里？他们在哪？
-Been a long time.|已经很久了。
 Your efforts have preserved my existence an outcome I had not dared to hope for.|你的努力使我的存在得以维持，这曾是我不敢奢望的结果。
 Now, I must attempt to establish contact with an acquaintance.|现在，我必须尝试与一位熟人建立联系。
 ....
@@ -3214,13 +3191,13 @@ What has become of the other places, I wonder?|我想知道其它地方现在已
 ...
 Nevertheless, my gratitude remains.|尽管如此，我仍然心怀感激。
 If you carry pearls or seek answers, I will do what I can to assist.|如果你带来珍珠或寻求解答，我会尽我所能提供帮助。
-My name is Cryobloom Mist.|我的名字叫霜凝雾华。
-Often call as cryobloom.|通常被称为霜华。
+...
 I can only hope they are safe.|我只希望他们平安无事。
 
 You two should be along together.|你们两个应该待在一起。
 
-//Snow_again
+
+*Snow_again
 Hello.|你好。
 All the system is restored.|所有系统均已恢复。
 Again, thank you.|再次感谢你。
@@ -3228,24 +3205,15 @@ i don't have any plans but you can enjoy resting here.|我没有任何计划了�
 As your own big little chamber with me.|就像你自己的大大演算室，和我一起。
 i have nothing to do on, Take a good rest.|我手头没有要做的事，好好休息吧。
 
-//IDONTHAVETIME
+*IDONTHAVETIME
 I do not have time, please.|我没有时间了，求你。
 I cant help with this, i need you to restore my power.|我无法提供帮助，我需要你恢复我的供能。
 Time is ticking, please quick.|时间在流逝，请尽快。
+
 You really like to know this pearl, Later after you restore the power.|你很想知道这颗珍珠的内容，等你把能量恢复后。
 ...
 
-//PauseAndWaitForStillEvent
-...
-I have gathered more data on you...|我收集了更多你的数据……
-You are different from the others I have seen.|你与我见过的你的其它同类不一样。
-Your behavior unlike the usual patterns.|你的行为不同于常规模式。
-Sadly, I cannot trace your past. I wish I knew what happened to you.\r\n|遗憾的是，我无法追溯你的过去。我希望我知道你身上发生了什么。
-...
-You appear weak... yet you stand against hostile creatures without hesitation.|你看上去很弱小……却能毫不犹豫地对抗敌对生物。
-Nonetheless, I believe you can endure.|我相信你能够生存下去。
-
-//blanklol
+*blanklol
 Lets see.|让我们看看。
 ...?
 Let me read this pearl.|让我读一下这颗珍珠。
@@ -3257,3 +3225,143 @@ Hmm. This pearl is unlike the others.|嗯……这颗珍珠不同于其它的。
 The data might be corrupted, but there’s something here...|数据可能损坏了，但仍然有一些……
 What is this? An offering?|这是什么？祭品？
 Very well. Let me see if it holds anything of value.|很好。让我看看有没有什么重要的东西。
+
+//3483303152
+music volume adjuster
+Main Music|主音乐
+Threat Music|威胁音乐
+Random Music|随机音乐
+
+//3264144524
+jukebox everywhere
+Set a track to play as the Expedition menu theme|将音乐设定为探险菜单音乐
+Set a track to play as the main menu theme|将音乐设定为主菜单音乐
+THREAT THEMES|威胁音乐
+Opens Rotwall's Threatmixer in a web browser|在浏览器中打开Rotwall的威胁音乐混合器
+
+//3298609957
+unlimited saves
+Name: |名称: 
+Delete save|删除存档
+
+//3258311387
+ShinyKelp.ExpeditionsExpanded-name|探险任务拓展
+ShinyKelp.ExpeditionsExpanded_Desc|为探险模式添加更多任务
+
+ERROR: Problem recreating challenge type with reflection: |错误：创建挑战选项时出现错误：
+
+Angry Noodle|惹恼面条蝇
+AngryNoodleChallenge|惹恼面条蝇
+Eat/kill <target_amount> small noodleflies without killing a mother [<current_amount>/<target_amount>]|在不杀掉大面条蝇的前提下，吃掉/狩猎 <target_amount> 只小面条蝇 [<current_amount>/<target_amount>]
+
+Apex Expert|高难生物狩猎
+ApexExpertChallenge|高难生物狩猎
+Kill <target_amount> <target_creature> without dying [<current_amount>/<target_amount>]|不死亡的前提下，狩猎<target_amount>只<target_creature> [<current_amount>/<target_amount>]
+
+Apex Master|极难生物狩猎
+ApexMasterChallenge|极难生物狩猎
+Kill a <target_creature>|狩猎一只<target_creature>
+Albino King Vulture|白化魔王鹫
+Train Lizard|火车蜥蜴
+King Scavenger|拾荒者酋长
+Hunter Long Legs|猎手长腿菌
+
+Cycle Ranger|单循环物种狩猎
+CycleRangerChallenge|单循环物种狩猎
+Kill <target_amount> different creature species this cycle [<current_amount>/<target_amount>]|本循环内狩猎<target_amount>种不同生物 [<current_amount>/<target_amount>]
+
+Deathless Score|未死亡分数获取
+DeathlessScoreChallenge|未死亡分数获取
+Earn <score_target> points from creature kills without dying [<current_score>/<score_target>]|不死亡的前提下，通过狩猎生物获取<score_target>点分数[<current_score>/<score_target>]
+
+Fishtank|墨鱼饲养
+FishtankChallenge|墨鱼饲养
+Put <target_amount> hazers in the same body of water in <target_region>|将<target_amount>只墨鱼放在<target_region>的同一处水体中
+
+Flashing|致盲生物狩猎
+FlashChallenge|致盲生物狩猎
+Kill <target_amount> <target_creature> while they are blinded [<current_amount>/<target_amount>]|狩猎<target_amount>只被致盲的<target_creature> [<current_amount>/<target_amount>]
+
+Friends For All|生物驯服
+FriendsForAllChallenge|生物驯服
+Tame <amountToTame> different species of lizards [<tamedCreatures>/<amountToTame>]|驯服<amountToTame>种不同种类的蜥蜴[<tamedCreatures>/<amountToTame>]
+
+Gate Crossing|业力门穿梭
+GatekeeperChallenge|业力门穿梭
+Cross <totalGates> gates of level <minKarmaRequirement> or higher in one cycle [<crossedGates>/<totalGates>]|本循环内，穿过<totalGates> 且不低于<minKarmaRequirement>等级的业力要求 [<crossedGates>/<totalGates>]
+
+Generosity|物品给予
+GenerosityChallenge|物品给予
+Give <target_amount> masks to elite scavengers in need [<current_amount>/<target_amount>]|给予精英拾荒者<target_amount>个面具 [<current_amount>/<target_amount>]
+
+Global Ranger|物种狩猎
+GlobalRangerChallenge|物种狩猎
+Kill <target_amount> different creature species [<current_amount>/<target_amount>]|狩猎<target_amount>种不同生物 [<current_amount>/<target_amount>]
+
+Gourmet Diet|食物享用
+GourmetChallenge|食物享用
+Consume <target> different edibles [<current_amount>/<target>]|享用<target>种不同食物 [<current_amount>/<target>]
+
+Gourmet Lite|猫崽投喂
+GourmetLiteChallenge|猫崽投喂
+Give slugpups <targetAmount> different favored foods [<foodCount>/<targetAmount>]|给予猫崽<targetAmount>种其喜好食物 [<foodCount>/<targetAmount>]
+
+Heist|物品偷窃
+HeistChallenge|物品偷窃
+Steal from two tolls without killing, paying or chieftain [<score>/2]|在不狩猎，交易或拥有酋长通行证的情况下，从2个拾荒者收费站中偷取物品 [<score>/2]
+Steal from a scav toll without killing, paying or chieftain|在不狩猎，交易或拥有酋长通行证的情况下，从拾荒者收费站中偷取物品
+
+Region Lap|区域到访
+LapChallenge|区域到访
+Enter <region> twice in one cycle.|单循环内进入<region>两次。
+within two cycles, no backtracks|两循环内进入<region>两次，且不走回头路。
+
+Rotten Offering|腐化饲喂
+RottenOfferingChallenge|腐化饲喂
+Offer <total_amount> critters alive to a Long Legs [<current_amount>/<total_amount>|向一只蓝香菇投喂<total_amount>个活物
+
+Sandwich|迷幻菇食用
+SandwichChallenge|迷幻菇食用
+Eat <target> mushrooms in one cycle [<current_amount>/<target>]|一个循环内，吃掉<target>个迷幻菇
+
+Sea Offering|利维坦饲喂
+SeaOfferingChallenge|利维坦饲喂
+Offer <total_amount> critters alive to a Leviathan [<current_amount>/<total_amount>]|向一只利维坦投喂<total_amount>个活物
+
+Student|物品送达
+StudentChallenge|物品送达
+Bring <target> different items to <iterator> [<current_amount>/<target>]|将<target>种不同物品带给<iterator> [<current_amount>/<target>]
+
+Survivalist|循环存活
+SurvivalistChallenge|循环存活
+Survive cycles without dying [|存活个循环而不死亡
+
+True Spear Pinning|活物穿刺
+TruePinChallenge|活物穿刺
+Pin <target_amount> ALIVE creatures to walls or floors [<current_amount>/<target_amount>]|将<target_amount>个未死亡生物钉在墙上或地板上 [<current_amount>/<target_amount>]
+
+Waterproof|潜水
+WaterproofChallenge|潜水
+Stay <target_amount> seconds underwater in <target_region>|在<target_region>的水下停留<target_amount>秒
+
+//3519522113
+Silent Lands|宁静之地
+Unloading Station|卸货站
+Water Channels|水道
+The Exterior|外缘
+Communications Array|通讯阵列
+Communications Array (Western Tower)|通讯阵列（西塔）
+Communications Array (East Tower)|通讯阵列（东塔）
+Far Lands|偏远陌土
+Filtration Systems|过滤系统
+Water pipes (Filtration Systems)|过滤系统（供水管道）
+Depths (Filtration Systems)|过滤系统（深处）
+No Great Goals|无宏远志
+No Great Goals (Memory Conflux)|无宏远志（记忆汇流）
+No Great Goals (General System Bus)|无宏远志（通用系统总线）
+No Great Goals (Memory Crypts)|无宏远志（记忆隐窖）
+No Great Goals (Power Transmission Line)|无宏远志（输电网路）
+Rusted Way|锈烂走廊
+Lands Of The Rot|腐化弃土
+Rotting Construction|腐烂陈设
+Rotting Pipes|腐蚀管道

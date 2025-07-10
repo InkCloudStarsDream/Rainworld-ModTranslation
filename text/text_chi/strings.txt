@@ -3389,3 +3389,7 @@ Rotting Pipes|腐蚀管道
 
 //3521314879
 Misty Marish|薄雾沼泽
+
+//3521336862
+Soaring Lookout|云巅瞭望塔
+Fallen Watch|陨落望哨

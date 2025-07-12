@@ -3393,3 +3393,13 @@ Misty Marish|薄雾沼泽
 //3521336862
 Soaring Lookout|云巅瞭望塔
 Fallen Watch|陨落望哨
+
+//3523073163
+Sky Sanctuary|天空圣所
+Sky Gardens|天空花园
+The Lab|实验园
+The Experiment|实验区
+Wrecked Storage|损坏储存区
+Failing Infrastructure|坍塌设施
+Crumpled Science|扭曲研究
+Trampled Storage|践踏储存

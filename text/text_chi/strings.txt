@@ -2483,6 +2483,7 @@ Centipede's Lair|蜈蚣巢穴
 //3375820548
 Weakened Platform|衰败平台
 Use long jump to traverse under the vent|通过大跳从通风口下飞跃
+The following region doesn't have any changes for Downpour slugcats any slugcat beside Monk and Survivor uses Hunter spawns|接下来的区域未对倾盆大雨DLC中的蛞蝓猫设置区域变动，除僧侣和求生者之外，其余蛞蝓猫都使用猎手线设置
 //3380455262
 Gate to  + regionFullName|前往  + regionFullName
 Gate to  |前往
@@ -3457,3 +3458,28 @@ Wrecked Storage|损坏储存区
 Failing Infrastructure|坍塌设施
 Crumpled Science|扭曲研究
 Trampled Storage|践踏储存
+
+//3524141574
+Obsolete Reactor|废弃反应堆
+Water Cycle|水循环
+Hidden Garden|隐秘花园
+
+//2922334539
+Input Display Options|输入显示选项
+Enable interpolation between frames (True by default)|	启用帧间插值 (默认开启)
+Interpolation|帧间插值
+Show real-time input indicators at the bottom left of each button (True by default)|在每个按钮的左下角显示实时输入提示 (默认开启)
+Show Realtime Input|显示实时输入
+Set button labels as the outline color instead of the opposite on or off color (False by default)|将按钮上标签设置为轮廓颜色，而不是按键/未按键时的相反显示颜色(默认关闭)
+Outline Color Labels|轮廓色标签
+A bar below the input display indicates the current timeStacker (False by default)|输入显示下方展示当前时间栈指示条(默认关闭)
+Show timeStacker|显示时间栈
+Speed up rendering by applying transparency to sprites individually (False by default)|通过单独对贴图应用透明度来加快渲染速度(默认关闭)
+High Performance|高性能模式
+Outline Color|轮廓颜色
+Off Color|关闭状态颜色
+On Color|按键状态颜色
+How opaque the display is (0.75 by default)|输入显示的透明度 (默认 0.75)
+Alpha|透明度
+The scale factor of the display (0.50 by default)|输入显示的缩放比例 (默认 0.50)
+Scale|缩放比例

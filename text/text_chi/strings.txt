@@ -2430,6 +2430,7 @@ Centipede's Lair|蜈蚣巢穴
 //3375820548
 Weakened Platform|衰败平台
 Use long jump to traverse under the vent|通过大跳从通风口下飞跃
+The following region doesn't have any changes for Downpour slugcats any slugcat beside Monk and Survivor uses Hunter spawns|接下来的区域未对倾盆大雨DLC中的蛞蝓猫设置区域变动，除僧侣和求生者之外，其余蛞蝓猫都使用猎手线设置
 //3380455262
 Gate to  + regionFullName|前往  + regionFullName
 Gate to  |前往

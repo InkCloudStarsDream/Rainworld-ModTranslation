@@ -609,22 +609,29 @@ The Tinkerer|修补匠
 THE TINKERER|修补匠
 Tinkerer|修补匠
 The Tinkerer is one of many highly intelligent slugs. <LINE> But it seems as if a great hunger has reawaken you from your deep slumber...|高智商的蛞蝓猫。<LINE>似乎是巨大的饥饿将你从沉睡中唤醒...
+
 //2955624813
+CowBoySLug.ShanKa-description|增加了新的蛞蝓猫——牛仔<LINE>长按【拾取】拖回你的矛<LINE>如果你想要矛更快被拖回可以按下【下】+【拾取】<LINE>只需要点击一次，你就能用长矛攻击其他生物。<LINE>当你的长矛堆叠在某个地方的时候，按住【跳跃】+【拾取】可以朝那个方向移动。<LINE>当你造成多次伤害以后，你可以让生物掉落帽子，然后用你的头接住帽子戴上。<LINE><LINE>戴上帽子后你可以使用绳索技能。
 The CowBoy|牛仔
 THE COWBOY|牛仔
 CowBoy|牛仔
 CowBoy know how to use rope to call back spear|牛仔知晓如何用绳索召回背矛。
+
 //2955658730
+Rezillo.slugSpider-description|可以射出具有催眠作用的飞镖的蛞蝓猫，使其他生物进入睡眠状态。你只吃肉，因为植物不会为你提供能量。你的咬合力很强大，但可能会吵醒生物。这个mod具有扩展菜单。<LINE>选择左边的mod界面以获得更多选项。<LINE><LINE>特别致谢：<LINE>bro, Fish, LastCherry, o645, Jim, Slime_Cubed, Turk, WillowWisp, 和Vigaro!<LINE>由Artistica.us负责美术。
 Soporific|催眠师
 The Soporific|催眠师
 THE SOPORIFIC|催眠师
 SOPORIFIC|催眠师
 Soporific, The Spider like Slugcat that you shoot out darts to stun your enemies.<LINE>You only eat meat. Your bite is powerful but risk waking them up.|像蜘蛛一样的蛞蝓猫，射出飞镖来眩晕敌人。<LINE>一个肉食主义者，有着尖利的牙齿，但有唤醒猎物的风险。
+
 //2955682251
+LadyLampblack.florist-description|增加了新角色的mod，花使的雨世界游玩旅程聚焦于植物的效果。
 The Florist|花使
 THE FLORIST|花使
 Florist|花使
 A slugcat that has been incredibly entranced by the flowers and plants growing around it.<LINE>This slugcat is more in-tune with the plant life and knows how to procure what it needs.|淹没于繁茂的花丛中，<LINE>与植物心灵相通，知晓它们的需求。
+
 //2958413080
 0topicular.lancer-name|枪骑兵
 topicular.lancer-description|为蛞蝓猫添加枪骑兵变种。
@@ -686,23 +693,32 @@ Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do h
 This much effort, just to help me... It means more than you could ever know.|这么多的努力，只是为了帮助我...这所意味的比你所知道的更多。
 All of this trouble just to save me... You are more generous than anyone I've known.|所有这些麻烦只是为了救我...你比我认识的任何人都慷慨。
 I am happy that I'm not alone.|我很高兴我并不孤单。
+
 //2960693310
+aveskori.guide-description|【beta】MOD将向导添加到了游戏中，蛞蝓猫战役已经制作完成。<LINE>实现了一些自定义特性。需要更多蛞蝓猫拓展，Slugbase和Fisobs！
 The Guide|向导
 THE GUIDE|向导
 Guide|向导
 A flighty SlugCat that specializes in running away from danger rather than facing it head-on. <LINE> You're far from home, in unknown territory. Hungry and afraid with new threats abound, <LINE> will you adapt to these challenges with your new allies, or will you make the journey back home?|轻巧的蛞蝓猫，善于逃避危险而非面对。<LINE>这里距离家园很远，对全新的威胁感到恐惧。<LINE>你会和新盟友们一起适应这些挑战，还是会踏上回家的旅程？
 A semi-aquatic creature taken in and raised by scavengers. You've grown with them and learned their ways.<LINE> Guide them to a new home.|一个两栖动物，被拾荒者所抚养。你和他们一起成长，<LINE>学习他们的方式。如今，请引导他们到新的家园。
 Submerged Highway|浸没公路
+
 //2960701647
+lga.LostCranny-description|一个3小时就完成了的可怕区域（推荐黄猫）
 Lost Cranny|失落裂谷
+
 //2960863440
+theincandescent-description|烈火是一只圣徒后的蛞蝓猫，为了勇敢地面对日益严酷的冰河时代，它具有相当极端的适应能力来抵御暴风雪带来的寒冷。目前具有全新的生物生成，四种新生物，以及对世界的大量小修改，这个战役的目标是想比更多蛞蝓猫拓展中的大多数战役更加困难！
 The Incandescent|烈火
 THE INCANDESCENT|烈火
 Incandescent|烈火
 A recluse capable of astounding mobility. Emotions stir you into a search for brighter lands, but<LINE>journeying through a wasteland so cold and cruel will require careful management of your needs.|一个行动能力惊人的隐者。情绪促使你寻找更明亮的土地，<LINE>但在如此寒冷和残酷的荒原上旅行需要仔细管理你的需求。
 A sorrowful flame that looks for a brighter future. Returning to this painful land is<LINE>not a pleasant experience, but if it must be done, then the Incandescent will do their best.|一束悲伤的火焰，期待着更光明的未来。回到这片痛苦的土地不是一次愉快的经历，<LINE>但如果必须这样做，那么烈火会竭尽全力。
+
 //2961234259
+wr-beta-description|郊区中上部的一个宁静小区域。用于僧侣的流程中，谢谢。
 Washroom|厕所
+
 //2961854585
 splugpack-name|技师
 splugpack-description|在游戏中添加一个新的可玩的蛞蝓猫: 技师! <LINE>有了随心所欲地操纵周围古老技术的能力，你会用它做什么?  
@@ -716,7 +732,9 @@ TECHNOMANCER|技师
 Able to bend the ancient technology around you to your whim,<LINE>what sorts of things might you do with it?|能够让你周围的古老技术随心所欲，<LINE>你会用它做什么？
 Subway|地铁
 True Anointed Citadel|圣选心城
+
 //2964671523
+kingmaxthe2.gravelslug-description|介绍一只新的蛞蝓猫——食砾石者。
 The Gravel-Eater|食砾石者
 THE GRAVEL-EATER|食砾石者
 Gravel-Eater|食砾石者
@@ -728,9 +746,12 @@ Solventicon|溶解之地
 Deep Reservoir|深部储层
 Faulting Airducts|故障管道
 Fallen Cathedral|陨落大教堂
+
 //2966866355
+VirtuaVirtue.Beached-description|一个从整个游戏中移除液体的MOD<LINE>液体包括：<LINE>水，酸水，虚空流体和雪（是的它也算！！！）<LINE><LINE>检查所有的拓展菜单选项！那些有趣的选项都是实验性的，非常不稳定！！<LINE><LINE>1.1版本<LINE>新的配置菜单，能够用水淹没所有房间，并且可以除去特定的液体。
 Hall of Fame|名人堂
 gallery|画廊
+
 //2967192800
 The Savage|野蛮人
 THE SAVAGE|野蛮人
@@ -2462,7 +2483,6 @@ Centipede's Lair|蜈蚣巢穴
 //3375820548
 Weakened Platform|衰败平台
 Use long jump to traverse under the vent|通过大跳从通风口下飞跃
-The following region doesn't have any changes for Downpour slugcats any slugcat beside Monk and Survivor uses Hunter spawns|接下来的区域未对倾盆大雨DLC中的蛞蝓猫设置区域变动，除僧侣和求生者之外，其余蛞蝓猫都使用猎手线设置
 //3380455262
 Gate to  + regionFullName|前往  + regionFullName
 Gate to  |前往

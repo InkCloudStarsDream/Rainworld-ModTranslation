@@ -10,7 +10,9 @@ Moist|潮湿
 Tower of Gains|获利高塔
 Uberhang|下优步挂
 Thanks Andrew.|谢了，Andrew。
+
 //2923214961
+onh-description|为“新地平线”区域拓展beta未使用的内容<LINE>包括8个新区域和1200多个新屏幕<LINE><LINE>更多蛞蝓猫拓展兼容性说明<LINE>在拓展菜单中，将此模组放置在更多蛞蝓猫拓展上方。
 Industrial District|工业遗迹
 Scavenger Colony|拾荒营地
 Industrial Port Area|工业码头区
@@ -60,25 +62,35 @@ This regionpack is made of scrapped regions%2and many of them are unfinished|这
 There are many more dead ends like this one%2and several areas are very rough to play|还有更多像这样的死胡同，有几个区域非常粗糙
 These regions were each scrapped for a reason%2so please don't be too critical - most of that criticism is already known|这些区域的废弃都是有原因的，所以请不要太抱怨——大多数此类意见已经听多了
 This next area is entirely a dead end - proceed at your own pain|下个区域是一个完全的死胡同——接着自寻烦恼吧
+
 //2923894366
+pilgrims_ascent-description|探索那个每个人都喜欢的迭代器的另一面。PA是一个垂直区域，链接着五块卵石的罐头的其他部分。
 Pilgrims' Ascent|朝圣天路
 Five Pebbles (Blind Spot)|五卵石（盲点）
+
 //2928004252
+willowwisp.bellyplus-description|用圆润点缀你和你身边的生物的雨世界。如果您有任何问题，错误或者模组不兼容，请在Discord上面联系我willowwisp89！！！
 Cycle Food Score|雨循环食物分数
 Food Score|食物分数
+
 //2928752589
 SBCameraScroll-name|平滑相机
 SBCameraScroll-description|创建一个随蛞蝓猫移动的平滑相机。基于pipi toki的平滑相机模组。<LINE>已知冲突: <LINE>-Slugcat Eyebrow Raise模组的相机缩放
 SBCameraScroll: Merging camera textures completed.|平滑相机: 已合并相机纹理。
+
 //2936078781
+ultharequinox.Hubert-description|舒伯特是一个小家伙，他的脑子里面一直想着钱，这让他的速度非常快，可以轻松的在大片平坦的地方起飞！<LINE>注意，模组目前非常非常多bug，还需要大量的工作来完善！<LINE>舒伯特是基于幸存者开发的蛞蝓猫，但具有很高的移动和攀爬管道的速度，这让他如果跑着跑着撞到了一堵墙，他就会被打晕。<LINE>正在努力让圣徒的舌头生效，感谢帮助和反馈！<LINE><LINE>如果舒伯特破坏了你的游戏，我非常抱歉。
 Hubert the Slugcat|舒伯特
 HUBERT THE SLUGCAT|舒伯特
 The Hubert the Slugcat|舒伯特
 Built for speed, Hubert in on a mission to get paid<LINE> Though, this could be a joke.|为速度而生，肩负着搞钱的使命。<LINE>整活向。
+
 //2937285946
+Blaze.Lurker-description|一个非常渴望蜥蜴的安静捕食者。伏击猎物是你生存的关键。<LINE>这是我做的唯一一个mod，它可能之后不会再更新。<LINE>我把它作为一个模板，你可以通过steam/steamapps/workshop/content/312520访问。<LINE>从那里复制并且黏贴这个mod到steam/steamapps/common/Rain World/rainworld_data/StreamingAssets/Mods<LINE>然后编辑成你喜欢的蛞蝓猫并将其上传到创意工坊！<LINE><LINE>哦，你还需要Slugbase作为前置。
 The Lurker|潜伏者
 THE LURKER|潜伏者
 A quiet predator with a hunger for Lizards.<LINE>Ambushing prey will be your key to survive.|一个安静的捕食者，渴望捕获蜥蜴。<LINE>伏击猎物将是你生存的关键。
+
 //2937471209
 thefriend-name|慰藉
 thefriend-description|包含三只新的蛞蝓猫，朋友，盗猎者和潜行者（诺尔），时间线位于溪流和圣徒之间。
@@ -193,21 +205,27 @@ Allows all lizards to be ridden if tamed (excluding Young and Mother lizards)|�
 Displays lizard reputation in the current region for Solace slugcats|在当前区域显示蜥蜴声誉（适用于慰藉蛞蝓猫）
 Displays lizard reputation in the current region for all slugcats|在当前区域显示蜥蜴声誉（适用于所有蛞蝓猫）
 Meow!|喵!
+
 //2939135495
+lesbitropical.vocalmod-description|一只新的蛞蝓猫，脾气暴躁，需要用强有力的下颚击晕敌人来达到目的。
 THE VOCAL|龙猫
 VOCAL|龙猫
 A slugcat that uses his vocal cords and very strong jaw to survive,<LINE>stunning enemies that is in his way of his goal.|一只用强壮的下颌生存的蛞蝓猫，<LINE>能够击晕那些阻碍他的敌人。
+
 //2939568597
-The Enigma|m
+The Enigma|谜
 THE ENIGMA|谜
 Enigma|谜
 A purposed organism for ascension, created by two iterators from far away lands... <LINE> The experiment was ultimately a failure. However, it yielded very interesting results...|一个为飞升而创造的有机体，由两个来自遥远土地的迭代器创造。<LINE>实验最终失败了。然而，它产生了非常有趣的结果...
+
 //2939738770
+beeworld-description|蜂猫
 The Beecat|蜂猫
 BEECAT|蜂猫
 THE BEECAT|蜂猫
 Beecat|蜂猫
 A regular bee?|一只普通的......蜜蜂？
+
 //2942659714
 maxi-mol.fivepebblespong-name|五块卵石乒乓球
 maxi-mol.fivepebblespong-description|在五块卵石的演算室内添加了一个手柄，可以通过抓取手柄开始游戏。按上下控制游戏，此模组不会修改现有文本及行为。
@@ -313,22 +331,29 @@ Thanks for staying, but please do not say for too long.<LINE>This place will bec
 Thank you for your visit before you return to Seven Red Suns.|感谢你在回到七轮红日之前看望我。
 That was fun. Thank you for your company, little creature.|真有意思，感谢你的陪伴，小生灵。
 You might have to leave soon. This complex will soon collapse.|你最好尽快离开。巨构面临倒塌。
+
 //2946343057
+theWarrior-description|战士是一个需要浴血奋战才能生存的怪物。在恶劣的环境中跟踪、刺杀和猎杀你的猎物。
 The Warrior|战士
 THE WARRIOR|战士
 Warrior|战士
 A Feast awaits.|一场期待已久的盛宴。
+
 //2946367105
+tyxaar.nymph-description|一只虚弱但敏捷的蛞蝓猫。
 The Nymph|精灵
 THE NYMPH|精灵
 Nymph|精灵
 A strange creature, small and agile at the cost of physical strength.<LINE> Use your powers to make your way in this world and move fast, traveller.|一种奇异的生物，以体能为代价换取了无与伦比的敏捷。<LINE>旅者，用你的独特的力量在这个世界上闯出自己的路。
+
 //2947594650
+harvie.thedronemaster-description|一只带着激光无人机的机械猫，你所需要做的是清除一切挡住你路的事物。<LINE><LINE>特点：<LINE>你可以承受多达3次的致命伤害（不包括掉出房间），金属鳍会告诉你你还能承受多少次伤害。你需要更多的食物来雨眠。在吃饱之前，蜈蚣的点击可以帮你充电。<LINE>无人机的数量会随着你的业力等级增加而增加，按住C打开无人机控制HUD<LINE>你也能抓住你的无人机使你移动的更快。<LINE>你也可以打开只有工匠才能打开的门！
 The DroneMaster|无人机大师
 THE DRONEMASTER|无人机大师
 DroneMaster|无人机大师
 Use your drones to kill them all! :D|用你的无人机去清除一切挡路的力量！
 DroneMaster's Dream|无人机大师的梦
+
 //2947805022
 0urufudoggo.theescort-name|护卫
 urufudoggo.theescort-description|添加了护卫和它极为特殊的幼崽。<LINE><LINE>目前已完成护卫的能力和运动，<LINE>应该和其余战役完全兼容。<LINE>感谢任何形式的反馈！
@@ -549,7 +574,9 @@ Set|配置
 Reset|重置
 Escort Custom Keybinds|护卫自定义按键
 Reset Keybind|重置按键
+
 //2950073538
+customexpo-description|增加了不同的蛞蝓猫任务以带来全新的探险体验！
 Spearious Business|长矛业务
 Outskirt Sweep|清理郊区
 Little Archeologist|小考古学家
@@ -558,7 +585,9 @@ Hypocritical Art|虚伪工匠
 In Denial|矢口否认
 Mother No More|护母之心
 Temple Raid|寺庙突袭
+
 //2950074548
+MXPexpo-description|原版探险中获取最高分的“最大得分探险任务设置”，无需再为隐藏任务重刷而抓狂！
 Hunter MXP|猎手
 Survivor MXP|求生者
 Monk MXP|僧侣
@@ -567,11 +596,14 @@ Artificer MXP|工匠
 Spearmaster MXP|矛大师
 Rivulet MXP|溪流
 Saint MXP|圣徒
+
 //2950268943
+NoirCatto.NoirCatto-description|诺尔，一个擅长近战的四足肉食性蛞蝓猫！
 Noir|诺尔
 The Noir|诺尔
 NOIR|诺尔
 A black-and-white, curious cat, who fights with claw and tooth.|一只黑白相间、满怀好奇的猫，用尖牙和利齿战斗。
+
 //2955231211
 The Tinkerer|修补匠
 THE TINKERER|修补匠
@@ -2430,7 +2462,6 @@ Centipede's Lair|蜈蚣巢穴
 //3375820548
 Weakened Platform|衰败平台
 Use long jump to traverse under the vent|通过大跳从通风口下飞跃
-The following region doesn't have any changes for Downpour slugcats any slugcat beside Monk and Survivor uses Hunter spawns|接下来的区域未对倾盆大雨DLC中的蛞蝓猫设置区域变动，除僧侣和求生者之外，其余蛞蝓猫都使用猎手线设置
 //3380455262
 Gate to  + regionFullName|前往  + regionFullName
 Gate to  |前往

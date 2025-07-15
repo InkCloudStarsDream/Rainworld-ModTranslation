@@ -3483,3 +3483,6 @@ How opaque the display is (0.75 by default)|输入显示的透明度 (默认 0.7
 Alpha|透明度
 The scale factor of the display (0.50 by default)|输入显示的缩放比例 (默认 0.50)
 Scale|缩放比例
+
+//3526206525
+Forgotten Shore|遗忘海岸

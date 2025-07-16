@@ -2483,6 +2483,7 @@ Centipede's Lair|蜈蚣巢穴
 //3375820548
 Weakened Platform|衰败平台
 Use long jump to traverse under the vent|通过大跳从通风口下飞跃
+weakenedplatform-description|探索一处拥有200+屏幕页数的金属平台，位于农场阵列与天空群岛之间
 The following region doesn't have any changes for Downpour slugcats any slugcat beside Monk and Survivor uses Hunter spawns|接下来的区域未对倾盆大雨DLC中的蛞蝓猫设置区域变动，除僧侣和求生者之外，其余蛞蝓猫都使用猎手线设置
 //3380455262
 Gate to  + regionFullName|前往  + regionFullName
@@ -2583,12 +2584,15 @@ Subzero Locomotive System|深寒铁路系统
 //3393900034
 Gray Urban|灰城
 Gay Urban|多彩都市
+gayurban-description|一座混凝土迷宫，街道埋没于高耸的住宅区投下的阴影中。阳光小径拓展包区域之一。
 //3393902748
 Necropolis
+myr.necropolis-description|深入城市地下，沉睡着一处被时间湮没的古老祭祀场所。
 //3393904120
 Seer|先知
 The Seer|先知
 THE SEER|先知
+myr.seer-description|被上一次冒险所改变的野心勃勃的探险家
 A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|见多识广的勇敢探险家。上一次的冒险改变了你。<LINE>你若想要继续前进，必须调谐自己通往精神世界。
 Locations of undiscovered shelters are always visible on your map.|未探索的避难所位置会显示在地图上。
 
@@ -3486,3 +3490,254 @@ Scale|缩放比例
 
 //3526206525
 Forgotten Shore|遗忘海岸
+
+//2933890889
+emeralds_features-description|包含调整，特性，修复和辅助在内的多功能拓展包，<LINE>为你的雨世界的体验提供小小帮助。<LINE><LINE>自从倾盆大雨DLC发售以来，我编译了一个包括所有<LINE>我做的调整，修复和特性在内的模组，使游戏变得更有趣（以及不那么坐牢）。<LINE>有非常多调整选项可供选择，所以一定会有你喜欢的。<LINE>此外，还有一些很酷的特性功能，如异色生物等。<LINE><LINE>如果不是我的朋友Arden\nand Lucky鼓励我发布它，我不可能完成这些，<LINE>所以感谢大家的支持<3"。
+Tweaks|调整
+Slugcat Tweaks|蛞蝓猫调整
+doubleBreath|深呼吸
+Deep Breathing|深呼吸
+Gives all slugcats increased breath while underwater.|延长所有蛞蝓猫在水下憋气时间。
+noBatflyGrab|禁用蝠蝇抓取
+No More Batgrab|禁用蝠蝇抓取
+Disables auto-grabbing of batflys. For those who don't need the game to do it for them.|禁用自动蝠蝇抓取。为那些不需要这项功能的人提供。
+backSpearForAll|全员背矛
+Back Spear For All|全员背矛
+Allows all slugcats to equip a backspear, even when not playing expedition mode.|允许所有蛞蝓猫在探险模式外使用背矛增益。
+monkRep|友好光环
+Slug Charisma|友好光环
+Allows all slugcats to passively gain reputation by simply existing, and allows Artificer to befriend Scavengers. Go make some friends!|使所有蛞蝓猫自动获得声望，且允许工匠与拾荒者建立友好关系。去交些朋友！
+chadGourmand|灵活饕餮
+Chad Gourmand|灵活饕餮
+Buffs Gourmand's climbing speed, and allows him to throw more spears before getting winded.|提高饕餮攀爬速度，且可以掷矛多次而不虚弱。
+ViolentSaint|暴力圣徒
+Violent Saint|暴力圣徒
+Allows Saint to throw spears. Now you can finally open those popcorn plants!|允许圣徒掷矛，现在你终于可以自己打开爆米花了！
+Resilient Saint|圣徒耐性
+saintNoOneHit|圣徒耐性
+Makes it so Saint no longer gets one shot by everything.|圣徒不再会被一击毙命。
+thickSpearmaster|增肥矛师
+Thick Spearmaster|增肥矛师
+Makes Spearmaster as thick as the other slugcats.|使矛大师获得和其他蛞蝓猫相同的体型。
+Winter Coat|保暖
+coldResist|保暖
+Gives you fluffier fur, allowing you to stay out in the cold without freezing. Lasts until the blizzard starts.|获得保暖效果，直至暴风雪来临前，在外界都不会失温冻僵。
+doubleDamage|致命矛击
+Deadly Spears|致命矛击
+Makes spears, and rocks thrown by you deal increased damage. Mauling also deals quite a bit more damage as well.|提高矛击、投掷石块造成的伤害。同时也提高撕咬伤害。
+acidResist|酸液保护
+Antacid Coating|酸液保护
+Coats your body in a powerful antacid, allowing you to touch spicy water multiple times without dying.|获得抗酸效果，接触酸液不会死亡。【接触时将自动弹起】
+
+Gameplay Tweaks|游戏性调整
+startWithLight|自发光
+Glowy Slug|自发光
+Allows you to start with the Neuron Glow effect.|开局获得神经元发光效果
+startWithMark|开光
+Enlightened Slug|开光
+Allows you to start with the Mark of Communication. [May Have Weird Sideeffects!]|开局获得交流印记。【可能导致奇怪的BUG！】
+attunement|协调
+Allows you to encounter echos without activating them first. (If you have enough karma) [BREAKS SAINT & ARTIFICER CAMPAIGNS!]|直接朝见回响，即使尚未触发。（需要满足业力要求）【会导致圣徒&工匠线故障!】
+Karmic Balance|业力平衡
+noKarmaRestriction|业力平衡
+Allows Saint and Artificer to start the game with 5 karma levels already unlocked.|圣徒&工匠可正常自然获得5级业力
+specialSpearSpawns|特殊矛生成
+Special Spear Spawns|特殊矛生成
+Allows a variety of special spear types to spawn naturally in all campaigns.|使各类特殊矛可自然随机生成在游戏流程中
+simpleBackflip|轻松空翻
+Simpleflips|轻松空翻
+Adds a new keybind that allows you to do a small backflip. (Works on poles!)|增加一个后空翻的快捷键。（可杆上空翻！）
+fireEggThrow|掷蛋
+Egg Yeet|掷蛋
+[Spoilers] Allows you to yeet firebug eggs with the same strength as throwing a spear.|【剧透】可使用掷矛的力度掷出火虫卵。
+infinitePoison|无尽剧毒
+[Spoilers] Makes poison tipped spears never run out.|【剧透】毒矛尖端毒液不再损耗。
+unlimitedPassage|无限传送
+Unlimited Passage|无限传送
+Allows you to use a passage as many times as you want. Picks art at random from currently acquired passages.|通行证可无限使用。且传送时随机展示所获得的通行证CG。
+unrestrictedPassage|取消通行证使用限制
+Unrestricted Passage|取消通行证使用限制
+Allows Hunter and Saint to use passages. Finally!|允许猎手和圣徒使用通行证传送。终于啊！
+alwaysShowTimer|强制雨循环显示
+Forces the cycle timer to always show, regardless of character, or region.|使循环计时器始终显示。无论是什么角色，无论所处哪个区域。
+
+Creature Tweaks|生物性调整
+Leech Repellent|禁用水蛭吸附
+leechImmunity|禁用水蛭吸附
+Prevents 'most' leeches from grabbing on to you. Other creatures are not affected by this effect.|在“大多数”情况下避免水蛭吸附你。但对其他生物无效。
+Respectful Worms|禁止垃圾虫偷矛
+garbageWormNoSteal|禁止垃圾虫偷矛
+Gives garbage worms a newfound respect for slugcats, so they no longer steal your spears. They still steal from scavs though, because they deserve it.|使垃圾虫不再偷取蛞蝓猫的长矛。但仍旧会偷取拾荒者的长矛，因为他们活该。
+grassImmunity|舌草免疫
+Wormgrass Immunity|舌草免疫
+Makes wormgrass unable to touch you. Now you can finally enjoy Farm Arrays without using the deer!|使舌草无视蛞蝓猫。现在你终于可以享受无需雨鹿的农场阵列了！
+rotProof|腐化免疫
+Rotproof|腐化免疫
+Tired of dying to the rot covered walls that can't even move? Well with this new lubricative solution, you can glide off them with ease!|厌倦了被无法移动的贴壁腐化物当外卖吃的生活？现在你可以轻易通过它们。
+stowAwake|清醒偷渡虫
+Stowaway Energizer|清醒偷渡虫
+\"Stowaway isn't real! Stowaway can't hurt you!\" Makes stowaways much more likely to be awake, so that they can be encountered more often.|\"偷渡虫不存在！偷渡虫不会攻击！\" 让偷渡虫保持触发状态，这样就能经常看到他们了。
+breakableBarnacles|破坏珊瑚虫
+Breakable Barnacles|破坏珊瑚虫
+Tired of barnacles getting in the way? Well chuck a few stones at them and watch their pesky shells shatter!|还在因为珊瑚虫堵路抓狂？现在他们的外壳可被石块打破！
+bravePups|勇敢猫崽
+Brave Pups|勇敢猫崽
+Makes slugpups more brave, so they won't grasp onto you and hinder your movement unless you grab them.|使猫崽更勇敢，他们不再会阻碍你的行动，除非你抓住他们。
+noGuidance|反监视
+Anti-Spyware|反监视
+Prevents the guide overseer from spawning, allowing you to explore without it's guidance. (Reduced chance of a scav 'accidentally' killing you)|阻止向导监视者生成，使你能在无监视者跟随的情况下探索。（避免拾荒者“意外”误杀你）
+
+Features|特性
+Mod Features|特性模组
+randomDayNight|随机天气
+Adds various random wakeup events. Face the dangers of the night, or enjoy frolicking in the snow. It's up to you! [Neuron Light Recommended]|添加各种晚循环事件。面对夜晚的危险，或者享受在雪地里嬉戏。都取决于你！【推荐启用神经元发光效果】
+rareCreatures|异色生成
+Adds rare creature variants into the game to spice up your exploration. Variants come in wacky colors, like rainbow, monochrome, and more!|在游戏内添加多种异色生物变体，为你的探索增添趣味。变体拥有奇异的颜色，比如炫彩、黑白等多种颜色！
+origTrioOverhaul|三重爆改
+Overhauls 1 vanilla slugcat to be more unique, so that they are no longer in Downpour's shadow.|爆改了一只本体蛞蝓猫，使它变得更特别。这样他们就不会逊色于倾盆大雨DLC带来的蛞蝓猫们。
+
+Advanced|高级
+Advanced Options|高级选项
+breathMultiplier|耗氧倍率
+Breath Multiplier|耗氧倍率
+[Deep Breathing] Slugcat underwater breath loss multiplier - Default: 1|【深呼吸】蛞蝓猫水下耗氧倍率-默认：1
+repGain|被动声望
+Passive Reputation Gain|被动声望
+[Slug Charisma] Amount of passive reputation gained - Default: 0.08|【友好光环】被动声望获得值-默认值：0.08
+repCap|被动声望上限
+Passive Reputation Cap|被动声望上限
+[Slug Charisma] Max reputation that can be obtained passively - Default: 0.25|【友好光环】被动声望获得上限值-默认值：0.25
+repArtiOnly|仅工匠声望
+Arti Patch Only|仅工匠声望
+[Slug Charisma] Only apply the Artificer scavenger patch - Default: false|【友好光环】仅启用工匠友好拾荒补丁-默认：关闭
+zSpearDamage|矛击伤害
+Spear Damage Multiplier|矛击伤害
+[Deadly Spears] Spear damage multiplier - Default: 2|【致命矛击】矛击伤害倍率-默认：2
+Rock Damage Multiplier|投掷伤害
+zRockDamage|投掷伤害
+[Deadly Spears] Rock damage multiplier - Default: 25|【致命矛击】投掷石块伤害倍率-默认：25
+Maul Damage Multiplier|撕咬伤害
+zBiteDamage|撕咬伤害
+[Deadly Spears] Maul damage multiplier - Default: 2.5|【致命矛击】撕咬伤害倍率-默认：2.5
+Karma Override|业力上限
+zKarmaOverride|业力上限
+[Karmic Balance] Karma cap override (Works for all slugcats) - Default: 4|【业力平衡】|业力上限（适用于所有蛞蝓猫）-默认：4
+Acid Bounces|酸液保护次数
+zAcidBounces|酸液保护次数
+[Antacid Coating] Number of bounces before acid becomes lethal - Default: 3|【酸液保护】酸液不致死反弹的次数-默认：3
+Spear Spawn Multiplier|长矛生成密度
+zSpearSpawnMultiplier|长矛生成密度
+[Special Spear Spawns] Spear spawn density modifier - Default: 1.2|【特殊矛生成】自然生成长矛密度-默认值： 1.2
+Explosive Spear Chance|炸矛概率
+zSpearExplosiveChance|炸矛概率
+[Special Spear Spawns] Explosive spear spawn chance - Default: 0.12|【特殊矛生成】生成炸矛概率-默认值： 0.12
+Electric Spear Chance|电矛概率
+zSpearElectricChance|电矛概率
+[Special Spear Spawns] Electric spear spawn chance - Default: 0.08|【特殊矛生成】生成电矛概率-默认值： 0.08
+Fire Spear Chance|火矛概率
+zSpearFireChance|火矛概率
+[Special Spear Spawns] Fire spear spawn chance - Default: 0.06|【特殊矛生成】生成火矛概率-默认值： 0.06
+Poison Spear Chance|毒矛概率
+zSpearPoisonChance|毒矛概率
+[Special Spear Spawns] Poison spear spawn chance - Default: 0.1|【特殊矛生成】生成毒矛概率-默认值： 0.1
+No Pup Flipping|防猫崽空翻
+zFlipsPupLock|防猫崽空翻
+[Simpleflips] Prevent pups from reading the backflip button (Enable if pups are backflipping instead of you) - Default: true|【轻松空翻】防止猫崽读取空翻键（不然猫崽将替你表演才艺）-默认：开启
+
+Oversleep Chance|夜晚概率
+fNightChance|夜晚概率
+[Slugsomnia] Chance to wake up later than normal - Default: 0.2|【晚循环】出现夜晚概率-默认值：0.2
+Weather Chance|时间概率
+fRainChance|时间概率
+[Slugsomnia] Chance for a cycle to be rainy - Default: 0.1|【晚循环】出现特殊时间概率-默认值：0.1
+Rare Weather Chance|特殊天气概率
+fSnowChance|特殊天气概率
+[Slugsomnia] Chance for unique weathers and effects - Default: 0.5|【晚循环】出现特殊天气概率-默认值：0.5
+Grace Period|缓冲期
+fGracePeriod|缓冲期
+[Slugsomnia] Number of cycles needed before slugsomnia can start occuring - Default: 6|【晚循环】允许触发晚循环所需循环-默认：6
+
+Slugsomnia|晚循环
+Slugsomnia Config|晚循环设置
+Wake Time|醒来时刻
+fWakeTime|醒来时刻
+[Slugsomnia] Time chosen when starting a slugsomnia cycle - Default: Dusk|【晚循环】设置开始晚循环周期的时间-默认：黄昏
+Weather Type|天气种类
+fPrefWeather|天气种类
+[Slugsomnia] Weather type chosen when starting an alterred cycle - Default: Random|【晚循环】设置开始晚循环周期所改变天气-默认：随机
+Rain|阴雨
+fEnableRain|阴雨
+[Slugsomnia] Allows rainy weather to occur when weather is set to random.|【晚循环】可随机到阴雨天气
+Snow|降雪
+fEnableSnow|降雪
+[Slugsomnia] Allows snowy weather to occur when weather is set to random.|【晚循环】可随机到降雪天气
+Heatwaves|热浪
+fEnableHeat|热浪
+[Slugsomnia] Allows heatwaves to occur when weather is set to random.|【晚循环】可随机到热浪天气
+Thunderstorms|雷暴
+fEnableStorm|雷暴
+[Slugsomnia] Allows thunderstorms to occur when weather is set to random.|【晚循环】可随机到雷暴天气
+Fog|大雾
+fEnableFog|大雾
+[Slugsomnia] Allows foggy weather to occur when weather is set to random.|【晚循环】可随机到大雾天气
+Hail|冰雹
+fEnableHail|冰雹
+[Slugsomnia] Allows hailstorms to occur when weather is set to random.|【晚循环】可随机到冰雹天气
+Distortion|失真
+fEnableDistortion|失真
+[Slugsomnia] Allows reality distortions to occur when weather is set to random.|【晚循环】可随机到失真天气
+music Override|音乐覆盖
+musicOverride|音乐覆盖
+Forces the BkgDrone to always be at least 0.3.|强制背景音乐至少为0.3。
+Random|随机
+Heatwave|热浪
+Thunderstorm|雷暴
+Foggy|大雾
+Afternoon|正午
+Evening|夜晚
+Sunset|傍晚
+Dusk|黄昏
+Twilight|薄暮
+Night|午夜
+
+Shiny Spawns|异色生成
+Shiny Config|异色设置
+Shiny Chance|异色概率
+xColorfulChance|异色概率
+[Shiny Spawns] Chance for spawns to have different colors - Default: 0.05|【异色生成】产生异色概率-默认值：0.05
+Colorful Shiny Chance|迥异概率
+xVeryColorfulChance|迥异概率
+[Shiny Spawns] Chance for spawns to have wildly different colors (Must be lower than or equal to shiny chance) - Default: 0.01|【异色生成】刷出完全迥异颜色的概率（必须小于等于异色概率）-默认值：0.01
+Albino Shiny Chance|白化概率
+xAlbinoChance|白化概率
+[Shiny Spawns] Chance for spawns to be albino - Default: 0.02|【异色生成】产生白化概率-默认值：0.02
+shinyLegendaryChance|炫彩概率
+xLegendaryChance|炫彩概率
+[Shiny Spawns] Chance for spawns with graphically intensive effects - Default: 0.005|【异色生成】产生炫彩概率-默认值：0.005
+Shiny Food|异色食物
+xShinyFood|异色食物
+[Shiny Spawns] Enables rare colors for natural food items.|【异色生成】使所有食物产生异色。
+Shiny Tools|异色物品
+xShinyTools|异色物品
+[Shiny Spawns] Enables rare colors for tools and weapons.|【异色生成】使所有物品和武器出现异色。
+Shiny Lizards|异色蜥蜴
+xShinyLizards|异色蜥蜴
+[Shiny Spawns] Enables rare colors for most varieties of lizard.|【异色生成】使所有蜥蜴出现异色变体。
+Shiny Creatures|异色生物
+xShinyCreatures|异色生物
+[Shiny Spawns] Enables rare colors for almost all living creatures.|【异色生成】使所有生物都可能出现异色变体。
+
+Keybinds|键位
+Configure Keybinds|快捷键设置
+player1BackflipButton|玩家1空翻键
+Player 1 Backflip Button|玩家1空翻键
+Set which button Player 1 can use to do a small backflip.|设置玩家1的后空翻键位。
+player2BackflipButton|玩家2空翻键
+Player 2 Backflip Button|玩家2空翻键
+Set which button Player 2 can use to do a small backflip.|设置玩家2的后空翻键位。
+player3BackflipButton|玩家3空翻键
+Player 3 Backflip Button|玩家3空翻键
+Set which button Player 3 can use to do a small backflip.|设置玩家3的后空翻键位。
+player4BackflipButton|玩家4空翻键
+Player 4 Backflip Button|玩家4空翻键
+Set which button Player 4 can use to do a small backflip.|设置玩家4的后空翻键位。

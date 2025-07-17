@@ -2430,6 +2430,8 @@ Perilous Ascent|艰险天路
 //3342976438
 Scrapped Peaks|崩毁山峦
 Five Pebbles (Waste Disposal Compound)|五块卵石（废料处理区）
+//现3514250418
+scrappedpeak-description|旧区域模组移植
 //3338239924
 rivuletouterexpanse-name|溪流外层空间
 rivuletouterexpanse-description|为溪流开放外层空间。
@@ -2907,6 +2909,7 @@ Mossy Rifts|苔原裂隙
 serniczek|奶酪蛋糕
 Retaining Wall (South-West Entrance)|挡土墙（西南入口）
 Marsh Pier|沼泽码头
+kizorke.deszcworlde2-description|进入一处废墟建筑与野生植物交织的土地，深入探索以发现将内部设施与外部区域分开的隔断<LINE><LINE>这个区域的绝大部分已经完成（~ 80%），所以敬请期待未完成房间及其他部分。<LINE>无论如何，玩得开心！”
 //3457887314
 Auxiliary Intake|摄水辅助
 The Reservior|水库
@@ -2940,6 +2943,7 @@ Undertracks|下部轨道
 Starlit Spire|烁星高塔
 The Spine|山脊
 Reticent Line|缄默航线
+ashenbow-description|一个随着时间流逝而衰败的超低温的卫星发射通信基地，连接农场阵列和阴影城堡。该区域有71个房间（不包括业力门/庇护所），新的威胁/环境音乐，4颗有色珍珠以及一个回响。祝探索愉快！<LINE><LINE>圣徒无法进入该区域(暂时…我计划在大修部分房间后添加圣徒线)。发现问题时会进行更新，另外提高生活质量（对这个有点陌生）。观望者DLC非必须选项，但如果你安装了，会生成一些其他生物：D<LINE><LINE>owlsquish -区域和音乐<LINE><LINE>Artisticallycaffeinated-区域背景CG<LINE><LINE>Boo（Hayden McAlpine-Hall）和@hello_bjf -额外贴图
 
 //3466127398
 Perk_Camo_Name|伪装
@@ -3022,6 +3026,7 @@ WEConfig_Desc_STSpeak|允许陀螺对话，它将按照顺序选择对话。
 Info Dump|信息转存
 Dump a  bunch of info|转存一些信息
 
+WatcherExpeditions-description|在探险游戏模式中加入观望者，以及一些额外的增益，一个使命任务和一个新的挑战类型。<LINE>在竞技场模式中添加观望者。<LINE>在竞技场模式中添加观望者DLC生物。
 
 //3471172003
 Gloaming Refinery|暗暮油厂
@@ -3036,6 +3041,7 @@ Festering Towers|朽败弃塔
 //3479823994
 Coastal Building|临海建筑
 The River|河流
+Dreamscape-description|此拓展包内含2个小区域，我做来测试观望者所有的新物品<LINE>注意！这些区域未投入过多精力制作！<LINE>此扩展是为观望者专属！<LINE>第一个区域的入口位于WTDB（凄凉地带）中
 
 //3480541871
 Six Strange Sights|六处奇景
@@ -3048,6 +3054,7 @@ Sunken Ridge|沉没山脊
 Cliffside|峭壁
 Bygone Mineshaft|古老矿井
 Summit of Mistakes|错误山峰
+nograndideas-description|在一个遥远大陆的海岸上，有一座点缀着古老的矿井和隧道的山峰，它被笼罩于附近一座巨构产生的迷雾与阴影中。<LINE>目前仅矛大师可通过苔藓原野（Moss Fields）到达。<LINE>-------制作组-------<LINE>关卡设计，编写：Parageist<LINE>编码：NV<LINE>威胁音乐由LudoCrypt制作<LINE>'Debris'和'Washout'：Sidera， ‘Palisation’：Tryn<LINE>峭壁区域CG：Wolfycatt<LINE>NGIGULL贴图：seren，所有其他贴图：Parageist。<LINE>游戏测试：VoidComputer， Vividyon, macaco103, Moldova223, theone whoscreamsigess <LINE>另外感谢Myrmice创造了苔藓原野，
 
 //3482943061
 Anti-gravity caves|反重力洞穴
@@ -3103,6 +3110,7 @@ Fragmented Storerooms|破碎储藏室
 Dark Caves|晦暗洞窟
 Eastern Expanse|东向广域
 Flooded Nest|浸湿巢穴
+easternexpanse-description|五块卵石之下，向东，在古老建筑下方隐藏着一处荒原。<LINE>探索野外沼泽，河流侵蚀的潮汐<LINE>踏上旅途，将过往印象甩在身后。
 
 //3153903951
 //Shrouded Assembly Code
@@ -3445,9 +3453,11 @@ Rusted Way|锈烂走廊
 Lands Of The Rot|腐化弃土
 Rotting Construction|腐烂陈设
 Rotting Pipes|腐蚀管道
+ngg_FonabA-description|增加7个区域，连接外层空间(OE)【OE_CAVE7】,地下(SB)【SB_GOR01】
 
 //3521314879
 Misty Marish|薄雾沼泽
+blue.mistymarish-description|在观望者流程中添加一个中等大小的区域
 
 //3521336862
 Soaring Lookout|云巅瞭望塔
@@ -3462,6 +3472,7 @@ Wrecked Storage|损坏储存区
 Failing Infrastructure|坍塌设施
 Crumpled Science|扭曲研究
 Trampled Storage|践踏储存
+Skys-description|探索位于云层之上的广阔区域，包含花园与建筑群。你能发现此地的奥秘吗？<LINE>（我完成了我的第一个区域）我某个大计划的第一部分，但还不能说……<LINE>在区域内藏有一条关于它的线索，以及找到这条线索的提示：<LINE>‘抬头看，或许你会在主要（大致上）路径的上方找到一处地点。’
 
 //3524141574
 Obsolete Reactor|废弃反应堆

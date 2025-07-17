@@ -3644,9 +3644,9 @@ No Pup Flipping|防猫崽空翻
 zFlipsPupLock|防猫崽空翻
 [Simpleflips] Prevent pups from reading the backflip button (Enable if pups are backflipping instead of you) - Default: true|【轻松空翻】防止猫崽读取空翻键（不然猫崽将替你表演才艺）-默认：开启
 
-Oversleep Chance|夜晚概率
-fNightChance|夜晚概率
-[Slugsomnia] Chance to wake up later than normal - Default: 0.2|【晚循环】出现夜晚概率-默认值：0.2
+Oversleep Chance|晚循环概率
+fNightChance|晚循环概率
+[Slugsomnia] Chance to wake up later than normal - Default: 0.2|【晚循环】出现晚循环概率-默认值：0.2
 Weather Chance|时间概率
 fRainChance|时间概率
 [Slugsomnia] Chance for a cycle to be rainy - Default: 0.1|【晚循环】出现特殊时间概率-默认值：0.1
@@ -3741,3 +3741,14 @@ Set which button Player 3 can use to do a small backflip.|设置玩家3的后空
 player4BackflipButton|玩家4空翻键
 Player 4 Backflip Button|玩家4空翻键
 Set which button Player 4 can use to do a small backflip.|设置玩家4的后空翻键位。
+
+~Configure Keybinds~|~快捷键设置~
+~Mod Features~|~特性模组~
+~Shiny Config~|~异色设置~
+~Random Weathers~|~可随机天气~
+~Slugsomnia~|~晚循环~
+~Slugsomnia Config~|~晚循环设置~
+~Advanced Options~|~高级选项~
+~Creature Tweaks~|~生物性调整~
+~Gameplay Tweaks~|~游戏性调整~
+~Slugcat Tweaks~|~蛞蝓猫调整~

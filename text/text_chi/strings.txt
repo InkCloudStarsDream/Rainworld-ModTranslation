@@ -1901,6 +1901,8 @@ The Old City|故城
 //3229249922
 Citadel|堡垒
 BRIGHTENED CITADEL|启明堡垒
+The Support|支承
+The Leg 2|支架2号
 //3232063592
 Chasing Wind|追逐清风
 Chatoyant Waterfalls|辉映瀑流

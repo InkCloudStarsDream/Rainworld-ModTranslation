@@ -3610,7 +3610,7 @@ Rotproof|腐化免疫
 Tired of dying to the rot covered walls that can't even move? Well with this new lubricative solution, you can glide off them with ease!|厌倦了被无法移动的贴壁腐化物当外卖吃的生活？现在你可以轻易通过它们。
 stowAwake|清醒偷渡虫
 Stowaway Energizer|清醒偷渡虫
-\"Stowaway isn't real! Stowaway can't hurt you!\" Makes stowaways much more likely to be awake, so that they can be encountered more often.|\"偷渡虫不存在！偷渡虫不会攻击！\" 让偷渡虫保持触发状态，这样就能经常看到他们了。
+"Stowaway isn't real! Stowaway can't hurt you!" Makes stowaways much more likely to be awake, so that they can be encountered more often.|"偷渡虫不存在！偷渡虫不会攻击！" 让偷渡虫保持触发状态，这样就能经常看到他们了。
 breakableBarnacles|破坏珊瑚虫
 Breakable Barnacles|破坏珊瑚虫
 Tired of barnacles getting in the way? Well chuck a few stones at them and watch their pesky shells shatter!|还在因为珊瑚虫堵路抓狂？现在他们的外壳可被石块打破！

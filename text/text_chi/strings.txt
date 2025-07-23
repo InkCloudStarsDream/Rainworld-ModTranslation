@@ -3788,3 +3788,9 @@ Set which button Player 4 can use to do a small backflip.|设置玩家4的后空
 ~Creature Tweaks~|~生物性调整~
 ~Gameplay Tweaks~|~游戏性调整~
 ~Slugcat Tweaks~|~蛞蝓猫调整~
+
+//3531877712
+Silent Scenery|寂景
+Hushed Infrastructure|宁静基础设施
+Iced Hideout|冰封隐所
+Loud Scenery|喧景

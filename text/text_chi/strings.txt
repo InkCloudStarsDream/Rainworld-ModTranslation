@@ -347,7 +347,7 @@ Nymph|精灵
 A strange creature, small and agile at the cost of physical strength.<LINE> Use your powers to make your way in this world and move fast, traveller.|一种奇异的生物，以体能为代价换取了无与伦比的敏捷。<LINE>旅者，用你的独特的力量在这个世界上闯出自己的路。
 
 //2947594650
-harvie.thedronemaster-description|一只带着激光无人机的机械猫，你所需要做的是清除一切挡住你路的事物。<LINE><LINE>特点:<LINE>你可以承受多达3次的致命伤害（不包括掉出房间），金属鳍会告诉你你还能承受多少次伤害。你需要更多的食物来雨眠。在吃饱之前，蜈蚣的点击可以帮你充电。<LINE>无人机的数量会随着你的业力等级增加而增加，按住C打开无人机控制HUD<LINE>你也能抓住你的无人机使你移动的更快。<LINE>你也可以打开只有工匠才能打开的门！
+harvie.thedronemaster-description|一只带着激光无人机的机械猫，你所需要做的是清除一切挡住你路的事物。<LINE><LINE>特点：<LINE>你可以承受多达3次的致命伤害（不包括掉出房间），金属鳍会告诉你你还能承受多少次伤害。你需要更多的食物来雨眠。在吃饱之前，蜈蚣的点击可以帮你充电。<LINE>无人机的数量会随着你的业力等级增加而增加，按住C打开无人机控制HUD<LINE>你也能抓住你的无人机使你移动的更快。<LINE>你也可以打开只有工匠才能打开的门！
 The DroneMaster|无人机大师
 THE DRONEMASTER|无人机大师
 DroneMaster|无人机大师
@@ -618,7 +618,7 @@ CowBoy|牛仔
 CowBoy know how to use rope to call back spear|牛仔知晓如何用绳索召回背矛。
 
 //2955658730
-Rezillo.slugSpider-description|可以射出具有催眠作用的飞镖的蛞蝓猫，使其他生物进入睡眠状态。你只吃肉，因为植物不会为你提供能量。你的咬合力很强大，但可能会吵醒生物。这个mod具有扩展菜单。<LINE>选择左边的mod界面以获得更多选项。<LINE><LINE>特别致谢:<LINE>bro, Fish, LastCherry, o645, Jim, Slime_Cubed, Turk, WillowWisp, 和Vigaro!<LINE>由Artistica.us负责美术。
+Rezillo.slugSpider-description|可以射出具有催眠作用的飞镖的蛞蝓猫，使其他生物进入睡眠状态。你只吃肉，因为植物不会为你提供能量。你的咬合力很强大，但可能会吵醒生物。这个mod具有扩展菜单。<LINE>选择左边的mod界面以获得更多选项。<LINE><LINE>特别致谢：<LINE>bro, Fish, LastCherry, o645, Jim, Slime_Cubed, Turk, WillowWisp, 和Vigaro!<LINE>由Artistica.us负责美术。
 Soporific|催眠师
 The Soporific|催眠师
 THE SOPORIFIC|催眠师
@@ -748,7 +748,7 @@ Faulting Airducts|故障管道
 Fallen Cathedral|陨落大教堂
 
 //2966866355
-VirtuaVirtue.Beached-description|一个从整个游戏中移除液体的MOD<LINE>液体包括:<LINE>水，酸水，虚空流体和雪（是的它也算！！！）<LINE><LINE>检查所有的拓展菜单选项！那些有趣的选项都是实验性的，非常不稳定！！<LINE><LINE>1.1版本<LINE>新的配置菜单，能够用水淹没所有房间，并且可以除去特定的液体。
+VirtuaVirtue.Beached-description|一个从整个游戏中移除液体的MOD<LINE>液体包括：<LINE>水，酸水，虚空流体和雪（是的它也算！！！）<LINE><LINE>检查所有的拓展菜单选项！那些有趣的选项都是实验性的，非常不稳定！！<LINE><LINE>1.1版本<LINE>新的配置菜单，能够用水淹没所有房间，并且可以除去特定的液体。
 Hall of Fame|名人堂
 gallery|画廊
 
@@ -3182,7 +3182,7 @@ Thank you. I do wonder what you want.|谢谢你。我很好奇你想要什么。
 
 I am grateful - the relief is indescribable!|我很感激……终于如释重负的感觉难以言表。
 I could read a bit of Chasing Wind in this neuron before formatting it.<LINE>What a weird bundle of ideas this neuron was carrying. I don't think I understood any of it.|在格式化这个神经元之前，我还能读到一点追逐清风。<LINE>这个神经元携带着一堆多么古怪的想法。我不认为我理解其中任何一个。
-We were supposed to help everyone, you know. Everything.<LINE>That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently.<LINE>Many with madness.|我们本来要帮助每个生命的，我是说，世间万物。<LINE>那曾经是我们的目标:一份给世界上芸芸众生的伟大礼物。<LINE>当面对无能为力的境地时，我们的反应各不相同。<LINE>大多数都陷入了疯狂。
+We were supposed to help everyone, you know. Everything.<LINE>That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently.<LINE>Many with madness.|我们本来要帮助每个生命的，我是说，世间万物。<LINE>那曾经是我们的目标：一份给世界上芸芸众生的伟大礼物。<LINE>当面对无能为力的境地时，我们的反应各不相同。<LINE>大多数都陷入了疯狂。
 Some, out there, might still be trying.<LINE>Communications have been bad for a long time, and by now I suspect most of us are isolated like me, or connected only in small groups.|可能其它地方的某些迭代器仍在尝试。<LINE>不过糟糕的通讯情况已经持续很久了，而且现在我怀疑大多数迭代器和我一样被隔离开来，或者只能进行小范围联络。
 But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.|但即使在我们或多或少地还有些联系的时候，还是有一些迭代器对自己的使命做出了愤怒的反应。<LINE>我只能想象到他们现在会更加愤怒，只剩下贪得无厌的欲望和自己待在罐头里。
 But to be honest, I don't know how many of us are still alive at this point.<LINE>Knowing Grey Wind is still out here is reassuring though.|不过说实话，我不确定现在还有多少迭代器活着。<LINE>知道灰风仍在那里让我感到宽慰。
@@ -3472,7 +3472,7 @@ Undertracks|下部轨道
 Starlit Spire|烁星高塔
 The Spine|山脊
 Reticent Line|缄默航线
-ashenbow-description|一个随着时间流逝而衰败的超低温的卫星发射通信基地，连接农场阵列和阴影城堡。该区域有71个房间（不包括业力门/庇护所），新的威胁/环境音乐，4颗有色珍珠以及一个回响。祝探索愉快！<LINE><LINE>圣徒无法进入该区域(暂时…我计划在大修部分房间后添加圣徒线)。发现问题时会进行更新，另外提高生活质量（对这个有点陌生）。观望者DLC非必须选项，但如果你安装了，会生成一些其他生物:D<LINE><LINE>owlsquish -区域和音乐<LINE><LINE>Artisticallycaffeinated-区域背景CG<LINE><LINE>Boo（Hayden McAlpine-Hall）和@hello_bjf -额外贴图
+ashenbow-description|一个随着时间流逝而衰败的超低温的卫星发射通信基地，连接农场阵列和阴影城堡。该区域有71个房间（不包括业力门/庇护所），新的威胁/环境音乐，4颗有色珍珠以及一个回响。祝探索愉快！<LINE><LINE>圣徒无法进入该区域(暂时…我计划在大修部分房间后添加圣徒线)。发现问题时会进行更新，另外提高生活质量（对这个有点陌生）。观望者DLC非必须选项，但如果你安装了，会生成一些其他生物：D<LINE><LINE>owlsquish -区域和音乐<LINE><LINE>Artisticallycaffeinated-区域背景CG<LINE><LINE>Boo（Hayden McAlpine-Hall）和@hello_bjf -额外贴图
 
 //3466127398
 Perk_Camo_Name|伪装
@@ -3521,15 +3521,15 @@ WEConfig_Desc_UnlockPerks|
  
  
 WEConfig_Name_Hunt_Barnacle|狩猎——藤壶
-WEConfig_Desc_Hunt_Barnacle|允许狩猎挑战选择:藤壶 从1.10.2开始，它们可以用波动龟来去壳。
+WEConfig_Desc_Hunt_Barnacle|允许狩猎挑战选择：藤壶 从1.10.2开始，它们可以用波动龟来去壳。
 WEConfig_Name_Hunt_SandWorm|狩猎——沙虫
-WEConfig_Desc_Hunt_SandWorm|允许狩猎挑战选择:沙虫。类似于红树，但眩晕使你一旦被抓住就难以逃脱，并且他们会隐藏。
+WEConfig_Desc_Hunt_SandWorm|允许狩猎挑战选择：沙虫。类似于红树，但眩晕使你一旦被抓住就难以逃脱，并且他们会隐藏。
 WEConfig_Name_Hunt_BigMoth|狩猎——大蛾
-WEConfig_Desc_Hunt_BigMoth|允许狩猎挑战选择:大蛾。在1.10.2中，他们似乎更容易与之战斗和逃脱
+WEConfig_Desc_Hunt_BigMoth|允许狩猎挑战选择：大蛾。在1.10.2中，他们似乎更容易与之战斗和逃脱
 WEConfig_Name_Hunt_BoxWorm|狩猎——箱虫
-WEConfig_Desc_Hunt_BoxWorm允许狩猎挑战选择:箱虫。箱虫可以很轻易地困住你，在可以被杀死之前需要激活他们，和他们的战斗并不是很有趣。没有火精灵的箱虫是无法被杀死的。
+WEConfig_Desc_Hunt_BoxWorm允许狩猎挑战选择：箱虫。箱虫可以很轻易地困住你，在可以被杀死之前需要激活他们，和他们的战斗并不是很有趣。没有火精灵的箱虫是无法被杀死的。
 WEConfig_Name_Hunt_BoneShaker|狩猎——震骨者
-WEConfig_Desc_Hunt_BoneShaker|允许狩猎挑战选择:震骨者。 它们只会出现在腐化地图或者被腐化的地图之中。可以通过击倒他们从顶部杀死他们。 
+WEConfig_Desc_Hunt_BoneShaker|允许狩猎挑战选择：震骨者。 它们只会出现在腐化地图或者被腐化的地图之中。可以通过击倒他们从顶部杀死他们。 
 WEConfig_Name_Challenge_Rot|腐化传播挑战
 WEConfig_Desc_Challenge_Rot|需要你感染区域来达成的挑战。5个为正常难度，范围为3-9.
 WEConfig_Name_Challenge_ST|
@@ -3583,7 +3583,7 @@ Sunken Ridge|沉没山脊
 Cliffside|峭壁
 Bygone Mineshaft|古老矿井
 Summit of Mistakes|错误山峰
-nograndideas-description|在一个遥远大陆的海岸上，有一座点缀着古老的矿井和隧道的山峰，它被笼罩于附近一座巨构产生的迷雾与阴影中。<LINE>目前仅矛大师可通过苔藓原野（Moss Fields）到达。<LINE>-------制作组-------<LINE>关卡设计，编写:Parageist<LINE>编码:NV<LINE>威胁音乐由LudoCrypt制作<LINE>'Debris'和'Washout':Sidera， ‘Palisation’:Tryn<LINE>峭壁区域CG:Wolfycatt<LINE>NGIGULL贴图:seren，所有其他贴图:Parageist。<LINE>游戏测试:VoidComputer， Vividyon, macaco103, Moldova223, theone whoscreamsigess <LINE>另外感谢Myrmice创造了苔藓原野，
+nograndideas-description|在一个遥远大陆的海岸上，有一座点缀着古老的矿井和隧道的山峰，它被笼罩于附近一座巨构产生的迷雾与阴影中。<LINE>目前仅矛大师可通过苔藓原野（Moss Fields）到达。<LINE>-------制作组-------<LINE>关卡设计，编写：Parageist<LINE>编码：NV<LINE>威胁音乐由LudoCrypt制作<LINE>'Debris'和'Washout'：Sidera， ‘Palisation’：Tryn<LINE>峭壁区域CG：Wolfycatt<LINE>NGIGULL贴图：seren，所有其他贴图：Parageist。<LINE>游戏测试：VoidComputer， Vividyon, macaco103, Moldova223, theone whoscreamsigess <LINE>另外感谢Myrmice创造了苔藓原野，
 
 //3482943061
 Anti-gravity caves|反重力洞穴
@@ -3865,7 +3865,7 @@ Delete save|删除存档
 ShinyKelp.ExpeditionsExpanded-name|探险任务拓展
 ShinyKelp.ExpeditionsExpanded_Desc|为探险模式添加更多任务
 
-ERROR: Problem recreating challenge type with reflection: |错误:创建挑战选项时出现错误:
+ERROR: Problem recreating challenge type with reflection: |错误：创建挑战选项时出现错误：
 
 Angry Noodle|惹恼面条蝇
 AngryNoodleChallenge|惹恼面条蝇
@@ -4001,7 +4001,7 @@ Wrecked Storage|损坏储存区
 Failing Infrastructure|坍塌设施
 Crumpled Science|扭曲研究
 Trampled Storage|践踏储存
-Skys-description|探索位于云层之上的广阔区域，包含花园与建筑群。你能发现此地的奥秘吗？<LINE>（我完成了我的第一个区域）我某个大计划的第一部分，但还不能说……<LINE>在区域内藏有一条关于它的线索，以及找到这条线索的提示:<LINE>‘抬头看，或许你会在主要（大致上）路径的上方找到一处地点。’
+Skys-description|探索位于云层之上的广阔区域，包含花园与建筑群。你能发现此地的奥秘吗？<LINE>（我完成了我的第一个区域）我某个大计划的第一部分，但还不能说……<LINE>在区域内藏有一条关于它的线索，以及找到这条线索的提示：<LINE>‘抬头看，或许你会在主要（大致上）路径的上方找到一处地点。’
 
 //3524141574
 Obsolete Reactor|废弃反应堆
@@ -4140,71 +4140,71 @@ Advanced|高级
 Advanced Options|高级选项
 breathMultiplier|耗氧倍率
 Breath Multiplier|耗氧倍率
-[Deep Breathing] Slugcat underwater breath loss multiplier - Default: 1|【深呼吸】蛞蝓猫水下耗氧倍率-默认:1
+[Deep Breathing] Slugcat underwater breath loss multiplier - Default: 1|【深呼吸】蛞蝓猫水下耗氧倍率-默认：1
 repGain|被动声望
 Passive Reputation Gain|被动声望
-[Slug Charisma] Amount of passive reputation gained - Default: 0.08|【友好光环】被动声望获得值-默认值:0.08
+[Slug Charisma] Amount of passive reputation gained - Default: 0.08|【友好光环】被动声望获得值-默认值：0.08
 repCap|被动声望上限
 Passive Reputation Cap|被动声望上限
-[Slug Charisma] Max reputation that can be obtained passively - Default: 0.25|【友好光环】被动声望获得上限值-默认值:0.25
+[Slug Charisma] Max reputation that can be obtained passively - Default: 0.25|【友好光环】被动声望获得上限值-默认值：0.25
 repArtiOnly|仅工匠声望
 Arti Patch Only|仅工匠声望
-[Slug Charisma] Only apply the Artificer scavenger patch - Default: false|【友好光环】仅启用工匠友好拾荒补丁-默认:关闭
+[Slug Charisma] Only apply the Artificer scavenger patch - Default: false|【友好光环】仅启用工匠友好拾荒补丁-默认：关闭
 zSpearDamage|矛击伤害
 Spear Damage Multiplier|矛击伤害
-[Deadly Spears] Spear damage multiplier - Default: 2|【致命矛击】矛击伤害倍率-默认:2
+[Deadly Spears] Spear damage multiplier - Default: 2|【致命矛击】矛击伤害倍率-默认：2
 Rock Damage Multiplier|投掷伤害
 zRockDamage|投掷伤害
-[Deadly Spears] Rock damage multiplier - Default: 25|【致命矛击】投掷石块伤害倍率-默认:25
+[Deadly Spears] Rock damage multiplier - Default: 25|【致命矛击】投掷石块伤害倍率-默认：25
 Maul Damage Multiplier|撕咬伤害
 zBiteDamage|撕咬伤害
-[Deadly Spears] Maul damage multiplier - Default: 2.5|【致命矛击】撕咬伤害倍率-默认:2.5
+[Deadly Spears] Maul damage multiplier - Default: 2.5|【致命矛击】撕咬伤害倍率-默认：2.5
 Karma Override|业力上限
 zKarmaOverride|业力上限
-[Karmic Balance] Karma cap override (Works for all slugcats) - Default: 4|【业力平衡】|业力上限（适用于所有蛞蝓猫）-默认:4
+[Karmic Balance] Karma cap override (Works for all slugcats) - Default: 4|【业力平衡】|业力上限（适用于所有蛞蝓猫）-默认：4
 Acid Bounces|酸液保护次数
 zAcidBounces|酸液保护次数
-[Antacid Coating] Number of bounces before acid becomes lethal - Default: 3|【酸液保护】酸液不致死反弹的次数-默认:3
+[Antacid Coating] Number of bounces before acid becomes lethal - Default: 3|【酸液保护】酸液不致死反弹的次数-默认：3
 Spear Spawn Multiplier|长矛生成密度
 zSpearSpawnMultiplier|长矛生成密度
-[Special Spear Spawns] Spear spawn density modifier - Default: 1.2|【特殊矛生成】自然生成长矛密度-默认值: 1.2
+[Special Spear Spawns] Spear spawn density modifier - Default: 1.2|【特殊矛生成】自然生成长矛密度-默认值： 1.2
 Explosive Spear Chance|炸矛概率
 zSpearExplosiveChance|炸矛概率
-[Special Spear Spawns] Explosive spear spawn chance - Default: 0.12|【特殊矛生成】生成炸矛概率-默认值: 0.12
+[Special Spear Spawns] Explosive spear spawn chance - Default: 0.12|【特殊矛生成】生成炸矛概率-默认值： 0.12
 Electric Spear Chance|电矛概率
 zSpearElectricChance|电矛概率
-[Special Spear Spawns] Electric spear spawn chance - Default: 0.08|【特殊矛生成】生成电矛概率-默认值: 0.08
+[Special Spear Spawns] Electric spear spawn chance - Default: 0.08|【特殊矛生成】生成电矛概率-默认值： 0.08
 Fire Spear Chance|火矛概率
 zSpearFireChance|火矛概率
-[Special Spear Spawns] Fire spear spawn chance - Default: 0.06|【特殊矛生成】生成火矛概率-默认值: 0.06
+[Special Spear Spawns] Fire spear spawn chance - Default: 0.06|【特殊矛生成】生成火矛概率-默认值： 0.06
 Poison Spear Chance|毒矛概率
 zSpearPoisonChance|毒矛概率
-[Special Spear Spawns] Poison spear spawn chance - Default: 0.1|【特殊矛生成】生成毒矛概率-默认值: 0.1
+[Special Spear Spawns] Poison spear spawn chance - Default: 0.1|【特殊矛生成】生成毒矛概率-默认值： 0.1
 No Pup Flipping|防猫崽空翻
 zFlipsPupLock|防猫崽空翻
-[Simpleflips] Prevent pups from reading the backflip button (Enable if pups are backflipping instead of you) - Default: true|【轻松空翻】防止猫崽读取空翻键（不然猫崽将替你表演才艺）-默认:开启
+[Simpleflips] Prevent pups from reading the backflip button (Enable if pups are backflipping instead of you) - Default: true|【轻松空翻】防止猫崽读取空翻键（不然猫崽将替你表演才艺）-默认：开启
 
 Oversleep Chance|晚循环概率
 fNightChance|晚循环概率
-[Slugsomnia] Chance to wake up later than normal - Default: 0.2|【晚循环】出现晚循环概率-默认值:0.2
+[Slugsomnia] Chance to wake up later than normal - Default: 0.2|【晚循环】出现晚循环概率-默认值：0.2
 Weather Chance|时间概率
 fRainChance|时间概率
-[Slugsomnia] Chance for a cycle to be rainy - Default: 0.1|【晚循环】出现特殊时间概率-默认值:0.1
+[Slugsomnia] Chance for a cycle to be rainy - Default: 0.1|【晚循环】出现特殊时间概率-默认值：0.1
 Rare Weather Chance|特殊天气概率
 fSnowChance|特殊天气概率
-[Slugsomnia] Chance for unique weathers and effects - Default: 0.5|【晚循环】出现特殊天气概率-默认值:0.5
+[Slugsomnia] Chance for unique weathers and effects - Default: 0.5|【晚循环】出现特殊天气概率-默认值：0.5
 Grace Period|缓冲期
 fGracePeriod|缓冲期
-[Slugsomnia] Number of cycles needed before slugsomnia can start occuring - Default: 6|【晚循环】允许触发晚循环所需循环-默认:6
+[Slugsomnia] Number of cycles needed before slugsomnia can start occuring - Default: 6|【晚循环】允许触发晚循环所需循环-默认：6
 
 Slugsomnia|晚循环
 Slugsomnia Config|晚循环设置
 Wake Time|醒来时刻
 fWakeTime|醒来时刻
-[Slugsomnia] Time chosen when starting a slugsomnia cycle - Default: Dusk|【晚循环】设置开始晚循环周期的时间-默认:黄昏
+[Slugsomnia] Time chosen when starting a slugsomnia cycle - Default: Dusk|【晚循环】设置开始晚循环周期的时间-默认：黄昏
 Weather Type|天气种类
 fPrefWeather|天气种类
-[Slugsomnia] Weather type chosen when starting an alterred cycle - Default: Random|【晚循环】设置开始晚循环周期所改变天气-默认:随机
+[Slugsomnia] Weather type chosen when starting an alterred cycle - Default: Random|【晚循环】设置开始晚循环周期所改变天气-默认：随机
 Rain|阴雨
 fEnableRain|阴雨
 [Slugsomnia] Allows rainy weather to occur when weather is set to random.|【晚循环】可随机到阴雨天气
@@ -4244,16 +4244,16 @@ Shiny Spawns|异色生成
 Shiny Config|异色设置
 Shiny Chance|异色概率
 xColorfulChance|异色概率
-[Shiny Spawns] Chance for spawns to have different colors - Default: 0.05|【异色生成】产生异色概率-默认值:0.05
+[Shiny Spawns] Chance for spawns to have different colors - Default: 0.05|【异色生成】产生异色概率-默认值：0.05
 Colorful Shiny Chance|迥异概率
 xVeryColorfulChance|迥异概率
-[Shiny Spawns] Chance for spawns to have wildly different colors (Must be lower than or equal to shiny chance) - Default: 0.01|【异色生成】刷出完全迥异颜色的概率（必须小于等于异色概率）-默认值:0.01
+[Shiny Spawns] Chance for spawns to have wildly different colors (Must be lower than or equal to shiny chance) - Default: 0.01|【异色生成】刷出完全迥异颜色的概率（必须小于等于异色概率）-默认值：0.01
 Albino Shiny Chance|白化概率
 xAlbinoChance|白化概率
-[Shiny Spawns] Chance for spawns to be albino - Default: 0.02|【异色生成】产生白化概率-默认值:0.02
+[Shiny Spawns] Chance for spawns to be albino - Default: 0.02|【异色生成】产生白化概率-默认值：0.02
 shinyLegendaryChance|炫彩概率
 xLegendaryChance|炫彩概率
-[Shiny Spawns] Chance for spawns with graphically intensive effects - Default: 0.005|【异色生成】产生炫彩概率-默认值:0.005
+[Shiny Spawns] Chance for spawns with graphically intensive effects - Default: 0.005|【异色生成】产生炫彩概率-默认值：0.005
 Shiny Food|异色食物
 xShinyFood|异色食物
 [Shiny Spawns] Enables rare colors for natural food items.|【异色生成】使所有食物产生异色。

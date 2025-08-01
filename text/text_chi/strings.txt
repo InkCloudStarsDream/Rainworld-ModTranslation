@@ -4301,3 +4301,41 @@ Loud Scenery|喧景
 
 //3539078233
 Corroded Manufactory|锈蚀工厂
+
+//2931679448
+SimplifiedMoveset-description|多种运动改变。主要靠移除或简化计时，使玩家更容易完成高级技巧。
+Climb straight up horizontal beams. Grab beams when holding down in various cases. Lean instead of dropping from beams.|攀爬上水平横杆。多数情况下按住方向键就能抓住横杆，不再会从杆上滑落。
+Beam Climb|爬杆
+Removes timing for rocket jumps and throwing spears during belly slides. Adds sliding down slopes.|在贴地滑行时移除滑行腾跃和投掷长矛的冷却时间。可在斜坡上滑行。
+Belly Slide|贴地滑行
+Crawl turns can be used to initiate rolls and on slopes. Increases turn rate in corridors. Removes slowdown when holding down.|在斜坡上，趴下后翻身可触发翻滚。提升在管道内转向速度。移除按住下键爬行时的减速效果。
+Crawl|爬行
+Decreases charge time for super launch jumps.|减少蓄力跳的充能时间。
+Crouch Jump|蓄力跳
+Grab dead large creatures only when crouching.|仅在趴下时抓取尸体。
+Exhaust only when throwing spears. Stun creatures with rocket jumps. Slides, slow rocket jumps and rolls only stun and deal no damage.|仅在投掷长矛时才会耗尽体力。滑行腾跃时眩晕生物。滑行，缓慢滑行腾跃和翻滚时只会眩晕生物而不会造成伤害。
+Rocket jumps from rolls have consistent height.|翻滚后腾跃保持相同高度。
+Roll 1|翻滚 1
+When enabled, removes the ability to chain rolls from rocket jumps.|启用时，移除滑行腾跃衔接翻滚的能力。
+Roll 2|翻滚 2
+Reduces the requirements for slide turns. Backflips are possible earlier.|减少对滑行回弹的触发要求。使后空翻变得容易。
+Slide Turn|滑行回弹
+The throw momentum does not affect slugcats on the ground. The momentum while climbing beams is reduced. Throw boosting in the air is still possible. Weapons cannot change direction after being thrown.|在平地，杆上投掷物品不再对蛞蝓猫产生推动效果。但仍然可以空中投掷物品助推，武器投掷后不再改变方向。
+Spear Throw|投掷
+Stand up after various animations.|各种动作结束后起身
+Stand Up|起身
+Removes breath limit underwater. You can eat underwater. Increases swim speed. Adjusts buoyancy.|移除水下氧气限制。可在水下进食。提升游泳速度，调整浮力。
+Swim|游泳
+Adds auto - aim grappling to beams. Changes affect Saint.|增加自动抓取目标功能。此改动可应用于圣徒。
+Adds crawling on walls. Removes wall sliding. Normal jumps are prioritized for small obstacles instead of wall climbing / jumping.|增加爬墙功能。移除墙壁滑落效果。小型障碍优先触发普通跳跃而不触发返墙跳/爬墙。
+Wall Climb|爬墙
+Only wall jump when facing away from the wall. Wall jumps are prioritized over using tube worms. Removes wall sliding when not holding down. Normal jumps are prioritized for small obstacles instead of wall climbing / jumping.|仅在背对墙壁时触发蹬墙跳。蹬墙跳触发优先级高于使用管虫。移除未紧贴墙壁时滑落效果。小型障碍优先触发普通跳跃而不触发蹬墙跳/爬墙。
+Wall Jump|蹬墙跳
+When true, all movement changes are ignored for Player 1.|启用时，所有移动改变不应用于玩家 1。
+Player 1|玩家 1
+When true, all movement changes are ignored for Player 2.|启用时，所有移动改变不应用于玩家 2。
+Player 2|玩家 2
+When true, all movement changes are ignored for Player 3.|启用时，所有移动改变不应用于玩家 3。
+Player 3|玩家 3
+When true, all movement changes are ignored for Player 4.|启用时，所有移动改变不应用于玩家 4。
+Player 4|玩家 4

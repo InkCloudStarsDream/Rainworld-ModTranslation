@@ -2631,7 +2631,7 @@ TO HUB|返回中心
 Teleport to the closest hub|传送至最近的中心
 TO OUTSKIRTS|返回郊区
 Teleport to outskirts|传送至郊区
-PASSAGE|通道
+PASSAGE|传送
 Passage to another shelter|传送至其他避难所
 UNSTUCK|脱离
 Teleport to a nearby pipe|传送至最近的管道
@@ -4339,3 +4339,20 @@ When true, all movement changes are ignored for Player 3.|启用时，所有移�
 Player 3|玩家 3
 When true, all movement changes are ignored for Player 4.|启用时，所有移动改变不应用于玩家 4。
 Player 4|玩家 4
+
+//3532498444
+np.aetherforall-description|简介：<LINE>本模组将观望者版本的以太脊部分整合为一个区域。<LINE>允许所有蛞蝓猫前往腐臭幽谷，并与它“应该”连接的区域添加业力门<LINE>【观望者除外】。<LINE><LINE>特性：<LINE>大部分以太脊子区域房间来自观望者版本。<LINE>所生成生物设置取自1.5版本以及观望者DLC。<LINE>使用1.5版本的表面，并未使用观望者版本，<LINE>尽管保留了子区域苔原断层以及其他额外房间。<LINE> 此模组不更改观望者原有的以太脊系列区域。<LINE><LINE>区域连接：<LINE>以太脊连接到天空群岛、地下以及腐臭幽谷。<LINE>若启用鎏金圣殿或珊瑚洞穴，对应的业力门也会启用。<LINE>腐臭幽谷连接到以太脊，若启用倾盆大雨DLC管道堆场也能到达该区域。
+Jump into the wind|跃入气流
+Beware!  This water is toxic|小心！这种液体是剧毒的
+Leap into the wall and hold forward|扑向墙壁并贴紧，不要松开方向键
+You can slide across some ceilings|从倾斜的天花板上滑过
+Mushrooms can help you cross|使用迷幻菇降低操作难度
+
+//3540327471
+ruccn_simple-description|基于简单操作技巧制作的跑酷地图
+Simple Parkour|初级跑酷
+Part 1|阶段1
+Part 2|阶段2
+Part 3|阶段3
+Part 4|阶段4
+Part 5|阶段5

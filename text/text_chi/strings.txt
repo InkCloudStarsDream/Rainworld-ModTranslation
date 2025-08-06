@@ -3515,7 +3515,7 @@ WEConfig_Desc_ChangeRipple|允许陀螺增加的最大和最小的涟漪等级�
 WEConfig_Name_KarmaFlower|全区域业力花
 WEConfig_Desc_KarmaFlower|允许业力花在每个观望者探险区域产生，作为观望者传送能力所需的重要物品。如果被禁用，它们仍然会产生在外缘，破碎露台，恶魔和腐化区域。
 WEConfig_Name_Unlock|解锁力量
-WEConfig_Desc_Unlock|不管是否完成战役，解锁观望者探险。
+WEConfig_Desc_Unlock|不管是否完成观望者线，解锁观望者探险。
 WEConfig_Name_UnlockPerks|
 WEConfig_Desc_UnlockPerks|
  
@@ -3540,9 +3540,8 @@ WEConfig_Desc_RotWorld_Hunt|狩猎计入腐化区域内的敌人，例如长腿�
 WEConfig_Name_RotWorld_Shelter|腐化维度——庇护所
 WEConfig_Desc_RotWorld_Shelter|探险可以从腐化区域开始。你需要找到一个出口，然后传送你到一个随机的区域。永远不会到达外缘。
  
-
-WEConfig_Name_VanillaPassage|观望者战役的段落
-WEConfig_Desc_VanillaPassage|在观望者战役中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
+WEConfig_Name_VanillaPassage|观望者线通行证
+WEConfig_Desc_VanillaPassage|在观望者线中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
 WEConfig_Name_ColorFix|修复自定义颜色
 WEConfig_Desc_ColorFix|观望者拥有他自己的身体颜色覆盖和一部分黑色阴影，忽略自定义颜色，惬意合作的自定义合作以及他的默认设置为深蓝色。这使得拓展自定义和惬意合作的自定义颜色起效。
 WEConfig_Name_Sandbox|观望者沙盒
@@ -3553,7 +3552,7 @@ WEConfig_Name_STSpeak|陀螺对话
 WEConfig_Desc_STSpeak|允许陀螺对话，它将按照顺序选择对话。
 
 Info Dump|信息转存
-Dump a  bunch of info|转存一些信息
+Dump a bunch of info|转存一些信息
 
 WatcherExpeditions-description|在探险游戏模式中加入观望者，以及一些额外的增益，一个使命任务和一个新的挑战类型。<LINE>在竞技场模式中添加观望者。<LINE>在竞技场模式中添加观望者DLC生物。
 
@@ -4356,3 +4355,4 @@ Part 2|阶段2
 Part 3|阶段3
 Part 4|阶段4
 Part 5|阶段5
+

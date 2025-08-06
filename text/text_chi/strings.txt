@@ -3514,7 +3514,7 @@ WEConfig_Name_ChangeRipple|回响改变的最大/最小涟漪等级
 WEConfig_Desc_ChangeRipple|允许陀螺增加的最大和最小的涟漪等级。可以将涟漪设置到它可以达到的最大值。对原版探险中的回响无效。
 WEConfig_Name_KarmaFlower|全区域业力花
 WEConfig_Desc_KarmaFlower|允许业力花在每个观望者探险区域产生，作为观望者传送能力所需的重要物品。如果被禁用，它们仍然会产生在外缘，破碎露台，恶魔和腐化区域。
-WEConfig_Name_Unlock|解锁力量
+WEConfig_Name_Unlock|强制解锁
 WEConfig_Desc_Unlock|不管是否完成观望者线，解锁观望者探险。
 WEConfig_Name_UnlockPerks|
 WEConfig_Desc_UnlockPerks|
@@ -4355,4 +4355,5 @@ Part 2|阶段2
 Part 3|阶段3
 Part 4|阶段4
 Part 5|阶段5
+
 

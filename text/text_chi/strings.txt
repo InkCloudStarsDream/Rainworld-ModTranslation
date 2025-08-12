@@ -2063,8 +2063,10 @@ Bubble Weaver|气泡编蛛
 Sapphiric Weaver|蓝宝石编蛛
 Fanged Lizard|毒牙蜥蜴
 Great Fanged Lizard|巨啃蜥蜴
+
 //3311812030
 //The M4rblelous Entity Pack
+lb-fgf-m4r-ik.modpack-description|简介：<LINE>一个用于支持其它模组的生物和物品包。
 //Thorny Strawberry
 It's a delicious fruit but remove the thorns before eating it.|这是一种美味的水果，但记得吃之前把刺去掉。
 //Blob Piece
@@ -3572,6 +3574,7 @@ The River|河流
 Dreamscape-description|此拓展包内含2个小区域，我做来测试观望者所有的新物品<LINE>注意！这些区域未投入过多精力制作！<LINE>此扩展是为观望者专属！<LINE>第一个区域的入口位于WTDB（凄凉地带）中
 
 //3480541871
+sss-description|简介：<LINE>这项工作仍在继续
 Six Strange Sights|六处奇景
 The Mossy Leg|苔痕支架
 Sun Soaked Exterior|浸日外缘
@@ -3590,12 +3593,14 @@ Functional Wing|运行侧翼
 Damaged sector|受损扇区
 
 //3488620216
+spire.awfulmaze-description|简介：<LINE>这个模组很差。
 The Labyrinth|迷宫
 Virgil's Vile Vmaze|维吉尔歪恶V迷宫
 Hidden Crevice|隐藏裂缝
 Our House, In The Middle Of Our House|我们的房子，在我们的房子中央
 
 //3488862857
+3ch0-1fy.thegalleryever-description|简介：<LINE>一个存放着我做的大部分画廊房间的区域，无论是否展示。请尽情欣赏。<LINE>注意：未来会陆续添加更多房间，所以请不时回来看看。谢谢 :]
 Echo's Rooms|Echo的画廊房间
 
 //3491839053
@@ -4355,5 +4360,6 @@ Part 2|阶段2
 Part 3|阶段3
 Part 4|阶段4
 Part 5|阶段5
+
 
 

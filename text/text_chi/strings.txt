@@ -761,24 +761,31 @@ Side House|侧堂
 Outer Domain|外域
 (lots of rain) Pier|暴雨码头
 Disposal Plant|处理厂
+
 //2967731316
 expanded_outskirts-name|郊区扩展
 expanded_outskirts-description|对于郊区诸多地区的扩展，包含了一条通往工业区的新路径。
+
 //2975130544
 The Moonlight|月光
 THE MOONLIGHT|月光
 Moonlight|月光
+
 //2972537492
+zeldack.theparasite-description|一只可以控制并且杀死其他生物的可爱昆虫蛞蝓猫。
 The Parasite|寄生虫
 THE PARASITE|寄生虫
 Parasite|寄生虫
 Feeble, with no specialty to its name. Weak to all, but with the right preparations,<LINE>can take control of those who feed upon it. Rise and control the world, and attain godhood.|虚弱，没有任何特色。对所有人来说都是软弱的，但只要做好准备，<LINE>就可以控制那些以它为食的人。崛起并控制世界，获得神性。
 A control freak seeking to bring all under its control,<LINE>on a quest to find other things to do besides lust for control.|一个控制狂，试图把一切都置于自己的控制之下，<LINE>也在寻求除了控制欲之外的其他事情。
+
 //2973938652
+quietgardens-description|一个被遗忘的古老区域，尽管在那里新的生命正在蓬勃发展。入口在不幸的发展附近，仍在制作中。
 Timeless Conservatory|永恒花园
 Five Pebbles (Biological Research Module)|五卵石（生物研究模块）
 Five Pebbles (4th Water Tank)|五卵石（第四水库）
 Quiet Gardens|宁静花园
+
 //2980542457
 The Ambidextrous|巧匠
 THE AMBIDEXTROUS|巧匠
@@ -786,7 +793,9 @@ Ambidextrous|巧匠
 A ambidextrous slugcat on some mission.<LINE>Nobody's sure where he came from and which Iterator he belongs to.<LINE>Nobody's sure where he came from and if he was/is an Iterator messenger|双手灵巧的蛞蝓猫。<LINE>没有人知道他来自哪里，属于哪个何者。
 The Breadlord|面包侠
 THE BREADLORD|面包侠
+
 //2979857064
+mills888.DeadLands-description|一个基于Daszombes的区域概念“死亡之地”的社区项目。正在制作中。
 The Nomad|流浪者
 THE NOMAD|流浪者
 Nomad|流浪者
@@ -805,9 +814,13 @@ Dustbowl|漫尘盆地
 The Conduit|管道
 Deadlands|死寂之地
 The Outpost|前哨站点
+
 //2980983880
+Barrenwastes-description|一个设定中十分庞大的制作中区域，几乎横跨了整个地图，将海岸线和农场阵列连接起来。目前与农场阵列连接。
 Barren Wastes|贫瘠荒地
+
 //2982592394
+propane_begoniaCat-description|一只在垂死世界中的花哨蛞蝓猫，目前有一个自定义的时间线；专属区域和相关美术正在制作中。
 The Begonia|残败
 THE BEGONIA|残败
 Begonia|残败
@@ -818,11 +831,13 @@ The Pit|坑洞
 A Walk Through The Storm|风暴之行
 Glacial Chasm|冰河裂隙
 Drowned Catacomb|水没墓穴
+
 //2983159427
 DARKNESS|黑暗
 Darkness|黑暗
 THE DARKNESS|黑暗
 The Darkness|黑暗
+
 //2983960438
 The Oasis|绿洲
 The Tunnel|隧道
@@ -831,16 +846,22 @@ The Coast|港口
 False Canopy|去真顶棚
 False Canopy (Vents)|去真顶棚（通风口）
 The Tower|高塔
+
 //2987764922
+scorched_district-description|探索一个被猛烈的沙尘暴摧毁的云端之上的古城遗迹，连接外缘，五卵石，大都会，通讯塔和朝圣天路。
 Scorched District|焦土
 The Interface|交互面
 Distillation Column|蒸馏塔
 Railway Interchange|铁路立交
 Skyline Railway|天际轨道
 Lost Campfire|失落营火
+
 //2987817211
+howling_rift-description|探索一个摇摇欲坠的矿区，连接记忆陵墓和地下。
 Howling Rift|呼啸裂谷
+
 //2989757351
+tcan.marshlandwastes-description|一个链接垃圾堆，管道堆场，烟囱天棚和农场阵列的短区域。
 Forgotten Tundra|遗忘苔原
 Garbage Wastes 2 Electric Boogaloo|垃圾场 2 Electric Boogaloo
 Marshland Wastes|垃圾沼泽
@@ -853,6 +874,7 @@ Filter Residue|滤渣
 Slush Dispenser|泥浆分流
 Frozen City|霜冻城市
 Sludge Pipeway|污泥管道
+
 //2990306192
 The WIP Night Walker WIP|夜行客（未完成）
 WIP Night Walker WIP|夜行客（未完成）
@@ -863,21 +885,29 @@ Witness|见证者
 WITNESS|见证者
 An extremely agile omnivore, although this sometimes works against him<LINE>he does not like to be alone and prefers to be accompanied by others of his kind|一个极其敏捷的杂食动物，尽管这有时对他不利<LINE>，但他不喜欢独处，而且更喜欢同类的陪伴。
 Dark Density|黑暗浓云
+
 //2993225799
 jevmen.drainagesystemplus-name|排水系统扩展
 jevmen.drainagesystemplus-description|大幅扩展排水系统和地下森林，特色: <LINE>-超过200个新屏幕<LINE>-5个新音乐曲目<LINE>-重新设计的布局和代币位置<LINE>-3个新的可解锁竞技场<LINE>-更多样的生物生成<LINE>-位于郊区扩展新入口<LINE<LINE>注意: 需要郊区扩展和豪华避难所加载顺序早于更多蛞蝓猫拓展包（在其下方），否则游戏将崩溃。<LINE>当添加新的模组时，拓展有时会改变模组的顺序，请留意此。
+
 //2998516763
+stygiandepths-description|一个黑暗寒冷的区域，坐落于魔方结点（无归界）深处。
 Stygian Depths|冥河深处
 River Styx|无归之河
+
 //2999820529
-The Nightcat|守望者
+dododonut.unshackledcoop-description|作为任意角色在任何地区游玩。
+The Nightcat|夜猫
 The Pup|蛞蝓猫幼崽
 Inv|怪猫
+
 //3000570907
 0fpexpansion-name|五卵石扩展
-fpexpansion-description|扩展了五卵石区域，增加了淋巴系统、原始皮层、线性系统导轨等。
+fpexpansion-description|扩展了五卵石区域，增加了淋巴导管、原始皮层、线性系统导轨等。
 Five Pebbles (Lymphatic System)|五卵石（淋巴系统）
+
 //3001275271
+olaycolay.thevinki-description|扮演一个个性的青少年，穿着磨轨鞋，在五块卵石上展现自己的风采。
 The Vinki|芬奇
 THE VINKI|芬奇
 Vinki|芬奇
@@ -1096,16 +1126,22 @@ Ah... Did those creatures steal your tools, and you felt the need to immortalize
 ...And hopefully, you won't do so either, if you happen to trade them for any.|...希望你也不会这样做，如果你碰巧用它们来交换的话。
 ...Although I am a bit curious about the choice of symbol you drew.|...虽然我对你画的符号的选择有点好奇
 ...|...
+
 //3002853432
 The Sightseer|观光客
 THE SIGHTSEER|观光客
 Sightseer|观光客
 Northern Wall|北墙
+
 //3003902112
 The Tower|高塔
+
 //3007444212
+thetower-description|添加了一个新地图——高塔。
 The Tower|高塔
+
 //3010350558
+toothandclaw.slugpack-description|一个添加了水生的模组，一个完美的为这个世界建造的蛞蝓猫。还包括学者和遗忘者。如果你想要使用水生的外观，需要dress my slugcat（目前没有在文件中，将会在完全发布后添加）<LINE>当前计划：<LINE>新区域<LINE>给学者组建一个结合海滨设施和海岸线的新区域。<LINE>学者的新能力<LINE>更多的生物<LINE>为了这些家伙的新战役。<LINE>还有就是……是……<LINE><LINE>已经添加：<LINE>水生：一个发生在朋友和溪流时间线之间，有许多秘密和一个自定义的世界状态的蛞蝓猫。<LINE><LINE>学者：一个聪明但是失败的实验题，它的目的是对从最小的蝠蝇到最大的利维坦的一切生物进行分类。你的旅途将会非常艰辛，但是一切最终都会是值得的。<LINE>	遗忘者：一个寻找伴侣的生物，只想要一个安全的栖身之所。但是，要做到这一点，需要揭开许多秘密，但并不是所有的秘密都那么令人愉快……
 The Scholar|学者
 THE SCHOLAR|学者
 Scholar|学者
@@ -1164,21 +1200,29 @@ Deep Channels|通道深处
 Where am I?|我在哪儿？
 Rotten Limb|腐化肢体
 Rotten Hide|腐化荫蔽
+
 //3014893271
+wrayk.lushwire-description|一个杂草丛生、潮湿的工业区，坐落于排水系统，阴影城堡和悬苑之间。
 Lush Mire|葱郁泥潭
 Serene Grotto|宁静石窟
+
 //3014893557
+wrayk.undersea-description|海岸线，阴影城堡和通讯塔之间的一片阴影之海，在海底有一个长期废置的区域。
 Undersea|海底
 The Dam|水坝
 The Lighthouse|灯塔
 The Undercity |地下城市
 Hollowed Tunnels|中空隧道
+
 //3014983131
+wooga123.firstmod-description|一只好动的蛞蝓猫，可以放慢时间来进行致命打击。
 The Explorer|探索者
 THE EXPLORER|探索者
 Explorer|探索者
 An athletic little slugcat that can slow down time to deal deadly blows.|擅长运动的蛞蝓猫，可以减缓时间来进行致命的打击。
+
 //3016579669
+HallowedGrotto-description|强烈推荐启用倾盆大雨dlc，More Flora，Lunacy和M4rblelous Entity Pack，但都不是必须前置。一个郁郁葱葱的洞穴系统，位于地下深处，相对来说未被古人染指。<LINE>连接垃圾堆，排水系统，地下和海岸线以及……也许会有别的地方？<LINE>现在完全可以选择连接到荒芜之地，神圣花园和蜂鸣水道<LINE>附加功能：<LINE>一大堆世界建筑，拥有五颗珍珠，来自仰望皓月，五块卵石和追逐清风的专属对话以及超过20个广播<LINE>一个主要区域和四个小区域，几乎每个房间都会在不同的时间线中会有细微的变化。<LINE>漆黑战役的独特世界状态，战役设置在溪流和圣徒之间，以及圣徒之后的战役。<LINE>来自原版，倾盆大雨和mod社区的大量生物，有些生物支出现在某些战役中，有些需要进化系统。<LINE>一个广泛的的进化系统<LINE>怪猫线的广泛变化和热寂蛞蝓猫的兼容。<LINE>感谢bro回答了我所有的问题，SchuhBaum制作了这个mod曾经使用但是不再使用的插件，FlickerAway制作了区域艺术和Umbra用于该地区的一首未命名定制歌曲以及Joseph Nied制作歌曲"Hidden Life”。
 Hallowed Caves|神圣洞穴
 Hallowed Grotto|神圣石窟
 Hallowed Grotto (Depths)|神圣石窟（深处）
@@ -1187,21 +1231,28 @@ Big Pebbles likes ruins too|石老大哥也喜欢废墟
 Big Pebbles is not disuaded by water|石老大哥不会被水分解
 Assimilation|溶洞
 Primordial Assimilation|原始消化
+
 //3019770072
+coral.caves-description|一个色彩缤纷的水上主题新区域，拥有超过200个新屏幕。
 Coral Caves|珊瑚洞穴
 Turbulent Pump|紊流泵
 Deep Reef|深礁
 Bleached Grotto|苍白石窟
 Stagnant Pump|停滞泵
 Submerged Superstructure (Struts)|被浸没的巨构建筑（支柱）
+
 //3021911328
+musicalmiracle.wingcat-description|翼猫的新版本适配版本，是一个2018年过时的mod。新加一个长着翅膀的蛞蝓猫！兼容DMS。
 The Wingcat|翼猫
 Wingcat|翼猫
 WINGCAT|翼猫
 Born with a pair of glorious wings, adventure calls as you fly across the world with ease,<LINE>keeping out of harm's way. Exploration will be a breeze!|生有一对美丽的翅膀，冒险召唤着你，能够轻松飞越世界，<LINE>并远离可能的伤害。探索于你将是轻而易举的事！
+
 //3022284148
+hanging.gardens-description|一个高耸的温室结构的建筑，成为了许多外来生物的居所。
 Hanging Gardens|悬苑
 Enduring Sanctuary|永久保护区
+
 //3022636951
 //作者的拼写错误
 Aerrial Arrays|天线阵列
@@ -1209,8 +1260,10 @@ Aerial Arrays|天线阵列
 Scavenger City|拾荒者城市
 The Fallen Communication Array|陨落通信阵列
 The Spire|尖塔
+
 //3023731691
 Desperado|亡命之徒
+
 //3024646162
 pocky-raisin.theestranged-name|燃烧殆尽
 pocky-raisin.theestranged-description|与疏远一起进入一个充满好奇、冒险和爆炸的世界！
@@ -1239,19 +1292,25 @@ Slug Colony|蛞蝓集群
 Wet Maze|潮湿迷宫
 Cloudscraping Towers|云卷尖塔
 Urban Marsh|郊区湿地
+
 //3026723782
+far_shore-description|在五块卵石和仰望皓月之下坐落着一个等待被探索的遗忘土地。遥远海岸连接朝圣天路和地下。
 Lost Strand|失落河滨
 Far Shore|遥远海岸
 Woven Nest|盘丝洞
 Caldera|火山口
 Tidal Pools|潮汐岩池
 Void Vents|热流喷口
+
 //3031084852
+phace.impulse-description|增加了一个可玩的蛞蝓猫：天枢。
 The Impulse|天枢
 THE IMPULSE|天枢
 Impulse|天枢
 Able to teleport short distances by expending bursts of energy; <LINE> your electricity-infused body invites you to venture to where the walls glow...|能够通过消耗能量爆发进行短距离传送。<LINE>你充满电的身体邀请你冒险去墙壁发光的地方...
+
 //3032862920
+lurzard.pitchblack-description|增加了两个新的战役灯塔和电狂，爬行于一个垂死世界的夜晚。揭开这个世界隐藏的秘密，拼凑出支离破碎的故事。
 The Beacon|灯塔
 THE BEACON|灯塔
 Beacon|灯塔
@@ -1315,7 +1374,9 @@ gottem|傀儡
 Voided Subterranean|虚空地底
 Null|空无一物
 Event Horizon|事件穹界
+
 //3033569804
+Sewage_Water.thechampion-description|一个健壮的男孩。
 The Champion|英杰
 THE CHAMPION|英杰
 Champion|英杰
@@ -1323,22 +1384,31 @@ Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You 
 The Tower of Pains|苦痛之塔
 Ruinous Facility|废墟设施
 The Panopticon|圆形监狱
+
 //3033901237
 Underground City|地下城市
 Lightless Sewers|昏暗水道
+
 //3034151966
 //（由于该模组已内置翻译，此处删除）
+
 //3035584896
 expandedindustrial-name|工业区扩展
 expandedindustrial-description|工业区低处的一个小扩展。
+
 //3037783004
+neuronforest-description|沉没巨构之下隐藏着什么？
 Neuron Forest|神经元森林
+
 //3042385413
+stormy_coast-description|一个在海岸线南岸的港口区域，拥有超过两百屏幕大小。
 Sunlit Port|日照港湾
 Shrouded Coast|雾蔽海滨
 Desolate Port|荒凉港湾
 Stormy Coast|风暴海岸
-//3043034759
+
+//3393319993
+adventurer-description|这个模组不建议和其他区域模组一起启用，和其他区域模组可能不兼容！<LINE><LINE>此模组增加了两个新的蛞蝓猫，冒险家没有任何能力，但可以像饕餮一样吃东西，有背矛以及比普通的蛞蝓猫要快一点。另一个蛞蝓猫是陆战，它能在学校更好的屏住呼吸，能猛击和爬上瀑布。<LINE>这个模组并不完整，还有更多正在路上。
 The Adventurer|冒险家
 THE ADVENTURER|冒险家
 Adventurer|冒险家
@@ -1370,10 +1440,13 @@ Slug Home|蛞蝓之家
 Vacant Facility|空置设施
 Edge Of Adventure|冒险边缘
 Ruined Exterior|损毁外部
+
 //3046659892
+pu.theoutline-description|添加了外岸，一个连接着郊区和海岸线的长区域。这个区域在探索之外没什么可做的，不过可能在未来会添加内容。这个区域仍然未完成。
 The Outline|外岸
 The Overcast|荫蔽
 The Incinerator|焚化炉
+
 //3046862358
 The Dreamer|梦者
 THE DREAMER|梦者
@@ -1496,41 +1569,59 @@ Vents|管道
 Sewers|水道
 Cutscene|景致
 Bleached Crypts|褪色地穴
+
 //3047080571
+slime-cubed.sandeater-description|嗨！
 The Sand Eater|食沙者
 SAND EATER|食沙者
 Sand Eater|食沙者
 Hey.|你好。
+
 //3051215766
+limecultivist.testingsimulation-description|添加了一个名叫测试模拟器的区域来测试移动技术。<LINE><LINE>这个区域旨在游玩求生者，僧侣和猎手。
 Testing Simulation|测试模拟器
+
 //3055117086
 The Shrieker|尖啸
 THE SHRIEKER|尖啸
 Shrieker|尖啸
 A slugcat that uses its sonic abilities to survive.|一个利用声波能力生存的蛞蝓猫。
+
 //3058851317
+overgrownfacility-description|蜂鸣迷宫是一个连接着管道堆场和垃圾堆的小迷宫。
 Sizzling Sewers|蜂鸣水道
 Caustic Caverns|灼热迷宫
+
 //3062937590
 Kiki The Slugcat|奇奇
 The Kiki The Slugcat|奇奇
 KIKI THE SLUGCAT|奇奇
 Meet Kiki, a Vibrant Slugcat with a Stunning fur Coat of Flame-Like Orange, And brilliant white eyes.|认识奇奇，一个充满活力的蛞蝓猫，有着令人惊叹的橙色火焰皮毛和明亮的白色眼眸。
+
 //3064602186
+moon.spookcat-description|一个僵尸化的蛞蝓猫，把世界变成了一个黑暗且让人难以忘怀的噩梦。<LINE>你的饱食度会变成血条。
 The Spookcat|幽灵
 THE SPOOKCAT|幽灵
 Spookcat|幽灵
+
 //3068084165
+jam.moonlitacres-description|月光田地是一个是一个连接阴影城堡和农场阵列的黑暗喜庆区域，以一种新蜥蜴为特色。
 Sunlit Sanctuary|日光圣所
 Moonlit Acres|月光田地
+
 //3068986717
+andrew.theflamboyant-description|一只火红的蛞蝓猫，在白雪皑皑的荒原上竭力生存。
 The Flamboyant|焰火
 THE FLAMBOYANT|焰火
 Flamboyant|焰火
 A firey slugcat, far away from home in the snowy wastelands...|一只生于烈火的蛞蝓猫，在白雪皑皑的荒原上...
+
 //3073908797
+//备注-模组已下架，无法翻译简介
 Ventalation Ducts|通风管道
+
 //3075403759
+//备注-模组已下架，无法翻译简介
 The Entropy|热寂
 THE ENTROPY|热寂
 Entropy|热寂
@@ -1541,7 +1632,9 @@ Fridged Signal|霜冻标记
 Home|家
 Awful Place|可憎之地
 I don't want to be here|我不想呆在此处
+
 //3075897716
+//备注-模组已下架，无法翻译简介
 Deafening Silence|默神
 DEAFENING SILENCE|默神
 The Deafening Silence|默神
@@ -1554,28 +1647,42 @@ Bottleslug|瓶子
 The Bottleslug|瓶子
 BOTTLESLUG|瓶子
 Peaceful yet timid, causing extreme agility.|平和但胆小，导致极度敏捷。
+
 //3075938424
+andrewrooms-description|一堆我只是为了好玩做的房间，目前只能通过warp模组进入，你可以随便查看他们。
 Andrews Rooms|安德鲁房间群
 Storm Local Group|风暴本地群组
 FEAR Local Group|恐惧本地群组
+
 //3076010628
+turt.curiousascent-description|一条经过工业建筑的破旧山路。
 Curious Ascent|好奇之升
+
 //3077237509
+darkgran.karmaappetite-description|来认识探路者吧！这是一只机智的蛞蝓猫，有着基于业力的能力，能够制作工具，甚至能够传送，长按Q以创造，长按E和方向键来传送。
 The Pathfinder|探路者
 THE PATHFINDER|探路者
 Pathfinder|探路者
 A witty slugcat with a karma-based metabolism. Able to craft tools, and even make shortcuts of its own.<LINE>(Hold Q to craft. Hold E + direction to tunnel.)|一个机智的蛞蝓猫，有着基于业力的能力。能够制作工具，甚至可以传送。<LINE>（长按Q以创造，长按E和方向键以传送。）
+
 //3077239556
+darkgran.solemnquarry-description|欢迎来到庄严采石场，一个为业力食欲创造的小区域。<LINE>要与KA_IteratorKit一起使用（否则就会没有迭代器）。
 Solemn Quarry|庄严采石场
 Two Colors of Smoke|双色烟雾
+
 //3081464445
+tcan.SacredGarden-description|一个连接着郊区和阴影城堡的废弃农场。
 I don't even know the gimmick for this region|我甚至不知道这个区域的特色
 Sacred Garden|神圣花园
 Chilled Hydroponics|冰冻水培室
+
 //3083682990
+badlands-description|一片到处都是古代遗迹的荒凉土地。
 Archaic Tundra|古风苔原
 Badlands|恶地
+
 //3022693438
+OlderHunter-description|将猎手放到了时间轴中较早的位置，如果你认为猎手被倾盆大雨玷污了（像我一样）的话非常推荐！
 Acerbic Station|酸液垃圾场
 Deep Maw|深入腹地
 Sunken Vents|浸没管道
@@ -1585,7 +1692,9 @@ Silent Construct (The Husk)|无声构造（躯壳）
 Silent Construct (Dimmed Grotto)|无声构造（昏暗洞穴）
 Silent Construct (Five Pebbles)|无声构造（五卵石）
 Silent Construct (The Leg)|无声构造（支架）
+
 //3088328875
+verde.levelfixes-description|修复了房间设置方面的大多数错误，让僧侣战役中的难度曲线更加平滑，并且对一些配乐进行了更改。
 Sump Canal|集液导管
 Drizzled Shoreline|雨濛海岸
 Blue Precipice|蓝色峭壁
@@ -1605,13 +1714,17 @@ Silent Construct (The Husk)|无声构造（躯壳）
 Silent Construct (Dimmed Grotto)|无声构造（幽暗石窟）
 Rainy Outskirts|阴雨郊区
 Sullied Exterior|污染外缘
+
 //3089929720
+don.desertedwastelands-description|遗弃荒地是一片通往遥远东方的神秘荒漠，连接着五块卵石顶部和仰望皓月。这是雨世界最大的区域模组之一，拥有超过540屏的新增内容。
 Deserted Wastelands|遗弃荒地
 Hydration System|水合系统
 Hydration System (Collapsed Main Control Environment)|水合系统（损毁主控环境）
 The Edge|边境
 The Backwall|后墙
+
 //3091642153
+saltedsour.desiccation2-description|你想要更多的玩法拓展吗？更多的受苦？更多的蛞蝓猫？！？！那么这就是为你而做的DLC！<LINE><LINE><LINE>暴怒和牧师的特色就在于他们什么都不知道！
 The Priest|牧师
 THE PRIEST|牧师
 The Volatile|暴怒
@@ -1622,40 +1735,56 @@ drencher|暴雪不尽...
 The Varmint|淘气包
 THE VARMINT|淘气包
 An annoying little creature who likes stealing pearls.|一个喜欢偷珍珠的烦人小家伙。
+
 //3102368089
+//备注—已下架，暂无法翻译简介
 Breathes underwater, and requires a steady diet of meat to sustain itself.<LINE>Your electrical and vocal capabilities, though hazardous, will be necessary for your continued survival.|在水下呼吸，需要稳定的肉食来维持身体运行。<LINE>拥有致命的放电和发声能力，这是你生存所必需的。
 An aquatic hunter and electrical expert,<LINE>The Siren sets off into the unknown to test their mettle|一个水中猎手，电击大师，<LINE>塞壬潜入未知，以探寻他的毅力。
+
 //3103123670
+SideHouse-description|这是侧堂区域的1:1复制品，是第一个被发布的模组区域，主要由未使用的房间组成。这个版本与1.5版本的不同之处在于这个版本有烤制过房间，修复了一些损坏的生物刷新，并且删除了软锁，现在支持探险模式。如果你游玩溪流/圣徒，那么你无法使用五块卵石区域的业力门，但你可以使用倾盆大雨的蛞蝓猫。<LINE>新增一个链接海岸线，五块卵石和深处的全新区域。<LINE>合并了许多游戏中未使用的房间，包括一些自定义竞技场模式的可解锁地图。<LINE>这个模组为雨世界添加了一个全新区域，称为侧堂，连接海岸线，五块卵石和深处。<LINE?它也可以作为一个不那么繁琐的替代路径来给月姐递送神经元。该区域是游戏中许多最终没有在游戏中使用的地图文件的合集。<LINE>此区域还包括两个彩色珍珠，可以作为礼物送给仰望皓月。这些珍珠都是在这个区域中都有着独一无二的内容。紫色珍珠是平均难度，像绝大多数彩色珍珠一样。青色珍珠是为了追求挑战的玩家而准备的。<LINE>这个模组还附带了两个可以在竞技场/沙盒模式解锁的新地图。<LINE>这个模组由AndrewFM创建，由Mikronaut创作威胁音乐。
 Side House|侧堂
+
 //3107395198
+//备注-已下架，暂无法翻译简介
 The Hidden|隐匿者
 THE HIDDEN|隐匿者
 Hidden|隐匿者
 a slugpup that feeds on the corpeses of the lizards it kills.<LINE>FUCK YOU NO MERCY! NOONE CAN SAVE ME! NOT EVEN ARTIFICER OR RIVULET!!|一个吃蜥蜴为生的幼崽。
+
 //3110029849
+GBS.Clandestine-description|一个包含了叫做隐秘的新蛞蝓猫的模组；它是一个依靠潜行和智慧，而不是用蛮力解决问题的蛞蝓猫。依靠宽大的肉垫，它几乎可以躲避任何野兽。
 The Clandestine|隐秘
 THE CLANDESTINE|隐秘
 Clandestine|隐秘
 Stay quiet|嘘
+
 //3111174322
+//备注-已下架，暂无法翻译简介
 The thing|事物
 thing|事物
 Thing|事物
 THE THING|事物
 A quiet predator. sneak 100, litterally|一个安静的捕食者。
+
 //3111329162
+zeldak974.silkslug-description|向一款游戏致敬，一款让玩家永远幸运的游戏。
 THE SHAW|大黄蜂
 Shaw|大黄蜂
 The Shaw|大黄蜂
 A dream remains a dream if it never comes true.\nUnfortunately, your dream will never come true.\nSorry from Team Cherrybomb.|丝之鸽还是鸽了。
 Colosseum Rubicon|虚空万神殿
+
 //3120035228
+cloudtailmod-description|作为觅食者——一只饕餮的后裔，探索这片冰冻的荒原！
 The Forager|觅食者
 THE FORAGER|觅食者
 Forager|觅食者
 A glutton capable of impressive mobility. Pride and indignance bring you to these frozen lands,<LINE>but surviving this expedition will require wits, tenacity, and use of your many tactical advantages.|一个暴食者，行动能力惊人。骄傲与愤怒将你带到这寒霜之地，<LINE>但要想在这次探险中幸存下来，需要智慧、坚韧和利用你的诸多战术优势。
 Seeking to prove their worth and hone their skills,<LINE>the Forager sets out into the cold once more|为了证明自己的价值并磨练自己的技能，<LINE>觅食者再次进入严寒。
+
 //3122525868
+aqueducts-description|一个链接海岸线和天空群岛的巨大区域。建议使用猎手游玩，渡槽中的战斗是一项巨大挑战。
 Aqueducts|渡槽
 Oceanic Aqueduct|海洋渡槽
 Overgrown Aqueduct|繁盛渡槽
@@ -1664,7 +1793,9 @@ Storerooms|石屋
 Shell|外壳
 Rotten pipes|腐化管道
 WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|警告!毫无准备的下场是习乙为常(推荐使用猎手)
+
 //3124136312
+RW.JRoads-description|一个添加了三个全新战役的模组，改变了一些区域和怪猫恋爱模拟器的内容。
 Traveller|旅者
 TRAVELLER|旅者
 The Traveller|旅者
@@ -1690,14 +1821,20 @@ Heavenly Heights|天空高地
 Overgrown Heights|繁茂高地
 STOP FALLING DOWN|不再下落
 HELP ME THERES SO MANY DADDY LONG LEGS|救命全是蓝香菇
+
 //3140380309
+//没有modinfo，不翻译。
 Rotten City|腐化都市
 Twisted Tower|扭曲之塔
 Writhing Carpet|苦痛地表
 The Breach|裂隙 
-//3134933859
+
+//3221585921
+bio-description|嘿！生物工程中心重新上传了！现在它是一个功能齐全的新区域，有120多个屏幕。没有突然的死胡同，它完全兼容（也许）任何模组。<LINE>这仍然是我的第一个区域，所以请不要过于苛责它。希望你喜欢！:3<LINE>（推荐入口在郊区，现在连接到了SU_B08）
 Bioengineering Center|生物工程中心
+
 //3139436454
+nyctophobia-description|一个带来了3只拥有专属能力和隐秘非常隐秘的剧情的新蛞蝓猫的模组，让我看看你是否恐惧黑暗……
 Exile|流放者
 Night Walker|夜行客
 Witness|见证者
@@ -1719,13 +1856,19 @@ Eight Scarlet Pillars (Internal Structure)|赤色八柱（内部结构）
 Cold Urban|寒冷郊区
 Icy Garbage|冰雪废料
 The Bastion|堡垒
+
 //3147907848
+myr.moss_fields-description|探索一片远离已知领域的葱郁丛林。苔藓原野与遥远海岸相连。
 Moss Fields|苔藓原野
+
 //3156584472
+mojosoup.sloptown-description|增加了一个连接农场阵列和排水系统的潮湿区域。
 Purification Conduits|净化管道
 Sterile Waterworks|消毒水厂
 SLOPTOWN|滑坡镇
+
 //3160055604
+//备注-已下架，暂无法翻译简介
 pocky-raisin.disarray-name|混沌
 pocky-raisin.disarray-description
 The Defender|捍卫者
@@ -1740,13 +1883,18 @@ Game Over - Press SPACE to restart, or find a way to escape|游戏结束 - 按�
 Once prepared to pounce, hold DOWN to leap upwards.|准备好猛扑后，按住“下”以向上跳跃。
 Whilst clinging to a wall, press JUMP to push yourself upwards.|附着在墙壁上时，按下“跳跃”以将自己向上推进。
 WhiIst jumping, press GRAB to boost-flip.|跳跃时，按下“抓取”以推进空翻。
+
 //3162052689
+sov-description|这个模组可能充满各种问题，请随时在steam页面上向我报告任何错误！
 The Sovereign|君王
 THE SOVEREIGN|君王
 Sovereign|君王
 Small, fast, and fragile, The Sovereign searches for guidance in the darkness...|轻敏而脆弱，君王在黑暗中寻找指引...
+
 //3162153171
+//备注-已下架，暂无法翻译简介
 Forgotten Pathway|遗忘小径
+
 //3162697023
 The radiosphere|无线电层
 The pits |坑洞
@@ -1757,19 +1905,24 @@ Northern sealine|北海岸线
 Frosted Factory|寒霜工厂
 KELP ME|红树警告
 Overgrown Facility|繁茂设施
+
 //3166938192
+//备注-已下架？暂无法翻译简介
 Spore Factory|孢子工厂
 Grand Reservoir|恢弘水库
 East Garrison|东部要塞
 Hidden Excursion|幽匿之旅
 Over Underworld|黄泉之上
+
 //3176420236
 sp3.SL-LM-name|海岸线/仰望皓月扩展
 sp3.SL-LM-description|海岸线和海滨设施之间的拓展，以及从浸没巨构恢复仰望皓月的深处部分。
+
 //3176454319
 You shouldnt be here...|你不应该在此...
 Scaggytown|荒凉小镇
 Yeek Safe Space|呼号者安全区
+
 //3178516926
 SETTINGS|设定
 REGION FILTER|区域筛选器
@@ -2063,10 +2216,8 @@ Bubble Weaver|气泡编蛛
 Sapphiric Weaver|蓝宝石编蛛
 Fanged Lizard|毒牙蜥蜴
 Great Fanged Lizard|巨啃蜥蜴
-
 //3311812030
 //The M4rblelous Entity Pack
-lb-fgf-m4r-ik.modpack-description|简介：<LINE>一个用于支持其它模组的生物和物品包。
 //Thorny Strawberry
 It's a delicious fruit but remove the thorns before eating it.|这是一种美味的水果，但记得吃之前把刺去掉。
 //Blob Piece
@@ -3516,8 +3667,8 @@ WEConfig_Name_ChangeRipple|回响改变的最大/最小涟漪等级
 WEConfig_Desc_ChangeRipple|允许陀螺增加的最大和最小的涟漪等级。可以将涟漪设置到它可以达到的最大值。对原版探险中的回响无效。
 WEConfig_Name_KarmaFlower|全区域业力花
 WEConfig_Desc_KarmaFlower|允许业力花在每个观望者探险区域产生，作为观望者传送能力所需的重要物品。如果被禁用，它们仍然会产生在外缘，破碎露台，恶魔和腐化区域。
-WEConfig_Name_Unlock|强制解锁
-WEConfig_Desc_Unlock|不管是否完成观望者线，解锁观望者探险。
+WEConfig_Name_Unlock|解锁力量
+WEConfig_Desc_Unlock|不管是否完成战役，解锁观望者探险。
 WEConfig_Name_UnlockPerks|
 WEConfig_Desc_UnlockPerks|
  
@@ -3542,8 +3693,9 @@ WEConfig_Desc_RotWorld_Hunt|狩猎计入腐化区域内的敌人，例如长腿�
 WEConfig_Name_RotWorld_Shelter|腐化维度——庇护所
 WEConfig_Desc_RotWorld_Shelter|探险可以从腐化区域开始。你需要找到一个出口，然后传送你到一个随机的区域。永远不会到达外缘。
  
-WEConfig_Name_VanillaPassage|观望者线通行证
-WEConfig_Desc_VanillaPassage|在观望者线中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
+
+WEConfig_Name_VanillaPassage|观望者战役的段落
+WEConfig_Desc_VanillaPassage|在观望者战役中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
 WEConfig_Name_ColorFix|修复自定义颜色
 WEConfig_Desc_ColorFix|观望者拥有他自己的身体颜色覆盖和一部分黑色阴影，忽略自定义颜色，惬意合作的自定义合作以及他的默认设置为深蓝色。这使得拓展自定义和惬意合作的自定义颜色起效。
 WEConfig_Name_Sandbox|观望者沙盒
@@ -3554,7 +3706,7 @@ WEConfig_Name_STSpeak|陀螺对话
 WEConfig_Desc_STSpeak|允许陀螺对话，它将按照顺序选择对话。
 
 Info Dump|信息转存
-Dump a bunch of info|转存一些信息
+Dump a  bunch of info|转存一些信息
 
 WatcherExpeditions-description|在探险游戏模式中加入观望者，以及一些额外的增益，一个使命任务和一个新的挑战类型。<LINE>在竞技场模式中添加观望者。<LINE>在竞技场模式中添加观望者DLC生物。
 
@@ -3574,7 +3726,6 @@ The River|河流
 Dreamscape-description|此拓展包内含2个小区域，我做来测试观望者所有的新物品<LINE>注意！这些区域未投入过多精力制作！<LINE>此扩展是为观望者专属！<LINE>第一个区域的入口位于WTDB（凄凉地带）中
 
 //3480541871
-sss-description|简介：<LINE>这项工作仍在继续
 Six Strange Sights|六处奇景
 The Mossy Leg|苔痕支架
 Sun Soaked Exterior|浸日外缘
@@ -3593,14 +3744,12 @@ Functional Wing|运行侧翼
 Damaged sector|受损扇区
 
 //3488620216
-spire.awfulmaze-description|简介：<LINE>这个模组很差。
 The Labyrinth|迷宫
 Virgil's Vile Vmaze|维吉尔歪恶V迷宫
 Hidden Crevice|隐藏裂缝
 Our House, In The Middle Of Our House|我们的房子，在我们的房子中央
 
 //3488862857
-3ch0-1fy.thegalleryever-description|简介：<LINE>一个存放着我做的大部分画廊房间的区域，无论是否展示。请尽情欣赏。<LINE>注意：未来会陆续添加更多房间，所以请不时回来看看。谢谢 :]
 Echo's Rooms|Echo的画廊房间
 
 //3491839053

@@ -1,0 +1,32 @@
+SPECIAL : LOCKPATHS
+SPECIAL : GRAV
+WAIT : 5
+欢迎你，好奇的生灵!
+WAIT : 5
+哦！
+SPECIAL : TAKENEURON
+这是什么？
+WAIT : 5
+渣滓重置密钥！而且很多...
+谢谢你，小家伙，但我不需要它们！
+我认为这些不是给我的，但你的责任感令人钦佩。
+嗯...
+我已经很久没有和月姐联系了。或许发生了什么？
+她可能是你应该交付的人。我建议你在这里稍作休息，但是...
+SPECIAL : RELEASENEURON
+WAIT : 5
+不知你是否清楚，你的状态不太好？
+WAIT : 5
+令我印象深刻的是，你居然会抽出时间来看我。
+WAIT : 5
+这可能还不够，但我非常希望这能帮助你完成你的使命。
+SPECIAL : FOODMAX+KARMA10+CURE
+我希望我能做的更多，但我能力有限。
+WAIT : 5
+现在去吧，你可以使用通道到达我旁边建造的定居点。
+从那里开始，你将要走的路由你自己决定。
+留意你剩余的时间。
+WAIT : 5
+一路顺风。
+SPECIAL : PARTIALGRAV
+SPECIAL : UNLOCKPATHS

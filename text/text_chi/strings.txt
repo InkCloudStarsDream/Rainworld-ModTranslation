@@ -2095,7 +2095,7 @@ The Leg 2|支架2号
 //3232063592
 myr.chasing_wind-description|在苔藓原野的葱郁丛林之后矗立着一座被风暴笼罩的巨构建筑。
 Chasing Wind|追逐清风
-Chatoyant Waterfalls|辉映瀑流
+Chatoyant Waterfalls|猫眼石瀑布
 Chasing Wind (Main Processing Cortex)|追逐清风（基础处理皮层）
 Chasing Wind (Lymphatic Conduits)|追逐清风（淋巴导管）
 Chasing Wind (Memory Conflux)|追逐清风（记忆汇流）
@@ -2104,6 +2104,9 @@ Chasing Wind (Inner Wall)|追逐清风（内墙）
 Met Chasing Wind|见到追逐清风
 < Met Chasing Wind>|< 见到追逐清风>
 <Met Chasing Wind>|<见到追逐清风>
+<Brought the slag keys to Chasing Wind>|<将废渣秘钥带给追逐清风>
+< Brought the slag keys to Chasing Wind>|<将废渣秘钥带给追逐清风>
+Brought the slag keys to Chasing Wind|将废渣秘钥带给追逐清风
 The Anchor|支锚
 Luminous Cove|夜光海湾
 Derelict Rigs|弃置钻井
@@ -4691,6 +4694,7 @@ The Lost Tunnels|失落隧道
 thecusp-description|穿越东挡土墙的系列区域<LINE>共两个入口，烟囱天棚（推荐入口）和海岸线/海滨设施<LINE>目前仅包含一个区域，另外有两个区域正在建设中。
 The Cusp|边界地
 Pipe Wastes|管道废墟
+
 
 //3551973259
 puzzlemod2-description|区域拓展包，旨在向所有操作水平的玩家介绍雨世界的诸多小特性，<LINE>共计100+屏幕的6个解谜区域，30个可收集的彩色珍珠。<LINE>你能全收集吗？

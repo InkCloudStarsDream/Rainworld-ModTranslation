@@ -4684,8 +4684,36 @@ Summer Leditor Month|社区创作月（夏）
 slm1-description|由四种不同风格的子区域组成的展示区域，由雨世界mod社区成员精心制作。<LINE>此区域为夏季首个活动产物；由63个房间，5个庇护所和1个（非常垂直的）业力门组成！！
 
 //3550532566
+thelosttunnels-description|在一处阴暗的遗忘之地，有生灵寻得了新家园。
 The Lost Tunnels|失落隧道
 
 //3548861158
+thecusp-description|穿越东挡土墙的系列区域<LINE>共两个入口，烟囱天棚（推荐入口）和海岸线/海滨设施<LINE>目前仅包含一个区域，另外有两个区域正在建设中。
 The Cusp|边界地
 Pipe Wastes|管道废墟
+
+//3551973259
+puzzlemod2-description|区域拓展包，旨在向所有操作水平的玩家介绍雨世界的诸多小特性，<LINE>共计100+屏幕的6个解谜区域，30个可收集的彩色珍珠。<LINE>你能全收集吗？
+Algae Vats|藻池
+Pearlescent Chambers|珠光庭
+Desolate Dunes|荒芜沙丘
+The Fulcrum|中心区域
+Icebreaker|除冰区
+Cryptic Superstructure|隐秘巨构
+Vibrant Shores|生机海岸
+Only one portal can be entered each cycle|每个循环只能使用裂隙一次
+
+//3506484641
+dietpebsi.thecity-description|一座遗弃许久的城市，但仍由它的迭代器维护着。这里不值得纪念，但广播记录到处都是。推荐使用The Paddle（译者注：同作者mod猫)游玩，但不是必需。<LINE><LINE>特性：一个回响，4个广播，以及相当多描述剧情的房间。首个区域入口在OE_RAIL06（外层空间/外部旷野）。尚未完全做完，但以及完成了大部分。这是我做的头两个区域，所以请原谅游玩过程中的部分可能的BUG！<LINE><LINE>未完成部分：The Paddle新结局，新迭代器，一些新生物，自定义音乐，新珍珠以及更多的房间。<LINE><LINE>已知问题：不使用The Paddle会导致部分监视者颜色错误。僧侣线或者其他蛞蝓猫游玩时房间烤制可能有点问题？我不确定，游玩遇到问题请第一时间通知我！<LINE><LINE>美术由peter klaus[/url]提供！！[url=https://steamcommunity.com/id/impeterklaus/]
+The Climb|攀升处
+The City|都市
+District 5|第五区
+Embassy|大使馆
+
+//3540673086
+dietpebsi.oilrig-description|未完成
+Oil Extraction Rig|钻井平台
+Oil Refinery|炼油厂
+Observatory|气象台
+Pump System|泵站
+Union Remnant|残损工会

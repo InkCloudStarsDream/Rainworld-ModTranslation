@@ -4713,6 +4713,7 @@ The Climb|攀升处
 The City|都市
 District 5|第五区
 Embassy|大使馆
+Department of Love|真爱部
 
 //3540673086
 dietpebsi.oilrig-description|未完成

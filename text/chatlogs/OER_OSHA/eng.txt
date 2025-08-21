@@ -1,0 +1,15 @@
+<#7FB4DF>[INTERNATIONAL HEALTH AND SAFETY ADMINISTRATION]
+<#7FB4DF>We have come to the knowledge that your workspace violates several international conventions,<LINE> such as a lack of safe movement between work areas,<LINE> improperly maintained safety tools, and the intentional avoidance of common sign use.
+<#7FB4DF>For this reason, we will be confiscating your license and investigating the workplace further, seeing that over fourteen hundred cycles this has been an issue.
+<#7FB4DF>Mild Safety Violations: 581
+<#7FB4DF>Moderate Safety Violations: 362
+<#7FB4DF>Severe Safety Violations: 183
+<#7FB4DF>Total Violations: 1126
+---------
+<#7FB4DF>Mild Incidents: 984
+<#7FB4DF>Moderate Incidents: 643
+<#7FB4DF>Severe Incidents: 491
+<#7FB4DF>Occupational Casualties: 351
+<#7FB4DF>Total Recorded Incidents: 2469
+--------
+(The rest is unreadable.)

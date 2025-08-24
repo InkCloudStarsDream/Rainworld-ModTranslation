@@ -4722,3 +4722,7 @@ Oil Refinery|炼油厂
 Observatory|气象台
 Pump System|泵站
 Union Remnant|残损工会
+
+//3554574150
+dietpebsi.intercitystation-description|未完成
+Intercity Station|城际枢纽

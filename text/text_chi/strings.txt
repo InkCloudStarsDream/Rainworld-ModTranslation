@@ -4726,3 +4726,35 @@ Union Remnant|残损工会
 //3554574150
 dietpebsi.intercitystation-description|未完成
 Intercity Station|城际枢纽
+
+//3486604086
+rwhk-description|试图把圣巢搬进雨世界。
+Ancient Basin|古老盆地
+Palace Grounds|宫殿广场
+The Abyss
+City of Tears|泪水之城
+Soul Sanctum|灵魂圣所
+Pleasure House|欢乐之屋
+Watcher's Spire|守望者的尖塔
+Royal Waterways|皇家水道
+Junk Pit|垃圾坑
+Isma's Grove|伊思玛的树林
+Crystal Peak|水晶山峰
+Resting Grounds|安息之地
+Forgotten Crossroads|遗忘十字路
+Dirtmouth|德特茅斯
+Temple of the Black Egg|黑卵圣殿
+Howling Cliffs|呼啸悬崖
+The Blue Lake|蓝湖
+Deepnest|深邃巢穴
+Failed Tramway|废弃电车轨道
+Distant Village|遥远的村庄
+Kingdom's Edge|王国边缘
+Tower of Love|爱之塔
+The Hive|蜂巢
+Fungal Wastes|真菌荒地
+Fungal Core|真菌核心
+Mantis Village|螳螂村
+Fog Canyon|雾之峡谷
+Teacher's Archives|教师档案馆
+Greenpath|苍绿之径

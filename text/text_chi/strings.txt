@@ -4714,6 +4714,7 @@ The City|都市
 District 5|第五区
 Embassy|大使馆
 Department of Love|真爱部
+Leave|离开
 
 //3540673086
 dietpebsi.oilrig-description|未完成
@@ -4758,3 +4759,8 @@ Mantis Village|螳螂村
 Fog Canyon|雾之峡谷
 Teacher's Archives|教师档案馆
 Greenpath|苍绿之径
+
+//3555940125
+erodedrefinery-description|一座废弃的盐水提取设施的残骸，随着更宏伟的基础设施的建成而日渐腐朽。<LINE>位于通讯塔（THE Mast)杂草丛生的沼地、呼啸裂谷（Howling Rift）的险恶悬崖和工业区的庞大设施之间。
+Eroded Refinery|蚀朽炼厂
+Rusted Digger|挖机锈骸

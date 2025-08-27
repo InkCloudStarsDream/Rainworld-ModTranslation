@@ -2318,6 +2318,19 @@ Their morphology, in addition to being more imposing,<LINE>uses vastly more comp
 Although, the gesture is appreciated...|尽管如此，还是感谢你……
 //Mini Blue Fruit
 It's a fragile little chrysalis.<LINE>Eat it quickly please, I find this kind of thing quite disgusting.|这是个小的脆弱的蛹。<LINE>请快点把它吃掉吧，我觉得这种东西很恶心。
+//Fume Fruit
+Fascinating.<LINE>This fruit seems to be filled to the brim with some kind of dense gas.|真令人着迷。这种果实内部似乎充斥着某种高压气体。
+A quick scan reveals some seeds hidden within.<LINE>Perhaps the gas acts as a long-distance carrier?|快速扫描后发现内部隐藏着一些种子。<LINE>或许这些气体是用作长途运输的保护气的？
+Either way, you should be careful handling this.<LINE>It looks like it could burst at any second,<LINE>and I imagine the gas inside wouldn’t be very pleasant|总之，你要小心处理。看上去它随时都可能爆炸，<LINE>而且我不觉得里面的气体会有多好闻！
+Fascinating.<LINE>This fruit seems to be filled to the brim with some kind of dense gas.<LINE>Perhaps a defense mechanism of some kind?|真令人着迷。这种果实内部似乎充斥着某种高压气体。<LINE>也许是一种防御机制？
+You should be careful handling this.<LINE>It looks like it could burst at any second,<LINE>and I imagine the gas inside wouldn’t be very pleasant!|你要小心处理。看上去它随时都可能爆炸，<LINE>而且我不觉得里面的气体会有多好闻！
+//Durian
+What an interesting find!<LINE>This fruit is not only sharp on the outside, but awfully smelly on the inside,<LINE>judging by its already pungent odor...|多么有趣的发现！<LINE>这种水果不仅外壳尖锐，里面闻起来还很臭。<LINE>就算还没打开它的气味也够刺鼻了...
+While I wouldn't think it pleasant to eat, it might have some use as a deterrent.|虽然我不认为这个能吃，但说不定有一些震慑作用。
+//DarkGrub
+It seems like some kind of... grub?<LINE>The glowing would suggest that it's well adapted to dark environments.|这是某种...射线虫吗？<LINE>发光能力表明其很好地适应了黑暗环境。
+//ScavengerRagMask
+I honestly can't tell what this is. It's light but strong... appears to be some composite material interwoven with bone.<LINE>It seems to have been altered from its original form and decorated with textile fibers.|我真的不清楚这是什么。它很轻但很坚固...看起来像是某种复合材料和骨头交织在一起。<LINE>它似乎被有意改变了形状，并用纺织纤维装饰。
 //Red Horror Centi
 Oh, that is not a friend...|哦，那可不是朋友……
 //Fat Fire Fly
@@ -4764,3 +4777,4 @@ Greenpath|苍绿之径
 erodedrefinery-description|一座废弃的盐水提取设施的残骸，随着更宏伟的基础设施的建成而日渐腐朽。<LINE>位于通讯塔（THE Mast)杂草丛生的沼地、呼啸裂谷（Howling Rift）的险恶悬崖和工业区的庞大设施之间。
 Eroded Refinery|蚀朽炼厂
 Rusted Digger|挖机锈骸
+

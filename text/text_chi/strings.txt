@@ -1,5 +1,5 @@
 0Dreamstars.ModTranslation-name|模组翻译
-Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
+Dreamstars.ModTranslation-description|本模组用于翻译其他模组的文本。<LINE>翻译范围: 区域,蛞蝓猫,珍珠,对话,挑战或使命,开发者评论<LINE><LINE>本模组目前支持简体中文和西班牙语，<LINE>如果你想协助我们进行翻译或做出建议，<LINE>请在QQ群内联系我们:@墨色烟云,@实验喵 QQ群号：690841592（欢迎加入以反馈意见）<LINE><LINE>或在Discord上联系我:@MoseYanyun<LINE><LINE>本模组的非steam安装在这里：https://github.com/InkCloudStarsDream/Rainworld-ModTranslation<LINE><LINE>贡献者：@墨色烟云，@实验喵，@Celen，@方糖冰猫，@zbiotr，@该隐的世界碎片集，@正切茶
 //moreslugcat
 we forgot to render this one sorry|我们忘记渲染了骚瑞
 Painage System|受苦系统
@@ -4777,4 +4777,5 @@ Greenpath|苍绿之径
 erodedrefinery-description|一座废弃的盐水提取设施的残骸，随着更宏伟的基础设施的建成而日渐腐朽。<LINE>位于通讯塔（THE Mast)杂草丛生的沼地、呼啸裂谷（Howling Rift）的险恶悬崖和工业区的庞大设施之间。
 Eroded Refinery|蚀朽炼厂
 Rusted Digger|挖机锈骸
+
 

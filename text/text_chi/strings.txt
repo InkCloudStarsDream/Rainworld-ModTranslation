@@ -1,5 +1,5 @@
 0Dreamstars.ModTranslation-name|模组翻译
-Dreamstars.ModTranslation-description|本模组用于翻译其他模组的文本。<LINE>翻译范围: 区域,蛞蝓猫,珍珠,对话,挑战或使命,开发者评论<LINE><LINE>本模组目前支持简体中文和西班牙语，<LINE>如果你想协助我们进行翻译或做出建议，<LINE>请在QQ群内联系我们:@墨色烟云,@实验喵 QQ群号：690841592（欢迎加入以反馈意见）<LINE><LINE>或在Discord上联系我:@MoseYanyun<LINE><LINE>本模组的非steam安装在这里：https://github.com/InkCloudStarsDream/Rainworld-ModTranslation<LINE><LINE>贡献者：@墨色烟云，@实验喵，@Celen，@方糖冰猫，@zbiotr，@该隐的世界碎片集，@正切茶
+Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
 //moreslugcat
 we forgot to render this one sorry|我们忘记渲染了骚瑞
 Painage System|受苦系统
@@ -4778,4 +4778,15 @@ erodedrefinery-description|一座废弃的盐水提取设施的残骸，随着�
 Eroded Refinery|蚀朽炼厂
 Rusted Digger|挖机锈骸
 
-
+//3504376213
+The Parasite|寄生虫
+A strange being with an unusual disposition, corrupted by the desire for power.<LINE>The manifestation of an instinct destined to serve an undying problem.|一个性格怪异的奇特存在，被对力量的渴望侵蚀。<LINE>表现的本能注定要成为一个永恒的问题。
+The Scavenger|拾荒者
+THE SCAVENGER|拾荒者
+A born outcast, shunned out of its tribe for reasons it couldn't understand.<LINE>Yet, it bore the symbol of a new era for its species.|天生的异类，因为不明缘由被族群驱逐。<LINE>然而它却承载着其物种走入新时代的象征。
+The Rot|腐化
+THE ROT|腐化
+An experiment turned disease, its undying hunger sacrificed for sentience. Find purpose<LINE>in a world unforgiving to those who lack direction, or reclaim the divinity you failed to achieve.|一场变为疾病的实验，它为了感知牺牲了自己永恒的饥饿。寻找目标<LINE>在一个对没有目标的人毫不留情的世界，或者找回你未能实现的神性。
+The Artificial|人造物
+THE ARTIFICIAL|人造物
+A broken cog far from its machine, mislead by daunting freedom that was always present.<LINE>Lead a futile and perilous journey, all to escape the far reaching hands of your creator.|一个远离机器的破损齿轮，被一直存在的令人生畏的自由所误导。<LINE>踏上一场徒劳又危险的旅程，只为逃离造物主那无所不能的掌控。

@@ -1,5 +1,5 @@
 0Dreamstars.ModTranslation-name|模组翻译
-Dreamstars.ModTranslation-description|这是一个用于翻译其他模组的模组。<LINE>为防止冲突，建议在模组列表中将模组置顶。
+Dreamstars.ModTranslation-description|本模组用于翻译其他模组的文本。<LINE>翻译范围: 区域,蛞蝓猫,珍珠,对话,挑战或使命,开发者评论<LINE><LINE>本模组目前支持简体中文和西班牙语，<LINE>如果你想协助我们进行翻译或做出建议，<LINE>请在QQ群内联系我们:@墨色烟云,@实验喵 QQ群号：690841592（欢迎加入以反馈意见）<LINE><LINE>或在Discord上联系我:@MoseYanyun<LINE><LINE>本模组的非steam安装在这里：https://github.com/InkCloudStarsDream/Rainworld-ModTranslation<LINE><LINE>贡献者：@墨色烟云，@实验喵，@Celen，@方糖冰猫，@zbiotr，@该隐的世界碎片集，@正切茶
 //moreslugcat
 we forgot to render this one sorry|我们忘记渲染了骚瑞
 Painage System|受苦系统
@@ -4790,3 +4790,4 @@ An experiment turned disease, its undying hunger sacrificed for sentience. Find 
 The Artificial|人造物
 THE ARTIFICIAL|人造物
 A broken cog far from its machine, mislead by daunting freedom that was always present.<LINE>Lead a futile and perilous journey, all to escape the far reaching hands of your creator.|一个远离机器的破损齿轮，被一直存在的令人生畏的自由所误导。<LINE>踏上一场徒劳又危险的旅程，只为逃离造物主那无所不能的掌控。
+

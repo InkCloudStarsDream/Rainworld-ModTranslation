@@ -4866,4 +4866,78 @@ Oh, wait... It appears theres a new entry. It looks like it's been highlighted, 
 It seems to describe a small bipedal creature. A type of rodent, more specifically.<LINE>There are also notes attached, mainly indicating its ability to form large communities, and also its intelligence..|它似乎描述了一种小型两足动物。确切点来说，是一种啮齿类动物。<LINE>这里还有附注，主要说明了它形成了大型群体的能力，以及它的智力……
 I think I've seen this creature pass by here before, actually. My memory is a bit... faded,<LINE>though. I'm not sure how long its been since one had visited..|我觉得我以前见过这个生物从这里路过。我的记忆有点……褪色，<LINE>我不知道有多久没有人来过了……
 This entry also looks like its referencing many of the others, with small slices<LINE>of its genome being filled in with the genomes of other entries.|这个条目看起来像是引用了许多其他条目，<LINE>其基因组的小切片被其他条目的基因组填充了。
+
 I'm not sure what you're attempting to do with this, but thank you for showing me.<LINE>It's been so long since I've read a large database like this before, let alone a recently made one.|我不知道你想用这个做什么，但感谢你给我看这个。我已经很久没有读过像这样的大型数据库了，更不用说是最近新建的了。
+
+//2920439125
+Health Bars
+healthbars-description|为所有拥有血量的生物增加血条！
+
+//3008864244
+Mouse Drag
+maxi-mol.mousedrag-description|允许在所有游戏模式中编辑游戏内对象的鼠标指针工具。
+
+//2920903670
+BeastMaster
+fyre.BeastMaster-description|允许在所有游戏模式中随意生成物品或生物，包括剧情模式与竞技场模式在内。
+
+//2921604521
+Candy Cane Spears
+lb-fgf-m4r-ik.candy-cane-spears-description|将长矛的外观替换为拐杖糖。
+
+//2927834484
+HP Bar
+hpbar-description|将饱食度转变为血条。<LINE>受到伤害时不再会死亡，而是失去一格饱食度。<LINE>此外，您还可以通过发送垃圾邮件或奋力挣扎摆脱抓取。
+Overview|概览
+Live a little longer|活着
+Struggle Limit|挣扎上限
+Changes number of inputs needed to struggle free.|调整挣脱所需数值
+Stagger|踉跄
+After being speared, the player will occationally stagger.|中矛后，玩家偶尔会踉跄。
+Stun|晕厥
+Disable to prevent being stunned by damage|禁用受击后晕厥
+Damage from Violence|受击伤害
+Changes damage taken from violence (spears will do 1 more than this, bombs may do a multiplier of this, but are unpredictable)|调整受到伤害需抵扣的饱食度（矛击将多扣除1点饱食度，炸弹伤害会在此基础上倍增，但不可预测）
+Bite Toggle|撕咬
+Enable Bite|启用撕咬
+Keybind Bite|撕咬键
+Spit|喷吐
+Enable Spit|启用喷吐
+Keybind Spit|喷吐键
+Aim spit to cursor?|是否使用鼠标指针瞄准？
+Climb Toggle|攀爬
+Enable Wall Climbing|启用攀爬
+Pyro Jump Toggle|爆炸跳
+Enable Pyro Jump for everyone|启用爆炸跳（所有蛞蝓猫可用）
+
+//3008821321
+Inventory
+leemoriya.inventory-description|可自定义背包，按住地图键开启。<LINE>使用方向键检索，跳跃键存入\取出，按拾取键切换回地图。
+INV: Attempted to store invalid object:|背包：试图存储无效对象：
+RotundWorld SeedCobs break Inventory, sorry... you can't store this!|胖世界的整根爆米花会损坏背包，抱歉...你不能把这个塞进背包里！
+INV: Item has no Abstract version|背包：该物品无Abstract版本
+Set a custom color for the inventory cursor|自定义背包框架配色
+Inventory Size|背包大小
+Default|默认
+Select slugcats with existing inventories to resize them|选择已使用背包的蛞蝓猫以调整大小
+Cannot make inventory smaller than number of items stored!|背包空间不得少于已存储物品的格数！
+Additional Settings|其他设置
+Hover over each option for more information|将鼠标指针悬停在选项上以查看更多信息
+Allows you to store any creature, living or dead that Slugcat can grab|允许储存生物，无论是死是活，只要蛞蝓猫能抓取即可储存
+Creature Storage|生物储存
+Allows you to store Karma Flowers in the inventory - extremely unbalanced|允许储存业力花——非常破坏游戏平衡
+Karma Flower Storage|业力花储存
+Slows down time when the inventory is open|开启背包时进入子弹时间
+Slow Motion Inventory|缓时背包
+Changes the color of the inventory cursor to a rainbow - this setting overrides custom cursor color|将背包框架颜色变为炫彩——此设置将覆盖自定义配色
+Rainbow Cursor|炫彩框架
+Pick a custom cursor color|设置自定义配色
+Custom inventory keybinds for players 1-4|自定义玩家1-4的背包键
+Set a custom keybind to open the inventory for Player 1, defaults to MAP if nothing is assigned|自定义玩家1背包开启键，若未设置则默认为地图键
+Set a custom keybind to open the inventory for Player 2, defaults to MAP if nothing is assigned|自定义玩家2背包开启键，若未设置则默认为地图键
+Set a custom keybind to open the inventory for Player 3, defaults to MAP if nothing is assigned|自定义玩家3背包开启键，若未设置则默认为地图键
+Set a custom keybind to open the inventory for Player 4, defaults to MAP if nothing is assigned|自定义玩家4背包开启键，若未设置则默认为地图键
+
+//2920446893
+Warp Menu
+warp-description|通过暂停界面快速传送至新区域的房间的菜单程序。

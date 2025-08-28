@@ -4784,10 +4784,86 @@ A strange being with an unusual disposition, corrupted by the desire for power.<
 The Scavenger|拾荒者
 THE SCAVENGER|拾荒者
 A born outcast, shunned out of its tribe for reasons it couldn't understand.<LINE>Yet, it bore the symbol of a new era for its species.|天生的异类，因为不明缘由被族群驱逐。<LINE>然而它却承载着其物种走入新时代的象征。
-The Rot|腐化
 THE ROT|腐化
 An experiment turned disease, its undying hunger sacrificed for sentience. Find purpose<LINE>in a world unforgiving to those who lack direction, or reclaim the divinity you failed to achieve.|一场变为疾病的实验，它为了感知牺牲了自己永恒的饥饿。寻找目标<LINE>在一个对没有目标的人毫不留情的世界，或者找回你未能实现的神性。
+Press Jump while holding any movement keybind to extend a tentacle, and Throw to retract them. Only 4 can be active at a time|按住任意移动键时，按下跳跃键可以伸出触手，按下投掷键可以缩回触手，一次最多能激活四个触手。
+While holding Pickup, press any movement keybind to extend a prehensile tentacle|当按住拾取键时，按下任意移动键来伸展可抓握的触手。
+Your core is fragile. Hold Map to create a new cyst, but at the cost of foodpips|你的核心十分脆弱。按下地图键消耗饱食度生成新的囊肿。
+These cysts can serve as protection, covering your core. However, they can significantly affect your mobility|这些囊肿可以作为保护层覆盖你的核心，但是它们会严重影响你的行动能力。
+Holding Pickup while creating a cyst will make it larger, consuming double the food.|形成囊肿的同时按下拾取键会使囊肿变大，并且消耗双倍的饱食度。
+Pressing Map while holding certain objects near your body will make it absorb the object, mimicking some of its properties|在你的身体靠近某个物品时按下地图键便会吸收这个物品，模仿它的一些属性。
+With active mimicry, hold any movement keybind and press|主动模仿时，按下移动键并且按下
+ to activate a cyst closest to your movement direction|以激活最接近您移动方向的囊肿
 The Artificial|人造物
 THE ARTIFICIAL|人造物
 A broken cog far from its machine, mislead by daunting freedom that was always present.<LINE>Lead a futile and perilous journey, all to escape the far reaching hands of your creator.|一个远离机器的破损齿轮，被一直存在的令人生畏的自由所误导。<LINE>踏上一场徒劳又危险的旅程，只为逃离造物主那无所不能的掌控。
-
+You.|你。
+Grand Achievements. Why are you here?|伟大成就。你为什么在这里？
+I have nothing left. Nothing that you don't have. Absolutely nothing.|我什么都没有了。我没什么你想要的东西，完全没有。
+You were one of the few I could gain even a small amount of advice from with my work.<LINE>Yet, only now do you decide to even be concerned about my predicament?|你是少数我能从中获得哪怕一点点工作建议的人之一。<LINE>然而，直到现在你才决定关心我的困境？
+After everything I've been through, only now do you have something to say?<LINE>When I'm at the edge of collapsing from my own failures!?|在我经历了这么多之后，你现在才有话要说？<LINE>在我因为自己的失败濒临崩溃的时候？！
+I doubt you can even hear me. Not through any of your overseers, at least.|我怀疑你听不到我说的话。至少你的监视者听不到。
+...As for your little pawn..|……至于你的小信使……
+It seems his design philosophy has never changed, after all this time. You're stuck in a repeating pattern,<LINE>little abomination. and I'm certain you are well aware of it by now.|这么久以来，他的设计理念似乎从未改变过。你陷入了一个重复的状态，<LINE>小讨厌东西。我相信你现在已经很清楚了。
+You're likely in a great amount of pain, aren't you? There isn't anything that I can do to help you. Not even myself...|你也许很疼，对吧？我帮不了你什么忙。甚至连我自己……
+However.. there is one way I know of, that doesn't require my help. Head west from here,<LINE>past the farm arrays and deep underground, where the land fissures.|不过……我知道有一条路，不需要我的帮助。从这里向西走，经过农场阵列，于大地裂口处深入地下。
+There you can find an old place you can rest in... Far away from Grand Achievements.<LINE>If you wish to follow this advice, then go ahead. That is, if you want an escape from it all.|在那里你可以找到一个可以休息的老地方……远离伟大成就。<LINE>如果你想要采纳这个建议，那么就走吧。也就是说，如果你想逃离这一切的话。
+If you don't, then so be it. I have nothing else to say to you and your creator.|如果你不想，那么就顺其自然吧。我对你和你的创造者没什么可说的了。
+I don't understand. Why are you here again?|我不懂。你怎么又回来了？
+Just leave. I have no more words to say to you.|离开。我对你无话可说了。
+You again.|你又来了。
+...Stay if you want, then. There is not much I can do to get rid of you, even if I wanted.|……你想留下就留下吧。即使我想要摆脱你，我也无能为力。
+Your visits are becoming awfully frequent.|你的来访越来越频繁了。
+I don't mind it at this point. The overseer following you, however...|我并不介意这一点。监视者跟着你，但是……
+Leave, if you have even a shred of desire to live.<LINE>It is none of my concern, but still.|离开，如果你还有一丝活下去的欲望。这与我无关，但我还是要说。
+Why hello again.|又来了。
+Again?|又一次？
+You.|你。
+So you've arrived.|你来了。
+It was only a matter of time. My overseers have been pestering me quite a bit about your movements.<LINE>A cyst that lost its malignance... An extremely unlikely occurrence, even as some form of mutation.|这只是时间问题。我的监视者一直缠着我汇报你的行踪。<LINE>囊肿失去了它的劣根性……一种极其不可能发生的事情，就算是某种形式的突变。
+As you can already tell from some of the memories you inherited, I am your creator. Your god, so to speak.|正如你从继承的记忆中能够猜想到的那样，我是你的创造者。可以说是你的神明。
+You were merely a byproduct of an experiment that I had some... difficulties with.<LINE>The result of a failure, in better terms.|你是我在一次实验中遇到一些……困难时的副产物。<LINE>失败的产物，这样形容更好。
+You are stuck in a cycle, little one. A repeating pattern. Though, it seems you don't exactly want a way out.<LINE>Your thoughts suggest that you're more fixated on something else.|你被困在一个循环里，小东西。一个重复的状态。不过，你似乎并不想找到出路。你的思想表明你在专注于其他事情。
+An unusual frustration is etched into each cell in your mass... Difficult to read, yet easily distinguishable.|一种不同寻常的挫败感被刻入你体内的每一个细胞……很难理解，但很容易区分。
+A sense of purpose filled with only the lack of it. An unpleasant feeling... One I can somewhat relate with, I suppose.|一种充满着目的感但是又缺乏目的的感觉。一种不愉快的感觉……我想我对此有所共鸣。
+Unfortunately, there is nothing I can do to help you, as much as I can't help myself.<LINE>All I can offer you are consolations to your particular situation.|不幸的是，我对你无能为力，就像我救不了我自己一样。<LINE>我能提供给你的只有针对你这种处境的安慰。
+As much as it somewhat pleases me to see your taste for your own kind,<LINE>the same cannot be said about you consuming my neurons and inspectors.|看到你对同类的喜好，我多少还是有些欣慰的，但你吃我的神经元和监察者的行为就另当别论了。
+It is best you leave, at this point. I'm sure you understand. After all, your intelligence is quite high, even for a cyst.|此刻你最好离开。我相信你能理解。毕竟你的智商非常高，尽管你只是一个肿瘤。
+I do hope you find something to do, in the end.<LINE>However, I must resume my work. Please take the access shaft on your way out.|我真心希望你最终能找到一点事做。不过，我得回去工作了。出去时请走管道。
+Ah, hello <PlayerName>. It has been some time since I had visitors.|啊，你好，<PlayerName>。我已经有一段时间没见到访客了。
+How unusual.. You appear to be some form of lizard species.<LINE>They don't tend to come here often on their own.|多不寻常……你看起来像是某种蜥蜴。<LINE>他们不常独自来这里。
+Not only that, your head has been replaced by a large metal jaw<LINE>similarly to the aquatic organisms my structure produces.|不仅如此，你的头部被一个巨大的金属颚代替，就像我结构中增生的水生生物一样。
+A messenger, I assume? Your design seems quite... Peculiar, for a messenger.<LINE>You seem more fit for hunting than long distance travel...|我猜你是信使吧？你的设计看起来很……对于一个信使来说很奇怪。<LINE>比起长途旅行，你似乎更适合狩猎……
+Your modifications don't hurt, do they? Unfortunately, even<LINE>then, I am unable to help you in a meaningful way.|你的改造没什么坏处，对吧？不幸的是，即时那时<LINE>我也无法以任何有意义的方式帮助你。
+As you can see, there isn't much you can find here. My ability to operate<LINE>my structure is rather limited, since it was restored only recently.|正如你所见，你在这里什么都找不到的。<LINE>我控制我巨构的能力相当有限，毕竟它是最近才恢复的。
+In any case, feel free to stay as long as you'd like. The rain<LINE>has been subsiding for some time, so there shouldn't be much to worry about.|无论如何，你想待多久就待多久吧。<LINE>雨已经停了一段时间了，所以你不用太担心。
+Oh, hello again.|哦，又见面了。
+I'm curious as to what iterator you belong to? It couldn't have been Five Pebbles,<LINE>as his design philosophy doesn't exactly match with your appearance.|我很好奇你属于哪个迭代器？不可能是五块卵石，因为他的设计理念和你的外表完全不匹配。
+I am not certain of the mission you are likely following, but you are welcome to stay as long as you need.|我不知道你可能会执行什么任务，但欢迎你在这里想待多久就待多久。
+Oh.|哦。
+Um...|额……
+How strange.. My words seem to be coming through.|好奇怪……我的话似乎被理解了。
+Can it... hear me?|它可以……听懂我？
+You must be from Five Pebbles, I assume..? It is my first time seeing something like you in person...|我猜你应该是来自五块卵石？这是我第一次见到像你一样的存在……
+I can almost see your thought processes occurring in real time if I look closely into your body...<LINE>It's a strange feeling. It's as if I'm looking into the inner workings of my structure..|如果我仔细观察你的身体，我几乎可以看到你实时产生的思维过程……<LINE>这是一种奇怪的感觉。就好像我在观察我巨构内部的运作一样。
+Unfortunately, there is.. not much you can find here, little... thing? I am not sure what to call you.|不幸的是，这里……你找不到什么的，小……生灵？我不知道该怎么称呼你。
+Feel free to stay if you wish. Do be mindful of the rain.|如果你愿意，可以随意留下。一定要注意下雨。
+Oh. Hello again, little thing.|哦，又见面了，小生灵。
+It is still a bit strange, seeing your form.. I'm not too familiar with seeing organisms like you enter here.|看你的样子我还是觉得有点奇怪。我不太习惯像你这样的生物进入这里。
+I don't mind your presence that much, though. Stay as long as you'd like.|不过我不太介意你在这里。你想待多久就待多久。
+You would like me to read this?|你想让我读这个？
+This pearl seems to have been recently written on... Were you the one who did this, little organism?|这颗珍珠似乎是最近才写……是你干的吗，小生灵？
+I must admit, the way its been written into is a little clumsy, but it's still easy to read.|我不得不承认，它写得有点笨拙，但它依然很易读。
+Ah.. It seems you've stored a database into this pearl containing.. Creatures?|啊……你似乎在这个珍珠中储存了一个数据库，其中包含……生物?
+There's quite alot of information in these entries... It looks like you even have their genome stored here!|在这些条目中有相当多的信息……看起来你甚至把他们的基因组储存在这里！
+Physical descriptions, an image of the creature itself, different cell types and their function...<LINE>It's been so long since I've seen something like this.. I'm a bit surprised!|生物描述，生物的图像，不同细胞类型及其功能……<LINE>我已经很久没有看到这样的东西了。我有点惊喜！
+Just a single entry in this database contains so much information in it... This is quite impressive, little organism!|在这个数据库中，仅仅一个条目就包含了如此多的信息。这真令人印象深刻，小生灵！
+This reminds me of the days when I would make my own pearls like this...<LINE>Unfortunately I am unable to recall much of my work..|这让我想起来了我自己这样记录珍珠的日子……不幸的是，我无法回忆起我大部分的工作……
+Although, I do wonder what you're trying to do with this? There's so much information for<LINE>even one creature, it makes me somewhat curious...|不过，我想知道你想用这个做什么？<LINE>有这么多信息给每一个，甚至是每一个生物，这让我有点好奇。
+Well, I won't pry any further. I'm sure you have your reasons.<LINE>Thank you for showing me your work, little organism.|好吧，我不追问了。我相信你有你的理由。谢谢你给我看你的作品，小生灵。
+I've already read this one to you, <PlayerName>.|我已经给你读过这个了，<PlayerName>。
+Oh, wait... It appears theres a new entry. It looks like it's been highlighted, unlike the others.|哦，等等……好像有一个新条目。看起来它被重点标记了，不像其他条目一样。
+It seems to describe a small bipedal creature. A type of rodent, more specifically.<LINE>There are also notes attached, mainly indicating its ability to form large communities, and also its intelligence..|它似乎描述了一种小型两足动物。确切点来说，是一种啮齿类动物。<LINE>这里还有附注，主要说明了它形成了大型群体的能力，以及它的智力……
+I think I've seen this creature pass by here before, actually. My memory is a bit... faded,<LINE>though. I'm not sure how long its been since one had visited..|我觉得我以前见过这个生物从这里路过。我的记忆有点……褪色，<LINE>我不知道有多久没有人来过了……
+This entry also looks like its referencing many of the others, with small slices<LINE>of its genome being filled in with the genomes of other entries.|这个条目看起来像是引用了许多其他条目，<LINE>其基因组的小切片被其他条目的基因组填充了。
+I'm not sure what you're attempting to do with this, but thank you for showing me.<LINE>It's been so long since I've read a large database like this before, let alone a recently made one.|我不知道你想用这个做什么，但感谢你给我看这个。我已经很久没有读过像这样的大型数据库了，更不用说是最近新建的了。

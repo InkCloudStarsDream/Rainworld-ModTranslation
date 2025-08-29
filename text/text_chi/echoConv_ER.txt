@@ -1,12 +1,12 @@
-(White,Yellow,Red)看呐！我们伟大的劳动成果！
+(X-Spear,Artificer)看呐！我们伟大的劳动成果！
 
-(White,Yellow,Red)无数伟岸的奇迹在前人的肩膀上拔地而起。<LINE>如今它锈蚀老化，腐朽于矿物与骨骸中
+(X-Spear,Artificer)无数伟岸的奇迹在前人的肩膀上拔地而起。<LINE>如今它锈蚀老化，腐朽于矿物与骨骸中
 
-(White,Yellow,Red)如同代表着勤劳与智慧的最终护卫。昂首挺立。
+(X-Spear,Artificer)如同代表着勤劳与智慧的最终护卫。昂首挺立。
 
-(White,Yellow,Red)禁欲、克己；戒律、断念。
+(X-Spear,Artificer)禁欲、克己；戒律、断念。
 
-(White,Yellow,Red)看看它们将我们引往了何处。
+(X-Spear,Artificer)看看它们将我们引往了何处。
 
 (Spear,Artificer)此时、此刻、此地，就在你脚下...
  

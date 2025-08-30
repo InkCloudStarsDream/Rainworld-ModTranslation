@@ -4941,3 +4941,27 @@ Set a custom keybind to open the inventory for Player 4, defaults to MAP if noth
 //2920446893
 Warp Menu
 warp-description|通过暂停界面快速传送至新区域的房间的菜单程序。
+
+//3557418115
+overgrown_sanctuary-description|此模组在雨世界中添加了一个名为蔓生圣所的新区域。
+Overgrown Sanctuary|蔓生圣所
+Asylum|疯人院
+Desolate Bastion|荒凉堡垒
+Catacombs|地下墓穴
+Cathedral|大教堂
+Ruined Marshes|沼地遗迹
+This region is still a wip for inv|本区域的怪猫线还没做完
+Ancient Graveyard|古老陵墓
+Frigid Spire|寒冻塔尖
+Lacustral Tundra|湖畔苔原
+
+//3557280864
+ittr_sr-description|本模组原计划为区域拓展包，出于很多原因，鸽了。<LINE>本区域拓展包仅含一个未完成区域，尽头是一个死胡同。<LINE>那个区域就是锈河。曾经水泄不通的运河现在只是一条备用路线。<LINE>在它上方，隐藏着运河的秘密——支撑着真正巨型物体的高塔。<LINE>被区域包含有以下内容：<LINE>读不出的珍珠！！<LINE>零门槛！！最后有请——<LINE>令人惊叹的死胡同！！！
+Rusted Canals|锈河
+Overpass|天桥
+
+//3557410506
+np.westernintake-description|增加了一处为迭代器输水的新区域。
+Western Intake|西部摄水系统
+Mountain Base|山区
+Glowing Cavern|微光洞穴

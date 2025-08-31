@@ -4965,3 +4965,13 @@ np.westernintake-description|增加了一处为迭代器输水的新区域。
 Western Intake|西部摄水系统
 Mountain Base|山区
 Glowing Cavern|微光洞穴
+
+//3553919726
+IDDC-description|一个位于工业区之下被浸没的错综复杂的地下水管道网络。
+Industrial Outflow|工业排水道
+Frosted Conduits|霜冻管道
+Cistern|贮水器
+
+//3558692001
+fishy.CorrosiveGeysers-description|一个观望者区域，充满了酸水和间歇泉。<LINE>感谢croken85制作了the green salamander
+Corrosive Geysers|腐蚀酸泉

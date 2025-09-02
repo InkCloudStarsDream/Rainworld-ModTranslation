@@ -1,0 +1,5 @@
+SP|behavior|Talk
+啊，你好，小朋友。
+如果你愿意，就留在这儿吧。
+WAIT : 50
+SP|resync

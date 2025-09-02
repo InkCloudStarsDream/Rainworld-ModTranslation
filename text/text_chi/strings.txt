@@ -4963,10 +4963,112 @@ Glowing Cavern|微光洞穴
 
 //3553919726
 IDDC-description|一个位于工业区之下被浸没的错综复杂的地下水管道网络。
-Industrial Outflow|工业排水道
+Industrial Outflow|工业泄渠
 Frosted Conduits|霜冻管道
 Cistern|贮水器
 
 //3558692001
 fishy.CorrosiveGeysers-description|一个观望者区域，充满了酸水和间歇泉。<LINE>感谢croken85制作了the green salamander
 Corrosive Geysers|腐蚀酸泉
+
+//3112499650
+Gate Scanner
+gatescanner-description|可在业力门处远程阅读珍珠。
+
+I'm sorry, whatever data was on this pearl has been scrambled by a flaw in the Archive System's translation module. I am unable to see it.|很抱歉，无论这颗珍珠储存了什么<LINE>都被档案系统翻译模块的一个漏洞加密了。我看不出它写了什么。
+
+Hello, gamer.|你好，玩家。
+I can't read this, as it isn't actually a pearl.|我读不了这个，因为它实际上不是一颗珍珠。
+It's a bomb encased in a diamond sphere.|只是一个包裹在晶格球体内的炸弹。
+Whoops!|哦！惨了！
+
+Hello, little messenger!|你好啊，小信使！
+I am glad to see that my message is safe.|我很高兴能看到我的讯息依然是安全的。
+There is not much time left. Please hurry!|但时间有限，请尽快送达！
+
+Strange...|奇怪...
+The internal lattice of this pearl seems to have been partially replaced by organic matter.|这颗珍珠的内部晶格部分似乎被有机物替代了。
+While it may still contain readable data, such an unusual format defeats the devices used in the Archive System.|尽管它可能还储存有可读信息，但这种非标准的格式无法被档案系统所使用的设备读取。
+If you are determined to know what it says, you will have to bring it to my facility.|如果你仍然想要知道里面写了什么，你得将它带到我的设施内部。
+
+By the way, I can't imagine carrying these pearls to my structure is an easy task.|顺带一提，我无法想象要将这么多珍珠搬运到我的巨构内会是一项多么艰巨的任务。
+If you ever find one that is too far away, try placing it inside one of the gates in the facility.<LINE>There are devices there that should allow me to access your pearls remotely.|如果你找到的珍珠离这里实在太遥远，你可以把它放到辖区内的业力门的任意一侧。<LINE>那里有设备可以让我远程读取你的珍珠。
+Assuming they are still functioning, of course.|当然，前提是它们还能运行。
+
+If you are determined to collect these, there are better ways to do so than what you are doing now.|如果你决心收集这些东西，我有一个比你现在的方式更有效率的方案。
+In case you are not aware, all of the gates in this facility are equipped<LINE>with systems that allow me to remotely access pearls placed inside them.|以防你不知道，辖区内的所有业力门都安装有系统，让我可以远程访问放置其中的珍珠。
+Messages from those devices are much less of an interruption than your visits.|那些设备的访问讯息比你直接闯进来安静多了。
+
+Hello little one, this is Chasing Wind! I guess you would like to show me something?|你好，小家伙，这里是追逐清风！我猜你是想给我看点什么？
+
+Hello, <PLAYERNAME>! It's me, Looks to the Moon.|你好，<PLAYERNAME>！是我，仰望皓月。
+It appears that the Archive System is still mostly functional. I'm as surprised as you!|看来档案系统还能运行。对此我和你一样惊讶！
+Would you like me to read this pearl?|你想要我读这颗珍珠吗？
+
+Hello, <PLAYERNAME>!|你好，<PLAYERNAME>！
+// 你想要我读这颗珍珠吗？
+
+Hello again, <PLAYERNAME>! Would you like me to read this?|又见面了，<PLAYERNAME>！你想要我读一下这个吗？
+
+You found another one, <PLAYERNAME>? I will read it to you.|又找到一个，<PLAYERNAME>？我来读给你听。
+
+Another one, <PLAYERNAME>? You're no better than the scavengers!|又一个，<PLAYERNAME>？你和拾荒者差不了多少！
+
+Hello again, <PLAYERNAME>! Would you like me to read this?|又见面了，<PLAYERNAME>！你想要我读一下这个吗？
+Hello again, <PLAYERNAME>! The scavengers must be jealous of you, finding all these...|又见面了，<PLAYERNAME>！拾荒者一定会嫉妒你的，找到这么多。
+Another one, <PLAYERNAME>? I will read it to you.|又一个，<PLAYERNAME>？我会读给你听。
+Hello again! How do you find so many of these?|又见面了！你是怎么找到这么多的？
+
+Oh, it's you. Have you found me something to read?|哦，是你。你找到要给我读的东西了？
+You again. Have found something new for me to read?|又是你。找到给我读的新东西了？
+
+Hello again.|又见面了。
+I am surprised you have found so many of these.|我很惊讶你能找到这么多。
+
+I wonder, just how much time has passed since some of these were written.|我想知道这些珍珠在写入后搁置了多久了。
+
+Another pearl? Let us see if there is anything important written on this.|又一颗珍珠？让我们看看上面有没有写什么重要信息。
+Hello again. Have you found something new?|又见面了。找到新东西了吗？
+What have you found this time?|这次你找到什么了？
+Hello again. Let us see what you have found.|又见面了。让我们看看你找到了什么。
+
+Oh, hello, <PLAYERNAME>! It's me, Looks to the Moon.|哦，你好，<PLAYERNAME>！是我，仰望皓月。
+// 你想要我读这颗珍珠吗？
+
+Hello, <PLAYERNAME>! Would you like me to read this?|你好，<PLAYERNAME>！你想让我读这个吗？
+// Hello again, <PLAYERNAME>! Would you like me to read this?
+You found another one, <PLAYERNAME>? I will read it to you.|你又找到一个，<PLAYERNAME>？我会读给你听。
+Another one, <PLAYERNAME>? To be honest, I'm as curious to see it as you are.|又一个，<PLAYERNAME>？说实话，我和你一样好奇。
+
+// 又见面了，<PLAYERNAME>！你想要我读一下这个吗？
+Hello again, <PLAYERNAME>! What have you found this time?|又见面了，<PLAYERNAME>！这一次你又找到了什么？
+Another one, <PLAYERNAME>? I will read it to you.|又一个，<PLAYERNAME>？我会读给你听。
+// 又见面了！你是怎么找到这么多的？
+
+
+// 你好，<PLAYERNAME>！你想让我读这个吗？
+This pearl is crystal clear - it was used just recently.|这一颗晶莹剔透——这是最近才用过的。
+
+// 你好，<PLAYERNAME>！你想让我读这个吗？
+Strange... it seems to have been used not too long ago.|真奇怪……它似乎是不久前使用过的。
+
+This pearl appears to have been written to while you were scanning it!|这颗珍珠似乎是在你扫描它的时候写入的！
+Unfortunately, that means the data I received is corrupted. You could try scanning it again, if you want.|很不幸，这意味着我收到的数据损坏了。如果你想的话，你可以再试一次。
+
+This pearl is fresh! It was not long ago this data was written to it!|这颗珍珠很新！里面的数据是不久前才被写入的！
+
+
+This is one of my pearls. Please give it back.|这是我的珍珠之一。麻烦把它放回去。
+
+You took this from my facility. Please return it.|你在把它带离我的设施。麻烦把它还回来。
+
+Are you doing this to taunt me?|你这么做是想惹恼我吗？
+You stole this from my facility. Return it at once.|你把它偷出了我的设施。立刻还回去。
+
+
+Oh! This is one of my pearls. Did you take it from my puppet chamber?|Oh! This is one of my pearls. Did you take it from my puppet chamber?
+It's a piece of active working memory - raw data that I will later move to my memory conflux.|It's a piece of active working memory - raw data that I will later move to my memory conflux.
+Please do not take pearls from my facility. That data is valuable to me!|请不要把珍珠带离我的设施。那些数据对我来说很重要！
+
+I recognize this pearl. Did you take it from my facility?|我认识这颗珍珠。你是把它带出我的设施了吗？
+Please do not do that. My memories and data are very important to me!|请不要那么做。我的记忆和数据对我来说很重要！

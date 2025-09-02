@@ -4773,11 +4773,6 @@ Fog Canyon|雾之峡谷
 Teacher's Archives|教师档案馆
 Greenpath|苍绿之径
 
-//3555940125
-erodedrefinery-description|一座废弃的盐水提取设施的残骸，随着更宏伟的基础设施的建成而日渐腐朽。<LINE>位于通讯塔（THE Mast)杂草丛生的沼地、呼啸裂谷（Howling Rift）的险恶悬崖和工业区的庞大设施之间。
-Eroded Refinery|蚀朽炼厂
-Rusted Digger|挖机锈骸
-
 //3504376213
 The Parasite|寄生虫
 A strange being with an unusual disposition, corrupted by the desire for power.<LINE>The manifestation of an instinct destined to serve an undying problem.|一个性格怪异的奇特存在，被对力量的渴望侵蚀。<LINE>表现的本能注定要成为一个永恒的问题。
@@ -4968,11 +4963,10 @@ Glowing Cavern|微光洞穴
 
 //3553919726
 IDDC-description|一个位于工业区之下被浸没的错综复杂的地下水管道网络。
-Industrial Outflow|工业排污管道
+Industrial Outflow|工业排水道
 Frosted Conduits|霜冻管道
 Cistern|贮水器
 
 //3558692001
 fishy.CorrosiveGeysers-description|一个观望者区域，充满了酸水和间歇泉。<LINE>感谢croken85制作了the green salamander
 Corrosive Geysers|腐蚀酸泉
-

@@ -5072,3 +5072,51 @@ Please do not take pearls from my facility. That data is valuable to me!|请不�
 
 I recognize this pearl. Did you take it from my facility?|我认识这颗珍珠。你是把它带出我的设施了吗？
 Please do not do that. My memories and data are very important to me!|请不要那么做。我的记忆和数据对我来说很重要！
+
+//2948971756
+Dress My Slugcat
+dressmyslugcat-description|装扮你的蛞蝓猫<LINE>注意：如果主菜单上没有出现【皮肤】按钮，<LINE>请验证游戏完整性后禁用本模组，重新启动游戏后再启用本模组。
+GET FANCY|皮肤
+GETFANCY|皮肤
+RELOAD ATLASES|刷新
+RELOAD_ATLASES|刷新
+RESET|重置
+CUST_DEFAULTS|重置
+COPY|复制
+CUST_COPY|复制
+PASTE|粘贴
+CUST_PASTE|粘贴
+BODY|身体
+Body|身体
+HIPS|臀部
+Hips|臀部
+HEAD|头部
+Head|头部
+LEGS|腿
+Legs|腿
+ARMS|手
+Arms|手
+FACE|面部
+Face|面部
+TAIL|尾巴
+Tail|尾巴
+PIXEL|沟通标记
+The Mark|沟通标记
+GILLS|鳃
+Gills|鳃
+ASCENSION|超度准星
+Ascension|超度准星
+TAILSPECKLES|尾部斑点
+Tail Speckles|尾部斑点
+FACESCAR|疤痕
+Face Scar|疤痕
+Use Defaults|单选
+USE_DEFAULTS|单选
+Use Entire Set|使用全套
+USE_ENTIRE_SET|使用全套
+Customize|自定义
+Custom Tail Size|自定义尾部
+Asymmetry|非对称
+Roundness|弧度
+Wideness|宽度
+Length|长度

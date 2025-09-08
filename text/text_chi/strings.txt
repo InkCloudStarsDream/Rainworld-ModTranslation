@@ -5120,3 +5120,9 @@ Asymmetry|非对称
 Roundness|弧度
 Wideness|宽度
 Length|长度
+
+//3563713375
+lostworldofa10-description|为观望者添加了一个具有73个房间的区域，这是我的第一个区域mod:3
+Lost World|失落世界
+LIMBO|地狱边缘
+Pandemonium|万魔殿

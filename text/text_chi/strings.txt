@@ -5126,3 +5126,13 @@ lostworldofa10-description|为观望者添加了一个具有73个房间的区域
 Lost World|失落世界
 LIMBO|地狱边缘
 Pandemonium|万魔殿
+
+//3564943274
+dreamsofa10-description|为观望者添加许多有趣的区域……前往HI_c11来开始区域游戏:3
+The Lobby|大厅
+I Exist Yet|我尚存在
+Moss Grotto|苔藓洞窟
+Nuclear Zone|核辐射区
+World Trade Center|世贸中心
+Dehydrated|干涸态
+Ornithoscelidaphobia|恐龙恐惧症

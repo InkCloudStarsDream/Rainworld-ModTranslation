@@ -5136,3 +5136,12 @@ Nuclear Zone|核辐射区
 World Trade Center|世贸中心
 Dehydrated|干涸态
 Ornithoscelidaphobia|恐龙恐惧症
+
+//3566333665
+toxi.wimdyplacethingy-description|先前废弃的区域，现在作为观望者区域发布。<LINE><LINE>增加了一些新代币（包括一些未出现的）<LINE><LINE>入口：以太山脊，翠绿水道，暴雨铁路。
+Voided System|虚空系统
+Twisted Arrays|双绞阵列
+Windy Acre|劲风原野
+Foreboding Cellblock|不详监牢
+The Incinerator|焚化炉
+Cooling Arrays|冷却阵列

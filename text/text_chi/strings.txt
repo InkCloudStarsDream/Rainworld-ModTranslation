@@ -5242,3 +5242,50 @@ Cooling Arrays|冷却阵列
 
 //3530678733
 fr0st.artgallery-description|让您可以在主菜单中舒适地查看雨世界的所有过场动画和动态插图！<LINE>模组作者可以添加自己的画廊分类！请查看本模组文件根目录中的“How to”文档。
+
+//3567645149
+dietpebsi.desolatetowers-description|未完成
+Desolate Towers|凋敝荒塔
+The cold here is harsh and unforgiving. These units will be your only reprieve.|这里的寒冷残酷无情。这些单位是你唯一的喘息机会。
+
+//3568225382
+chronophobia-description|增加一个新区域和4种新蜥蜴。这个区域有代币>:3
+Chronophobia|时间恐惧症
+Sliver City|裂穗城
+Sliver of Straw|茅草裂片
+Sliver of Straw (leg)|茅草裂片（支架）
+
+//3455371329
+seafloor-description|一个小小的观望者地图。用时两天完成，因为我做得到。感谢Void Computer参与游戏测试；NoPuddles修复入口。
+Seafloor Base|海底基地
+
+//3461788552
+seven_winding_tunnles-description|进入神秘巨构，探索其中奥秘。
+Hollowed Caverns|空洞岩穴
+Metal Graveyard|金属墓园
+Underhang|下悬架
+Frosted Dome|霜冻圆顶
+Hollowed Caverns (Metal Jungle)|空洞岩穴（钢筋丛林）
+Broken Pillar|断柱
+The Frozen Summit|封冻巅顶
+Silent Construct|无声构造
+Hollowed Caverns (Roots)|空洞岩穴（根源）
+Seven Winding Tunnels|七曲隧道
+Overgrown Landfill|荒草填埋场
+Seven Winding Tunnels (Electrical Batch)|七曲隧道（电气处理区）
+Seven Winding Tunnels (Foreign contaminant)|七曲隧道（外部感染区）
+Weathered roof|风化顶棚
+Seven Winding Tunnels (Primary systems array)|七曲隧道（主系统阵列）
+Seven Winding Tunnels (General Processor)|七曲隧道（通用处理系统）
+Weakened Supports|衰败支架
+The Metal Cliff|金属崖壁
+Seven Winding Tunnels (Fluid Ducts)|七曲隧道（流体管线）
+The Decay|腐朽之地
+Rotten jungle|腐化丛林
+The Decay (Ground-0)|腐朽之地（地表-0）
+Decayed roof|腐烂天棚
+The Decay (Corrupted Labs)|腐朽之地（腐化实验区）
+The Decay (Decaying Processor)|腐朽之地（衰败处理区）
+Rotting Supports|腐化支柱
+The Decay (Corroded Pipes)|腐朽之地（腐蚀管线）
+The Rusted Peak|锈蚀顶峰

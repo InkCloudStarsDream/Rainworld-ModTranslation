@@ -3923,8 +3923,8 @@ WEConfig_Name_ChangeRipple|回响改变的最大/最小涟漪等级
 WEConfig_Desc_ChangeRipple|允许陀螺增加的最大和最小的涟漪等级。可以将涟漪设置到它可以达到的最大值。对原版探险中的回响无效。
 WEConfig_Name_KarmaFlower|全区域业力花
 WEConfig_Desc_KarmaFlower|允许业力花在每个观望者探险区域产生，作为观望者传送能力所需的重要物品。如果被禁用，它们仍然会产生在外缘，破碎露台，恶魔和腐化区域。
-WEConfig_Name_Unlock|解锁力量
-WEConfig_Desc_Unlock|不管是否完成战役，解锁观望者探险。
+WEConfig_Name_Unlock|强制解锁
+WEConfig_Desc_Unlock|不管是否完成观望者线，解锁观望者探险。
 WEConfig_Name_UnlockPerks|
 WEConfig_Desc_UnlockPerks|
  
@@ -3950,8 +3950,8 @@ WEConfig_Name_RotWorld_Shelter|腐化维度——庇护所
 WEConfig_Desc_RotWorld_Shelter|探险可以从腐化区域开始。你需要找到一个出口，然后传送你到一个随机的区域。永远不会到达外缘。
  
 
-WEConfig_Name_VanillaPassage|观望者战役的段落
-WEConfig_Desc_VanillaPassage|在观望者战役中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
+WEConfig_Name_VanillaPassage|观望者线通行证
+WEConfig_Desc_VanillaPassage|在观望者线中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
 WEConfig_Name_ColorFix|修复自定义颜色
 WEConfig_Desc_ColorFix|观望者拥有他自己的身体颜色覆盖和一部分黑色阴影，忽略自定义颜色，惬意合作的自定义合作以及他的默认设置为深蓝色。这使得拓展自定义和惬意合作的自定义颜色起效。
 WEConfig_Name_Sandbox|观望者沙盒
@@ -5077,7 +5077,7 @@ It's a bomb encased in a diamond sphere.|只是一个包裹在晶格球体内的
 Whoops!|哦！惨了！
 
 Hello, little messenger!|你好啊，小信使！
-I am glad to see that my message is safe.|我很高兴能看到我的讯息依然是安全的。
+I am glad to see that my message is safe.|我很高兴能看到我的讯息依然安然无恙。
 There is not much time left. Please hurry!|但时间有限，请尽快送达！
 
 Strange...|奇怪...
@@ -5289,3 +5289,4 @@ The Decay (Decaying Processor)|腐朽之地（衰败处理区）
 Rotting Supports|腐化支柱
 The Decay (Corroded Pipes)|腐朽之地（腐蚀管线）
 The Rusted Peak|锈蚀顶峰
+

@@ -5290,3 +5290,82 @@ Rotting Supports|腐化支柱
 The Decay (Corroded Pipes)|腐朽之地（腐蚀管线）
 The Rusted Peak|锈蚀顶峰
 
+//3353299442
+ModTags
+notchoc.ModTags-description|将你的模组分类集合，使他们易于管理！<LINE>长按标签1秒（或“右”方向键）进入编辑模式；重复以上操作退出该模式。<LINE>长按并使用“上下”方向键重新排列标签<LINE>敬请期待更新自定义标签。
+Arenas|竞技场
+Regions|区域
+Campaigns|剧情
+Creatures|生物
+Game Mechanics|机制
+Items|物品
+Cosmetics|装饰
+Game Modes|模式
+Dependency|前置
+Accessibility|辅助
+Translations|翻译
+Tools|工具
+Custom Slugcat|自定义蛞蝓猫
+Custom tag 1|自定义标签1
+Untagged|无标签
+
+//3257541402
+Push To Meow
+pushtomeow-description|蛞蝓猫可以喵喵叫了:3<LINE>可自定义喵叫键，默认为“M”键<LINE>你也可以为溪流自选喵叫声（有两个版本）
+Push to Meow settings :3 (check out tabs for custom meows)|Push to Meow设置:3（自定义猫叫请查看选项）
+Use alternate sounds for Rivulet|使用溪流的备选猫叫
+Do the Spearmaster Tail Wiggle?|使矛大师用尾巴“吹口哨”
+Can meowing alert other creatures?|使其他生物对猫叫做出反应
+Can Spearmaster meow?|启用矛大师猫叫
+Does meowing make you drown faster?|使猫叫消耗氧气
+Can slugcats panic-meow while being grabbed by lizards?|即使被蜥蜴咬住时也能发出恐惧的喵喵叫
+Do iterators (Pebbles/Moon) react when you meow?|使迭代器（五块卵石/仰望皓月）对喵喵叫作出回应
+Meow Volume: |叫声音量：
+Changes the volume of all meows! 85% is the default :)|为所有蛞蝓猫的喵喵叫调整音量！默认为85% :)
+Preview|预览
+
+Slugpups|猫崽设置
+Do Slugpups meow when they are in danger?|猫崽处于危险中时喵喵叫
+Do Slugpups meow when they are hungry?|猫崽饥饿时喵喵叫
+Do Slugpup meows alert creatures?|使其他生物能听到猫崽叫声
+Do Slugpups meow in response to "None" type trauma?|猫崽受到“无形”创伤时喵喵叫
+Do Slugpups meow in response to "Blunt" type trauma?|猫崽受到“钝器”伤害时喵喵叫
+
+ registered slugcat meow configurations:| 个已有蛞蝓猫叫声配置：
+(to add your own or change existing ones, check the workshop page's custom meow guide!)|(需要新增叫声或替换原有设置，请查看创意工坊页面的自定义猫叫指南！）
+Reload|重新载入
+Reloads custom meow configurations, useful if you're a mod developer making changes|重新载入自定义叫声配置，如果你试图对模组进行更改那么这个按钮会很有用
+
+//迭代器对话//
+...|……
+Are you taunting me?|你是在嘲笑我吗？
+...What is it? Oh, forget it, I don't care...|...那是什么？哦，算了，我不在乎...
+...is this reaching you?|...是你在叫吗？
+Yes? What's wrong?|是你？怎么了吗？
+Meow?|喵？
+Meow.|喵。
+Meow...?|喵...？
+Meow!|喵！
+...I assume from your meowing that you understand me now.|...我就从你的喵喵声推断你已经听懂了。
+...Can you stop with the yells? This information is relevant to you.|...你能安静点吗？这些话和你有关。
+Please quit that immediately.|请立刻保持安静。
+You had your chances. Leave now.|我给过你机会了。现在出去。
+What is it?|怎么了？
+I have nothing for you. Please stop meowing.|我给不了你什么。请别再喵喵叫了。
+Please quit meowing, I'm reading you your pearl.|请保持安静，我在读你的珍珠。
+If you keep going with this, I will not continue reading it.|你再喵喵叫下去我就不读了。
+
+//3571934245
+watcherskyislands-description|允许观望者前往天空群岛。
+
+//3572410655
+fusioncore-description|添加一个名称为聚变堆芯的新区域。这个模组是我的生日作品。
+Fusion core|聚变堆芯
+CORE|核心
+henrys weird room?|henrys的诡异房间？
+Outside|外部
+
+//3572680373
+SCP-354-description|SCP-354（血池）
+SCP-354|SCP-354
+Cliff|峭壁

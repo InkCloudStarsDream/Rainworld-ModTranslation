@@ -5369,3 +5369,17 @@ Outside|外部
 SCP-354-description|SCP-354（血池）
 SCP-354|SCP-354
 Cliff|峭壁
+
+//3580141898
+theannex-description|地下深处有一个与外界隔绝的建筑群。可以通过隐蔽堆层和表面进入，也可以手动传送进去。<LINE>灵感来源于冷库的美术，这个区域有两个威胁音乐和一个回响。
+The Annex|附属建筑
+Northern Stars|北部星群
+Interface|第二交互面
+
+//3581244371
+The Mind Is A Fickle Thing|思想无常
+
+//3582194856
+NH_FonabA-description|这片土地……
+Nowhere|无名之地
+Citadel of the Void|虚无之城

@@ -5383,3 +5383,11 @@ The Mind Is A Fickle Thing|思想无常
 NH_FonabA-description|这片土地……
 Nowhere|无名之地
 Citadel of the Void|虚无之城
+
+//3584369068
+theroot_will-description|一个拓展至地下、外缘并新增大量房间的旧区域模组。<LINE>为拥有强烈好奇心与探险精神的雨世界玩家准备。<LINE>现支持倾盆大雨DLC，但不必须。
+The Root|根部
+Coastline Railway|海滨铁道
+Penumbral Basin|半影盆地
+Rotten Maw|腐化渊巢
+Lost Grove|迭失哀林

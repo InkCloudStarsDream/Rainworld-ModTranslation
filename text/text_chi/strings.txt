@@ -5391,3 +5391,34 @@ Coastline Railway|海滨铁道
 Penumbral Basin|半影盆地
 Rotten Maw|腐化渊巢
 Lost Grove|迭失哀林
+
+//3583276675
+Oops, My Bad
+VioVayo.OopsMyBad-description|一切都是拾荒者老是痛击友军的错！<LINE>降低试图救援拾荒者时误杀所扣除的好感度。<LINE><LINE>若归还偷窃的物品不会扣除好感度。
+Rep required for leniency|可获得宽恕
+Rep required for maximum leniency|获得最大程度宽恕
+Maximum leniency|至多容忍
+Apply leniency for close-by threats|处于近距离威胁下时获得宽限
+Maximum distance|最大距离
+Scale with closeness|宽恕范围
+"I was aiming for the overseer!"|"我只是想打监视者！"
+Return period|归还期限
+Safeguard held items in shelters|庇护所物品保护
+Your minimum required reputation with a witness to have leniency applied.|可获得目击者宽恕的最低好感度要求。
+Set this to at or below the minimum to always apply maximum leniency.|可始终获得最大程度宽恕的最低好感度要求。
+Lower this to always have at least some penalty applied.|可获得的保底容忍度。
+Apply leniency even if target is not actively being grabbed by a threat.|即使对方没有被威胁单位抓住也将获得宽恕处理。
+Leniency will be applied as long as the closest threat is no farther away than this amount of tiles.|宽恕可生效的最大格数距离。
+The farther away the threat, the less leniency is applied.|威胁越远，宽限越少。
+All crimes are entirely forgiven if your weapon came reasonably close to an overseer.|如果武器距离监视者非常近，则导致的所有罪行都将赦免。
+How much time (in seconds) you have to drop stolen items.|你有多少时间（以秒为单位）可以把赃物放回地上而不受惩罚。
+Prevents scavs that sheltered with you from stealing your items upon waking up, and prioritises pick-up of your own items over the scavengers'.|避免拾荒者与你在庇护所内雨眠醒来时偷走你的个人物品，且优先拾取你自己的物品不会意外顺手牵羊。
+
+//3589479004
+crimspires-description|测试我做的第一个模组区域！
+Crimson Spires|绯红山峰
+
+//3591127073
+underwatercomplex-description|水
+Island Lost To Elsewhere|迷失于某处的岛屿
+Underwater Complex|海底迷宫

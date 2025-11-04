@@ -5422,3 +5422,291 @@ Crimson Spires|绯红山峰
 underwatercomplex-description|水
 Island Lost To Elsewhere|迷失于某处的岛屿
 Underwater Complex|海底迷宫
+
+
+//3127426082
+//Rain World：Last Wish
+The Void|虚无者
+THE VOID|虚无者
+Void|虚无者
+An enraged and hungry predator escapes from the Void Sea.<LINE>Balancing between life and death, the beast seeks its new place in this world.|一个从虚空海里掏出来的愤怒又饥饿的掠食者。<LINE>为在生与死之间寻求平衡，野兽在这个世界上寻找新的容身之地
+Clear the game as Hunter to unlock.|通关猎手以解锁。
+Your body keeps dissolving, and each of your deaths brings you closer to getting out of the cycle.|你的身体在崩解，你的每一次死亡都会让你离这个循环更进一步。
+But you have enough strength to get out of here.|但你有足够的力量离开这里。
+Hold down the 'Direction' and 'Up' buttons to climb the wall.|按下方向键和上键来爬上墙壁。
+Your body is strong enough to climb on any surface.|你的身体很强壮，可以爬上任何表面。
+Your abilities also continue to improve.|你的能力也在不断提高。
+It is painful... but Karma Flower saves your current cycle.|这很痛苦……但是业力花保存了你当前循环。
+The vessel could not withstand the impact of the void liquid.<LINE>Now the soul is doomed to relive his last cycles forever.|这副容器终究没能经受住虚空流体的侵蚀。现在，灵魂注定要永远重复他最后的循环。
+The soul is crying out for new wanderings, but the body still clings to the past.<LINE>You feel that there is only one last wish left. (To be continued...)|灵魂呼唤着新的旅程，肉体却在执着于过去。<LINE>你现在觉得只剩下最后一个愿望了。 （未完待续……）
+Even after leaving the cycle, life continues to go on as usual.<LINE>The death of another monster leads to the birth of a new one. (To be continued?)|即使离开循环，生命仍在继续。另一个怪物的死亡导致了新生。（未完待续？）
+
+Pick up / Eat / Maul button interactions:|拾取/吃/击打按钮交互：
+Tap to pick up objects|按下来拾取物品
+Hold to eat / swallow objects / maul stunned creature|长按来吃/吞下物体/击打被击晕的生物
+Press while holding down direction to drop object|按住同时按下可放下物体
+Double tap to switch objects in paws|双击可以切换手中物品
+
+Jump button interactions:|跳跃键交互：
+Press while climbing wall + holding up / down direction to jump up / flip|攀墙时按下跳跃+上/下键来跳起/翻转
+Hold while climbing ceil + press left / right direction to flip|攀爬天花板时按住跳跃+左/右键翻转
+
+Throw button interactions:|投掷键交互：
+Press while climbing ceil + holding jump to throw down|攀爬天花板时按下投掷+跳跃向下投掷
+
+Special button interactions:|特殊键交互：
+Tap to switch climbing / running mode|按下来切换攀爬/奔跑状态
+Hold while climbing wall to charge wall jump|爬墙时按住来在墙上冲刺
+
+
+//REGIONS
+
+Data Archives|数据储存库
+The Tumor|肿瘤
+Quantum Research Complex|量子研究中心
+Akashic Records|阿卡夏记录
+Retained Wall|挡土墙
+Far Wall|远墙
+Icy Wastelands|冰封荒地
+Communication Array|通讯阵列
+Abyss|深渊
+
+//REMIX
+~ Menu ~|~ 菜单 ~
+Disable background|禁用背景
+Disable rich presence|禁用丰富状态显示
+Disable background of the mod in main menu|禁用主界面模组背景
+Disable custon discord rich presence of the mod|禁用模组discord丰富状态显示
+
+~ Arena ~|~ 竞技场 ~
+Saint ascension|圣徒开光
+Saint wields weapon|圣徒挥舞武器
+Ascension stuns|延长眩晕
+Allows Saint to use ascension mechanic in arena|允许圣徒在竞技场使用超度机制
+Allows Saint to throw spears in arena|允许圣徒在竞技场扔矛
+Saint's ascension stuns instead of kills|将圣徒超度的致死改为眩晕
+
+~ Assist ~|~ 协助 ~
+Weakened blizzard lizard|削弱暴雪蜥蜴
+Complex control|复杂操控
+Simplified hunger|简化饥饿
+Gamepad controller|手柄控制器
+Disable permadeath|禁用永久死亡
+Unlock campaign|解锁战役
+Disables shield and removes instant death from blizzard beam|禁用护盾并且移除暴风光束的即时死亡
+Allows Void to switch move set between climbing and running. Tap 'Special' to switch mode|允许虚无者在攀爬和奔跑之间切换移动设置。按下“特殊”键切换模式
+Gives you whole pips when eating food instead of half pips|吃食物时得到完整饱食度，而不是一半饱食度
+Makes easier to climb the ceiling using a gamepad. Tap 'Special' to ceiling climb|
+Disables permadeath for Void from losing all karma or limit cycles|使手柄更容易爬上天花板。按下“特殊”键来攀爬天花板。
+Removes the requirement to complete as Hunter to play this mod|取消此模组完成猎手战役的要求
+Void Cycles|虚空循环
+Void Bonus Cycles|增加的虚空循环
+Changes the amount of cycles Void starts with in their campaign|改变虚无者在战役开始时的循环数
+Changes the amount of bonus cycles Void can receive from the echo|改变虚无者可以从回响得到的额外循环数
+//PICK INTERRUPT MESSAGES
+
+Yes, help yourself. They are not edible.|是的，请自便。反正它们不能吃。
+You seem to like pearls.|你好像很喜欢珍珠。
+Are you listening to me?|你在听我说话吗？
+You need to stop being distracted by pearls.|你不能再被珍珠分散注意力了。
+Are you trying my patience?|你在考验我的耐心?
+I will tell you about this pearls another time.|我下次再给你阅读这颗珍珠。
+Yes... this pearl contains data about my structure.|是的……这颗珍珠包含了我巨构的数据。
+Strange... This pearl should not be here.|奇怪……这颗珍珠不该在这里。
+This pearl made by many generations, it contains the stories, technologies and thoughts of long-gone civilization.|这颗珍珠是几代人的结晶，它包含了那个早已逝去的文明的故事、技术和思想。
+You may notice that this pearl is slightly faded, unfortunately, even in them, information is not eternal.|你可能注意到这颗珍珠有些褪色，不幸的是，即使在它们身上，信息也并非永恒。
+I wish I could just teach you how to read them so you would stop bothering me about little things like that.|我真希望我能教会你如何阅读它们，这样的话你就不用打扰我了。
+
+//EATING PEARLS
+
+I am not sure you can stomach pearl.|我不确定你能不能吃下珍珠。
+Do you really eat them?|你真的吃掉了它们？
+Little creature, you should not eat pearls.|小生灵，你不应该吃掉珍珠。
+You must stop right now.|你必须立刻停下。
+I am warning you for the last time.|我最后一次警告你。
+
+//EATING PEARLS 6 STEPS
+
+I am not sure you can stomach pearl.|我不确定你能不能吃下珍珠。
+Do you really eat them?|你真的吃掉了它们？
+Little creature, you should not eat pearls.|小生灵，你不应该吃掉珍珠。
+Can you stop dissolving my pearls?|你能不要再吃我的珍珠了吗？
+You just ate something more valuable than you can imagine.|你刚刚吃了比你想象中更有价值的东西。
+These pearls that you have swallowed, do they disappear without a trace or just become a part of you? In any case, I cannot get it back.|你吞下的那些珍珠，是消失得无影无踪还是成为了你的一部分？不管如何，我拿不回来它们了。
+Considering that your body weight does not change, this means that all the objects you eat are dissolved by the void fluid.|考虑到你的体重完全没有变化，这意味着你吃掉的所有东西都被虚空流体溶解了。
+If to assume that all the water in your body has been displaced by the void fluid,<LINE>its concentration is still insufficient to dissolve objects in such a short period of time.|如果假设你体内所有的水都被虚空流体排出，<LINE>它的浓度不足以在如此短的时间内溶解物体。
+Watching you, I can assume that your body is invisibly connected to the Void Sea, but this thought alone raises even more questions.|观察你，我想假设你的身体无形间与虚空海相连，但这个想法本身就提出了更多的问题。
+I would never have thought that such wasteful use of pearls would bring me closer to understanding the nature of the Void Sea.|我从来没有想过这种如此浪费珍珠的用法会让我更了解虚空海的本质。
+Eat as much as you want, from now I will no longer store important information here in your presence.|想吃多少就吃多少吧，从现在起，我不会在你面前储存重要信息了。
+
+//FIVE PEBBLES
+
+//Case 0
+
+Good try, but it is not for you.|不错的尝试，但是不适合你。
+Did someone send a messenger to me?|是有人派你来寻找我的吗？
+It does not have a mark.|它没有标记。
+It is just another pest was able to get into my structure.|这只是另一个害虫进入了我的巨构。
+You look unnatural.|你看起来并不寻常。
+What happened to you? There are clear signs of external interference here.|在你身上发生了什么？这上面有明显的外部干扰痕迹。
+Three... four spirals. The genes are twisted into a super-dense structure. This form is almost immune to the external environment...|三个……四个螺旋。这些基因被扭曲成一个致密结构。这种形式几乎不会受到外部环境的影响。
+I can see by your face that you understand me.|从你的面部表情来看，你理解了我说了什么。
+Is this someone's evil joke?|这是某人的恶劣玩笑吗？
+The purposed organism that has adapted to the void fluid and uses it instead of blood...|适应了虚空流体的效用有机体，并以此来替代血液。
+I was once again reminded of the meaninglessness of my existence...|我又一次感觉自己的存在毫无意义。
+Do not come back to me anymore or you will meet your death in this room.|不要再来找我了，否则你将死在这个房间里。
+...is it reaching you?|……你听到了吗？
+What a disgusting and horrible structure you have. I was sure if implanting the mark would kill you.|多么恶心又可怕的躯壳。我无比确信植入交流印记会杀死你。
+But you are still alive, so your brain is intact or at least partially intact...|但你仍然活着，所以你的大脑是完整的，至少部分是完整的……
+You may have come to me for help, but my medical equipment has been out of order for a long time. For the same reason there is no point in killing you to study your body.|你可能是来向我求助，但我的医疗设施已经损坏了很长一段时间了。出于同样的原因，我也没有必要为了研究你的身体而杀死你。
+As I thought, your body structure is similar to the purpose organism that I have already met.|正如我所想，你的身体结构与我曾经遇到的效用有机体很相似。
+Based on the data available I assume you interacted with the void fluid in some way. Surprisingly you was able to get to me.|根据现有的数据，我认为你曾以某种方式与虚空流体相互作用。令人惊讶的是，你竟然仍有能力抵达我这里。
+In any case, I cannot help you with anything. You came to me too late.|无论如何，我帮不了你什么，你来的太晚了。
+Supposedly you have less than a cycle to live, so make the most of the time you have left. In the meantime, leave me alone.|按理来说，你只能活不到一个循环了，所以请充分利用你剩下的时间。并且，别来烦我。
+
+I have already told you that I cannot help you in any way. Accept your fate and do not waste your time.|我已经告诉过你，无论如何，我帮不了你。接受你的命运，不要浪费时间。
+Are you still here? Go east to Looks to the Moon.|你还在吗？向东，去仰望皓月吧。
+I would suggest you cease wandering around. It is not like you have much time.|我建议你不要再到处闲逛了。你看起来没有多少时间了。
+Have you brought the pearls I need?|你带来我需要的珍珠了吗？
+Have you brought another pearl?|你带来了另一颗珍珠了吗？
+The familiar colour, is this the pearl that contains the void liquid researches?|熟悉的颜色，这颗珍珠记录了虚空流体研究吗？
+Did you really find it? This pearl will help us both.|你找到了吗？这颗珍珠对我们两个都有帮助。
+What about the other one?|另一个呢？
+
+//Case 1
+
+...still alive. I did not expect this outcome.|……还活着。我没有想到这个结果。
+Your health indicators are still at the same critical level as in the last cycle. One step away from death you continue to live.|你的生理指标仍然处于和上个循环相同的临界水平。你活的只离死亡一步之遥。
+Do you delay your death? I will set your mark to collect data about your condition. Probably it helps me find the answer to another problem.|你能推迟死亡？我将会设置你的交流印记来收集关于你的状况的数据。也许它能帮我找到另一个问题的答案。
+The procedure requires special precision, therefore do not move, or I might accidentally kill you.|这个流程需要十分精确，所以，别动，否则我可能会杀死你。
+You do not have to do anything, just come back to me in the next cycle.|你并不需要做什么，下个循环再来找我就行了。
+Otherwise, it will only be easier for me if you do not return.|不然，你不回来对我而言只会更轻松一些。
+Now get out of here, I do not need another great problem that does not have a solution.|现在，离开这里。我不需要另一个没有解决方案的伟大问题。
+
+//Case 2
+
+It is you again.|又是你。
+I had hoped that the problem would resolve itself, but apparently it has not.|我曾希望问题能够自行解决，然而，显然并没有。
+The mark is slightly damaged, but the data is still intact.|交流印记有轻微损坏，但是数据完好无损。
+It is quite interesting...|真有趣……
+Half your vital organs are missing and a tumor takes their place?|你的重要器官消失了一半，取而代之的是一个肿瘤。
+Although it is more like a symbiosis between organisms. It replaces the cells dissolved in the void liquid.|虽然这更像是生物之间的共生关系，它取代了溶解在虚空流体中的细胞。
+Even such a decision has its limits, sooner or later your genes will be permanently damaged and you will not wake up in the next cycle.|即使这样的决策，也有局限性。迟早你的基因会被永久破坏，你不会再在下一个循环中醒来。
+I have found out what I wanted, now get lost, I have spent too much time on you already.|我已经找到了我想要的，现在更迷惑了，我已经在你身上花费了太多的时间。
+
+//Case 3
+
+I am astonished at your audacity. Are you looking for death in my room?|我对你的厚颜无耻感到惊讶。你在我的房间里找死吗？
+Why are you always being followed by an NSH's overseer? Why is he so interested in you?|为什么你总是被NSH的监视者跟着？他为什么对你如此感兴趣？
+Oh... it is you... To be precise, what is left of you.|哦……是你……准确来说，是你的残余。
+Were you able to complete your mission, little creature?|你完成了任务吗，小家伙？
+Apparently, you do not understand what I mean.|显然你不明白我在说什么。
+Your mark is advanced enough to record conversations. Go to the east, Look to the Moon is there, I hope she is able to at least speak.|现在你的印记已经足够高级，可以录制对话了。去东方，仰望皓月在那里，我希望她至少还能说话。
+Then come back to me, there is a possibility, I can find a solution to your desperate situation.|然后来找我，也许，我能找到解决你的绝境的方法。
+Now leave me alone for your sake, I have more work to do.|为了你的利益，让我一个人待着吧，我还有很多工作要做。
+
+// Case 4
+
+Overall, I have enough data to complete my research.|总体而言，我有足够的数据来完成我的研究。
+I will need some time to finish my preparations, come back to me later.|我需要一些时间来完成我的准备工作，稍后再来找我。
+
+Come back as soon as you complete my request.|请在完成我的请求之后尽快回来。
+I do not see the right records in your mark. Do not worry me about nothing.|我没在你的印记中看到相应记录。不用无端担心我。
+Have you already visited Looks to the Moon?|你已经拜访了仰望皓月了吗？
+Leave me alone.|请离开。
+You should not have done that.|你不应该那样做。
+At least she is conscious...|至少她还有意识……
+In a way, I am grateful to you.|在某种程度上，我很感激你。
+Now I have to fulfill my part...|现在我必须完成我的任务……
+A more detailed analysis of your "parasite" suggests that it has the beginnings of a gene-repairing mechanism.|对你的“寄生物”更详细的分析表明，它已经开启了基因修复机制。
+Which will allow you to recover your body indefinitely.|可以让你无限期地恢复身体。
+But I have already said, I do not have the medical equipment for that anymore. There will be a different approach.|但是我已经说过了，我早已失去医疗设施。我会使用其他方法。
+First of all, I need research records on the void liquid.  Similar research have been carried out at mining sites, particularly in the Pipeyard.|首先，我需要虚空流体的研究记录。在采矿地点，特别是在管道堆场进行过类似的研究。
+The pearls with the necessary data should have been located in the underground western part of the region.|记录必要数据的珍珠应该位于该地区西部的地下。
+
+//Case 5
+You are familiar with the procedure, so do not move too much.|你已经对必要流程很熟悉了，所以不要乱动。
+If you wish to leave my complex, head west through the Farm Arrays, your skills will allow you to climb over the Retaining Wall without any problems.|如果你想离开我的建筑群，向西穿过农场阵列，你的能力可以让你毫不费力地爬过挡土墙。
+
+Is that what I think it is?|这是我想的那样吗？
+Excellent, you really are a good messenger.|太好了，你真是个好信使。
+Strangely enough, your structure is very similar to the disease that I was exposed to.|奇怪的是，你的结构和我接触过的疾病非常相似。
+I never would have thought that I had anything in common with you...|我从没想过我和你有什么共同之处……
+Anyway, I need another pearl. It stores data about an unfortunate development.|不管怎样，我还需要一颗珍珠。它存储了关于不幸的发展的数据。
+The problem is that it was washed away along with other samples, its approximate location is the Garbage Wastes.|麻烦的是是它和其他样品一起被冲走了，大致在垃圾堆。
+You should be careful, my samples have an aggressive form of behavior...|你要小心，我的样本有攻击性行为……
+
+//Case 6
+
+I recognise this colour... there is a serious crack in the pearl.|我认得这个颜色……珍珠上有一条严重的裂缝。
+It will take time to recover the corrupted data, but these records will also help me to slow down the infection of my structure.|恢复损坏的数据需要时间，但这些记录也会帮助我减缓我的结构的感染。
+Are you still here?|你还在这儿吗？
+Come back another time, I need to be alone to finish the preparations.|下次再来吧，我需要一个人完成准备工作。
+
+//Case 7
+
+Are you feeling better? Changes can become apparent over time.|你感觉好点了吗？随着时间的推移，变化会愈加明显。
+In any case, I have done everything I can.|无论如何，我已经尽我所能。
+You are free, probably really free, unlike me...|你很自由，可能真的很自由，不像我……
+If you wish to leave my complex, head west through the Farm Arrays, your skills will allow you to climb over the Retaining Wall with out problems.|如果你想离开我的建筑群，向西穿过农场阵列，你的能力可以让你毫不费力地爬过挡土墙。
+And if you visit NSH, warn him that his next messenger will be killed on the spot, I am losing my patience talking to rats.|如果你想去访问NSH，警告他，他的下一个信使将被当场杀死，我正在失去和老鼠说话的耐心。
+
+//LOOKS TO THE MOON
+
+//Case 0
+
+Hello <CapPlayerName>.|你好<CapPlayerName>.
+What are you? Your appearance seems... unusual, although familiar.|你是什么？你的外表看起来……不寻常，虽然熟悉。
+I see you have a mark of communication. Did the Five Pebbles give it to you, or maybe someone from faraway lands?|我看到你有交流印记。是五块卵石给你的，还是远方的存在给你的？
+In any case, it looks like you are capable of long-distance travel. Did you see my friend on the way here, by any chance? He looks just like you, but I am not sure...|无论如何，看起来你能胜任长途旅行。你在来的路上看到我的朋友了吗？他长得很像你，但我不敢确定……
+He left me not so long ago, and... it can be very lonely here, although sometimes I hear someone scavenging in the rubbish.|他不久前离开了我，而且……这里很孤独，虽然时常有拾荒者过来捡垃圾。
+But looks like now I have you to keep me company. If you want to stay longer here, of course.|但现在我有你作伴了。如果你想在这里多待一会儿，当然可以。
+By the way, If you suddenly find something, you can bring it to me. And I might tell you something interesting about it. That is all I can do for now.|顺便说一下，如果你突然发现什么，可以带给我。我可能可以告诉你一些有趣的事情。这是我现在能做的全部。
+Oh, <CapPlayerName>, you are back!|哦，<CapPlayerName>，你回来了！
+You have got a mark of communication.|你有交流印记。
+Did Five Pebbles give it to you? He is sick now, you can probably tell by the way he's acting.|是五块卵石给你的吗？他病了，你能从他最近的行为看出来。
+Hi...|嗨……
+Your attunement is missing...|你的调音丢失了…
+Do you understand me without a mark of communication?|没有交流印记的你能听懂我的意思吗？
+Who taught you our language? Your thinking skills are truly amazing.|谁教你我们的语言的？你的思维能力真的很惊人。
+What brings you to me? As you can see, my condition does not leave the best impression.|什么又把你带来了？如你所见，我的情况很难给人留下好印象。
+You must be very curious to come here. Bring the pearls to me, I can read them to you.|你来这里一定很好奇。把珍珠拿给我，我可以念给你听。
+Hi, <CapPlayerName>...|嗨，<CapPlayerName>……
+Your attunement has disapperied...|你的调音消失了…
+What is happened to you in these few cycles? Are you feeling all right?|你在这几个循环中遇到了什么？你还好吗？
+I hope you are okay, but on the bright side you look a little better.|我希望你没事，不过往好的方面想，你看起来好多了。
+If you want to learn something new, I will be waiting for you.|如果你想学点新东西，我会等你的。
+
+//Case 1
+
+Oh, hi, <CapPlayerName>, you are back!|哦，嗨，<CapPlayerName>，你回来了！
+To be honest, I doubted that I would see you again, but since you are here... let us chat a little.|老实的说，我不确定我是否能再次见到你，不过既然你在这里……让我们再聊一会儿吧。
+I noticed something curious during your last visit: you really do have two pairs of eyes!<LINE>It is... curious, considering that I did not notice such features in my friend. You are the same species, are not you?|你上次来的时候，我注意到一件奇怪的事：你真的有两双眼睛！<LINE>它是……真奇怪，因为我并没有注意到我的朋友有这样的特点。你们是同一物种，对吗？
+It is very amusing. Creatures generally need more eyes to better determine the distance to their prey<LINE>and easier navigate through space, but for now it is hard for me to understand where such a difference comes from.|这很有趣。生物通常需要更多的眼睛来更好地控制与猎物之间的距离<LINE>以及分辨在空间中的方向，但现在我很难理解这样的差异从何而来。
+It looks natural, but I wonder if you were born like this. Even if it is a mutation, it is pretty... selective...|它看起来相当合适，但我怀疑你不是生来如此。不过即使这只是一个突变，它也很有……选择性……
+So you are a predator? Then I am glad you do not find me tasty. And in that case, <CapPlayerName>,<LINE>I would be grateful if you do not bring your prey here. I do not like to watch violence.|所以你是掠食者？那我很感激你觉得我没那么好吃。以及在这种情况下， <CapPlayerName>,<LINE>如果你不把你的猎物带来，我会相当感激。我并不喜欢看这种暴力的场面。
+Now I have something to think about. As much as my memory will allow me.|现在我有事情要考虑了。就我记忆允许的范围内。
+Maybe you have something to show me?|也许你有什么东西要给我看？
+
+Hi, <CapPlayerName>, you are back!|嗨， <CapPlayerName>，你回来了！
+I am not imagining it and you really do have four eyes.|这不是我的幻觉，你真的有四只眼睛。
+It is very amusing. Creatures generally need more eyes to better determine the distance to their prey.|这很有趣。生物通常需要更多的眼睛来更好地确定与猎物的距离。
+They also find it easier to navigate through space. So you are a predator?|他们还发现在这样更容易在空间中分辨方向。所以你是掠食者？
+I am glad you do not find me tasty. <CapPlayerName>, please do not bring your prey here, I do not like to watch violence.|我很高兴你并不觉得我很好吃。<CapPlayerName>，请不要把你的猎物带到这里，我不喜欢看这种暴力场面。
+
+//Case 2
+
+Oh, it is you.|哦，是你。
+Hmm, you look hungry, or is it just me?|你看起来很饿，还是只有我这么觉得？
+How are you, <CapPlayerName>? I hope you are doing well.|你还好吗， <CapPlayerName>？我希望你感觉还好。
+I am so sorry, but I do not have anything here to feed you. I really wish I could offer you something but... In my condition this is no longer possible.|我很抱歉，我没有什么可以喂你的。我真希望我能给予你点什么，但是……以我现在的情况来看，我很难给你什么东西了。
+But that is not the point now, there's not much time left. I wish you a successful hunt, <CapPlayerName>. I would really not want my only companion to starve to death.|但这不是重点，时间不多了。祝你狩猎成功， <CapPlayerName>。我真心不希望我唯一的朋友饿死。
+Come back when you feel better, maybe next cycle. In the meantime I will try to remember something very interesting to tell you.|当你感觉好点的时候再来，也许下个循环。与此同时，我会努力记起一些非常有趣的事情告诉你。
+
+How are you, <CapPlayerName>? You look hungry. I am sorry, but I do not have anything to feed you.|你还好吗， <CapPlayerName>？我很抱歉，我没有什么可以喂你的。
+I wish you a successful hunt, I would not want my only companion to starve to death.|祝你狩猎成功，我不希望让我唯一的同伴饿死。
+Come back when you feel better, I will try to tell you something interesting.|等你感觉好点的时候可以再来，我会尝试告诉你一些有趣的事情。
+
+I am sorry, friend, but I cannot remember of any new stories I can tell you.|对不起，朋友，我想不起任何可以告诉你的新故事了。
+I am embarrassed to ask you, but could you ask Five Pebbles for another neuron, I think he will not mind.|我有些不好意思拜托你，但是你能不能再问五块卵石要一个神经元，我想他不会介意的。
+

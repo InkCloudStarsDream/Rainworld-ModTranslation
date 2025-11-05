@@ -5710,3 +5710,64 @@ Come back when you feel better, I will try to tell you something interesting.|�
 I am sorry, friend, but I cannot remember of any new stories I can tell you.|对不起，朋友，我想不起任何可以告诉你的新故事了。
 I am embarrassed to ask you, but could you ask Five Pebbles for another neuron, I think he will not mind.|我有些不好意思拜托你，但是你能不能再问五块卵石要一个神经元，我想他不会介意的。
 
+
+//3599363283
+sticks.nht_seafloorbarrens-description|一片纠缠着齿轮与电缆的区域被卷入了海浪之下。这个区域尚未完成，甚至里完成差得相当远。但我对这个区域的兴趣正在快速燃尽，但放弃它只会让我更痛苦（至少是不发布它）。我不知道我会不会再拾起这个作品，或者只是将它转移到其他东西上。但不论如何，就是这样了。
+Seafloor Barrens|海底荒野
+SeaLevel|海平面
+Inside|内部
+watCave|潮湿洞窟
+UnderSea|海底
+
+//3584984384
+otherlandbya10-description|增加了观望者的九个新区域。<LINE>我不介意你做这些区域的视频，<LINE>你还可以和朋友一起玩！！！
+Borderlands|边境之地
+Fortress|要塞
+dreamcore|梦之核心
+Carboniferous|石炭纪
+Caves|洞穴群
+Outer Sewers|外部下水道
+Outerskirts|外部裙缘
+Orbital Maw|轨道嗉囊
+RUN|跑！！！
+Kitty Cit|凯蒂之城
+
+//3575806011
+neworldsbya10-description|添加了五个区域<LINE>月食——一个黑暗的城市区域（GW传送点）<LINE>墓园——一个有着白色秃鹫的平坦之地（外缘传送点）<LINE>哀伤之地——一片下雪的空中岛屿（恶地传送点）<LINE>无花盆地——奇异核心区域（从盐化区到GW，GW传送点）<LINE>深渊——一片深入水下的区域（腐臭幽谷传送点）
+Shore|海岸
+Graveyard|墓园
+Null Bloom Basin|无花盆地
+Sorrowlands|哀伤之地
+Eclipse|月食
+School|学校
+
+//3580372779
+a10slab-description|一间迷失在时间之中的实验室，传送点在深渊。
+Laboratory|实验室
+LAB|实验室
+
+//3585933532
+RAW53ATHV4TS-description|一个观望者的区域mod，传送点在柱林。
+The Tram|有轨电车
+
+//3587715686
+tIgErByA10-description|为一个有趣的区域添加了一个新蛞蝓猫（不需要DLC）
+The Tiger|老虎
+tiger|老虎
+THE TIGER|老虎
+Bold, territorial, and cunning.<LINE>The Tiger is not a passive wanderer.<LINE> it’s a time traveling hunter with purpose.|勇猛，领地意识强且狡猾。<LINE>老虎不是一个被动的漫游者。<LINE>它是一个有目的性的时间旅行猎人。
+White Space|白色空间
+Fall|倒塌之地
+Gray Poles|灰色极点
+Sanctuary|圣所
+Desolation|废墟
+Broken Zone|破碎区域
+Foggy Urban|雾都
+
+
+//3597533924
+norippleneeded-description|传送点在wara_p09，不需要涟漪空间。
+
+//3599425681
+PoOlRoOmS-description|一个观望者的区域模组。
+Poolrooms|台球厅

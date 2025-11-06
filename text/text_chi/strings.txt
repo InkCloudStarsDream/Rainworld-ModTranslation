@@ -5559,14 +5559,14 @@ Do not come back to me anymore or you will meet your death in this room.|不要�
 What a disgusting and horrible structure you have. I was sure if implanting the mark would kill you.|多么恶心又可怕的躯壳。我无比确信植入交流印记会杀死你。
 But you are still alive, so your brain is intact or at least partially intact...|但你仍然活着，所以你的大脑是完整的，至少部分是完整的……
 You may have come to me for help, but my medical equipment has been out of order for a long time. For the same reason there is no point in killing you to study your body.|你可能是来向我求助，但我的医疗设施已经损坏了很长一段时间了。出于同样的原因，我也没有必要为了研究你的身体而杀死你。
-As I thought, your body structure is similar to the purpose organism that I have already met.|正如我所想，你的身体结构与我曾经遇到的效用有机体很相似。
+As I thought, your body structure is similar to the purpose organism that I have already met.|正如我所想，你的身体结构与我曾经遇到的功能性有机体很相似。
 Based on the data available I assume you interacted with the void fluid in some way. Surprisingly you was able to get to me.|根据现有的数据，我认为你曾以某种方式与虚空流体相互作用。令人惊讶的是，你竟然仍有能力抵达我这里。
 In any case, I cannot help you with anything. You came to me too late.|无论如何，我帮不了你什么，你来的太晚了。
 Supposedly you have less than a cycle to live, so make the most of the time you have left. In the meantime, leave me alone.|按理来说，你只能活不到一个循环了，所以请充分利用你剩下的时间。并且，别来烦我。
 
 I have already told you that I cannot help you in any way. Accept your fate and do not waste your time.|我已经告诉过你，无论如何，我帮不了你。接受你的命运，不要浪费时间。
 Are you still here? Go east to Looks to the Moon.|你还在吗？向东，去仰望皓月吧。
-I would suggest you cease wandering around. It is not like you have much time.|我建议你不要再到处闲逛了。你看起来没有多少时间了。
+I would suggest you cease wandering around. It is not like you have much time.|我建议你不要再到处闲逛了，你看起来没有多少时间了。
 Have you brought the pearls I need?|你带来我需要的珍珠了吗？
 Have you brought another pearl?|你带来了另一颗珍珠了吗？
 The familiar colour, is this the pearl that contains the void liquid researches?|熟悉的颜色，这颗珍珠记录了虚空流体研究吗？
@@ -5575,7 +5575,7 @@ What about the other one?|另一个呢？
 
 //Case 1
 
-...still alive. I did not expect this outcome.|……还活着。我没有想到这个结果。
+...still alive. I did not expect this outcome.|……还活着，我没有想到这个结果。
 Your health indicators are still at the same critical level as in the last cycle. One step away from death you continue to live.|你的生理指标仍然处于和上个循环相同的临界水平。你活的只离死亡一步之遥。
 Do you delay your death? I will set your mark to collect data about your condition. Probably it helps me find the answer to another problem.|你能推迟死亡？我将会设置你的交流印记来收集关于你的状况的数据。也许它能帮我找到另一个问题的答案。
 The procedure requires special precision, therefore do not move, or I might accidentally kill you.|这个流程需要十分精确，所以，别动，否则我可能会杀死你。
@@ -5601,7 +5601,7 @@ Why are you always being followed by an NSH's overseer? Why is he so interested 
 Oh... it is you... To be precise, what is left of you.|哦……是你……准确来说，是你的残余。
 Were you able to complete your mission, little creature?|你完成了任务吗，小家伙？
 Apparently, you do not understand what I mean.|显然你不明白我在说什么。
-Your mark is advanced enough to record conversations. Go to the east, Look to the Moon is there, I hope she is able to at least speak.|现在你的印记已经足够高级，可以录制对话了。去东方，仰望皓月在那里，我希望她至少还能说话。
+Your mark is advanced enough to record conversations. Go to the east, Look to the Moon is there, I hope she is able to at least speak.|现在你的印记已经足够高级，可以录制对话了。去东边，仰望皓月在那里，我希望她至少还能说话。
 Then come back to me, there is a possibility, I can find a solution to your desperate situation.|然后来找我，也许，我能找到解决你的绝境的方法。
 Now leave me alone for your sake, I have more work to do.|为了你的利益，让我一个人待着吧，我还有很多工作要做。
 
@@ -5665,6 +5665,8 @@ By the way, If you suddenly find something, you can bring it to me. And I might 
 Oh, <CapPlayerName>, you are back!|哦，<CapPlayerName>，你回来了！
 You have got a mark of communication.|你有交流印记。
 Did Five Pebbles give it to you? He is sick now, you can probably tell by the way he's acting.|是五块卵石给你的吗？他病了，你能从他最近的行为看出来。
+But I am glad to have a companion. It can be very lonely here, although sometimes I hear someone scavenging in the rubbish.|但我很高兴能有个伴，这里很孤独，虽然时常有拾荒者过来捡垃圾。
+You can bring me different things, I might tell you something interesting about them.|你可以带给我各种各样的东西，我可能可以告诉你一些有趣的事情。
 Hi...|嗨……
 Your attunement is missing...|你的调音丢失了…
 Do you understand me without a mark of communication?|没有交流印记的你能听懂我的意思吗？
@@ -5672,7 +5674,7 @@ Who taught you our language? Your thinking skills are truly amazing.|谁教你�
 What brings you to me? As you can see, my condition does not leave the best impression.|什么又把你带来了？如你所见，我的情况很难给人留下好印象。
 You must be very curious to come here. Bring the pearls to me, I can read them to you.|你来这里一定很好奇。把珍珠拿给我，我可以念给你听。
 Hi, <CapPlayerName>...|嗨，<CapPlayerName>……
-Your attunement has disapperied...|你的调音消失了…
+Your attunement has disapperied...|你的协调消失了…
 What is happened to you in these few cycles? Are you feeling all right?|你在这几个循环中遇到了什么？你还好吗？
 I hope you are okay, but on the bright side you look a little better.|我希望你没事，不过往好的方面想，你看起来好多了。
 If you want to learn something new, I will be waiting for you.|如果你想学点新东西，我会等你的。
@@ -5709,6 +5711,23 @@ Come back when you feel better, I will try to tell you something interesting.|�
 
 I am sorry, friend, but I cannot remember of any new stories I can tell you.|对不起，朋友，我想不起任何可以告诉你的新故事了。
 I am embarrassed to ask you, but could you ask Five Pebbles for another neuron, I think he will not mind.|我有些不好意思拜托你，但是你能不能再问五块卵石要一个神经元，我想他不会介意的。
+
+//LW-void
+"A record of experiments with void fluid."|“一段虚空流体实验记录。”
+"...this substance obeys its own logic and has its own limitations."|“这种物质遵从自己的规律，并且拥有自己的局限性。”
+"Volume of a cubic unit of void liquid has no such limitations on the amount of matter it can dissolve.<LINE>But the more mass has been dissolved, the longer it will take to dissolve more matter.<LINE>Until it takes forever. That's the main reason we need a Filtration System."|“一立方单位体积的虚空流体能够无限制溶解其他物质。但是溶解的质量越多，溶解更多物质所需要的时间就越长。<LINE>直到永远。这就是我们需要过滤系统的主要原因。”
+"Buddy, there are thousands more entries here, I would not want to read them all."|“这里还有数千条条目，我不想全部念完。”
+
+//LW-rot
+Are these records of the failed experiments of the Five Pebbles?|这些也许是五块卵石失败实验记录？
+I do not understand what it says here, it seems everything is carefully encrypted here.|我不明白这些写着什么，这一切似乎都被谨慎地加密了。
+I have vague memories of it... But I am not sure...|我对这个有模糊的记忆。但我不确定……
+Sorry my little friend, I cannot help you with this.|对不起，小朋友，我帮不了你。
+
+//LW-slugcat
+Oh, I remember that pearl. |哦，我记得这颗珍珠。
+I tried to write down in it a thorough instruction on how to create and modify purposed organisms.|我尝试在里面写一个如何创造和修改功能性有机体的详细说明。
+I was thinking about sending a messenger for help when I lost contact with the local group, but by that time,<LINE>my medical equipment had already failed due to the imbalance of chemicals in my structure.|当我与本地群组失去联系的时候，我正考虑发送一个信使求救，但到那时，<LINE>由于我巨构中的化学物质失衡，我的医疗设备已经失效了。
 
 
 //3599363283

@@ -2366,15 +2366,16 @@ Sealed Intelligence Unit|密闭智元
 
 //3305713194
 Community.Gallery2-description|一个由72位不同的人提交的190个房间（477屏幕）的合集，是2024年编辑月的一部分。<LINE><LINE>这一次没有区域连接，但你扮演的是一只蛞蝓猫，如果你觉得需要的话，你可以在你的探索中开启许多帮助。没有雨循环，没有死亡，只是探索。
-Community Gallery 2024|社区画廊2024
-Bridge|栈桥
-Suspended|悬架
-Crypt|地窟
-Growth|繁茂
-Shrouded|巨构
-Monolith|石碑
-Respite|小憩
-Diseased|顽疾
+COMMUNITY GALLERY REGION 2024|2024 社区画廊地区
+A collection of rooms submitted as part of the 2024 Leditor Month hosted by Nautillo.<LINE>You are equipped with many tools to assist you on your gallery room safari.|一个由 Nautillo 主办的 2024 年的 Leditor 月的提交的一部分房间集合。<LINE>配备了许多工具来帮助您在画廊中旅行。
+Bridge/Crumbling Crypt|栈桥/崩塌地穴
+Bridge/Suspended|栈桥/悬架
+Crumbling Crypt|崩塌地穴
+Crumbling Crypt/Growth|崩塌地穴/繁茂
+Every prompt|每个提示
+Respite/Diseased|小憩/顽疾
+Shrouded Facility|巨构设施
+Shrouded Facility/Monolith|巨构设施/石碑
 
 //3323298843
 SideHouse2-description|这是侧堂的倾盆大雨版本，具有不同的时间线，以容纳大量的新房间。<LINE>入口在4B。<LINE>与侧堂并不兼容。<LINE>可能会发生崩溃，如果发生的话，将错误日志发给我。

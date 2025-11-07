@@ -1431,7 +1431,7 @@ Corrupted Underbelly|腐蚀腹地
 Ruined Barrier|损毁屏障
 Railway|铁路
 Rotten Interior|腐化内部
-Rotten Interior (Cystic Memory Conflux)|腐化内部（囊性记忆汇流）
+Rotten Interior (Cystic Memory Conflux)|腐化内部（囊性内存集成）
 Rotten Interior (Rotten Transform Array)|腐化内部（腐化传输阵列）
 8 Leaves Under Gold Rain (General Systems Bus)|八叶金雨（通用系统总线）
 Rotten Interior (The Source)|腐化内部（根源）
@@ -2098,7 +2098,7 @@ Chasing Wind|追逐清风
 Chatoyant Waterfalls|猫眼石瀑布
 Chasing Wind (Main Processing Cortex)|追逐清风（基础处理皮层）
 Chasing Wind (Lymphatic Conduits)|追逐清风（淋巴导管）
-Chasing Wind (Memory Conflux)|追逐清风（记忆汇流）
+Chasing Wind (Memory Conflux)|追逐清风（内存集成）
 Chasing Wind (Embedded Heat Frame)|追逐清风（内嵌热机区）
 Chasing Wind (Inner Wall)|追逐清风（内墙）
 Met Chasing Wind|见到追逐清风
@@ -2479,7 +2479,7 @@ The Decaying Wall|衰蚀高墙
 /// 仰望皓月
 Looks To The Moon (General System Bus)|仰望皓月（通用串行总线）
 Looks To The Moon (Damaged Transform Arrays)|仰望皓月（损毁转换阵列）
-Looks To The Moon (Memory Conflux)|仰望皓月（记忆汇流）
+Looks To The Moon (Memory Conflux)|仰望皓月（内存集成）
 
 
 /// 错误信息 ///
@@ -2668,7 +2668,7 @@ Old Hanging Gardens|旧悬苑
 UnparalleledInnocence-descrpition|请阅读：<LINE>强烈建议安装倾盆大雨，尽管这不是必须的。<LINE>为溪流和圣徒提供了不同的时间线拆分。<LINE>这是我试图看到完全由我自己制作的迭代器是什么样子的，结果……有趣。<LINE>不幸的是，迭代器部分非常支离破碎，并且由于iteratorkit变成最糟糕的（不要使用它），并且它缺少一些功能，但我认为这个区域本身值得一玩（我知道迭代器区域令人震惊），所以不要在意在迭代器中玩这个，否则你会失望的。<LINE>包含许多空置的入口，如果有人想扩大它或者做一个城市/外墙/下悬架的话，并且不要把他放置在五块卵石或者月姐那里。<LINE>哦，如果你想让迭代器做社区建议的事情：不要做。
 Unparalelled Innocence|无比纯真
 Unparalelled Innocence (General System Bus)|无比纯真（通用系统总线）
-Unparalelled Innocence (Memory Conflux)|无比纯真（记忆汇流）
+Unparalelled Innocence (Memory Conflux)|无比纯真（内存集成）
 Unparalelled Innocence (Distribution Matrix)|无比纯真（分配矩阵）
 Unparalelled Innocence (Desalination)|无比纯真（海水淡化系统）
 Unparalelled Innocence (Electrical Network)|无比纯真（供电网络）
@@ -4400,7 +4400,7 @@ Filtration Systems|过滤系统
 Water pipes (Filtration Systems)|过滤系统（供水管道）
 Depths (Filtration Systems)|过滤系统（深处）
 No Great Goals|无宏远志
-No Great Goals (Memory Conflux)|无宏远志（记忆汇流）
+No Great Goals (Memory Conflux)|无宏远志（内存集成）
 No Great Goals (General System Bus)|无宏远志（通用系统总线）
 No Great Goals (Memory Crypts)|无宏远志（记忆隐窖）
 No Great Goals (Power Transmission Line)|无宏远志（输电网路）
@@ -4830,6 +4830,72 @@ Oil Refinery|炼油厂
 Observatory|气象台
 Pump System|泵站
 Union Remnant|残损工会
+//OER_B1
+This appears to be a map and status of a pump system,<LINE> showing the exterior and interior mechanics and pathways for proper maintenance.|这似乎是一个泵系统的地图和状态图，<LINE>展示了内外部分的机械结构以及维护所需要的路径。
+It does appear rather awkward however,<LINE> considering that many of these pathways go through normally active machinery. |不过许多路径都需要穿过运行状态中的机器，这让它们显得相当尴尬。
+One of these quite literally goes through an active oil pipe. Quite outrageous if you ask me.|其中一个穿过了一条正在运行中的输油管道。我认为这太离谱了。
+This was considered an international safety violation for obvious reasons,<LINE> but considering the status of the plant I suppose they never got in enough trouble.|显而易见，这是违反国际安全规定的。但是考虑到工厂的状况，我想他们从未遇到过过度的阻碍。
+I must say, it is odd to see something like this transpire so close to our area.<LINE> I thought I would've heard of it, but I never did.|我必须说，这样的事情就发生在离我咫尺之遥的地方，真的很奇怪。我认为我本应该了解过它的，但事实并非如此。
+How far did you go? How did you find this?|你走了多远？你是怎么找到这个的？
+//OER_B2
+This appears to be a letter addressed to an individual known as Thirteen Feasts Upon A Thornbush,<LINE> although it appears to have never been received.|这似乎是一封写给一个名为“十三盛宴，荆棘于冠”的人的信，<LINE>不过它似乎未被收到过。
+It is covered in cold oil,<LINE> which makes it not only hard to read but causes active damage to it's exterior.|这封信上沾满了冷油，<LINE>这不仅使它难以辨认，还对它的表面造成了损害。
+It appears to be a request for additional window panes, along with food supplies.|这封信似乎是在要求额外的窗玻璃和食品供应。
+That is all I can retrieve from it however,<LINE> even the sender's name cannot be properly read.|这就是我能检索到的全部了，不过，<LINE>这封信甚至连发件人的名称都模糊了。
+//OER_E1
+This pearl appears to be a manual surveillance log, most likely used by someone in a position of authority.|这颗珍珠似乎是一份人工监控日志，很可能是某个权威人士使用的。
+I believe this was used for an occupational facility,<LINE> considering the actions recorded in this log.|考虑到这份日志中的记录行为，我认为这是用于某个职业机构的。
+We did not have these here as often,<LINE> it was considered both too old and too young for urban use!|我们这里不常有这些机构，<LINE>它被认为既过时又幼稚，不适合城市使用！
+I suppose that is what happens when houses don't get along,<LINE> not that I believe that was an unusual issue. |我想这就是议会们无法和解的原因，<LINE>不过我不认为这是一个不同寻常的问题。
+The individual writing here seems very suspicious of almost any action,<LINE> whether it be sleeping, eating, or breathing too much.|写这篇文章的人似乎对任何行为都持怀疑态度，不管是睡觉、吃饭还是呼吸过多。
+What brought upon this intense suspicion? Was it paranoia, or something else?|是什么引起了这种强烈质疑？他是一个偏执狂，或者其他什么？
+I suppose we will never know now that they are gone.|我想我永远不会知道的，他们已经离开了。
+//OER_E2
+This appears to be an automated maintenance record of a ventilation shaft.|这似乎是一份通风井的自动化维护记录。
+These were used later on in the industrial revolution, so this must have been initiated later on during that time.|这些设施在后来的工业革命中投入使用，我想这一定是从那个时候开始出现的。
+This can also be seen in the relative lack of data recorded in the pearl, since conditions indicate that the ventilation had been running far before the recording started.|这一点也可以从珍珠相对空缺的数据记录中看出来，这表明在通风记录开始之前，通风井已经运行了相当长的时间。
+I assume that this also must've been active above the cloud layer, since otherwise rushing rainwater would erode the inside of the pipe!|我想这一定是在云层之上运作的，否则湍急的雨水会侵蚀管道内部。
+It is interesting to see how these things have changed,<LINE> but I am a little concerned at how little maintenance was done in core parts of the machinery.|观察这些变化十分有趣，<LINE>但我有些担心的是，这个设备的内部很少维护。
+It is a miracle that it did not implode before they ascended, really.|在他们飞升之前它竟然没有自爆，真是一个奇迹。
+//OER_H1
+This appears to be a video demonstration of worker safety protocols.|这似乎是工人安全协议的演示视频。
+Factories would use these often,<LINE> although I believe this would be considered subpar by most industrial safety officers.|工厂经常使用这些，<LINE>尽管我觉得大多数工业安全负责员认为这并不合格。
+The setting brings me to believe this is for an oil refining facility,<LINE> these would often be paired next to extraction devices to limit the amount of transportation needed.|这个设置让我觉得这是一个炼油设施，<LINE>这些通常会在提取设备旁边配对，以限制所需运输量。
+The video itself was probably made in a few cycles, as the instructions contained are barely legible.|视频本身应该是几个循环内赶做的，因为其中的指令几乎难以辨认。
+I can only assume this was made in response to an international work safety notice,<LINE> considering the lack of effort and disingenuous advice.|考虑到这些缺乏努力和不诚实的建议，<LINE>我只能假设这是对国际安全生产通知的回应。
+Where did you find this, little creature?|你是在哪里找到这个的，小生灵？
+//OER_H2
+This is an operation report for an oil refinery.<LINE> It must've been before mass ascension, since the remarks inside are highly personalized.|这是一份炼油厂作业报告。<LINE>这一定是集体飞升之前的报告，因为里面的评论还存在高度个性化的痕迹。
+Most of it has been melted, likely due to prolonged high temperatures.<LINE> Where ever you got this from must have been very dangerous, considering its condition.|它的大部分已经融化，这可能是长时间处在高温下的缘故。考虑到它的状态，你得到它的地方一定十分危险。
+"Oil temperature in the distillation column: 84 Degrees above boiling. Something must be done to calm it down, or we may soon encounter accidents far more common than before!"|“蒸馏塔内油温：高于沸点84度。必须采取冷却措施，否则我们会遇到比平时更频繁的事故。”
+The rest appears to be encrypted with a broadcast key. I cannot open it myself, unfortunately.<LINE> If anything, it is much more likely for the rest to be inside a broadcast itself!|其余部分似乎是用广播密钥加密的。不幸的是，我无法解开它。<LINE>如果有任何内容，其余部分可能在广播内部。
+//OER_O1
+This appears to be some sort of poem, although it is written rather awkwardly.|这似乎是一首诗，尽管它写的相当笨拙。
+"Down in the earth to where we sleep, the oil is our only keep."|“长眠地深，惟油是依。”
+"To find the rule that lets us peep, the food we eat is where we seek."|“循律求道，五谷之秘。”
+"Down in the earth to where we sleep, shout and yell and cry and shriek."|“长眠地深，悲啸不息。”
+I don't know what this means, to be honest. It is rather amateur.|说实话，我不理解这什么意思，我相当业余。
+Five Pebbles might have better luck, but these days he has become rather irritable.|五块卵石或许更清楚，但这段时间他相当暴躁。
+Even then, maybe he wouldn't know either!|即使这样，他也可能不知道！
+I still appreciate this though, little one. Be safe!|但我仍然很感激你，小生灵，注意安全！
+//OER_O2
+This appears to be some sort of literacy analysis, of a book called "The Oil Plant".|这似乎是对某本叫做《油性植物》的书的某种文化分析。
+It is mentioned multiple times that it is banned in whatever area this is from,<LINE> so it must be rather unusual!|它被多次提到在所有地区禁止传播，<LINE>所以它定然不同寻常。
+The author of this analysis seems to use a rather fancy dialect,<LINE> perhaps to match with the book itself.|这篇分析的作者似乎使用了一种相当奇特的方言，<LINE>也许是为了与书本身相配。
+Either way I don't think I would understand,<LINE> since I have never read this book or ever even heard of it's existence.|不管怎样，我都不明白，因为我从来没有读过这本书，甚至没有听说过它的存在。
+It must be very far away from our territory...|它一定离我们的辖区相当遥远……
+That is, if it even exists at all.|我的意思是，如果它真的存在的话。
+//OER_U1
+This appears to be a transcript from an inspirational speech,<LINE> done by an individual under the name "Twenty Five Rules and Regulations". |这似乎是一个鼓舞人心的演讲的文字记录，<LINE>由个人以“二五守则，约法三章”的名义完成。
+Most inspirational speeches were done by those in higher authority or nobility,<LINE> but the content of the speech and the individual's clear status show otherwise.|大多数鼓舞人心的演讲都是由权威或贵族做到，但这篇演讲的内容和个人的公开地位与之相反。
+It appears that it must've been written in a haste,<LINE> since the pearl has frequent scratch marks and typographical errors.|看起来它一定写的很匆忙，<LINE>因为里面的珍珠常有划痕和印刷错误。
+I can't help but feel like I have heard this name before...|我觉得我以前听说过这个名字……
+I wonder what has happened to this individual now?|我很想知道这个人现在怎么样了？
+//OER_U2
+This pearl appears to contain a log of all food storage and medicine in a housing facility,<LINE> along with some encrypted text that I cannot understand.|这颗珍珠似乎包含了一个居住设施中所有的食物与药品储存的日志，<LINE>以及一些我看不懂的加密文本。
+I can only assume that this was copied from someone else and edited in some substantial way,<LINE> since the encrypted text is clearly newer and hastily written upon the pearl's ending points.|我只能假设这是从别人那里复制过来的，并且以某种实质性的方式进行了编辑，<LINE>因为里面的加密文本显然较新，并且匆忙地写在了珍珠的末尾。
+These ending points are usually reserved for empty space,<LINE> but in this case it is filled with encrypted text that I can only assume means something when combined and put through the correct encryption method.|这些结束点通常是为空白空间保留的，<LINE>但这种情况下，它被加密文本填充了，我只能假设这些文本在组合并且通过正确的加密方法进行加密时是有意义的。
+Back when I was still standing, I might've been able to decrypt this. Now I cannot.|在我健康的时候，也许我能破译这个。现在我无能为力了。
 
 //3554574150
 dietpebsi.intercitystation-description|未完成
@@ -5289,6 +5355,53 @@ The Decay (Decaying Processor)|腐朽之地（衰败处理区）
 Rotting Supports|腐化支柱
 The Decay (Corroded Pipes)|腐朽之地（腐蚀管线）
 The Rusted Peak|锈蚀顶峰
+//HC_RADIO_TOWER_CONV
+...<PLAYERNAME>, Where did you find this?|……<PLAYERNAME>，你在哪里找到的？
+it is an iterator maintenance report<LINE>but the report format is older than even mine...|这是一份迭代器维护报告<LINE>但报告用的格式比我都老……
+Do I reconize the report name?|这是一份迭代器维护报告<LINE>但报告用的格式比我都老
+Maybe not...|认不出……
+Very well, I will read it to you.<LINE>Although some of it is corrupted...|好吧，我会把内容读给你听。<LINE>但有些部分已经损坏了……
+SEVEN WINDING TUNNELS MAINTENANCE REPORT|七曲隧道维护报告
+WARNING! CURROPTION DETECTED!|警告！检测到腐化!
+GENERAL PROCESSOR - OFFLINE<LINE>DAMAGED|通用处理系统 - 离线<LINE>损坏
+MASS REFRACTION CELL - OFFLINE<LINE>DAMAGED|质量稀释电池 - 离线<LINE>损坏
+MEMORY CONFLUX - OFFLINE<LINE><LINE>DAMAGED|内存集成 - 离线<LINE><LINE>损坏
+STRUCTURE DAMAGE - UNKNOWN|结构损伤 - 未知
+...|……
+And it goes on about with corrupted text|接下来继续显示着报错文本。
+I don't believe you would find<LINE>it too interesting, <PLAYERNAME>|我不觉得你会对那些内容感兴趣，<PLAYERNAME> 
+//SW_RADIO_TOWER_CONV_ARTIFICER
+it is an iterator maintenance report<LINE>the format is even older than moons|这是一份迭代器维护报告<LINE>格式比月姐都老……
+And I do not recognize the name report name...|而且我不认识这个维护报告上的名字……
+Very well, I will read it to you if that is what you want.|好吧，要是你想的话，我会把内容读给你听。
+WATER RESERVES LOW! MAINTAINING WATER CONSERVATION MODE!|储水量低！维持节水模式！
+ALL TASKS POSTPONED UNTILL WATER RETURNS TO A NORMAL LEVEL!所有任务推迟，直至水位恢复至正常水平！
+GENERAL PROCESSOR - ONLINE|通用处理系统 - 在线
+ELECTRICAL BATCH - ONLINE<LINE>DAMAGED - CORRUPTION DETECTED|电气处理区 - 在线<LINE>损坏 - 检测到腐化
+MASS REFRACTION CELL - ONLINE| 质量稀释电池 - 在线
+MEMORY CONFLUX - ONLINE - SUSPENDED|内存集成 - 在线 - 暂缓
+STRUCTURE DAMAGE - MODERATE|结构损伤 - 适中
+And it goes on about the different material levels.|接下来继续播报各种材料等级。
+I don't believe you would find<LINE>it too interesting, <PLAYERNAME>|我不觉得你会对那些内容感兴趣，<PLAYERNAME> 
+Although it does seem like they are in a similar predicament to me...|虽然看起来其和我处境相似……
+//SW_RADIO_TOWER_CONV_RED
+Or did I forget?|是我忘了吗？
+Very well, I will read it to you.|好吧，我会把内容读给你听。
+WATER RESERVES RETURNING TO NORMAL! EXITING WATER CONSERVATION MODE!| 储水量恢复至正常水平！正在退出节水模式！
+MEMORY CONFLUX - ONLINE|内存集成 - 在线
+//0-SW_RADIO_TOWER_CONV_SPEAR
+ELECTRICAL BATCH - ONLINE|电气处理区 - 在线
+STRUCTURE DAMAGE - MILD|结构损伤 - 轻微
+//SW_RADIO_TOWER_CONV_YELLOW
+MASS REFRACTION CELL - ONLINE<LINE>DAMAGED - CORRUPTION DETECTED|质量稀释电池 - 在线<LINE>损坏 - 检测到腐化
+MEMORY CONFLUX - ONLINE<LINE>CORRUPTION DETECTE|内存集成 - 在线<LINE><LINE>检测到腐化
+STRUCTURE DAMAGE - MODERATELY SEVERE|结构损伤 - 中度严重
+//TD_RADIO_TOWER_CONV
+GENERAL PROCESSOR - ONLINE<LINE>DAMAGED - CORRUPTION DETECTED|通用处理系统 - 在线<LINE>损坏 - 检测到腐化
+ELECTRICAL BATCH - OFFLINE<LINE>DAMAGED - CORRUPTION DETECTED|电气处理区 - 离线<LINE>损坏 - 检测到腐化
+MASS REFRACTION CELL - ONLINE<LINE>DAMAGED - CORRUPTION DETECTED|质量稀释电池 - 在线<LINE>损坏 - 检测到腐化
+MEMORY CONFLUX - ONLINE<LINE><LINE>DAMAGED - CORRUPTION DETECTED|内存集成 - 在线<LINE><LINE>损坏 - 检测到腐化
+STRUCTURE DAMAGE - SEVERE|结构损伤 - 非常严重
 
 //3353299442
 ModTags
@@ -5364,6 +5477,18 @@ Fusion core|聚变堆芯
 CORE|核心
 henrys weird room?|henrys的诡异房间？
 Outside|外部
+//SSSS_CRY
+Ha, ha, ha|哈，哈，哈
+Harpy Hare, where have you buried all your children?|鹰身女妖，你把所有的骨肉埋葬何方？
+Tell me so I say|请回答我的问题
+All the arrows that you've stolen|你盗窃走所有的箭矢
+Split in half, now bum and broken|如今断裂破损，一折为二
+Like your heart that was so eager to be hid|如同你那颗迫切躲藏的内心
+You can't keep them all caged|你不能将它们永世囚禁
+They will fight and run away|它们总会反抗逃离
+Mother, tell me so I say|母亲，回答我的问题吧
+Harpy Hare, where have you buried all your children?|鹰身女妖，你把所有的骨肉埋葬何方？
+Tell me so I say|请回答我的问题
 
 //3572680373
 SCP-354-description|SCP-354（血池）

@@ -5916,3 +5916,27 @@ norippleneeded-description|传送点在wara_p09，不需要涟漪空间。
 //3599425681
 PoOlRoOmS-description|一个观望者的区域模组。
 Poolrooms|台球厅
+
+//3601632450
+flotsamcove-description|一片漂浮着碎石与残骸的海岸线子区域。
+Flotsam Cove|漂浮物海湾
+Tetanus Island|悬崖
+Tetanus Island|破伤风岛
+
+
+//3602053484
+tsunochizu.barrenstreets-description|一个增加了一片城市区域的模组区域。
+Barren Streets|贫瘠街道
+//五块卵石读珍珠
+It is a maintenance order with detailed instructions for the main aqueduct of my city, so I suspect you might've found it within what remained of it.|这是一份关于我的城市引水渠的维护指令，上面有着详细的说明。我想你是在它的残骸中找到的。
+It used to be one of the greater architectural monuments held within it, and it continued to function even well after the mass ascension, before the scavengers took home in the nearby area. <LINE> The current sorry state of the aqueduct is a direct consequence of their presence.|它曾经是城市内最伟大的建筑之一，并且一直到集体飞升之后仍运转良好，直到那些拾荒者来到附近定居。<LINE> 目前这条引水渠的糟糕状况就是因为他们的存在。
+ am unsure if the wave of explosions they set off was planned with malicious intent, or if it happened due to a chain reaction set off by their extreme measures taken to neutralize a threat, but the outcome is one and the same.|我不确定爆炸波是出于恶意策划，还是因为他们采取极端措施消除威胁而引发的连锁反应，但结果是一样的。
+Hopefully thanks to your current efforts, no more historical monuments are going to get destroyed by their continuous presence.|幸运的是，多亏了你目前的努力，不会有更多的历史遗迹因为他们的持续存在而被破坏了。
+You should return to that duty now, in fact.|事实上，你现在该回去履行职责了。
+//仰望皓月读珍珠
+It is a letter addressed towards new maintainers of the aqueduct within the city on top of Five Pebbles.|这是一封写给五块卵石上层城市内新人引水渠维护者的信。
+Its construction was incredibly important, as living so high up in the sky, our citizens required a stable <LINE>supply of water which couldn't be otherwise obtained through natural means.|它的建造十分重要，因为居住在如此高的空中，我们的公民需要一种稳定的 <LINE>水源供给，这显然无法通过自然的方式获得。
+This particular note addresses a bunch of complaints regarding low pressure, which meant that low amounts of <LINE>liquid were able to move through the upper areas, depleting the greenhouse and causing damage to the plants.|这封特别的记录中提到了一系列关于压力过低的投诉，这意味着只有少量的 <LINE>液体可以在上层区域中流动，导致了温室缺水并且对植物造成了损害。
+Other than the list of complaints, there is a detailed instruction on how to replace faulty elements and an <LINE>equipment manifest of supplied materials.|除了投诉清单之外，这里还有如何更换故障元件的详细说明和一份<LINE>材料申请清单。
+I'm unsure if the repairs ever took place.|我不确定是否进行过维修。
+

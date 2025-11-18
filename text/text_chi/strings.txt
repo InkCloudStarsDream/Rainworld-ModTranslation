@@ -2107,6 +2107,11 @@ Citadel|堡垒
 BRIGHTENED CITADEL|启明堡垒
 The Support|支承
 The Leg 2|支架2号
+//UU_CabinetBeast2-Artificer
+This is a diagram of a purposed organism capable of storing memories.<LINE>These creatures were widely used in my memory crypts.|这是一种能够储存记忆的功能性有机体的示意图。<LINE>这类生物曾被广泛用于我的记忆陵墓。
+Purposed organisms like these were preferred for memory storage since they were simpler and self-contained.<LINE>Our creators wanted to avoid burdening our memory arrays with irrelevant information, allowing us to focus on solving the great problem.|这些功能性有机体结构更简单且独立自主，因此它们能更好的存储记忆。<LINE>我们的创造者希望避免无关信息给我们的内存阵列带来负担，以便我们能够专注于解决伟大问题。
+Because of this, I’m missing a significant chunk of qualia in my logs, memories that might have been useful now.<LINE>But this pearl doesn’t contain anything of real use.|正因如此，我的数据库内缺失了相当大一部分的感受质，以及可能派上用处的记忆。<LINE>但这颗珍珠并不包含任何真正有用的信息。
+Let me return to more important matters.|请让我回去处理更重要的事务。
 
 //3232063592
 myr.chasing_wind-description|在苔藓原野的葱郁丛林之后矗立着一座被风暴笼罩的巨构建筑。
@@ -2758,13 +2763,13 @@ Consdier this an Echo|请把这个当做是回响
 
 //3359176343
 yardsofsteam-description|一个有蒸汽的区域。
- The Steamyard|蒸汽堆场
- Its like... totally covered in rot and stuff...|它像是...被腐化物完全覆盖的什么玩意...
- Desolate Foundry|荒凉铸造
- The Boiler|锅炉
- bird.|丸辣。
- Temperate Crevice|温和裂隙
-Watch out%2the steam could be dangerous|小心，蒸汽很危险
+The Steamyard|蒸汽堆场
+Its like... totally covered in rot and stuff...|它像是...被腐化物完全覆盖的什么玩意...
+Desolate Foundry|荒凉铸厂
+The Boiler|锅炉
+bird.|丸辣。
+Temperate Crevice|温和裂隙
+Watch out,2the steam could be dangerous|小心，蒸汽很危险
 Watch out,..................................................................................................................................|小心，..................................................................................................................................
 This water is boiling. You should probably know that isnt safe.|这片水域是沸腾的。你应该知道那并不安全。
 This water is water. duh. whats 19 +10? "21?" you stupid.|这水可真水。嗯...19+10是多少？“21?”你真是个笨蛋。
@@ -4080,10 +4085,15 @@ Pearlescent Chambers|珍珠储藏所
 Fragmented Storerooms|破碎储藏室
 
 //3459890439
+easternexpanse-description|五块卵石之下，向东，在古老建筑下方隐藏着一处荒原。<LINE>探索野外沼泽，河流侵蚀的潮汐<LINE>踏上旅途，将过往印象甩在身后。
 Dark Caves|晦暗洞窟
 Eastern Expanse|东向广域
 Flooded Nest|浸湿巢穴
-easternexpanse-description|五块卵石之下，向东，在古老建筑下方隐藏着一处荒原。<LINE>探索野外沼泽，河流侵蚀的潮汐<LINE>踏上旅途，将过往印象甩在身后。
+Weathered Lake|风化湖泊
+New Home|新家
+Wilden Swamps|荒滩沼泽
+Hillside|山坡
+Tower|高塔
 
 //3153903951
 com.rainworldgame.shroudedassembly.plugin-description|为Shrouded Assembly或者其他模组撰写的代码配件。
@@ -4412,6 +4422,7 @@ WaterproofChallenge|潜水
 Stay <target_amount> seconds underwater in <target_region>|在<target_region>的水下停留<target_amount>秒
 
 //3519522113
+ngg_FonabA-description|增加7个区域，连接外层空间(OE)【OE_CAVE7】,地下(SB)【SB_GOR01】，<LINE>以及一个观望者专属区域。
 Silent Lands|宁静之地
 Unloading Station|卸货站
 Water Channels|水道
@@ -4432,7 +4443,6 @@ Rusted Way|锈烂走廊
 Lands Of The Rot|腐化弃土
 Rotting Construction|腐烂陈设
 Rotting Pipes|腐蚀管道
-ngg_FonabA-description|增加7个区域，连接外层空间(OE)【OE_CAVE7】,地下(SB)【SB_GOR01】
 
 //3521314879
 Misty Marish|薄雾沼泽
@@ -4820,12 +4830,94 @@ slm1-description|由四种不同风格的子区域组成的展示区域，由雨
 //3550532566
 thelosttunnels-description|在一处阴暗的遗忘之地，有生灵寻得了新家园。
 The Lost Tunnels|失落隧道
+Decayed Chamber|衰变洞窟
+denchik slaziet|我们必须想象怪猫是幸福的
+The Lost Poops|失落代谢
+Brain Rot|脑腐
+//0-LT_BUNT_PEARL
+...|……
+Oops.|哦不。
+//LT_SCAV_PEARL
+This pearl is very damaged, i think, someone tried to write on it using a metal spear...|这颗珍珠损坏严重，我觉得……是有人试图用长矛在上面刻字……
+Although, i can read this... rather primitive text?|但我或许可以阅读一下这种……原始文字？
+The first words begins at quarter of the carrier.|第一个词始于文本的四分之一处。
+I'll read it.|我试试看。
+I sen stremge robt he tel abut old and shayni tings he wana muy shuny i no giv siny robat i ned it...|我见到了那个奇怪的机器人，<LINE>祂告诉我祂想要那些又旧又闪亮的东西……<LINE>我没交给祂因为我更需要它……
+now i kmow wat tolk robt he no bad fo mi and nams look moon no knov wat miens he teld adout who make all...|现在我明白了机器人的话语……<LINE>祂并没有恶意，名叫仰望皓月，<LINE>祂诉说关于创造者的事但我不明白那是什么意思……
+i walk tel othe bout what i ler/n but lost in piiepes wich robt talkd me abut herc dark and hard writ...|我想离开去告诉其他人我的见闻，但我迷失在了机器人告诉我的黑暗坚硬难以写字的管道里……
+i food eded up hugntry lad apqer synbol...|我的食物耗尽，饥饿……出现了一个符号……
+i no finb way ouj hege obat tolb wen i die i wake agan i hope so...|我没能找到出路……机器人告诉我<LINE>——每当我死亡，都将再次醒来……<LINE>我希望那是真的……
+//LT_LORE_PEARL
+These are automatic reports on the operation of old sewers that were decommissioned before the construction of the Five Pebbles,|这些是在五块卵石建成前就已经停用的旧排水系统性能自动报告，
+wonderful how the data hasn't been corrupted all this time. |数据这么长时间都没有损坏真是太好了。
+Here, you'll find information about the groundwater level, the condition of the infrastructure, and any blockages. |在这里，你可以找到有关地下水位、基础设施状况和任何堵塞的信息。
+It's remarkable that these catacombs haven't collapsed yet, considering that they were built without the use of healing bacteria or advanced materials. |这些地下管网至今尚未崩塌真是惊人，毕竟修建时甚至没有使用修复细菌或先进材料。
+This system was highly imperfect and clearly not designed to withstand the presence of not only one but two iterators. |该系统的设计并不完美，也未曾做过可被两个迭代器共用的考量。
+After each downpour, the drainage system was completely or partially damaged, |每次暴雨过后，排水系统功能都会部分乃至完全失效。
+and separate organisms were created specifically for cleaning and maintaining the pipes. |因此后来培育了功能性有机体以清洁维护管道。
+My creators were in no hurry to create a new drainage system, |我的创造者们并不急于建造新的排水系统，
+and as a result, in some areas, the walls were so eroded by water that they were no thicker than a plant leaf. |以至于某些地方的管道壁变得比一片叶子还要薄。
+I advise you not to return to the place where you got this.|我不建议你再返回找到这颗珍珠的地方。
+//LT_LORE_PEARL-artificer
+On this pearl, there are reports about the old drainage system, which was decommissioned before I was built. |这是在我建成前就已经退役的旧排水系统的报告。
+I hope that these catacombs will soon collapse, |我真希望这些地下管网能快些崩塌。
+as my creators connected me to the automation system of those tunnels for some reason. |由于我的创造者们出于某些原因将我接入了这些管道的自动系统。
+I still receive warnings about the dangerous condition of the infrastructure in those areas. |直到现在我还能收到关于那片区域基础设施状况危急的警报。
+It's surprising that my creators didn't demolish or seal this system immediately after building the new one, |我的创造者们并未在建成新的排水系统后立刻拆除或封闭这个旧系统令我十分惊讶。
+as the maintenance costs were significant according to the data from the pearl, |根据这颗珍珠上的数据，维护管道的成本高得惊人。
+and the ancient tunnels' capacity was limited. |而且老式隧道容量有限。
+It would have been more efficient to use target organisms with buckets, |要是使用桶式功能性有机体会更高效，
+but my creators prevented the walls from collapsing. |但我的创造者们选择了维持现状。
+Although, in the days before the General Ascension, |尽管，那已经是普世飞升的前夕。
+there were rumors that there was a group of members in the Council who benefited from maintaining the traffic of items |有传言说，议会中有一些成员靠收取维护物资的运费获利。
+that were strictly taboo through those locations, as it was the only effective use of those sewers.|此行为是当地的禁忌——因为那是这些管道唯一的利用方式。
+//LT_LORE_PEARL-spear
+This is outdated data about the operation of the old water drainage system under my construct. |这是关于操作我的巨构下的旧排水系统的过时数据。
+I do not have enough time to delve into these archives, |我没有多余的时间去细究这些档案。
+but the last changes in the records date back to shortly after the construction of the Five Pebbles. |但记录中最新的日期也早于五块卵石的建成。
+It appears that the recorder was completely worn out. |看来那台记录机已经彻底损坏了。
+Now, return to your mission, brave messenger.|现在回到你的任务中吧，勇敢的信使。
+//LT_MUSHR_PEARL-artificer
+These are records of some kind of parasitic organism. |这是某种寄生生物的记录。
+It grows rather slowly and feeds on inorganic matter, mainly rocks. |它们生长缓慢，主要以岩石为主的无机物为食。
+Surprisingly, its genome is almost identical to the organism I'm currently trying to wash out of myself. |但它的基因组与我正在试图从体内清除的有机体高度相似。
+With a cumulative effect, such organisms could potentially soften the surrounding rock|通过累积效应，这种有机体会软化周围的岩石。
+and collapse the underground infrastructure beneath the entire installation. |并将巨构下方的地下基础设施整个摧毁。
+I hope my creators addressed this issue before leaving.|但愿我的创造者们在离开前处理了这些烂摊子。
+//LT_MUSHR_PEARL-spear
+This pearl contains information about a parasitic bioluminescent fungus that,|这颗珍珠中记录了一种寄生发光菌的信息，
+as I recall, was discovered in an old sewer system. |我记得这是在一个老式下水管道系统中发现的。
+Although there was no direct evidence of the fungus's harmfulness, no one was willing to take the risk. |虽然没有直接证据表明这些真菌有害，但没人愿意冒这个险。
+As a result, only a select few maintenance personnel were allowed to enter the sewer, |因此只有少数维修人员被批准进入下水管道，
+and they were required to wear chemical and biological protective suits. |而且强制要求穿着防生物防化服。
+I hope you didn't encounter anything with a purple glow on your journey to this pearl, brave messenger.|希望你没有在寻找这颗珍珠中旅途中碰到任何发出紫色微光的东西，勇敢的信使。
 
 //3548861158
 thecusp-description|穿越东挡土墙的系列区域<LINE>共两个入口，烟囱天棚（推荐入口）和海岸线/海滨设施<LINE>目前仅包含一个区域，另外有两个区域正在建设中。
 The Cusp|边界地
 Pipe Wastes|管道废墟
-
+//AQTC_TRANSPORT-DM
+It’s a long instruction manual detailing the process and safety<LINE>measures of handling and transporting dangerous gases. You must<LINE>have found this in the old waste transportation facility behind<LINE>my superstructure.|这是一份详细的流程与安全规范手册，<LINE>内容是关于处理和转运危险气体。<LINE>你一定是在我的结构后方的旧废弃物转运站找到这个的吧。
+Liquid, solid, and gaseous waste deemed too dangerous were moved<LINE>far away to a distant waste facility. Many of the processes used<LINE>to move this waste were only semi-automated, meaning some manual<LINE>labor was required to operate many of the involved systems.|被判定为过于危险的固体、液体及气体物质都将被移送指偏远处理设施。<LINE>其中多数运输流程都只实现了半自动化，<LINE>也就是说许多涉及到的系统仍需一些人工操作才能正常运转。
+From my recollection, it was long abandoned after a group of highly<LINE>influential benefactors deemed it too much effort to transport organic<LINE>and industrial waste to a remote location. Instead, they opted to create<LINE>a newer, more streamlined waste processing facility close by.|根据我的记忆，该设施在很久以前就被废弃了——<LINE>当时我们的建造者当中一些极具影响力的人认为，将有机和工业废料运输到偏远地区实在太过麻烦。<LINE>于是他们转而选择在附近建造了一个更新、更高效的废物处理设施。
+Like many other industrial sites located within the retaining wall,<LINE>it was remodeled and reincorporated into the other industrial sites.<LINE>Most resources at the time were being allocated to the iterator projects,<LINE>so I can only assume it assisted in construction somehow.|如同护墙内的许多其他工业区一样，那里被改造并整合进了其他工业设施中。<LINE>由于当时大部分资源都分配给了迭代器项目，我只能推测此地最终可能被用于辅助建设。
+//AQTC_CORRODED-SL
+0 : Ah, it seems this pearl has been subjected to highly corrosive matter.<LINE>I hope you haven't had extensive contact with it, seeing as the exterior of<LINE>is partially melted. : 60|0 : 啊，这颗珍珠好像接触过高度腐蚀性物质。<LINE>希望你没有过多触碰它，看上去其外壳已经部分溶蚀了。: 60
+However, I believe I can still read some of the intact data within.|不过，我认为我仍能读取内部部分完好数据。
+It contained a plethora of images, yet im only able to access one. Unfortunately,<LINE>I cannot show you this image, but I can attempt to describe it to you.|它曾经储存有大量图像，不过现在只能读取一张了。<LINE>不幸的是，我不能向你展示该图像，但我会尝试将它描述给你。
+It's a landscape shot taken of the exterior of my facility from the surface.<LINE>It seems my Structure was merely a backdrop, as the subject of this picture<LINE>was of the local flora. Seeing as my facility caused the surface to become<LINE>nearly inhabitable, I hope whoever was down there at the time was okay.|这是张从地表拍摄的我设施外景的广角图。<LINE>看上去我的结构只是背景，照片的画面主题是当地的植被群。<LINE>考虑到我的设施导致地表变得几乎无法居住，<LINE>无论是谁当时在那下边，我希望他们平安无事。
+//0-AQTC_TRANSPORT-SL
+It’s a long instruction manual detailing the process and safety<LINE>measures of handling and transporting dangerous gases from a waste<LINE>transportation facility to a distant garbage dump.|这是一份详细的流程与安全规范手册，<LINE>关于处理危险气体，并将它们从废弃物转运站转送到遥远的垃圾填埋场。
+Liquid, solid, and gaseous waste deemed too dangerous were<LINE>moved far away to a distant waste facility. Many of the<LINE>processes used to move this waste were only semi-automated,<LINE>meaning some manual labor may have been required to operate<LINE>many of the involved systems.|被判定为过于危险的固体、液体及气体物质都将被移送指偏远处理设施。<LINE>其中多数运输流程都只实现了半自动化，<LINE>也就是说许多涉及到的系统仍需一些人工操作才能正常运转。
+The second portion warns of what happens if someone were to spend<LINE>too much time within the facility without the proper equipment.|后半部分特别警告了未配备防护装备者长时间在设施滞留的后果。
+Please do be cautious if you ever plan to return, <PLAYERNAME>.|若你打算再去那里，请务必小心，<PLAYERNAME>。
+//0-AQTC_CORRODED-SS
+<20>…<100>|<20>……<100>
+This pearl appears to be completely eroded from some sort of<LINE>toxic matter. I hope you have only recently come into contact<LINE>with this. Whatever coated its exterior could do extensive<LINE>|这颗珍珠似乎因接触某种剧毒物质而完全蚀损。<LINE>我希望你是刚刚才接触到它的——
+harm to a small, frail body such as yours.|其表面附着的物质足以对你渺小脆弱的躯体造成严重伤害。
+//AQTC_TRANSPORT-SS
+It’s a long instruction manual detailing the process and safety<LINE>measures of handling and transporting dangerous gases.|这是一份详细记载危险气体处理与运输流程的安全流程手册。
+I doubt a wild animal such as you would care<LINE>about transporting toxic waste.|但我怀疑你这样的野生动物是否会在意有毒废料的运输规范。
 
 //3551973259
 puzzlemod2-description|区域拓展包，旨在向所有操作水平的玩家介绍雨世界的诸多小特性，<LINE>共计100+屏幕的6个解谜区域，30个可收集的彩色珍珠。<LINE>你能全收集吗？
@@ -5945,7 +6037,6 @@ flotsamcove-description|一片漂浮着碎石与残骸的海岸线子区域。
 Flotsam Cove|漂零港湾
 Tetanus Island|破伤风岛
 
-
 //3602053484
 tsunochizu.barrenstreets-description|增加一处城市区域。
 Barren Streets|落寞巷道
@@ -5962,4 +6053,13 @@ This particular note addresses a bunch of complaints regarding low pressure, whi
 Other than the list of complaints, there is a detailed instruction on how to replace faulty elements and an <LINE>equipment manifest of supplied materials.|除了投诉清单之外，这里还有如何更换故障元件的详细说明和一份<LINE>材料申请清单。
 I'm unsure if the repairs ever took place.|我不确定是否进行过维修。
 
-
+//3605718234
+edenstonne.beyondthewest-description|本模组增加了3只全新的MSC式的蛞蝓猫，<LINE>每只蛞蝓猫都拥有独特能力与移动方式以探索并游玩!<LINE>目前还未拥有剧情模式，但后续会考虑增加。<LINE>本模组完全适配雨甸竞技场模式，部分适配雨甸剧情模式。<LINE><LINE>由衷感谢alpha测试员Martyn和M'eien。
+Soulless Desert|无魂荒漠
+Cold Caves|寒冻冰窟
+Eroded Pipeline|侵蚀管道
+Trailseeker|寻迹者
+The Trailseeker|寻迹者
+The Core|核心
+Spark|电光
+The Spark|电光

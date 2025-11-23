@@ -6063,3 +6063,36 @@ The Trailseeker|寻迹者
 The Core|核心
 Spark|电光
 The Spark|电光
+
+//3608951932
+alduris.jigsaw-description|现在游戏变成了一款拼图谜题，你必须边玩边解开谜题（可配置）。
+Preset:|预设：
+Size:|尺寸：
+Play style:|游戏模式：
+{0} pieces|{0} 块拼图
+Chance modifier:|概率调整：
+[does not apply]|[不适用]
+Flash on hover:|悬停时闪烁效果：
+Arena too:|竞技场启用：
+Reset puzzle:|重置拼图：
+Regenerate puzzle:|重新生成拼图：
+LetMePuzzle|自选拼图
+A non-obtrusive button in the top left of the screen, or keybind-activated.|通过屏幕左上角一个不显眼的按钮或者键位激活。
+PuzzlePerCycle|每循环拼图
+At some point during the cycle, the game will launch a surprise puzzle.|每循环的某个时候，游戏会生成一个惊喜的拼图谜题。
+PuzzlePerRoomPerCycle|每循环每房间拼图
+A puzzle will appear per room that you have not solved in the current cycle. Leaving an unfinished room and coming back re-randomizes the puzzle.|每个循环，在还未于当前循环完成拼图的房间中会生成拼图。在拼图还未完成的时候离开再返回房间会重新随机化拼图。
+PuzzlePerRoomPerSession|每存档每房间拼图
+A puzzle will appear per room that you have not solved in the current game instance. Leaving an unfinished room and coming back re-randomizes the puzzle.|每个存档，在还未于这只蛞蝓猫游戏中完成拼图的房间中会生成拼图。在拼图还未完成的时候离开再返回房间会重新随机化拼图。
+PuzzlePerRoomSometimes|概率性每房间拼图
+A puzzle will sometimes appear in a room on a given cycle. Leaving an unfinished room and coming back re-randomizes the puzzle.|拼图有时会在给定的循环中生成于某个房间里。在拼图还未完成的时候离开再返回房间会重新随机化拼图。
+PuzzleAtRandom|随机拼图
+Randomly while there isn't an active puzzle, a puzzle will spawn.|当前若没有被激活的拼图，则有概率随机生成一个拼图。
+Custom|自定义
+Baby|宝宝级别
+Small|小型
+Medium|中型
+Large|大型
+Gigantic|巨大
+Enormous|极巨
+MAX|最大

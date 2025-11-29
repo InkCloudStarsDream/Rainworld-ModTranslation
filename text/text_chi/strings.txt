@@ -6096,3 +6096,33 @@ Large|大型
 Gigantic|巨大
 Enormous|极巨
 MAX|最大
+
+//3602318730
+CITY_FonabA-description|增加一个【区域】以及一个新的【蛞蝓猫】
+Avoided|失效
+?A??0i??4???|？已？？失？？效？？？
+A small creature ??  [D; ihVsy] lost in timelessness?  ??  [Yjr Mpejrtr].|一只小生灵？？【蛞褕耄】迷失于永恒中？  ？？【無處可尋】。
+[TH3] Real [C8TY]|真正的【都市】
+Street|街道
+Hidden Rooms|隐藏房间
+The Nowhere|无处可寻
+But [SlugCat] needs to sleep to [proceed]|但是【蛞蝓猫】需要雨眠来【继续】
+
+//3608176680
+RWJR.Rm-description|你是否想过成为一只【*wawa*】<LINE>并在一个从未有其他【*wawa*】涉足过的丛林里wawa叫？<LINE>这是我对我做的第一个黑历史模组的重置。
+The Calmlands|安宁之地
+Calmlands Subdistrict|安宁街区
+Home|家园
+Inside|内部
+Calmlands Subspace|安宁次区
+The Love|爱意
+Love.RWJR|爱意
+Spread [the love]|让世界充满【爱】
+Uzato.RWJR|乌扎托
+Uzato|乌扎托
+Strike them all down. For you, your little sister, and your mother.|扫除一切障碍。为了你，你的小妹妹，还有你的母亲。
+Hatred|憎恨
+
+//3608877389
+bodminstheboxesregion-description|一个小巧而平和的区域，位于排水系统与管道堆场之间。这个是我做的第一个模组，所以可能会有一点BUG。
+The Boxes|箱庭

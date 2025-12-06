@@ -3402,7 +3402,9 @@ Enduring Forge|弥坚锻造
 //3377469453
 global_hyper_transit-description|一个从迭代器到迭代器的环球地下列车网络，包含区域Q0和IQ。
 Freezing Flights|冻结航线
+City Limits|城市边界
 Drenched Dwellings|浸湿居所
+Greyscale Skyline|灰度界线
 Global Hyper-Transit System|全球超运系统
 Subzero Locomotive System|深寒铁路系统
 
@@ -6135,3 +6137,14 @@ The Summit|顶峰
 Rain Shadow|雨幕庇影
 Starlit Reservoir|星光水库
 Mountain's Edge|山脉边缘
+The air is thin up ahead|前方空气稀薄
+
+//3616910980
+fractured_foundry.flan-description|一座巨大的冶金工厂，烟囱漫无目的地排放烟雾，<LINE>烟雾笼罩于设施之上，窒息了它的大厅……
+Fractured Foundry|破碎铸造厂
+Solemn Steamstacks|肃穆蒸汽堆
+Stagnant Eutrophs|污浊营养体
+Coolant Block|冷却液块
+Cesspools|污水池
+Faulty Perimeter|故障周界
+*The Modding Knight appeared.|*模组骑士出现了。

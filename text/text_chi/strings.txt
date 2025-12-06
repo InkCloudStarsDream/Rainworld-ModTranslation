@@ -6126,3 +6126,12 @@ Hatred|憎恨
 //3608877389
 bodminstheboxesregion-description|一个小巧而平和的区域，位于排水系统与管道堆场之间。这个是我做的第一个模组，所以可能会有一点BUG。
 The Boxes|箱庭
+
+//3616910811
+mountceleste-description|在那冰天雪地之处，矗立着一座几乎触及天幕的高山……
+Celestial Summit|天空之顶
+Trail of Stars|星之航迹
+The Summit|顶峰
+Rain Shadow|雨幕庇影
+Starlit Reservoir|星光水库
+Mountain's Edge|山脉边缘

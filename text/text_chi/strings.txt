@@ -6148,3 +6148,16 @@ Coolant Block|冷却液块
 Cesspools|污水池
 Faulty Perimeter|故障周界
 *The Modding Knight appeared.|*模组骑士出现了。
+
+//3618955060
+vali_overgrownurban-description|简介：<LINE>探索古老的、被自然占领的、枝繁叶茂的城市。
+Overgrown Urban|绿蚀都市
+Dead City|死寂之城
+Storage Complex|综合仓库
+Sewer Swampland|污水沼泽
+Sunscorched Trainway|灼日轨道
+Skyhigh Column of Countless Generations|苍穹之巅，万代不朽之柱
+Ashen Monolth|苍岩
+Frozen Wasteland|封冻荒地
+Cold Trainway|凛寒轨道
+Column of Forgotten Generations|被遗忘的世代之柱

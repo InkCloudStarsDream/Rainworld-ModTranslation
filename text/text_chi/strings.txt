@@ -6117,12 +6117,15 @@ Calmlands Subdistrict|安宁街区
 Home|家园
 Inside|内部
 Calmlands Subspace|安宁次区
-The Love|爱意
-Love.RWJR|爱意
-Spread [the love]|让世界充满【爱】
-Uzato.RWJR|乌扎托
+//在解决同名为LOVE的mod猫的名称冲突前无法改动，本mod中的LOVE暂时定名为“慈爱者”//
+The Love
+THE LOVE
+Love
+Let there be peace throughout the world.|令世界归于安宁。
 Uzato|乌扎托
+UZATO|乌扎托
 Strike them all down. For you, your little sister, and your mother.|扫除一切障碍。为了你，你的小妹妹，还有你的母亲。
+Strike them all down boy|扫除一切障碍，小子
 Hatred|憎恨
 
 //3608877389
@@ -6144,14 +6147,14 @@ fractured_foundry.flan-description|一座巨大的冶金工厂，烟囱漫无目
 Fractured Foundry|破碎铸造厂
 Solemn Steamstacks|肃穆蒸汽堆
 Stagnant Eutrophs|污浊营养体
-Coolant Block|冷却液块
+Coolant Block|冷却液组
 Cesspools|污水池
 Faulty Perimeter|故障周界
 *The Modding Knight appeared.|*模组骑士出现了。
 
 //3618955060
-vali_overgrownurban-description|简介：<LINE>探索古老的、被自然占领的、枝繁叶茂的城市。
-Overgrown Urban|蔓生都市
+vali_overgrownurban-description|探索被自然植被所占据的古老城墟。
+Overgrown Urban|覆植城墟
 Dead City|死寂之城
 Storage Complex|综合仓库
 Sewer Swampland|污水沼泽
@@ -6160,5 +6163,6 @@ Skyhigh Column of Countless Generations|苍穹之巅，万代不朽之柱
 Ashen Monolth|苍岩
 Frozen Wasteland|封冻荒地
 Cold Trainway|凛寒轨道
-Column of Forgotten Generations|被遗忘的世代之柱
-
+Column of Forgotten Generations|被遗忘的万代之柱
+gate of unfinished region|未完成区域的业力门
+Region work in progress|该区域施工中

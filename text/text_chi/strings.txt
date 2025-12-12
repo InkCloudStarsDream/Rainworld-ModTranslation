@@ -3407,6 +3407,12 @@ Drenched Dwellings|浸湿居所
 Greyscale Skyline|灰度界线
 Global Hyper-Transit System|全球超运系统
 Subzero Locomotive System|深寒铁路系统
+ATTENTION - This gate will lead you out of the Winter's End Expansion.|警告——此业力门会将你带离凛冬之末流程。
+The king's chariot cannot be stopped.|王的战车不可阻挡！
+Transit to：Chasing Wind|前往：追逐清风
+Transit to：Five Pebbles,Looks to the Moon|前往：五块卵石 仰望皓月
+Transit to：No Significant Harassment|前往：无稽烦忧
+Transit to：Cryobloom Mist|前往：霜凝雾华
 
 //3393900034
 Gray Urban|灰城
@@ -6166,3 +6172,12 @@ Cold Trainway|凛寒轨道
 Column of Forgotten Generations|被遗忘的万代之柱
 gate of unfinished region|未完成区域的业力门
 Region work in progress|该区域施工中
+
+//3620805248
+fishy.CitySkyline-description|为观望者准备的可探索废弃城市。
+City Skyline|城市天际线
+The Scaffolds|脚手架
+
+//3620983555
+Storage Compartments-description|我的第一个区域模组。<LINE>区域入口位于郊区靠近排水系统业力门的庇护所的左上方。
+Storage Compartments|储物间

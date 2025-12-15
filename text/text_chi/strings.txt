@@ -6193,6 +6193,7 @@ Northern Leg|北支架
 
 //3296852535
 TrynsEvergreen-description|添加自定义蛞蝓猫（常青）和与之相伴的全新线路！<LINE>美术：NOTOCORDA -- 概念、故事与代码：Tryn <LINE>精灵动画：Tryn & Auro（以Cutscene Slugcats为基础）（LightParty协助） -- 自定义区域由 Tryn, Finbotic, Nimble, TheNotSoGood Gamer 和 Mold223 共同制作！
+THE EVERGREEN|常青
 The Evergreen|常青
 Pure of heart and with an iron will, the Evergreen journeys<LINE>in a world frozen to its core.|纯净的心灵，钢铁的意志，常青在冰冻的世界踏上旅程。
 A fluffy wanderer whose coat conceals an array of sharp quills.<LINE>Your journey will be one of curiosity, as you simply cannot bear to not explore a recent superstructure's collapse...|一位毛绒绒的漫游者，蓬松的皮毛下藏着锐利的棘刺。<LINE>你的旅程将充满好奇，只因你无法抗拒探索一座最近崩塌的巨构建筑的诱惑……
@@ -6328,3 +6329,4 @@ L-little creature!! i know you may be reacting on instinct alone but p-please!! 
 It appears to be a Quill like the ones present on your back! However it is much larger than the ones visually present...<LINE> Perhaps you have evolved these for self defence? They are quite sharp after all!|这看起来是根棘刺，和你背上那些很相似！不过它比看上去要大得多……<LINE>或许你是为了自卫才进化出这些的？毕竟它们相当锋利！
 I wonder... You are quite similar to another of your kind I saw so very long ago. Perhaps you are what inspired their creation?|我在想……你和我很久之前见到的一位你的同类非常相似。或许你是它被创造的灵感来源？
 Although, You are quite alot fluffier my little pine tree friend!~|不过，你要毛绒绒得多呢，我的小松树朋友！~
+

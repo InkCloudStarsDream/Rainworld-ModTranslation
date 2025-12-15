@@ -3407,12 +3407,12 @@ Drenched Dwellings|浸湿居所
 Greyscale Skyline|灰度界线
 Global Hyper-Transit System|全球超运系统
 Subzero Locomotive System|深寒铁路系统
-ATTENTION - This gate will lead you out of the Winter's End Expansion.|警告——此业力门会将你带离凛冬之末流程。
+ATTENTION - This gate will lead you out of the Winter's End Expansion.|警告——此业力门会将你带离凛冬终末流程。
 The king's chariot cannot be stopped.|王的战车不可阻挡！
-Transit to：Chasing Wind|前往：追逐清风
-Transit to：Five Pebbles,Looks to the Moon|前往：五块卵石 仰望皓月
-Transit to：No Significant Harassment|前往：无稽烦忧
-Transit to：Cryobloom Mist|前往：霜凝雾华
+Transit to: Chasing Wind|前往：追逐清风
+Transit to: Five Pebbles, Looks to the Moon|前往：五块卵石，仰望皓月
+Transit to: No Significant Harassment|前往：无稽烦忧
+Transit to: Cryobloom Mist|前往：霜凝雾华
 
 //3393900034
 Gray Urban|灰城
@@ -5166,7 +5166,7 @@ lb-fgf-m4r-ik.candy-cane-spears-description|将长矛的外观替换为拐杖糖
 
 //2927834484
 HP Bar
-hpbar-description|将饱食度转变为血条。<LINE>受到伤害时不再会死亡，而是失去一格饱食度。<LINE>此外，您还可以通过发送垃圾邮件或奋力挣扎摆脱抓取。
+hpbar-description|将饱食度转变为血条。<LINE>受到伤害时不再会死亡，而是失去一格饱食度。<LINE>此外，您还可以通过拍打键盘并奋力挣扎摆脱抓取。
 Overview|概览
 Live a little longer|活着
 Struggle Limit|挣扎上限
@@ -6181,3 +6181,12 @@ The Scaffolds|脚手架
 //3620983555
 Storage Compartments-description|我的第一个区域模组。<LINE>区域入口位于郊区靠近排水系统业力门的庇护所的左上方。
 Storage Compartments|储物间
+
+//3622587249
+coastalconstruct-description|海岸线上出现了一处新大陆，一片充斥着管道、工厂和海洋的土地。<LINE>这个模组用了将近一年的时间，在RW模组社区的帮助下重做了两次。需要倾盆大雨DLC。<LINE><LINE>内容：竞技场、有色珍珠、探险瞭望点以及为本体3猫（黄白红）的区域生成设置。<LINE><LINE>区域连接：污水坑道（管道堆场子区域）、阴影城堡、排水系统和栈桥（The Trestle）（即将推出的区域）<LINE><LINE>施工中的更新：倾盆大雨DLC区域生成设置，溪流与圣徒线的区域变动，怪猫诈骗？？？<LINE><LINE>制作组：SaykioPorko-威胁音乐，Willow (InspectNerd)-IZ_Duckers房间，感谢CRS和RegionKit的开发者们使开发这种模组变得更简单。<LINE><LINE>其余其他部分都由我完成。
+Coastal Industry|沿海工厂
+Desert Complex|荒漠区
+Frozen Facility|封冻设施
+The Trestle|栈桥
+Seaside Factory|海滨工厂
+Northern Leg|北支架

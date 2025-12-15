@@ -5745,8 +5745,8 @@ Unlock campaign|解锁战役
 Disables shield and removes instant death from blizzard beam|禁用护盾并且移除暴风光束的即时死亡
 Allows Void to switch move set between climbing and running. Tap 'Special' to switch mode|允许虚无者在攀爬和奔跑之间切换移动设置。按下“特殊”键切换模式
 Gives you whole pips when eating food instead of half pips|吃食物时得到完整饱食度，而不是一半饱食度
-Makes easier to climb the ceiling using a gamepad. Tap 'Special' to ceiling climb|
-Disables permadeath for Void from losing all karma or limit cycles|使手柄更容易爬上天花板。按下“特殊”键来攀爬天花板。
+Makes easier to climb the ceiling using a gamepad. Tap 'Special' to ceiling climb|使手柄更容易爬上天花板。按下“特殊”键来攀爬天花板
+Disables permadeath for Void from losing all karma or limit cycles|禁用虚无者在失去所有业力及到达循环数限制时的永久死亡
 Removes the requirement to complete as Hunter to play this mod|取消此模组完成猎手战役的要求
 Void Cycles|虚空循环
 Void Bonus Cycles|增加的虚空循环
@@ -6190,3 +6190,141 @@ Frozen Facility|封冻设施
 The Trestle|栈桥
 Seaside Factory|海滨工厂
 Northern Leg|北支架
+
+//3296852535
+TrynsEvergreen-description|添加自定义蛞蝓猫（常青）和与之相伴的全新线路！<LINE>美术：NOTOCORDA -- 概念、故事与代码：Tryn <LINE>精灵动画：Tryn & Auro（以Cutscene Slugcats为基础）（LightParty协助） -- 自定义区域由 Tryn, Finbotic, Nimble, TheNotSoGood Gamer 和 Mold223 共同制作！
+The Evergreen|常青
+Pure of heart and with an iron will, the Evergreen journeys<LINE>in a world frozen to its core.|纯净的心灵，钢铁的意志，常青在冰冻的世界踏上旅程。
+A fluffy wanderer whose coat conceals an array of sharp quills.<LINE>Your journey will be one of curiosity, as you simply cannot bear to not explore a recent superstructure's collapse...|一位毛绒绒的漫游者，蓬松的皮毛下藏着锐利的棘刺。<LINE>你的旅程将充满好奇，只因你无法抗拒探索一座最近崩塌的巨构建筑的诱惑……
+Turbulent Canopy|湍流雨棚
+Forgotten Conduit|遗忘管径
+Obstructed Ducts|淤塞管道
+Garbage Shores|废料海岸
+Glacial Shores|冰川海岸
+Rusted Gardens|锈蚀花园
+Hoarfrost Gardens|霜冻花园
+Pasture Bogs|牧场沼泽
+Preserved Thicket|密封树丛
+Icebound Fringe|冰封边境
+The Remains|遗墟
+The Permafrost|永冻层
+Rooted Culvert|盘根暗渠
+Sunken Grotto|沉没石窟
+Flooded Bastion|水没堡垒
+Memory Run-off|记忆径流
+Conductive Heights|导电高地
+Frozen Mast|冰霜桅杆
+Eastern Seaway|东向航道
+Suburban Creek|郊区溪涧
+Inactive Conduits|停用管线
+// echo
+// OZ
+With no intention did I plunge unto our hallowed fluid..|我无意投身于我们神圣的流体……
+I felt the chains that tied me to the world, fade away. My soul unbound.|我感到将我和世界相连的锁链，渐渐消逝，我的灵魂不再受缚。
+But then I saw myself in a truer light - not as myself chained to a world...<LINE>but instead myself as the mesh of chains! To be unshackled... was to no longer be.|但随后，我更真实地审视了自己——并非作为被束缚于世界的自己……<LINE>而是作为那锁链织成的网格！挣脱枷锁……即是不复存在。
+I refused to go. There were still things I wanted to do. So much the world had yet to offer!|我拒绝离开，世上仍有我未竟之事，世界还有太多未曾呈现！
+I crawled out of oblivion, to an existence translucent. |我从虚无中爬出，进入一种半透明的存在。
+So here I stand! Or, float, rather. "Burdened" by a existence that<LINE>has given me the opportunity to watch all of time unfold in front of me!|所以我站在此处！或者说，飘在此处，“背负”着一种存在，<LINE>它给予我机会去目睹所有时间在我眼前展开！
+But you however! The journey you have taken to find me is one of great peril...<LINE>Not to mention quite intentional. Perhaps you are an explorer like I once was?|但是你呢！你寻找我的旅程充满了巨大的危险……<LINE>更不用说，你是有意这样做的，或许你同我曾经那样，是一位探索者？
+Although... you are unique to this world. Your natural atunement is much closer to ours. |尽管……你之于这个世界独一无二，你那自然的协调更接近于我们。
+Perhaps you're no explorer! Instead a messenger? Sent by those out of our control?|也许你不是个探索者！而是一位信使？被那些超出我们掌控的存在派出？
+You're quite a unique little creature. I shall be watching your journey with great intent.|你真是个与众不同的小生灵，我将怀着极大的兴致注视你的旅程。
+// LF
+The bitter air runs free.| 苦寒之风肆意穿行。
+Do you hear it? the once swaying plantlife of these lush fields...|你听见了吗？这葱郁田野间曾经摇曳的草木……
+Reduced to nothing but the sound of wind and snow.|如今仅剩风雪之声。
+Its odd to think... I once had such a strong distaste for the sounds of rough machinery.|说来奇怪……我曾经多么厌恶粗糙机械的响声。
+And here i am, Longing for its return.|而此刻的我，却渴望着它的回归。
+Will the snow bury the remains of our creations? Only time will tell.|白雪终会埋葬我们造物的残骸吗？只有时间知晓。
+// CC
+A visitor. High up in my forgotten perch.|一位访客，在我这被遗忘的高处栖所。
+I can see it all from here. Our creations. The towering structures, the places we all once called our homes.|从这里我能看见一切。我们的筑造。那些高耸的结构，一切曾经被称作家园之地。
+I have been subjected to witnessing it succumb to the frost.|我被迫见证它屈服于霜冻。
+...and finally crumble to dust.|……最终崩塌为尘土。
+I wish that I could pry my eyes away from this tragedy for but a moment.|我多希望能将目光从这悲剧上移开一瞬。
+But that is not a luxury I possess.|但那并非我能享有的奢侈。
+// SI
+I hear them|我听见
+A thousand voices talking as one.|万千声音齐鸣。
+And while Past and Present are slurred into one, the future hasn't uttered a word.|过往和现在模糊成一片，未来却一言不发。
+I can hear naught but one thing echoing from the distant frozen future.|我仅能听见一件事，于遥远霜冻的未来传来回响。
+the wind, howling in melancholic high tones.|风，以忧郁的高音哀嚎。
+The end is nigh, little beast.|终结近了，小野兽啊。
+// SB
+Another little beast!|又一只小野兽！
+But, a bit smarter than the rest.|不过，要比其余的稍微聪明些。
+Have you come to watch the great undoing?|你是来见证这场宏大的崩解吗？
+The encroachment of a dazzling gold, until a serene black takes it all in a loving embrace.|璀璨的金侵蚀一切，直至宁静的黑以爱意将一切拥入怀中。
+Perhaps you will be the last little beast to visit.|或许你将是最后一只来造访的小野兽。
+I very much hope that isn't the case.|我衷心希望并非如此。
+// UG
+What a marvelous little creature!|多么奇妙的小生灵！
+shaped by the harsh freezing winds to resemble nature.|凛冽寒风为之塑形，与自然同貌。
+I feel you're one of the many reasons I find myself pondering...|我觉着，你正是让我不禁思考的万千原因之一……
+why would we ever leave this place? When we are surrounded by such marvels?|为什么我们曾要离开此地？当我们被如此奇迹环绕？
+we neglected to realise: our paradise was around us all along.|我们未能察觉：我们的天堂始终环绕我们身畔。
+// CL
+Around you, one of our final creations crumble.|在你周围，我们最后的造物之一崩毁。
+its mission fundumentally flawed, has become a bastion for what is left.|它的使命存在根本的缺陷，成为了残存之物的堡垒。
+Designed to solve a problem that we could not solve ourselves.|它们旨在解决我们自己无法解决的问题。
+Its no wonder they wished to escape the very same problem that we escaped ourselves|难怪它们也渴望着逃离，逃离我们曾逃离过的相同困境。
+Not once did we consider, that maybe the very same problem we created...|我们从未考虑过，或许我们亲手创造的问题……
+Would haunt the same ones made to fix it.|将会缠扰那些被造来解决它的存在。
+// SL
+Were you here to witness it little creature?|你是来见证它的吗，小生灵？
+The passing of a god. succumbing to its wounds.|一位神明的逝去，屈服于自身的伤痕。
+crumbling to rubble before what was once my very eyes.|在我曾经的眼前化为碎石。
+We once thought they would last forever, monuments to our accomplishments for the future to see!|我们曾以为它们将永恒矗立，作为我们成就的纪念碑让未来瞻仰！
+All slowly returning to the earth that once gave birth to it.|一切都慢慢回归曾经孕育了它的大地。
+We were fools.|我们是愚者。
+// MS
+What a monumental accomplishment! Making it to my little corner of the world.|多么了不起的成就！竟来到我在这个世界的小小角落。
+I wonder what drew you here?|我好奇是什么引你至此？
+I'd say bravery or curiosity. But I think I can see it.|我本想说勇气或好奇心，但我想现在我明白了。
+The sadness in your eyes.|你眼中的哀伤。
+You've lost someone, havent you?|你失去了谁，对吗？
+Stay strong, little one. While we may share an emotional predicament, we do not share a physical predicament. Keep going, like we never could.|保持坚强，小家伙。纵然或许我们情感上困境相似，身体上境遇却全然不同。继续前进吧，像我们从未能做到的那样。
+// FP
+...|……
+You...glow|你……发光
+hurt...her|伤害了……她
+why?|为什么？
+Moon's...Overseers|月姐的……监视者
+Havent seen...a while...now|已经……好久没……见到了
+What...did you...do?|你……做了……什么？
+...Why... take all I... have...|……为什么……带走我……所有的……
+...Give it... back...|……还……回来……
+...Bring it back...|……拿回来……
+...So little... left. Why?|……只剩……一点了。为什么？
+...Hello...fluffy thing.|……你好……毛绒绒的家伙。
+...So cold.|……太冷了。
+...Nothing left...|……什么也不剩了……
+...Why back?|……为什么回来？
+...Little Pine tree... friend. Hello.|……小松树……朋友。你好。
+...fluffy|……毛绒绒。
+// LttM
+...Ah!|……啊！
+Another with the mark! How fascinating.|又一个带标记的小生灵！多么有趣。
+You seem rather shocked to see me little one. <LINE>I suppose you werent expecting to see an iterator clinging to life out here deep in our own frozen remains?|你见到我好像很惊讶，小家伙。<LINE>我猜你没想到，在这片我们冰冻的残骸深处，竟会看到一个仍在顽强存活的迭代器吧？
+It's more than that... Isn't it little Pine tree?|不止这些吧……是不是，小松树？
+the look in your eyes... An unrelenting sorrow that it appears we both share.|在你的眼神里……似乎有一种我们共有的，无法缓解的悲伤。
+I've... also lost someone, Quite recently no doubt. <LINE>Maybe their collapse is what drew you here?|我……曾经也失去了某人，无疑就在不久前。 <LINE>或许正是祂的坍塌将你引至此地？
+You're very brave to have travelled such a distance. <LINE>I suppose I already know why you'd accomplish such a feat.|你能旅行这么远非常勇敢。<LINE>我想我或许知道你为什么要完成如此壮举了。
+I am afraid to say that I cannot help you... <LINE>Although what i can do is push you in the right direction.|恐怕我必须说，我帮不了你……<LINE>尽管我能把你推向正确的方向。
+Far below the remains of my can, to the west... <LINE>Lies an entrance to the old subterranean railway.|远在我的罐头的残骸之下，向西走……<LINE>坐落着一个通往旧地下铁路的入口。
+The schematics held in my memory may now be obsolete...<LINE>But if I am correct, the tunnels below should still lead to their temples.|我内存中的示意图现在或许已经过时了……<LINE>但如果我是对的，下方的隧道仍然应该通往他们的寺庙。 
+Best of luck little traveller. I hope you find them again at the end of it all.|祝你好运，小旅行家。愿你最终能再度寻见祂。
+Hello again little pine tree! How goes your travels?|你好呀，小松树！你的旅行怎么样了？
+Have you... scaled five pebbles?|你……到过五块卵石那里了吗？
+My overseers are dwindling with every passing day... Theyre not made for this bitter new world. <LINE>They can barely reach what was once his chamber anymore... And I...|我的监视者们日渐减少……它们不是为这个严寒的新世界而生的。<LINE>它们几乎再也触不到曾是他的演算室的地方了……而我……
+I just hope he's doing okay up there... he may not even be...|我只希望他在上面一切都好……他可能甚至已经不在了……
+No use in worrying anymore. The company is appreciated, my little fluffy friend.|不必再忧虑了，有你的陪伴我很感激，毛绒绒的小朋友。
+wh...why...?|为……为什么……？
+s..stop... n..no...|停……停下……不-不要……
+...P..Please i.... have...s-so much more...to do...i may..be the last...|……请求你……我……还有……很-很多的事情……要做……我可能是最后的了……
+D-did you... Eat them!? D-did you do this to them too!?|你-你……吃了它们！？你-你也这样对祂的吗！？
+... G-get away! stay away! dont.. dont touch me! please leave me alone!|……走-走开！离我远点！不……不要碰我！请你别打扰我！
+L-little creature!! i know you may be reacting on instinct alone but p-please!! you're hurting me!|小-小生灵！！我知道你可能只是凭直觉做出反应，但拜托！！你弄疼我了！
+It appears to be a Quill like the ones present on your back! However it is much larger than the ones visually present...<LINE> Perhaps you have evolved these for self defence? They are quite sharp after all!|这看起来是根棘刺，和你背上那些很相似！不过它比看上去要大得多……<LINE>或许你是为了自卫才进化出这些的？毕竟它们相当锋利！
+I wonder... You are quite similar to another of your kind I saw so very long ago. Perhaps you are what inspired their creation?|我在想……你和我很久之前见到的一位你的同类非常相似。或许你是它被创造的灵感来源？
+Although, You are quite alot fluffier my little pine tree friend!~|不过，你要毛绒绒得多呢，我的小松树朋友！~

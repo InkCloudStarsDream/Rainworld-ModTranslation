@@ -6330,3 +6330,18 @@ It appears to be a Quill like the ones present on your back! However it is much 
 I wonder... You are quite similar to another of your kind I saw so very long ago. Perhaps you are what inspired their creation?|我在想……你和我很久之前见到的一位你的同类非常相似。或许你是它被创造的灵感来源？
 Although, You are quite alot fluffier my little pine tree friend!~|不过，你要毛绒绒得多呢，我的小松树朋友！~
 
+//3626391874
+HySt-description|在小径延伸之处，隐藏着巨大的水培设施。
+Hydroponic station|水培站
+//H710_GREEN_PEARL
+This pearl apparently contains the key to removing waste.|这颗珍珠显然搭载废渣移除密匙。
+Its crystalline cage has been pierced numerous times by something.|其内部晶格已被多次刺穿。
+Unfortunately, I can no longer use it.|很遗憾，我无法使用它了。
+But it seems like someone left their signature.|但似乎有人留下了签名。
+And it's not digital; it's engraved directly on the pearl's<LINE>carbon material...|这并没有作为信息刻录；<LINE>而是被刻在了这颗珍珠的碳质上...
+It looks like a bell... : 20|看上去像一颗铃铛...: 20
+Perhaps I even know the sender!|也许我认识发件人！
+Or did know him once...|或者说是曾经...
+My problem really has spread that far...|我的事情所造成的影响扩散得如此之远...
+It was truly a gesture of compassion and kindness.|这确实是一种同情又善意的表示。
+0 : It's a great pity that the messenger failed in his mission. : 80|0 : 这位信使没能完成任务真是太遗憾了。 : 80

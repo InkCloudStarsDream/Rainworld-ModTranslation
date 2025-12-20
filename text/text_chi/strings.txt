@@ -2870,6 +2870,7 @@ Lobby Password|房间密码
 Player max:|玩家上限:
 Maximum number of players that can be in the lobby (up to 32)|房间可容纳的人数上限【至多32人】
 Creating lobby...|正在创建房间...
+Anniversary Gags:|周年庆乐子:
 
 // 牧原选角场景
 Locked|未锁定
@@ -3018,20 +3019,52 @@ Match Settings|比赛设置
 Spears Hit:|长矛命中:
 Repeat Rooms:|房间重复次数:
 Invite friends|邀请朋友
-Allow Item Stealing:|允许物品偷窃:
+Item Stealing|物品偷窃
 Players can steal items from each other|玩家可以互相偷窃物品
 Players cannot steal items from each other|玩家不能互相偷窃物品
-Allow Mid-Game Join:|允许中途加入:
+Join In Progress|中途加入
 Players can join each round|玩家可以每回合加入
 Players can only join at the first round|玩家只能在第一回合加入
-Better Hitbox:|更好的碰撞箱:
+Better Hitbox|更好的碰撞箱
 Thrown weapons are corrected to prevent no-clips|投掷武器会被修正以防止穿模
 Thrown weapons follow vanilla behaviour|投掷武器遵循原版行为
+Piggybacking|背起玩家
+Players cannot piggyback each other|玩家不能背起其他玩家
+Players can piggyback each other|玩家可以背起其他玩家
+Bombs|炸弹生成
+Scavenger bombs follow vanilla spawn behavior|拾荒者炸弹遵循原版生成
+No scavenger bombs spawn|拾荒者炸弹不会生成
+Bees|蜂巢生成
+Bee hives follow vanilla spawn behavior|蜂巢遵循原版生成
+No beehives spawn|蜂巢不会生成
+Corpse grab|抓起尸体
+Players can grab dead players|玩家可以抓起其他玩家的尸体
+Players cannot grab dead players|玩家不能抓起其他玩家的尸体
 Countdown Timer:|倒计时:
 How long the grace timer at the beginning of rounds lasts for. Default 5s.|每回合开始时的和平时间，默认为5秒。
 Arena Game Mode:|竞技场游戏模式:
 The game mode for this match|本场比赛的游戏模式
 Slugcat Abilities|蛞蝓猫能力
+Select Settings|选择设置
+MSC Settings|更多蛞蝓猫扩展包设置
+Watcher Settings|观望者设置
+Go to <SETTINGSNAME> Page|
+Return to Select Settings Page|
+Watcher Camo Duration:|观望者伪装持续时间:
+How long Wacher's abilities last for. Default: 12s|观望者能力持续时间，默认为12秒
+Watcher Ripple Level:|观望者涟漪等级:
+Updates Watcher's ripple level. Ranges from 1 to 9. Default: 1|设置观望者的涟漪等级，范围1到9，默认为1
+Weaver Watcher:|编织者观望者:
+Your watcher has synced weaver cosmetics|你的观望者拥有编织者外观
+Your watcher has synced normal cosmetics|你的观望者拥有普通外观
+Voidkeeper:|虚空守护者:
+Summon amoebas at the cost of your camo timer|消耗伪装持续时间来生成阿米巴
+Amoeba summoning is disabled lobby-wide|房间禁止生成阿米巴
+Voidkeeper Amoeba Duration:|虚空守护者阿米巴持续时长:
+Amoeba duration time in seconds|阿米巴持续时长，以秒为单位
+Void's Vengeance:|虚空的复仇:
+Amoeba's direction is influenced by pointing|阿米巴的方向受指向方向影响
+Amoebas chase targets at-will|阿米巴会随意追逐目标
 Disable Mauling:|禁用撕咬:
 Prevent Artificer and <PAINCATNAME> from mauling|阻止工匠和<PAINCATNAME>撕咬
 Disable Artificer Stun:|禁用工匠眩晕:
@@ -3046,8 +3079,6 @@ If <PAINCATNAME> spawns with 0 throw skill, also spawn with Eggzer0|如果<PAINC
 Always allow <PAINCATNAME> to throw spears, even if throw skill is 0|允许<PAINCATNAME>总是能投掷长矛，即使投掷技能为0
 <PAINCATNAME> sometimes gets a friend:|<PAINCATNAME>有时获得朋友:
 Allow <PAINCATNAME> to rarely spawn with a little friend|允许<PAINCATNAME>偶尔带着小伙伴生成
-Watcher Camo Duration:|观望者伪装持续时间:
-How long Wacher's abilities last for. Default: 12s|观望者能力持续时间，默认为12秒
 Team Settings|队伍设置
 TEAM|队伍
 Team Lerp Color:|队伍过渡颜色:
@@ -3060,6 +3091,7 @@ Winner!|胜利者！
 <TEAMNAME> WIN!|<TEAMNAME>获胜！
 Unknown user|未知用户
 TO LOBBY|返回房间
+Go to Slugcat Selection Page|前往蛞蝓猫选择页面
 
 // 竞技场蛞蝓猫选择
 Back To Lobby|返回房间
@@ -3090,6 +3122,7 @@ Am I Cat Searching for many, or a Mouse searching for one?|我是寻找众多的
 <LINE>Am I doomed a Samaritan, or am I forever stuck in your shadow?|<LINE>我注定要做善者，还是永远困在你的阴影里？
 <LINE>I do not know, for I am not one. I am many.|<LINE>我不知道，因为我并非独自，也非唯一。
 Those who walk a single path may find great treasure.<LINE>Those who wander many paths will find great truth.|循一条路的人可能发现宝藏，<LINE>而探多条路的人会找到真相。
+Press grab to toggle active slugcats|按“抓”来选择使用的蛞蝓猫
 
 // 怪猫姓名和简介
 Paincat|惨淡猫
@@ -3324,10 +3357,13 @@ Chat Talk Button|聊天说话按钮
 Chat Background Opacity|聊天背景透明度
 Show Ping|显示延迟
 Playtesting Gift|游玩测试礼物
+Anniversary Gift|周年庆礼物
 Chat Log On/Off|聊天记录开关
 Introroll|开场动画
 Vanilla|原版
 Downpour|倾盆大雨
+Watcher|观望者
+Lobby Music|房间音乐
 Downpour DLC is not activated, vanilla intro will be used instead|倾盆大雨DLC未激活，将使用原版开场
 Watcher DLC is not activated, vanilla intro will be used instead|观察者DLC未激活，将使用原版开场
 Player Menu Scroll Speed for Spectate, Story menu, Arena results.  Default: 5|旁观、故事菜单、竞技场结果的玩家菜单滚动速度，默认为5
@@ -3351,6 +3387,13 @@ WARNING: Experimental features may cause data corruption, back up your saves|警
 Custom Story Slugcat:|自定义故事模式蛞蝓猫:
 If selected, hosts can choose slugcat campaigns that are unstable.|开启之后，将允许主机选择不稳定的蛞蝓猫模式。
 Steal items from other players in Story mode|故事模式中可偷取其他玩家的物品
+Gain achievements online|联机游玩时可获得成就
+Gameplay|游戏
+Streamer Mode|主播模式
+Me|自己
+Profanity Filter|脏话过滤
+Player Menu Scroll Speed for Spectate, Story Menu, Arena results. Default: $10|玩家菜单在旁观模式、剧情菜单及竞技场结果中的滚动速度，默认值：$10
+Everyone|所有人
 LAN|局域网
 Username|用户名
 // ↓可能从字面上不清楚这是什么，但搜索结果确实存在对这两个术语如此的翻译，所以假设对此领域了解的用户可以理解其所指↓
@@ -6345,3 +6388,4 @@ Or did know him once...|或者说是曾经...
 My problem really has spread that far...|我的事情所造成的影响扩散得如此之远...
 It was truly a gesture of compassion and kindness.|这确实是一种同情又善意的表示。
 0 : It's a great pity that the messenger failed in his mission. : 80|0 : 这位信使没能完成任务真是太遗憾了。 : 80
+

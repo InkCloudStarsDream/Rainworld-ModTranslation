@@ -6389,3 +6389,14 @@ My problem really has spread that far...|我的事情所造成的影响扩散得
 It was truly a gesture of compassion and kindness.|这确实是一种同情又善意的表示。
 0 : It's a great pity that the messenger failed in his mission. : 80|0 : 这位信使没能完成任务真是太遗憾了。 : 80
 
+//3626765602
+Sequestered Facility|偏僻设施
+I Like It When The Prey Fights Back|我最喜欢猎物反击的时刻
+I Like it When The Prey Fights Back|我最喜欢猎物反击的时刻
+Chilled Corner|凛冽僻地
+
+//3626635123
+Ferrous Steppes|黑铁草原
+Compost Duct|堆肥管
+Wrought Sward|人工草坪
+Decomposing Gutter|腐殖地沟

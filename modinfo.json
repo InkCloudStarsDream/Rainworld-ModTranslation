@@ -4,11 +4,12 @@
 	"version": "1.0",
     "hide_version": true,
 	"authors": "METeam(Mass-Energy Trans team)",
-	"description": "This mod is used to translate text that other mod added.<LINE><LINE> WARNING: There may be some difference between this mod's translation and official. If you apply this mod, official one will be covered.translate covers:<LINE>mod regions<LINE>mod slugcats<LINE>custom pearls<LINE>custom dialogs<LINE>custom missons<LINE>custom dev comments<LINE><LINE>non-steam version here: https://github.com/InkCloudStarsDream/Rainworld-ModTranslation<LINE><LINE>Currently support Chinese, welcome to help us to translate into other languages.<LINE><LINE>If you want to help us to translate or put up some advice, feel free to DM me on Discord:@MoseYanyun<LINE><LINE>Contributors:<LINE>@MoseYanyun,@Exmeow,@Celen,@W1LD1CECA7,@Echo Wings,@havenoideawhatismyname",
+	"description": "This mod is used to translate text that other mod added.<LINE><LINE> WARNING: There may be some difference between this mod's translation and official. If you apply this mod, official one will be covered.translate covers:<LINE>mod regions<LINE>mod slugcats<LINE>custom pearls<LINE>custom dialogs<LINE>custom missons<LINE>custom dev comments<LINE><LINE>non-steam version here: https://github.com/InkCloudStarsDream/Rainworld-ModTranslation<LINE><LINE>Currently support Chinese, welcome to help us to translate into other languages.<LINE><LINE>If you want to help us to translate or put up some advice, feel free to DM me on Discord:@MoseYanyun<LINE><LINE>Contributors:<LINE>@MoseYanyun,@Exmeow,@Celen,@W1LD1CECA7,@Echo Wings,@havenoideawhatismyname,@Tragulari",
 	"requirements": [],
 	"requirements_names": [],
 	"priorities": ["watcher"],
 	"tags": ["Translations"],
 	"checksum_override_version": false
 }
+
 

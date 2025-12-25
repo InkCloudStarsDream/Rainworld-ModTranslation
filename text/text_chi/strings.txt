@@ -5619,13 +5619,7 @@ Reloads custom meow configurations, useful if you're a mod developer making chan
 //迭代器对话//
 ...|……
 Are you taunting me?|你是在嘲笑我吗？
-...What is it? Oh, forget it, I don't care...|...那是什么？哦，算了，我不在乎...
-...is this reaching you?|...是你在叫吗？
-Yes? What's wrong?|是你？怎么了吗？
-Meow?|喵？
-Meow.|喵。
-Meow...?|喵...？
-Meow!|喵！
+...What is it? Oh, forget it, I don't care...|...怎么了？哦，算了，我不在乎...
 ...I assume from your meowing that you understand me now.|...我就从你的喵喵声推断你已经听懂了。
 ...Can you stop with the yells? This information is relevant to you.|...你能安静点吗？这些话和你有关。
 Please quit that immediately.|请立刻保持安静。
@@ -5634,6 +5628,11 @@ What is it?|怎么了？
 I have nothing for you. Please stop meowing.|我给不了你什么。请别再喵喵叫了。
 Please quit meowing, I'm reading you your pearl.|请保持安静，我在读你的珍珠。
 If you keep going with this, I will not continue reading it.|你再喵喵叫下去我就不读了。
+Yes? What's wrong?|是你？怎么了吗？
+Meow?|喵？
+Meow.|喵。
+Meow...?|喵...？
+Meow!|喵！
 
 //3571934245
 watcherskyislands-description|允许观望者前往天空群岛。
@@ -6432,3 +6431,4 @@ Hold GRAB to maul a held bubble, this may propel you in a direction|按住“抓
 With sufficient food, press SPEC to create a bubble shield|拥有饱食度时，按住“特殊”键制造一株气泡草
 You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|拥有护盾时无法吹泡泡。按住“抓取”键将破坏护盾。
 Hold GRAB to fill shrivelled bubbleweed with air|按住“抓取”键重新为气泡草补充氧气
+

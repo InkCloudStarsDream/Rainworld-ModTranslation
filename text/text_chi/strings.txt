@@ -6411,3 +6411,24 @@ THE CASTAWAY|漂流者
 A juvenile from beyond the sea, relying on wit and caution for survival.<LINE>Vunerable and far away from home, will you adapt to your circumstances, or reconnect with distant kin?|一只来自海彼岸的幼崽，依靠智慧和谨慎谋生。<LINE>脆弱而又远离家乡，你是会适应如今的环境，还是去与远方的亲人重新建立联系？
 Now confident in exploring the world,<LINE>the Castaway returns to find their place in this ecosystem|如今对探索世界充满信心的漂流者，将在这个生态系统中寻找他们的一席之地。
 Sightseeing|观光
+Castaway Interactions:|漂流者操作：
+Hold JUMP while swimming to increase swim speed|游泳时按住“跳跃”键以提高游泳速度
+Hold GRAB to blow a bubble / Maul bubble shield / Maul held bubble / Refill bubble-weed|按住“抓取”键吹泡泡/击破气泡护盾/击破泡泡/补充气泡草
+Press SPEC with at least 2 food pips to create a bubble shield|按住“特殊”键，消耗2格饱食度制造气泡护盾
+Hold a directional input while mauling a bubble / shield to be propelled in that direction|击破气泡护盾/泡泡时按住“方向”键以向指定方向推进
+...is this reaching you?|...你能听到吗？
+A young animal on the floor around my chamber. I think I know what you are looking for.|年幼的生物，在我房间地面上的那个。我想我知道你在找什么。
+You're stuck in a cycle, a repeating pattern. You want a way out.|你被困在了一个周而复始的循环当中。你想要找到出路。
+The good news first. As a gift of charity from my creators to this world, I am aware of the ecosystems enclosed within my facility.<LINE>You are an outsider. You do not belong here.|先告诉你好消息。作为我的创造者献给这个世界的<LINE>慈善礼物，我知晓我所在辖区内的生态系统。<LINE>你是一个外来者。你并不属于这里。
+East past the shore, past the channel that separates your world from mine lies the rest of your subspecies.|向东跨越海岸，穿过那条将你们与我们的世界分隔开的海峡，<LINE>那便是你们亚种的其余成员的所在之处。
+A tunnel connects these two coastlines. Go east, beyond the Garbage Wastes, and deep into the remains of my neighbour's structure.|有一条隧道连接着两条海岸线。向东，越过垃圾堆，深入我的邻居巨构的遗骸。
+The bad news is that in your particular situation, the bonds that tether you to this world are too great.<LINE>Even with the assistance of a god such as myself, you would remain unable to pass through to the spiritual realm.|坏消息是，你的情况太特殊，将你与这个世界相连的纽带过于坚固。<LINE>就算是有像我这样的神的帮助，你也无法穿越至精神世界。
+If for some inane reason you still believe that you could break free from your cycle, your solution lies deep beneath my structure, where the land fissures.
+Not that my assistance solves anyone's problem but yours.|若出于一些荒唐的理由你仍坚信你能摆脱你的循环，你的出路就在我的设施深处，那大地断裂之处。
+Best of luck to you, young creature. I must resume my work.|祝你好运，年幼的生物。我得继续我的工作了。
+You are starving, find food and shelter|你在挨饿，去找到食物和庇护所。
+Hold GRAB with free hands to blow a bubble|空置双手时，按住“抓取”键吹泡泡
+Hold GRAB to maul a held bubble, this may propel you in a direction|按住“抓取”键击破泡泡，并将你向一个方向推进
+With sufficient food, press SPEC to create a bubble shield|拥有饱食度时，按住“特殊”键制造一株气泡草
+You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|拥有护盾时无法吹泡泡。按住“抓取”键将破坏护盾。
+Hold GRAB to fill shrivelled bubbleweed with air|按住“抓取”键重新为气泡草补充氧气

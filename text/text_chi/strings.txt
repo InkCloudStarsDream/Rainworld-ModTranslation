@@ -5720,7 +5720,7 @@ Underwater Complex|海底迷宫
 The Void|虚无者
 THE VOID|虚无者
 Void|虚无者
-An enraged and hungry predator escapes from the Void Sea.<LINE>Balancing between life and death, the beast seeks its new place in this world.|一个从虚空海里掏出来的愤怒又饥饿的掠食者。<LINE>为在生与死之间寻求平衡，野兽在这个世界上寻找新的容身之地
+An enraged and hungry predator escapes from the Void Sea.<LINE>Balancing between life and death, the beast seeks its new place in this world.|一个从虚空海里逃出来的愤怒又饥饿的掠食者。<LINE>为在生与死之间寻求平衡，野兽在这个世界上寻找新的容身之地
 Clear the game as Hunter to unlock.|通关猎手以解锁。
 Your body keeps dissolving, and each of your deaths brings you closer to getting out of the cycle.|你的身体在崩解，你的每一次死亡都会让你离这个循环更进一步。
 But you have enough strength to get out of here.|但你有足够的力量离开这里。
@@ -5731,6 +5731,7 @@ It is painful... but Karma Flower saves your current cycle.|这很痛苦……�
 The vessel could not withstand the impact of the void liquid.<LINE>Now the soul is doomed to relive his last cycles forever.|这副容器终究没能经受住虚空流体的侵蚀。现在，灵魂注定要永远重复他最后的循环。
 The soul is crying out for new wanderings, but the body still clings to the past.<LINE>You feel that there is only one last wish left. (To be continued...)|灵魂呼唤着新的旅程，肉体却在执着于过去。<LINE>你现在觉得只剩下最后一个愿望了。 （未完待续……）
 Even after leaving the cycle, life continues to go on as usual.<LINE>The death of another monster leads to the birth of a new one. (To be continued?)|即使离开循环，生命仍在继续。另一个怪物的死亡导致了新生。（未完待续？）
+The hunger is sated, but the void inside still cries out. After destroying<LINE>the colony, you continue your journey in search of survivors.|饥饿得到缓解，但体内的虚空仍在呐喊。在摧毁了<LINE>群落之后，你继续踏上了寻找幸存者的旅途。
 
 Pick up / Eat / Maul button interactions:|拾取/吃/击打按钮交互：
 Tap to pick up objects|按下来拾取物品
@@ -5794,6 +5795,7 @@ Void Cycles|虚空循环
 Void Bonus Cycles|增加的虚空循环
 Changes the amount of cycles Void starts with in their campaign|改变虚无者在战役开始时的循环数
 Changes the amount of bonus cycles Void can receive from the echo|改变虚无者可以从回响得到的额外循环数
+
 //PICK INTERRUPT MESSAGES
 
 Yes, help yourself. They are not edible.|是的，请自便。反正它们不能吃。
@@ -5842,18 +5844,19 @@ You look unnatural.|你看起来并不寻常。
 What happened to you? There are clear signs of external interference here.|在你身上发生了什么？这上面有明显的外部干扰痕迹。
 Three... four spirals. The genes are twisted into a super-dense structure. This form is almost immune to the external environment...|三个……四个螺旋。这些基因被扭曲成一个致密结构。这种形式几乎不会受到外部环境的影响。
 I can see by your face that you understand me.|从你的面部表情来看，你理解了我说了什么。
-Is this someone's evil joke?|这是某人的恶劣玩笑吗？
-The purposed organism that has adapted to the void fluid and uses it instead of blood...|适应了虚空流体的效用有机体，并以此来替代血液。
-I was once again reminded of the meaninglessness of my existence...|我又一次感觉自己的存在毫无意义。
-Do not come back to me anymore or you will meet your death in this room.|不要再来找我了，否则你将死在这个房间里。
-...is it reaching you?|……你听到了吗？
-What a disgusting and horrible structure you have. I was sure if implanting the mark would kill you.|多么恶心又可怕的躯壳。我无比确信植入交流印记会杀死你。
-But you are still alive, so your brain is intact or at least partially intact...|但你仍然活着，所以你的大脑是完整的，至少部分是完整的……
-You may have come to me for help, but my medical equipment has been out of order for a long time. For the same reason there is no point in killing you to study your body.|你可能是来向我求助，但我的医疗设施已经损坏了很长一段时间了。出于同样的原因，我也没有必要为了研究你的身体而杀死你。
-As I thought, your body structure is similar to the purpose organism that I have already met.|正如我所想，你的身体结构与我曾经遇到的功能性有机体很相似。
-Based on the data available I assume you interacted with the void fluid in some way. Surprisingly you was able to get to me.|根据现有的数据，我认为你曾以某种方式与虚空流体相互作用。令人惊讶的是，你竟然仍有能力抵达我这里。
-In any case, I cannot help you with anything. You came to me too late.|无论如何，我帮不了你什么，你来的太晚了。
-Supposedly you have less than a cycle to live, so make the most of the time you have left. In the meantime, leave me alone.|按理来说，你只能活不到一个循环了，所以请充分利用你剩下的时间。并且，别来烦我。
+Is this some sort of joke?|这是某种玩笑吗？
+The purposed organism that has adapted to replace blood with void fluid continues to taunt me.|这种已经适应了虚空流体代替血液的效用有机体一直使我感到困惑。
+I am once again reminded of the meaninglessness of my existence...|我又一次感觉自己的存在毫无意义。
+Do not come back here, or you will meet your death in this room. This is your only warning.|不要再来找我了，否则你将死在这个房间里。这是对你的最后警告。
+
+...is this reaching you?|……你听得到吗？
+What a disgusting and horrible structure you have. I was unsure if implanting the mark would kill you.|你有一具多么可怕且令人作呕的躯壳。我不确定植入交流印记是否会杀死你。
+But you are still alive, so your brain is intact. Or, at least partially intact...|但你仍然活着，所以你的大脑是完整的。或者，至少部分是完整的……
+You may have come to me for help, but my medical equipment has been out of order for a long time. For that reason, there is no point in killing you to study your body.|你可能是来向我求助，但我的医疗设施已经停止运行很长一段时间了。出于同样的原因，我也没有必要为了研究你的身体而杀死你。
+As I thought, your body structure is similar to the purposed organism that I have already met.|正如我所想，你的身体结构与我曾经遇到的功能性有机体很相似。
+Based on the data available, I assume you interacted with the void fluid in some way. Surprisingly, you were able to reach me.|根据现有的数据，我认为你曾以某种方式与虚空流体相互作用。令人惊讶的是，你竟然仍有能力抵达我这里。
+In any case, I cannot help you. You came to me too late.|无论如何，我帮不了你，你来的太晚了。
+Supposedly, you have less than a cycle to live, so make the most of the time you have left. In the meantime, leave me alone.|按理来说，你只能活不到一个循环了，所以请充分利用你剩下的时间。并且，别来烦我。
 
 I have already told you that I cannot help you in any way. Accept your fate and do not waste your time.|我已经告诉过你，无论如何，我帮不了你。接受你的命运，不要浪费时间。
 Are you still here? Go east to Looks to the Moon.|你还在吗？向东，去仰望皓月吧。
@@ -5866,40 +5869,38 @@ What about the other one?|另一个呢？
 
 //Case 1
 
-...still alive. I did not expect this outcome.|……还活着，我没有想到这个结果。
-Your health indicators are still at the same critical level as in the last cycle. One step away from death you continue to live.|你的生理指标仍然处于和上个循环相同的临界水平。你活的只离死亡一步之遥。
-Do you delay your death? I will set your mark to collect data about your condition. Probably it helps me find the answer to another problem.|你能推迟死亡？我将会设置你的交流印记来收集关于你的状况的数据。也许它能帮我找到另一个问题的答案。
+You are still alive. Admittedly, I did not expect this outcome.|你还活着。不可否认，我没有预料到这个结果。
+Your health indicators are still at the same critical level as in the last cycle. One step away from death, and yet you continue to live.|和上个循环一样，你的生理指标仍然处于危险水平。你仍然活着，尽管只离死亡一步之遥。
+Do you somehow delay your death? I will set your mark to collect data about your condition. It may help me find the answer to another problem.|你能用某种方式推迟你的死亡？我将会设置你的交流印记来收集关于你状况的数据。也许它能帮我找到另一个问题的答案。
 The procedure requires special precision, therefore do not move, or I might accidentally kill you.|这个流程需要十分精确，所以，别动，否则我可能会杀死你。
-You do not have to do anything, just come back to me in the next cycle.|你并不需要做什么，下个循环再来找我就行了。
-Otherwise, it will only be easier for me if you do not return.|不然，你不回来对我而言只会更轻松一些。
-Now get out of here, I do not need another great problem that does not have a solution.|现在，离开这里。我不需要另一个没有解决方案的伟大问题。
+You do not have to do anything. Simply return to me in the next cycle.|你并不需要做什么。只需要下个循环再来找我就行了。
+Although, it would be easier for me if you do not return.|虽然，你不回来对我而言会更轻松一些。
+Now get out of here. I do not need another unsolvable great problem.|现在，离开这里。我不需要另一个无法解决的大问题。
 
 //Case 2
 
 It is you again.|又是你。
-I had hoped that the problem would resolve itself, but apparently it has not.|我曾希望问题能够自行解决，然而，显然并没有。
-The mark is slightly damaged, but the data is still intact.|交流印记有轻微损坏，但是数据完好无损。
+I had hoped that this problem would resolve itself, but apparently it has not.|我曾希望问题能够自行解决，然而，显然并没有。
+The mark is slightly damaged, but the data is still intact.|交流印记有轻微损坏，不过数据完好无损。
 It is quite interesting...|真有趣……
-Half your vital organs are missing and a tumor takes their place?|你的重要器官消失了一半，取而代之的是一个肿瘤。
-Although it is more like a symbiosis between organisms. It replaces the cells dissolved in the void liquid.|虽然这更像是生物之间的共生关系，它取代了溶解在虚空流体中的细胞。
-Even such a decision has its limits, sooner or later your genes will be permanently damaged and you will not wake up in the next cycle.|即使这样的决策，也有局限性。迟早你的基因会被永久破坏，你不会再在下一个循环中醒来。
-I have found out what I wanted, now get lost, I have spent too much time on you already.|我已经找到了我想要的，现在更迷惑了，我已经在你身上花费了太多的时间。
+Even such a decision has its limits, sooner or later your genes will be permanently damaged and you will not wake up in the next cycle.|即使这样的选择，也有局限性。迟早你的基因会被永久破坏，你不会再在下一个循环中醒来。
+I have found out what I wanted, now get lost, I have spent too much time on you already.|我已经找到了我想要的，现在我更迷惑了。我已经在你身上花费了太多的时间。
 
 //Case 3
 
 I am astonished at your audacity. Are you looking for death in my room?|我对你的厚颜无耻感到惊讶。你在我的房间里找死吗？
 Why are you always being followed by an NSH's overseer? Why is he so interested in you?|为什么你总是被NSH的监视者跟着？他为什么对你如此感兴趣？
 Oh... it is you... To be precise, what is left of you.|哦……是你……准确来说，是你的残余。
-Were you able to complete your mission, little creature?|你完成了任务吗，小家伙？
+Were you able to complete your mission, messenger?|你完成了任务吗，信使？
 Apparently, you do not understand what I mean.|显然你不明白我在说什么。
-Your mark is advanced enough to record conversations. Go to the east, Look to the Moon is there, I hope she is able to at least speak.|现在你的印记已经足够高级，可以录制对话了。去东边，仰望皓月在那里，我希望她至少还能说话。
-Then come back to me, there is a possibility, I can find a solution to your desperate situation.|然后来找我，也许，我能找到解决你的绝境的方法。
-Now leave me alone for your sake, I have more work to do.|为了你的利益，让我一个人待着吧，我还有很多工作要做。
+Your mark is advanced enough to record conversations. Go to the east, swim along the shoreline and look for Look to the Moon. Perhaps you will remember her.|现在你的印记已经升级，可以录制对话了。去东边，游过海岸线，去探望仰望皓月。也许你会记得她。
+Confirm that she is alive, and then I will try to help your sick body.|确认她还活着，然后我会尝试救助你病弱的身躯。
+Now leave me alone, for your sake. I have more work to do.|为了你的利益，让我一个人待着吧，我还有很多工作要做。
 
 // Case 4
 
 Overall, I have enough data to complete my research.|总体而言，我有足够的数据来完成我的研究。
-I will need some time to finish my preparations, come back to me later.|我需要一些时间来完成我的准备工作，稍后再来找我。
+I will need some time to finish my preparations, so come back to me later.|我需要一些时间来完成我的准备工作，稍后再来找我。
 
 Come back as soon as you complete my request.|请在完成我的请求之后尽快回来。
 I do not see the right records in your mark. Do not worry me about nothing.|我没在你的印记中看到相应记录。不用无端担心我。
@@ -5912,8 +5913,9 @@ Now I have to fulfill my part...|现在我必须完成我的任务……
 A more detailed analysis of your "parasite" suggests that it has the beginnings of a gene-repairing mechanism.|对你的“寄生物”更详细的分析表明，它已经开启了基因修复机制。
 Which will allow you to recover your body indefinitely.|可以让你无限期地恢复身体。
 But I have already said, I do not have the medical equipment for that anymore. There will be a different approach.|但是我已经说过了，我早已失去医疗设施。我会使用其他方法。
-First of all, I need research records on the void liquid.  Similar research have been carried out at mining sites, particularly in the Pipeyard.|首先，我需要虚空流体的研究记录。在采矿地点，特别是在管道堆场进行过类似的研究。
+First of all, I need research records on the void liquid. Similar research have been carried out at mining sites, particularly in the Pipeyard.|首先，我需要虚空流体的研究记录。在采矿地点，特别是在管道堆场进行过类似的研究。
 The pearls with the necessary data should have been located in the underground western part of the region.|记录必要数据的珍珠应该位于该地区西部的地下。
+Bring me at least one to continue my work. Go right away and do not waste my time.|至少带给我一颗来让我可以继续工作。立刻离开，别浪费我的时间。
 
 //Case 5
 You are familiar with the procedure, so do not move too much.|你已经对必要流程很熟悉了，所以不要乱动。
@@ -5927,6 +5929,10 @@ Anyway, I need another pearl. It stores data about an unfortunate development.|�
 The problem is that it was washed away along with other samples, its approximate location is the Garbage Wastes.|麻烦的是是它和其他样品一起被冲走了，大致在垃圾堆。
 You should be careful, my samples have an aggressive form of behavior...|你要小心，我的样本有攻击性行为……
 
+Did you tell your rotund friend about me?|你把我告诉过你那个圆润的朋友吗？
+I'm not here to help everyone and everything. Call off your kin and head west.|我在这里不是为了帮助万事万物的。呼唤你的族人，领他们向西方去。
+I've already opened the gate to leave my complex.|我已经打开了离开我辖区的门。
+
 //Case 6
 
 I recognise this colour... there is a serious crack in the pearl.|我认得这个颜色……珍珠上有一条严重的裂缝。
@@ -5936,11 +5942,12 @@ Come back another time, I need to be alone to finish the preparations.|下次再
 
 //Case 7
 
-Are you feeling better? Changes can become apparent over time.|你感觉好点了吗？随着时间的推移，变化会愈加明显。
+Are you feeling better? Changes will become apparent over time.|你感觉好点了吗？随着时间的推移，变化会愈加明显。
 In any case, I have done everything I can.|无论如何，我已经尽我所能。
-You are free, probably really free, unlike me...|你很自由，可能真的很自由，不像我……
-If you wish to leave my complex, head west through the Farm Arrays, your skills will allow you to climb over the Retaining Wall with out problems.|如果你想离开我的建筑群，向西穿过农场阵列，你的能力可以让你毫不费力地爬过挡土墙。
-And if you visit NSH, warn him that his next messenger will be killed on the spot, I am losing my patience talking to rats.|如果你想去访问NSH，警告他，他的下一个信使将被当场杀死，我正在失去和老鼠说话的耐心。
+You are free. Probably truly free, unlike me...|你很自由，很可能真正自由，不像我……
+If you wish to leave my complex, head west, through the old Farm Arrays. Your skills are enough to climb over Retaining Wall.|如果你想离开我的建筑群，向西，穿过农场阵列，你的能力可以让你爬过挡土墙。
+And if you visit NSH, then warn him that his next messenger will be killed on the spot. I am losing my patience talking to rats.|如果你想去访问NSH，警告他，他的下一个信使将被当场杀死，我正在失去和老鼠说话的耐心。
+
 
 //LOOKS TO THE MOON
 
@@ -6019,6 +6026,50 @@ Sorry my little friend, I cannot help you with this.|对不起，小朋友，我
 Oh, I remember that pearl. |哦，我记得这颗珍珠。
 I tried to write down in it a thorough instruction on how to create and modify purposed organisms.|我尝试在里面写一个如何创造和修改功能性有机体的详细说明。
 I was thinking about sending a messenger for help when I lost contact with the local group, but by that time,<LINE>my medical equipment had already failed due to the imbalance of chemicals in my structure.|当我与本地群组失去联系的时候，我正考虑发送一个信使求救，但到那时，<LINE>由于我巨构中的化学物质失衡，我的医疗设备已经失效了。
+
+//LR_archive_request
+This is a request to include Data Archives for storage and categorization of various data stored on pearls into the layout of Five Pebbles's construction.|这是一个请求，其中包括将珍珠上的各种数据储存和分类的数据储存库纳入五块卵石的建设布局的请求。
+Earlier iterator models did not have such archives|更早期的迭代器模型并没有这样储存库。
+I don't remember precisely how archived data storage was handled in my city,<LINE>but there definitely were issues with it.|我不确切知道我的城市中如何处理已经归档储存的数据的，<LINE>但其中一定有一些问题。
+Pebbles's construction took place very quickly due to the political concerns, as many Houses<LINE>were against the very idea of building him and wanted to stop the construction no matter what.|因为一些政治原因，五块卵石的建造相当匆忙。许多议会<LINE>非常反对建造它，并且希望无论如何都要阻止他的建成。
+It appears that to cut down on time, the original plan didn't include those Data Archives, unlike new neighboring models.|似乎是为了缩短时间，最初的计划中并不像相邻的新模型一样包含数据储存库。
+They might contain interesting pearls.   If you find any — you may always bring them to me.|祂可能有一些有趣的珍珠。如果你找到其中任何一个——你随时可以将它们带给我。
+Be careful on your way.|路上小心。
+
+//LR_archive_request-Artificer
+//LR_archive_request-Void（内容一样的，不重复翻译了）
+This is a request to include Data Archives in the construction layout for my can.|这是一条希望将数据储存库纳入我罐头的建造布局中的请求。
+My can was being built as quickly as possible due to the political concerns, as many were against the very idea of building me, especially over a sacred citadel.|出于一些政治原因，我的罐头需要建造的尽可能快，许多人反对我的建设，特别是建在一座神圣的城堡之上。
+In order to cut down on time, the original plan did not include such Archives,<LINE>while neighboring new models had them.|为了缩短时间，最初的计划中并没有包含这样的储存库，<LINE>尽管相邻的新模型拥有它们。
+By the way, if you ever end up there again, do me a favor and get rid of the scavengers that keep snooping around there.  Thanks.|顺带一提，如果你要再去那里，帮我个忙，把在那里鬼鬼祟祟的拾荒者赶走。谢谢。
+
+//LR_archive_request-Spear
+This is a request to includ Data Archives into the layout of Five Pebbles's construction for storage<LINE>and categorisation of various data stored on pearls.|这是一个请求，希望能在五块卵石的建造中包含一个数据储存库<LINE>用于储存和归档储存在珍珠上的数据。
+I am a much older model relative to Five Pebbles, and my superstructure does not have such archives.|我是一个相比于五块卵石来说老得多的模型，我的巨构中并没有这样的储存库。
+Pebbles's construction took place very quickly because of the political concerns, as many Houses<LINE>were against the very idea of building him and wanted to stop the construction no matter what.|因为政治考虑，五块卵石建造的非常快。<LINE>许多议会反对建造他的想法，并且想要用尽一切手段停止建设。
+It appears that the original plan didn't include Data Archives, unlike neighboring new models.|最初的计划似乎并不包括数据储存库，不像邻近的新模型。
+I wouldn't recommend searching anything else in his superstructure, little messenger.|我不建议你在他的巨构中寻找任何东西，小信使。
+
+//LR_pearl_dissertation
+This is a dissertation about pearl structure.<LINE>The author did very extensive research on the topic and managed to give this pearl very... unique properties.|这是一篇关于珍珠结构的论文。<LINE>作者对这一选题做了大量研究，并且通过处理基于这个珍珠非常……特殊的性质。
+There is a lot of information written on this one, and among other things,<LINE>the techniques with which this pearl was created.|这可珍珠上面记载着许多信息，除此之外，还有这个珍珠的制作工艺。
+Usually, pearls with this much information tend to fade away very quickly.|一般来说，携带有这么多信息的珍珠会很快褪色。
+This one however is perfectly preserved, mostly because of the way<LINE>this information was recorded — it was burned into the structure pearl a couple thousand times.|然而这一颗保存的相当完美，主要是因为信息记录的方式——<LINE>信息被烧刻入这颗珍珠的结构中数千次。
+I'm afraid describing all of the techniques used will take too much time and will be useless for a little creature like you.<LINE>Thank you for bringing me such an interesting gift.|我担心描述所有技术会耗费太多时间，而对于像你这样的小生灵而言这并没有什么用。<LINE>谢谢你带给我一个这么有趣的礼物。
+
+//LR_pearl_dissertation-Artificer
+This is a dissertation about pearl structure and<LINE>the techniques of writing information onto it, extracted from my archives.|这是一篇关于珍珠结构和在其上撰写信息的技术的论文，来自我的储存库。
+This one contains a lot of information, however the combination of data saving "techniques"<LINE>and proper storage conditions did not let it fade.|这颗珍珠包含了许多信息，然而储存数据的“技术”<LINE>以及恰当的储存条件使其没有褪色。
+The "techniques" described in this dissertation are very questionable<LINE>and consist, among other things, of burning information into a pearl up to multiple thousand times.|论文中描述的“技术”十分可疑，<LINE>除此之外，包含将信息烧刻入珍珠数千次一类的内容。
+For a beast like you, there is nothing useful on this pearl.|对像你一样的野兽而言，这颗珍珠里面的内容没什么用。
+Stop wasting my time.|请停止浪费我的时间。
+
+//LR_secret
+This musical composition belongs to... this is confusing. Quite a strange name for ancients.|这首音乐作品属于……真是让人困惑。对于古人而言真是个奇怪的名字。
+"Never gonna give you up..."|“你 被 骗 了”
+Hmm...|嗯……
+Sorry, I can't tell you anything more about this.|抱歉，我没办法告诉你关于这个珍珠的更多信息了。
+
 
 
 //3599363283
@@ -6431,4 +6482,5 @@ Hold GRAB to maul a held bubble, this may propel you in a direction|按住“抓
 With sufficient food, press SPEC to create a bubble shield|拥有饱食度时，按住“特殊”键制造一株气泡草
 You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|拥有护盾时无法吹泡泡。按住“抓取”键将破坏护盾。
 Hold GRAB to fill shrivelled bubbleweed with air|按住“抓取”键重新为气泡草补充氧气
+
 

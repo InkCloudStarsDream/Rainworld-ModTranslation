@@ -5976,6 +5976,11 @@ What is happened to you in these few cycles? Are you feeling all right?|你在�
 I hope you are okay, but at least you look a little better.|我希望你没事，不过至少你看起来好多了。
 If you want to learn anything new, I will be waiting for you. I appreciate your gifts.|如果你想学点新东西，我会等你的。我很感谢你的礼物。
 
+//仰望皓月第一次见面对话补充（我也不知道为什么作者的strings里面没有，我补充一下看看是否能运行）
+You can bring me different things, I might tell you something interesting about them.|你可以带给我一些不同的东西，我也许可以告诉你一些关于他们的趣事。
+But I am glad to have a companion. It can be very lonely here, although sometimes I hear someone scavenging in the rubbish.|但我很开心能有一个伙伴。这里非常孤独，尽管有些时候我可以听到一些生物在垃圾里拾荒。
+
+
 //Case 1
 
 Oh, hi, <CapPlayerName>, you are back!|哦，嗨，<CapPlayerName>，你回来了！
@@ -6490,4 +6495,5 @@ Trial by Fire|烈火审判
 The Depths|深渊
 The leg (cooling unit)|支架（冷却装置）
 The Simulation|模拟区
+
 

@@ -6478,8 +6478,8 @@ The good news first. As a gift of charity from my creators to this world, I am a
 East past the shore, past the channel that separates your world from mine lies the rest of your subspecies.|向东跨越海岸，穿过那条将你们与我们的世界分隔开的海峡，<LINE>那便是你们亚种的其余成员的所在之处。
 A tunnel connects these two coastlines. Go east, beyond the Garbage Wastes, and deep into the remains of my neighbour's structure.|有一条隧道连接着两条海岸线。向东，越过垃圾堆，深入我的邻居巨构的遗骸。
 The bad news is that in your particular situation, the bonds that tether you to this world are too great.<LINE>Even with the assistance of a god such as myself, you would remain unable to pass through to the spiritual realm.|坏消息是，你的情况太特殊，将你与这个世界相连的纽带过于坚固。<LINE>就算是有像我这样的神的帮助，你也无法穿越至精神世界。
-If for some inane reason you still believe that you could break free from your cycle, your solution lies deep beneath my structure, where the land fissures.
-Not that my assistance solves anyone's problem but yours.|若出于一些荒唐的理由你仍坚信你能摆脱你的循环，你的出路就在我的设施深处，那大地断裂之处。
+If for some inane reason you still believe that you could break free from your cycle, your solution lies deep beneath my structure, where the land fissures.|若出于一些荒唐的理由你仍坚信你能摆脱你的循环，你的出路就在我的设施深处——那大地断裂之处。
+Not that my assistance solves anyone's problem but yours.|这不代表我能解决一切问题，而是你的我能解决。
 Best of luck to you, young creature. I must resume my work.|祝你好运，年幼的生物。我得继续我的工作了。
 You are starving, find food and shelter|你在挨饿，去找到食物和庇护所。
 Hold GRAB with free hands to blow a bubble|空置双手时，按住“抓取”键吹泡泡
@@ -6488,12 +6488,12 @@ With sufficient food, press SPEC to create a bubble shield|拥有饱食度时，
 You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|拥有护盾时无法吹泡泡。按住“抓取”键将破坏护盾。
 Hold GRAB to fill shrivelled bubbleweed with air|按住“抓取”键重新为气泡草补充氧气
 
-
 //3630272443
 trialbyfire-description|你好，这是我第一个区域模组，所以……它也许有点糟糕。但是，嘿！至少我在学习嘛。不管怎样，玩得开心！
 Trial by Fire|烈火审判
 The Depths|深渊
 The leg (cooling unit)|支架（冷却装置）
 The Simulation|模拟区
+
 
 

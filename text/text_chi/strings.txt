@@ -5953,38 +5953,37 @@ And if you visit NSH, then warn him that his next messenger will be killed on th
 
 //Case 0
 
-Hello <CapPlayerName>.|你好<CapPlayerName>.
+Hello, <CapPlayerName>.|你好<CapPlayerName>.
 What are you? Your appearance seems... unusual, although familiar.|你是什么？你的外表看起来……不寻常，虽然熟悉。
-I see you have a mark of communication. Did the Five Pebbles give it to you, or maybe someone from faraway lands?|我看到你有交流印记。是五块卵石给你的，还是远方的存在给你的？
+I see you have the mark of communication. Did Five Pebbles give it to you, or maybe someone else did, from some faraway land?|我看到你有交流印记。是五块卵石给你的，还是更遥远的某人给你的？
 In any case, it looks like you are capable of long-distance travel. Did you see my friend on the way here, by any chance? He looks just like you, but I am not sure...|无论如何，看起来你能胜任长途旅行。你在来的路上看到我的朋友了吗？他长得很像你，但我不敢确定……
-He left me not so long ago, and... it can be very lonely here, although sometimes I hear someone scavenging in the rubbish.|他不久前离开了我，而且……这里很孤独，虽然时常有拾荒者过来捡垃圾。
-But looks like now I have you to keep me company. If you want to stay longer here, of course.|但现在我有你作伴了。如果你想在这里多待一会儿，当然可以。
-By the way, If you suddenly find something, you can bring it to me. And I might tell you something interesting about it. That is all I can do for now.|顺便说一下，如果你突然发现什么，可以带给我。我可能可以告诉你一些有趣的事情。这是我现在能做的全部。
+He left me not so long ago, and... it can be very lonely here, although sometimes I hear someone scavenging in the distance.|他不久前离开了我，而且……这里很孤独，虽然有时我可以听到某些拾荒者在远处。
+But it looks like now I have you to keep me company. If you want to stay here for a while, of course.|但现在我有你作伴了。如果你想在这里待一会儿，当然可以。
+By the way, if you find anything noteworthy, you can bring it to me. I might tell you something interesting about it. That is all I can do for now.|顺带，如果你突然发现什么值得注意的东西，可以带给我。我可能可以告诉你一些有趣的事情。这是我现在能做的全部。
 Oh, <CapPlayerName>, you are back!|哦，<CapPlayerName>，你回来了！
-You have got a mark of communication.|你有交流印记。
+You have a mark of communication.|你有交流印记。
 Did Five Pebbles give it to you? He is sick now, you can probably tell by the way he's acting.|是五块卵石给你的吗？他病了，你能从他最近的行为看出来。
-But I am glad to have a companion. It can be very lonely here, although sometimes I hear someone scavenging in the rubbish.|但我很高兴能有个伴，这里很孤独，虽然时常有拾荒者过来捡垃圾。
-You can bring me different things, I might tell you something interesting about them.|你可以带给我各种各样的东西，我可能可以告诉你一些有趣的事情。
+Hello there.|嗨。
 Hi...|嗨……
-Your attunement is missing...|你的调音丢失了…
-Do you understand me without a mark of communication?|没有交流印记的你能听懂我的意思吗？
-Who taught you our language? Your thinking skills are truly amazing.|谁教你我们的语言的？你的思维能力真的很惊人。
+Your attunement is missing...|你的调谐丢失了…
+Do you understand me, then?|那，你听得懂我的意思吗？
+Who taught you our language? Your cognitive skills are truly amazing.|谁教你我们的语言的？你的认知能力真的很惊人。
 What brings you to me? As you can see, my condition does not leave the best impression.|什么又把你带来了？如你所见，我的情况很难给人留下好印象。
 You must be very curious to come here. Bring the pearls to me, I can read them to you.|你来这里一定很好奇。把珍珠拿给我，我可以念给你听。
-Hi, <CapPlayerName>...|嗨，<CapPlayerName>……
-Your attunement has disapperied...|你的协调消失了…
+Hello, <CapPlayerName>...|你好，<CapPlayerName>……
+Your attunement has disappeared...|你的调谐消失了…
 What is happened to you in these few cycles? Are you feeling all right?|你在这几个循环中遇到了什么？你还好吗？
-I hope you are okay, but on the bright side you look a little better.|我希望你没事，不过往好的方面想，你看起来好多了。
-If you want to learn something new, I will be waiting for you.|如果你想学点新东西，我会等你的。
+I hope you are okay, but at least you look a little better.|我希望你没事，不过至少你看起来好多了。
+If you want to learn anything new, I will be waiting for you. I appreciate your gifts.|如果你想学点新东西，我会等你的。我很感谢你的礼物。
 
 //Case 1
 
 Oh, hi, <CapPlayerName>, you are back!|哦，嗨，<CapPlayerName>，你回来了！
-To be honest, I doubted that I would see you again, but since you are here... let us chat a little.|老实的说，我不确定我是否能再次见到你，不过既然你在这里……让我们再聊一会儿吧。
-I noticed something curious during your last visit: you really do have two pairs of eyes!<LINE>It is... curious, considering that I did not notice such features in my friend. You are the same species, are not you?|你上次来的时候，我注意到一件奇怪的事：你真的有两双眼睛！<LINE>它是……真奇怪，因为我并没有注意到我的朋友有这样的特点。你们是同一物种，对吗？
-It is very amusing. Creatures generally need more eyes to better determine the distance to their prey<LINE>and easier navigate through space, but for now it is hard for me to understand where such a difference comes from.|这很有趣。生物通常需要更多的眼睛来更好地控制与猎物之间的距离<LINE>以及分辨在空间中的方向，但现在我很难理解这样的差异从何而来。
-It looks natural, but I wonder if you were born like this. Even if it is a mutation, it is pretty... selective...|它看起来相当合适，但我怀疑你不是生来如此。不过即使这只是一个突变，它也很有……选择性……
-So you are a predator? Then I am glad you do not find me tasty. And in that case, <CapPlayerName>,<LINE>I would be grateful if you do not bring your prey here. I do not like to watch violence.|所以你是掠食者？那我很感激你觉得我没那么好吃。以及在这种情况下， <CapPlayerName>,<LINE>如果你不把你的猎物带来，我会相当感激。我并不喜欢看这种暴力的场面。
+To be honest, I doubted that I would see you again, but since you are here... let's chat a little.|老实的说，我怀疑我是否能再次见到你，不过既然你在这里……让我们再聊一会儿吧。
+I noticed something curious during your last visit: you really do have two pairs of eyes!<LINE>It is... curious, considering that I did not notice such features in my friend. You are the same species, are you not?|你上次来的时候，我注意到一件奇怪的事：你真的有两双眼睛！<LINE>它是……真奇怪，因为我并没有注意到我的朋友有这样的特点。你们是同一物种，对吗？
+It is very interesting. Creatures generally need more eyes to better determine the distance to their prey<LINE>and to help navigate through space, but for now it is hard for me to understand where such a difference comes from.|这很有趣。生物通常需要更多的眼睛来更好地控制与猎物之间的距离<LINE>以及分辨在空间中的方向，但现在我很难理解这样的差异从何而来。
+It looks natural, but I wonder if you were born like this. Even if it is a mutation, it is very... selective.|它看起来相当合适，但我很想知道你是不是生来如此。不过即使这只是一个突变，它也很有……选择性。
+So, are you a predator? Then I am glad you do not find me tasty. And in that case, <CapPlayerName>,<LINE>I would be grateful if you did not bring your prey here. I do not like to watch violence.|所以你是掠食者？那我很开心你觉得我没那么好吃。以及在这种情况下， <CapPlayerName>,<LINE>如果你不把你的猎物带来，我会相当感激。我并不喜欢看这种暴力的场面。
 Now I have something to think about. As much as my memory will allow me.|现在我有事情要考虑了。就我记忆允许的范围内。
 Maybe you have something to show me?|也许你有什么东西要给我看？
 
@@ -5997,11 +5996,11 @@ I am glad you do not find me tasty. <CapPlayerName>, please do not bring your pr
 //Case 2
 
 Oh, it is you.|哦，是你。
-Hmm, you look hungry, or is it just me?|你看起来很饿，还是只有我这么觉得？
+Hmm, you look hungry. Or is it just me?|你看起来很饿。还是只有我这么觉得？
 How are you, <CapPlayerName>? I hope you are doing well.|你还好吗， <CapPlayerName>？我希望你感觉还好。
 I am so sorry, but I do not have anything here to feed you. I really wish I could offer you something but... In my condition this is no longer possible.|我很抱歉，我没有什么可以喂你的。我真希望我能给予你点什么，但是……以我现在的情况来看，我很难给你什么东西了。
-But that is not the point now, there's not much time left. I wish you a successful hunt, <CapPlayerName>. I would really not want my only companion to starve to death.|但这不是重点，时间不多了。祝你狩猎成功， <CapPlayerName>。我真心不希望我唯一的朋友饿死。
-Come back when you feel better, maybe next cycle. In the meantime I will try to remember something very interesting to tell you.|当你感觉好点的时候再来，也许下个循环。与此同时，我会努力记起一些非常有趣的事情告诉你。
+But that is not the point. There's not much time left. I wish you a successful hunt, <CapPlayerName>. I would hate it if my only companion were to starve to death.|但这不是重点。时间不多了。祝你狩猎成功， <CapPlayerName>。要是我唯一的伙伴饿死了，那可太糟糕了。
+Come back when you feel better, maybe next cycle. In the meantime I will try to remember something interesting to tell you.|当你感觉好点的时候再来，也许下个循环。与此同时，我会努力记起一些非常有趣的事情告诉你。
 
 How are you, <CapPlayerName>? You look hungry. I am sorry, but I do not have anything to feed you.|你还好吗， <CapPlayerName>？我很抱歉，我没有什么可以喂你的。
 I wish you a successful hunt, I would not want my only companion to starve to death.|祝你狩猎成功，我不希望让我唯一的同伴饿死。
@@ -6009,6 +6008,7 @@ Come back when you feel better, I will try to tell you something interesting.|�
 
 I am sorry, friend, but I cannot remember of any new stories I can tell you.|对不起，朋友，我想不起任何可以告诉你的新故事了。
 I am embarrassed to ask you, but could you ask Five Pebbles for another neuron, I think he will not mind.|我有些不好意思拜托你，但是你能不能再问五块卵石要一个神经元，我想他不会介意的。
+
 
 //LW-void
 "A record of experiments with void fluid."|“一段虚空流体实验记录。”
@@ -6482,5 +6482,6 @@ Hold GRAB to maul a held bubble, this may propel you in a direction|按住“抓
 With sufficient food, press SPEC to create a bubble shield|拥有饱食度时，按住“特殊”键制造一株气泡草
 You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|拥有护盾时无法吹泡泡。按住“抓取”键将破坏护盾。
 Hold GRAB to fill shrivelled bubbleweed with air|按住“抓取”键重新为气泡草补充氧气
+
 
 

@@ -6484,4 +6484,10 @@ You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|�
 Hold GRAB to fill shrivelled bubbleweed with air|按住“抓取”键重新为气泡草补充氧气
 
 
+//3630272443
+trialbyfire-description|你好，这是我第一个区域模组，所以……它也许有点糟糕。但是，嘿！至少我在学习嘛。不管怎样，玩得开心！
+Trial by Fire|烈火审判
+The Depths|深渊
+The leg (cooling unit)|支架（冷却装置）
+The Simulation|模拟区
 

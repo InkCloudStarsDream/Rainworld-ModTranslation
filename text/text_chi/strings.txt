@@ -6500,10 +6500,10 @@ leemoriya.forecast-description|添加了一种新的动态天气系统，以及�
 ENABLED|开启
 DISABLED|关闭
 SUPPORT MODE|支持模式
-When support mode is active, Forecast will not generate any weather\nunless a region has custom settings defined by a mod.|当支持模式启动时，天气预报（Forecast）将不会生成任何天气<LINE>除非区域有通过模组进行自定义设置。
+[RegEX]When support mode is active, Forecast will not generate any weather\nunless a region has custom settings defined by a mod.|当支持模式启动时，天气预报（Forecast）将不会生成任何天气#Environment.NewLine#除非区域有通过模组进行自定义设置。
 GLOBAL|全局
 GLOBAL SETTINGS|全局设置
-Define settings that apply to all areas where weather is enabled, including global forecasts.\nYou can configure different forecasts per region in the 'Regions' tab.|自定义所有启用天气系统的区域的设置，包括全局天气预报。<LINE>你可以在“区域”选项卡中为不同的区域配置不同的天气。
+[RegEX]Define settings that apply to all areas where weather is enabled, including global forecasts.\nYou can configure different forecasts per region in the 'Regions' tab.|自定义所有启用天气系统的区域的设置，包括全局天气预报。#Environment.NewLine#你可以在“Regions”选项卡中为不同的区域配置不同的天气。
 - FORECAST SETTINGS -|- 天气预报设置 -
 WEATHER PREFERENCE|天气偏好
 Weathers transition more realistically - overwrites above chances|让天气转变更加真实--覆盖了随机性
@@ -6556,10 +6556,12 @@ Desaturates and tints effect colors to better match snowy palettes|降低饱和�
 SUPPORT MODE ENABLED|支持模式启用
 Forecast will only generate weather for regions with their own custom settings.\nTo allow weather for all regions, and to change the global settings, disable support mode.|天气预报只会为那些拥有自己自定义设置的区域生成天气。<LINE>若要允许所有区域成天气，以及更改全局设定，请关闭支持模式。
 REGION SETTINGS|区域设置
-Adjust whether a region will use the GLOBAL forecast you have set or define a CUSTOM one.\nTo fully disable weather, change it's setting to NONE.\n\nIf a region has specific settings configured by a mod-maker, it can be overridden here.|配置一个区域是使用你设置的全局天气预报或者单独自定义天气预报。<LINE>完全关闭天气请将其改变为“无”。<LINE><LINE>如果一个区域有模组作者已经配置好的特殊设置，这会覆盖掉它。
+[RegEX]Adjust whether a region will use the GLOBAL forecast you have set or define a CUSTOM one.\nTo fully disable weather, change it's setting to NONE.\n\nIf a region has specific settings configured by a mod-maker, it can be overridden here.|配置一个区域是使用你设置的全局天气预报或者单独自定义天气预报。#Environment.NewLine#完全关闭天气请将其改变为“无”。#Environment.NewLine##Environment.NewLine#如果一个区域有模组作者已经配置好的特殊设置，这会覆盖掉它。
 {0}.{1}) Change this region's weather settings|{0}.{1}) 更改此区域的天气设置
 forecastcog|预测分析
 This region has it's own modded settings|这个区域已有专属模组设置
+EDIT FORECAST|编辑天气预报
+Adjust the probability that each weather will occur, or disable certain weathers entirely.|调整每个天气发生的可能性，或者完全禁用某个特定天气。
 NONE|无
 CUSTOM|自定义
 MOD|模组
@@ -6567,9 +6569,9 @@ ERROR|错误
 STUN|昏迷
 LETHAL|致死
 THUNDERSTORM|雷暴
-THUNDERSTORM\n& BLIZZARD|雷暴\n& 暴风雪
+[RegEX]THUNDERSTORM\n& BLIZZARD|雷暴#Environment.NewLine#& 暴风雪
 ALL|全部
-DYNAMIC\n(Recommended)|动态\n（推荐）
+[RegEX]DYNAMIC.*(Recommended)|动态#Environment.NewLine#（推荐）
 LOW|低
 MEDIUM|中等
 HIGH|高
@@ -6577,14 +6579,18 @@ RANDOM|随机
 LEFT|左
 CENTER|中间
 RIGHT|右
-GLOBAL FORECAST\nAdjust the probabilities that certain weathers will occur, or disable certain weathers entirely. Each cycle, a weather will be selected based on the chances you define here. The 'GLOBAL' forecast applies to all regions by default, unless you have configured a custom forecast for a specific region.|全局天气预报\n调整某些天气出现的概率，或者禁用某些天气。每个循环，会基于你在此设置的概率选择一个天气。默认情况下，全局天气预报会应用于所有区域，除非您给特定区域设置了自定义天气预报。
-WEATHER PREFERENCE\nThis setting disables the GLOBAL forecast in favor of more realistic weather transitions. Each weather has it's own list of preferred weathers it will change into next cycle, preventing scenarios like light rain one cycle, and a blizzard the next.|天气偏好\n此设置会关闭全局天气预报，转而采用更贴近现实的天气变化方式。每一个天气拥有自己的下一雨循环天气变化倾向列表，避免出现像是一个雨循环的天气是小雨，下个循环的天气是暴风雪的现象。
-WEATHER RANDOMNESS\nIf you are using the Weather Preference setting, you can adjust this slider to introduce some additional randomness to the forecast. Based on the percentage, a completely random weather will be selected.|随机天气\n如果您启用了天气偏好设置，你可以调整调整这个滑块来为天气预报引入一些额外的随机性。基于百分比，将会选择一个完全随机的天气。
-WEATHER INTENSITY\nEach weather type has a minimum and maximum intensity. In dynamic mode, weather intensity will gradually progress from the minimum to the maximum as the cycle progresses, or you can set it to a fixed value.|天气强度\n每一个天气类型拥有一个最小和最大强度。在动态模式中，天气强度会随着循环进程从最小值演变到最大值，或者您可以设定一个固定值。
-BACKGROUND COLLISION\nEach weather particle has a chance of colliding with elements in the background instead of just normal room geometry. This can look more realistic but may also result in less particles hitting the floor in taller rooms.|背景碰撞\n每个天气粒子都会有几率撞击背景中的元素而不是房间中的常规几何结构。这会让其看起来更真实，但也可能会导致在较高的房间中撞击地板的粒子减少。
-FORECAST STYLE\nForecast's own snow style; has it's own snowflake particles and a unique end-of-cycle Blizzard. After cycle end the temperature will decrease and the wind will pick up. Your exposure to the cold is indicated by an icy border and eventually, beating drums will signal your imminent death.|天气预报类型\n天气预报自己的降雪类型，拥有专属的雪花粒子效果以及专属的循环终末的暴风雪。在循环结束之后，温度会骤降并且风会增大。你暴露在寒冷中的程度将会由冰封边框表示，最终，敲击的鼓点会预示你即将到来的死亡。
-DOWNPOUR STYLE\nUses the snowfall shader added in the Downpour DLC as well as it's end-of-cycle Blizzard. Has the same hypothermia mechanics present in Saint's campaign, however if you do not own a DLC, the weather will change back to rain at the end of the cycle.|倾盆大雨类型\n使用倾盆大雨DLC中添加的降雪着色器和循环结束的暴雪。有和圣徒战役相同的降温百分比机制，不过，如果你一个DLC都没有，那么天气会变成循环结束时的暴雨。
-SNOW SOURCES\nDuring snowy weather, snow piles will be dynamically placed in rooms. As the cycle progresses, the snow will accumulate. Unfortunately can look quite jarring in dark places like Shaded Citadel.|降雪源\n在下雪的天气里，雪砖会被动态地放置在房间中，随着循环发展，雪会累积起来。不幸的是，它会在黑暗的地方看起来非常显眼，比如阴影城堡。
+SAVE|保存
+WARNING: Saving will reset any existing region weathers.|警告：保存将会重置所有现有的区域天气设置。
+[RegEX]GLOBAL FORECAST.*Adjust the probabilities that certain weathers will occur, or disable certain weathers entirely. Each cycle, a weather will be selected based on the chances you define here. The 'GLOBAL' forecast applies to all regions by default, unless you have configured a custom forecast for a specific region.|全局天气预报#Environment.NewLine#调整某些天气出现的概率，或者禁用某些天气。每个循环，会基于你在此设置的概率选择一个天气。默认情况下，全局天气预报会应用于所有区域，除非您给特定区域设置了自定义天气预报。
+[RegEX]WEATHER PREFERENCE\nThis setting disables the GLOBAL forecast in favor of more realistic weather transitions. Each weather has it's own list of preferred weathers it will change into next cycle, preventing scenarios like light rain one cycle, and a blizzard the next.|天气偏好#Environment.NewLine#此设置会关闭全局天气预报，转而采用更贴近现实的天气变化方式。每一个天气拥有自己的下一雨循环天气变化倾向列表，避免出现像是一个雨循环的天气是小雨，下个循环的天气是暴风雪的现象。
+[RegEX]WEATHER RANDOMNESS\nIf you are using the Weather Preference setting, you can adjust this slider to introduce some additional randomness to the forecast. Based on the percentage, a completely random weather will be selected.|随机天气#Environment.NewLine#如果您启用了天气偏好设置，你可以调整调整这个滑块来为天气预报引入一些额外的随机性。基于百分比，将会选择一个完全随机的天气。
+[RegEX]WEATHER INTENSITY\nEach weather type has a minimum and maximum intensity. In dynamic mode, weather intensity will gradually progress from the minimum to the maximum as the cycle progresses, or you can set it to a fixed value.|天气强度#Environment.NewLine#每一个天气类型拥有一个最小和最大强度。在动态模式中，天气强度会随着循环进程从最小值演变到最大值，或者您可以设定一个固定值。
+[RegEX]BACKGROUND COLLISION\nEach weather particle has a chance of colliding with elements in the background instead of just normal room geometry. This can look more realistic but may also result in less particles hitting the floor in taller rooms.|背景碰撞#Environment.NewLine#每个天气粒子都会有几率撞击背景中的元素而不是房间中的常规几何结构。这会让其看起来更真实，但也可能会导致在较高的房间中撞击地板的粒子减少。
+[RegEX]FORECAST STYLE\nForecast's own snow style; has it's own snowflake particles and a unique end-of-cycle Blizzard. After cycle end the temperature will decrease and the wind will pick up. Your exposure to the cold is indicated by an icy border and eventually, beating drums will signal your imminent death.|天气预报类型#Environment.NewLine#天气预报自己的降雪类型，拥有专属的雪花粒子效果以及专属的循环终末的暴风雪。在循环结束之后，温度会骤降并且风会增大。你暴露在寒冷中的程度将会由冰封边框表示，最终，敲击的鼓点会预示你即将到来的死亡。
+[RegEX]DOWNPOUR STYLE\nUses the snowfall shader added in the Downpour DLC as well as it's end-of-cycle Blizzard. Has the same hypothermia mechanics present in Saint's campaign, however if you do not own a DLC, the weather will change back to rain at the end of the cycle.|倾盆大雨类型#Environment.NewLine#使用倾盆大雨DLC中添加的降雪着色器和循环结束的暴雪。有和圣徒战役相同的降温百分比机制，不过，如果你一个DLC都没有，那么天气会变成循环结束时的暴雨。
+[RegEX]SNOW SOURCES\nDuring snowy weather, snow piles will be dynamically placed in rooms. As the cycle progresses, the snow will accumulate. Unfortunately can look quite jarring in dark places like Shaded Citadel.|降雪源#Environment.NewLine#在下雪的天气里，雪砖会被动态地放置在房间中，随着循环发展，雪会累积起来。不幸的是，它会在黑暗的地方看起来非常显眼，比如阴影城堡。
+
+
 
 
 

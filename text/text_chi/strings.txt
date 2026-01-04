@@ -6633,10 +6633,14 @@ The Bottom|峡底
 //3637050259
 maxdubstep.steelmill-description|本区域用了1.5天时间制作，现在以永久未完工的状态公开发布。来探索这座围绕着沉没遗迹建成的钢铁工厂吧。
 Steel Mill|锻钢厂
-Forgotten Cranes|被遗忘的起重机
+Forgotten Cranes|被遗忘的塔吊
 Abandoned Leg|被弃支架
 Corroded Sink|朽化水槽
 Riven Factory|残裂工厂
 Metal Web|钢铁之网
 Vanity Remnant|虚荣遗迹
-Eroded Glacier|受蚀冰川
+Eroded Glacier|受蚀冰河
+
+//3637556546
+nicolasdreams.thepipe-description|一个连接工业区和净水系统的水管。支持所有蛞蝓猫游玩！
+The Pipe|管道

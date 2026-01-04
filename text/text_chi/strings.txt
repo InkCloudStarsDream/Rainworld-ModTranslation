@@ -79,7 +79,7 @@ SBCameraScroll-description|创建一个随蛞蝓猫移动的平滑相机。基�
 SBCameraScroll: Merging camera textures completed.|平滑相机: 已合并相机纹理。
 
 //2936078781
-ultharequinox.Hubert-description|舒伯特是一个小家伙，他的脑子里面一直想着钱，这让他的速度非常快，可以轻松的在大片平坦的地方起飞！<LINE>注意，模组目前非常非常多bug，还需要大量的工作来完善！<LINE>舒伯特是基于幸存者开发的蛞蝓猫，但具有很高的移动和攀爬管道的速度，这让他如果跑着跑着撞到了一堵墙，他就会被打晕。<LINE>正在努力让圣徒的舌头生效，感谢帮助和反馈！<LINE><LINE>如果舒伯特破坏了你的游戏，我非常抱歉。
+ultharequinox.Hubert-description|舒伯特是一个小家伙，他的脑子里面一直想着钱，这让他的速度非常快，可以轻松的在大片平坦的地方起飞！<LINE>注意，模组目前非常非常多bug，还需要大量的工作来完善！<LINE>舒伯特是基于幸存者开发的蛞蝓猫，但具有很高的移动和攀爬管道的速度，这让他如果跑着跑着撞到了一堵墙，他就会晕倒。<LINE>正在努力让圣徒的舌头生效，感谢帮助和反馈！<LINE><LINE>如果舒伯特破坏了你的游戏，我非常抱歉。
 Hubert the Slugcat|舒伯特
 HUBERT THE SLUGCAT|舒伯特
 The Hubert the Slugcat|舒伯特
@@ -105,7 +105,7 @@ The Stalker|潜行者
 THE STALKER|潜行者
 Stalker|潜行者
 STALKER|潜行者
-Thriving in the snow, your ways are primal, tearing through flesh with tooth and claw. <LINE> Your agility is your strength as you scour the land for only the grandest of prey.|生于雪原，以原始的方式谋求生存,用爪与牙撕裂肉体。<LINE>当你寻求你所渴望的猎物时，你的敏捷就是你的力量。
+Thriving in the snow, your ways are primal, tearing through flesh with tooth and claw. <LINE> Your agility is your strength as you scour the land for only the grandest of prey.|生于雪原，以原始的方式谋求生存,用爪与牙撕裂肉体。<LINE>当你寻求你所渴望的猎物时，敏捷即是你的力量。
 On the hunt for the sake of thrill,<LINE> The Stalker prowls the snow to the land's end|寻求刺激而狩猎，<LINE>潜行者在雪原中无尽地徘徊。
 The Poacher|盗猎者
 THE POACHER|盗猎者
@@ -265,9 +265,9 @@ Yes, you'd better go. For your own sake.|快走吧，为了你自己。
 Don't want to? That's ok.|不想玩了？好的。
 I will take that as a no.|我拒绝此。
 I see you've changed your mind.|我觉得你改变主意了。
-Follow one of my overseers, it will show you where the energy rail is.|跟随我的监视器，它将指引你前往能源线路。
-An overseer will catch up to you, and show you where the mass rarefaction cell is.|监视器将带你前往质量稀释电池。
-Please follow one of my overseers to the energy rail.<LINE>Pay close attention, and it will show you where to go.|请跟随我的监视器前往能源线路<LINE>跟紧了，它将带你去那里。
+Follow one of my overseers, it will show you where the energy rail is.|跟随我的监视者，它将指引你前往能源线路。
+An overseer will catch up to you, and show you where the mass rarefaction cell is.|监视者将带你前往质量稀释电池。
+Please follow one of my overseers to the energy rail.<LINE>Pay close attention, and it will show you where to go.|请跟随我的监视者前往能源线路<LINE>跟紧了，它将带你去那里。
 Don't forget to bring the cell to Looks to the Moon.|别忘了带电池去仰望皓月。
 The mass rarefaction cell, please take it to the structure in the far east.<LINE>It might still be of value there.|质量稀释电池，请送达东方巨构，<LINE>它或将发挥作用。
 Take that rarefaction cell with you to the far east.<LINE>Then for your own sake, never return here.|带质量稀释电池前往东方巨构。<LINE>然后为了你自己，别回来了。
@@ -333,7 +333,7 @@ That was fun. Thank you for your company, little creature.|真有意思，感谢
 You might have to leave soon. This complex will soon collapse.|你最好尽快离开。巨构面临倒塌。
 
 //2946343057
-theWarrior-description|战士是一个需要浴血奋战才能生存的怪物。在恶劣的环境中跟踪、刺杀和猎杀你的猎物。
+theWarrior-description|战士是一个需要浴血奋战才能生存的怪物。在恶劣的环境中跟踪、刺杀和狩猎你的猎物。
 The Warrior|战士
 THE WARRIOR|战士
 Warrior|战士
@@ -408,7 +408,7 @@ escoptions_buildeasy_desc|通过在半空中按下跳跃+抓取来启用下踢�
 escoptions_build_desc|为<REPLACE>选择类型。
 Default|默认
 default_desc|基本的，有一些技巧来与其他流派平分秋色。
-default_tut_a|<DEFAULT>更熟悉游泳，使他们有更长的呼吸时间和更好的游泳技巧。
+default_tut_a|<DEFAULT>更熟悉游泳，使它有更长的呼吸时间和更好的游泳技巧。
 default_tut_b|杆上跳跃也比其他流派更好！
 Brawler|角斗士
 brawler_desc|切换到近身格斗风格。
@@ -420,7 +420,7 @@ brawler_ms_expunchtut|炸弹可以让<BRAWLER>打出爆炸性的一拳！
 Deflector|偏转师
 deflector_desc|接受一种风险更大的游戏风格，必须通过滑动、滚动或翻转来躲避才能生存。
 deflector_tut_a|<DEFLECTOR>默认情况下造成一半伤害。
-deflector_tut_b|他们可以两次攻击来弥补力量损失...
+deflector_tut_b|它可以两次攻击来弥补力量损失...
 deflector_tut_c|或者，通过滚动、滑动或翻转攻击来成功进行格挡，从而获得力量！
 deflector_tut_d|充能状态下造成三倍伤害，但只适用于一次攻击，如果不使用就会消失。
 deflector_tut_e|但没关系，已经够杀死捕食者了！
@@ -445,7 +445,7 @@ railgunner_tut_spear|双矛: 大大提高了速度和伤害。
 railgunner_tut_rock|双石头: 大大提高了速度和击退。
 railgunner_tut_lily|双水莲花: 速度提高，弹道改善。
 railgunner_tut_bomb|双炸弹: 提高速度并对投掷炸弹免疫，从而实现真正的爆炸跳跃。
-railgunner_ms_tut_cracker|双爆竹: 速度加快，最后爆炸威力巨大。
+railgunner_ms_tut_cracker|双鞭炮草: 速度加快，最后爆炸威力巨大。
 railgunner_ms_tut_singularity|双奇点炸弹: 跳跃反弹并在撞击时引爆。
 Speedster|速度星
 speedster_desc|保持移动以提高速度，然后滑铲以释放能量。
@@ -534,7 +534,7 @@ Get out.|出去。
 Get out of my chamber.|从我的罐头里出去。
 Fucking.|肏。
 Hello little beast. It is nice to see you again.|嗨，小野兽，再次见到你真高兴。
-Thank you for visiting me. I would not mind some company, but you cannot stay here. I do not want you to be caught in the collapse of my structure.|谢谢你来看我。我不介意有人陪伴，但你不能呆在这里。我不想让你陷入我倒塌的建筑中。
+Thank you for visiting me. I would not mind some company, but you cannot stay here. I do not want you to be caught in the collapse of my structure.|谢谢你来看我。我不介意有人陪伴，但你不能呆在这里。我不想让你困在我倒塌的建筑中。
 It is nice to see you again, but I'm afraid I have nothing for you.|很高兴再次见到你，但恐怕我什么都没有了。
 I'm so sorry little creature! I never meant to hurt you!|我很抱歉，小家伙！我从来没有想过要伤害你！
 My structure is on the verge of collapsing. This is all I can offer...|我的建筑濒临倒塌。这就是我所能提供的...
@@ -543,12 +543,12 @@ Though yours seem vastly different... What are you?|虽然你的看起来大不�
 I could look up the records of your body's blueprints, but it would be dangerous for you to stay here for the process.|我可以查一下你身体蓝图的记录，但你留在这里进行这个过程会很危险。
 My n...|我的...
 My neighb... b b b|我的邻邻邻邻...居
-My neighbor, Five Pebbles, has not stopped his output. If the messenger made it safely to the communications array, the local group would know.|我的邻居五块卵石并没有停止他的生产。如果信使安全到达通信阵列，本地群组就会知道。
+My neighbor, Five Pebbles, has not stopped his output. If the messenger made it safely to the communications array, the local group would know.|我的邻居五块卵石并没有停止他的输出。如果信使安全到达通信阵列，本地群组就会知道。
 Were you sent by the local group?|你是本地群组派来的吗？
 Who sent you?|谁派你来的？
 I should not keep you here any longer.|我不应该再把你留在这里了。
 I cannot offer you hospitality either, poor thing. Run along now, before my structure collapses.|我也不能招待你，可怜的家伙。现在快跑吧，我马上就会倒塌。
-My neighbor, Five Pebbles, has not stopped his output. I do not know if the messenger made it to him, or if he has chosen to ignore the message.|我的邻居五块卵石并没有停止他的输出。我不知道是信使找到了他，还是他选择忽略了这条信息。
+My neighbor, Five Pebbles, has not stopped his output. I do not know if the messenger made it to him, or if he has chosen to ignore the message.|我的邻居五块卵石并没有停止他的输出。我不知道信使有没有找到他，也不知道他是否选择忽略了这条信息。
 There is not much I can do, and I urge you to move on, before my structure fails.|我无能为力，我敦促你们在我的结构损毁之前继续前进。
 I would not mind some company, however I urge you to move along. I do not want you to be caught in the collapse of my structure.|我不介意有人陪伴，但我敦促你继续前进。我不想让你因我的建筑倒塌而被困其中。
 HUD B UPDATE|HUD B更新
@@ -659,16 +659,16 @@ lancersl-imp|捣蛋鬼
 lancersl-animal|生灵
 A tiny animal. A young one, too. Your journey has taken you deep into my chamber,<LINE>but I doubt you came here on purpose.|年轻的小生灵。旅程引导你至此，但我觉得你是无意中来到此地。
 I'm afraid I can't assist you in the way you would have hoped for.<LINE> I do not know what would drive you to come all the way here in search for your family... Or how you managed it.|恐怕我不能如你所愿。<LINE>我不明白何种动力促使你千里迢迢来到这里寻找你的家人...特别是你是如何做到的。
-I can assure you they are nowhere in my premises, your kind don't seem to take well to this place.<LINE>My overseers would take great delight in reporting an entire group of you, seeing how they react to just one.|我可以向你保证，他们不在此地，你们似乎不太喜欢这个荒凉之地。<LINE>我的监视器喜欢向我报告你们的群体，刚才便有你们与它的互动。
-Your family may be long gone by now... I can assure you they are nowhere in my premises,<LINE>your kind don't seem to take well to this place. My overseers would take great delight<LINE>in reporting an entire group of you, seeing how they react to just one.|你的家人可能早已离开...我可以向你保证，他们不在此地，你们似乎不太喜欢这个荒凉之地。<LINE>我的监视器喜欢向我报告你们的群体，刚才便有你们与它的互动。
+I can assure you they are nowhere in my premises, your kind don't seem to take well to this place.<LINE>My overseers would take great delight in reporting an entire group of you, seeing how they react to just one.|我可以向你保证，它们不在此地，你们似乎不太喜欢这个荒凉之地。<LINE>我的监视者喜欢向我报告你们的群体，刚才便有你的同类与它的互动。
+Your family may be long gone by now... I can assure you they are nowhere in my premises,<LINE>your kind don't seem to take well to this place. My overseers would take great delight<LINE>in reporting an entire group of you, seeing how they react to just one.|你的家人可能早已离开...我可以向你保证，它们不在此地，你们似乎不太喜欢这个荒凉之地。<LINE>我的监视者喜欢向我报告你们的群体，刚才便有你的同类与它的互动。
 However, if it's any consolation, I will give you an opportunity.<LINE>To go the way of my creators. Eternal bliss, how does that sound?|不过，可能令你稍有慰藉的是，我会给你一个机会。<LINE>走我的创造者走过的路。可以得到永恒的幸福，听起来如何？
 From here, go west past the Farm Arrays and find the place where the land fissures.<LINE>Clamber down into the earth, as deep as you can reach, and then go further.|从这里向西经过农场阵列，到达地面开裂之处，尽可能深入地下。
-Saying you'll need luck is an understatement... but I admit I feel<LINE>a pang of sympathy for you, and it feels wrong to leave you empty handed.|说你处于运气似乎并不妥当...但我承认我对你深表同情，让你两手空空离开是不对的。
+Saying you'll need luck is an understatement... but I admit I feel<LINE>a pang of sympathy for you, and it feels wrong to leave you empty handed.|说你不幸还是太过轻巧了...但我承认我对你深表同情，让你两手空空离开是不对的。
 At the end of time none of this will matter, I suppose. Even if you fail<LINE>you'll live an eternity of lives more, and maybe eventually, you'll make it in the end.|我想，归根结底，这些都无关紧要。即使你失败了，你也会活得更长久，也许最终，你会成功的。
 Either way, you must leave now. There's a perfectly good access shaft right here.|不管怎样，你现在必须离开。这里有一个非常好的出口。
 I hope you find what you're looking for. Don't bother coming back.|我希望你能找到你想要的东西。别回来了。
 What? Why would you take it back? Do you even know where you're going with that?|什么？你为什么把这个带回来了？你知道你要去哪里吗？
-Fine, little creature. Have it your way. Her name is Looks to the Moon, and she lies decrepit in the waters to the east.|很好，小家伙。随心所欲。她的名字叫望月，她躺在东边的水中。
+Fine, little creature. Have it your way. Her name is Looks to the Moon, and she lies decrepit in the waters to the east.|很好，小家伙。随你的便吧。她的名字叫仰望皓月，倒塌在东边的水域里。
 It's a shame you'd choose to waste such a precious resource on her.<LINE>But I respect your courage, and if you feel that's what's right, I won't stand in your way.|你竟然选择在她身上浪费这么宝贵的资源，真是太可惜了。<LINE>但我尊重你的勇气，如果你觉得这是对的，我不会妨碍你。
 Leave now, and don't come back.|现在离开，不要回来。
 Do you need some help, tiny creature?|你需要帮助吗，小家伙？
@@ -680,16 +680,16 @@ I cannot assist you further.|我帮不了你更多了。
 Just be aware of the mistake you're making.|只要意识到你正在犯的错误。
 It is too long a journey to stall for even a moment.|这是一段太长的旅程，哪怕是一刻也不能停下来。
 Get... get away... small.... thing.|出...出去...小...东西。
-I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far at all...|我看到有人给了你沟通的天赋<LINE>一定是五块卵石，因为你看起来根本不能走很远...
-He's sick, if you haven't noticed. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.|如果你没注意到的话，他病了。被自己的实验从内部腐蚀。<LINE>也许他们现在都是了，谁知道呢，我们不是为了飞升而设计的，它快把我们逼疯了。
+I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far at all...|有谁给了你交流印记<LINE>一定是五块卵石，因为你看起来根本走不了太远...
+He's sick, if you haven't noticed. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.|如果你没注意到的话，他病了。被自己的实验从内部腐蚀。<LINE>也许他们现在都是了，谁知道呢，我们不是为了飞升而设计的，这个事实快把我们逼疯了。
 It is good to have someone to talk to even if that's a child like you.<LINE>My last visitor stopped coming here many cycles ago, and<LINE>here I was about to get used to its visits.|即使是像你这样的孩子，有人倾诉也是件好事。<LINE>我的最后一位访客在很多个循环前就不再来这里了，我刚刚打算习惯它的访问。
 Hello <PlayerName>. Are you lost?|你好<PlayerName>。你迷路了吗？
 I am sorry to say that there is nothing here for you.|很抱歉，这里什么都没有。
 I do enjoy the company though. You're welcome to stay a while, quiet petite thing.|不过我确实很喜欢有人陪伴。欢迎你住一段时间，安静的小家伙。
-I have had another visitor from your specie before. And they left me alive!<LINE>But... I have told you that already, haven't I?|我以前还有一位来自你们物种的客人。他救活了我。<LINE>但是...我已经告诉过你了，不是吗？
-Even the last visitor that came here from time to time left with nothing. But... I have told you that already, haven't I?|即使是最后一个不时来这里的客人也一无所获。但是我已经告诉过你了，不是吗？
+I have had another visitor from your specie before. And they left me alive!<LINE>But... I have told you that already, haven't I?|以前还有一位和你一个物种的来客。它救活了我！<LINE>但是...我已经告诉过你了，不是吗？
+Even the last visitor that came here from time to time left with nothing. But... I have told you that already, haven't I?|即使是最后一个不时来这里的访客也一无所获。但是我已经告诉过你了，不是吗？
 Maybe this is asking too much for a child like you but...<LINE>could you bring me another one?|也许这对你这样的孩子要求太高了，但是...<LINE>你能再给我拿一个吗？
-Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, tiny creature!|事实上，我相信他会很乐意的，况且但他有这么多这个~<LINE>，这对他没有任何影响。<LINE>但是对我来说，影响很大！谢谢你，小家伙！请你再给我拿一个？
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, tiny creature!|事实上，我相信他会很乐意的，况且他有这么多个~<LINE>，这对他没有任何影响。<LINE>但是对我来说，影响很大！谢谢你，小家伙！
 This much effort, just to help me... It means more than you could ever know.|这么多的努力，只是为了帮助我...这所意味的比你所知道的更多。
 All of this trouble just to save me... You are more generous than anyone I've known.|所有这些麻烦只是为了救我...你比我认识的任何人都慷慨。
 I am happy that I'm not alone.|我很高兴我并不孤单。
@@ -700,7 +700,7 @@ The Guide|向导
 THE GUIDE|向导
 Guide|向导
 A flighty SlugCat that specializes in running away from danger rather than facing it head-on. <LINE> You're far from home, in unknown territory. Hungry and afraid with new threats abound, <LINE> will you adapt to these challenges with your new allies, or will you make the journey back home?|轻巧的蛞蝓猫，善于逃避危险而非面对。<LINE>这里距离家园很远，对全新的威胁感到恐惧。<LINE>你会和新盟友们一起适应这些挑战，还是会踏上回家的旅程？
-A semi-aquatic creature taken in and raised by scavengers. You've grown with them and learned their ways.<LINE> Guide them to a new home.|一个两栖动物，被拾荒者所抚养。你和他们一起成长，<LINE>学习他们的方式。如今，请引导他们到新的家园。
+A semi-aquatic creature taken in and raised by scavengers. You've grown with them and learned their ways.<LINE> Guide them to a new home.|一个两栖动物，被拾荒者抚养。你和它们一起成长，<LINE>学习它们的生活方式。如今，请引导它们到新的家园。
 Submerged Highway|浸没公路
 
 //2960701647
@@ -739,7 +739,7 @@ The Gravel-Eater|食砾石者
 THE GRAVEL-EATER|食砾石者
 Gravel-Eater|食砾石者
 A thick-skinned avid consumer of gravel, reveals a feral side when starved of it. <LINE>  An ever present hunger drives this being to consume gravel and seek solace from it.|厚皮肤的砾石爱好者，在饥饿时展现出野性的一面。<LINE>持续存在的饥饿驱使这个生物消耗砾石并从中寻求慰藉。
-Awoken from a deep slumber, and tragically stuck in a delicate equilibrium. <LINE> Given a chance at life, will you ever find normalcy? |从沉睡中醒来，陷入保持平衡的困境。<LINE>你能否使生活回到正轨？
+Awoken from a deep slumber, and tragically stuck in a delicate equilibrium. <LINE> Given a chance at life, will you ever find normalcy? |从沉睡中醒来，不幸地陷入一种微妙的平衡中。<LINE>你能否使生活回到正轨？
 Ever hungry for more gravel to stomach, this slugcat begins<LINE>another search for some pebbles to chew on.|由于渴望有更多的砾石可以吃，这只蛞蝓猫开始了另一次寻找可以吃的石头的旅程。
 Sunbaked Archipelago|日照群岛
 Solventicon|溶解之地
@@ -753,9 +753,9 @@ Hall of Fame|名人堂
 gallery|画廊
 
 //2967192800
-The Savage|野蛮人
-THE SAVAGE|野蛮人
-Savage|野蛮人
+The Savage|蛮夷
+THE SAVAGE|蛮夷
+Savage|蛮夷
 A brutal hunter lost amongst prey and predators, forced to take danger head on to survive.<LINE>Bearing a sharp throw and honed teeth, press on and venture forwards in your search for your calling in this world.|一个残忍的猎人迷失在猎物和捕食者之间，被迫直面危险以求生存。<LINE>带着强壮的的肢体和锋利的牙齿，继续前进，在这个世界上寻找你的使命。
 Side House|侧堂
 Outer Domain|外域
@@ -790,7 +790,7 @@ Quiet Gardens|宁静花园
 The Ambidextrous|巧匠
 THE AMBIDEXTROUS|巧匠
 Ambidextrous|巧匠
-A ambidextrous slugcat on some mission.<LINE>Nobody's sure where he came from and which Iterator he belongs to.<LINE>Nobody's sure where he came from and if he was/is an Iterator messenger|双手灵巧的蛞蝓猫。<LINE>没有人知道他来自哪里，属于哪个何者。
+A ambidextrous slugcat on some mission.<LINE>Nobody's sure where he came from and which Iterator he belongs to.<LINE>Nobody's sure where he came from and if he was/is an Iterator messenger|双手灵巧的蛞蝓猫。<LINE>没有人知道他来自哪里，又是否是（或曾是）一位迭代器的信使。
 The Breadlord|面包侠
 THE BREADLORD|面包侠
 
@@ -876,14 +876,15 @@ Frozen City|霜冻城市
 Sludge Pipeway|污泥管道
 
 //2990306192
+//备注：已迁移至新版3139436454
 The WIP Night Walker WIP|夜行客（未完成）
 WIP Night Walker WIP|夜行客（未完成）
 WIP NIGHT WALKER WIP|夜行客（未完成）
-A powerful slugcat that consumes the vitality of its enemies, its journey is solitary and confusing. <LINE> Will you be able to find your way back or perhaps you will meet your ultimate death after so long?|一只强大的蛞蝓，消耗着敌人的生命力，它的旅程是孤独而困惑的。<LINE>你能找到回去的路吗？或者你会在长时间后遭遇最终的死亡吗？
+A powerful slugcat that consumes the vitality of its enemies, its journey is solitary and confusing. <LINE> Will you be able to find your way back or perhaps you will meet your ultimate death after so long?|一只强大的蛞蝓，消耗着敌人的生命力，它的旅程是孤独而困惑的。<LINE>你能找到回去的路吗？还是在漫长时光后迎来最终的死亡？
 The Witness|见证者
 Witness|见证者
 WITNESS|见证者
-An extremely agile omnivore, although this sometimes works against him<LINE>he does not like to be alone and prefers to be accompanied by others of his kind|一个极其敏捷的杂食动物，尽管这有时对他不利<LINE>，但他不喜欢独处，而且更喜欢同类的陪伴。
+An extremely agile omnivore, although this sometimes works against him<LINE>he does not like to be alone and prefers to be accompanied by others of his kind|一个极其敏捷的杂食动物，尽管这有时对他不利<LINE>，他不喜欢独处，而是更喜欢同类的陪伴。
 Dark Density|黑暗浓云
 
 //2993225799
@@ -907,28 +908,28 @@ fpexpansion-description|扩展了五卵石区域，增加了淋巴导管、原�
 Five Pebbles (Lymphatic System)|五卵石（淋巴系统）
 
 //3001275271
-olaycolay.thevinki-description|扮演一个个性的青少年，穿着磨轨鞋，在五块卵石上展现自己的风采。
+olaycolay.thevinki-description|扮演一只个性的青少年，穿着磨轨鞋，在五块卵石上展现自己的风采。
 The Vinki|芬奇
 THE VINKI|芬奇
 Vinki|芬奇
 Play as an angsty teen wearing rail-grinding shoes and spraying graffiti to enact revenge on 5P.|个性的青少年，穿着磨轨鞋，在五块卵石上展现自己的风采。
 Five Pebbles (Research and Development)|五卵石（研究与建设）
 
-Hold (" + grind + ") while moving atop a horizontal beam or climbing a vertical pole to grind.|在水平杆上移动或爬上垂直杆时，按住"滑动"以滑行。
+Hold (" + grind + ") while moving atop a horizontal beam or climbing a vertical pole to grind.|在水平杆上移动或爬上垂直杆时，按住"磨轨"以滑行。
 While grinding atop a horizontal beam, jump to execute a trick jump.|当在水平杆上滑行时，跳起来以做特技跳跃。
 hile grinding up a vertical pole, hold jump to trick jump off the top of the pole.|在打磨垂直杆的同时，保持跳跃，从杆顶上跳下。
-Hold (" + grind + ") while falling to catch a horizontal beam with your feet and continue grinding.|跌倒时按住“研磨”以继续滑行。
-You can hold down to fall off a beam, then let go to catch another beam.|你可以按住从一根横梁上掉下来，然后放开抓住另一根横梁。
-By jumping at the very end of a beam, you will Coyote Jump. This gives you even more jump height and speed.|通过跳到横梁的最末端，你会跳到狼身上。这会给你更高的跳跃高度和速度。
-You can execute a similar boost by falling from grinding a beam, and jumping right when you land on the ground.|你可以通过从横杆上摔下来，然后在落地时向右跳跃来执行类似的助推。
+Hold (" + grind + ") while falling to catch a horizontal beam with your feet and continue grinding.|跌倒时按住“磨轨”以继续滑行。
+You can hold down to fall off a beam, then let go to catch another beam.|你可以按住“下”从一根横杆上掉下来，然后抓住另一根横杆。
+By jumping at the very end of a beam, you will Coyote Jump. This gives you even more jump height and speed.|在横杆的最末端以适当时机跳跃，触发狼跳。这会给你更高的跳跃高度和速度。
+You can execute a similar boost by falling from grinding a beam, and jumping right when you land on the ground.|在滑行状态中下落时，于落地瞬间起跳，可以实现类似的加速效果。
 Hold (UpArrow + LShift) while carrying a rock and colorful object (pearls, fruit, etc.) to craft a Spray Can.|长按上和抓取以使用石头和其他彩色物体制作喷雾罐。
 Press (UpArrow + X) while carrying a Spray Can to spend a charge and spray graffiti.|在携带喷雾罐的时按抓取和投掷可以装填并涂鸦。
 You can also damage some creatures by spraying them.|你也可以通过喷涂来伤害一些生物。
 ... in a future update.|...在未来的更新中
 Access the Quest Map screen while hibernating to view hints of where to paint next.|在雨眠状态下查看任务地图，获取下一步绘制位置的提示
 The hologram-like visions show where you need to spray in order to pursue your goal.|全息图显示了你任务中而需要喷洒的地方
-Some large pieces may require you to spray from multiple positions.|有些大块可能需要从多个位置进行喷涂
-It appears that Five Pebbles might not tolerate your graffiti being anywhere near him. Search for better spots elsewhere.|看来Five Pebbles可能无法容忍你的涂鸦靠近他。在其他地方寻找更好的景点
+Some large pieces may require you to spray from multiple positions.|大块的画作可能需要从多个位置进行喷涂
+It appears that Five Pebbles might not tolerate your graffiti being anywhere near him. Search for better spots elsewhere.|看来五块卵石无法容忍你的涂鸦在他附近。去别处寻找更好的喷绘点
 
 QUEST MAP|任务
 SELECT GRAFFITI|选择涂鸦
@@ -975,15 +976,15 @@ You are aware that neither of us have ears, aren't you? I do not see any reason 
 Why would you draw a centipede next to this specific species of fungus? It is incredibly toxic to all insects!|你为什么要在孢子果旁画一条蜈蚣？它对所有昆虫都有剧毒！
 While I appreciate the thought, I must deeply apologize, as I am unfortunately a completely different organism. |虽然我很感激这种想法，但我深表歉意，不幸的是，我是完全不同的有机体。
 Where have you seen those, little creature? I would like to refresh my database with new entries.|你在哪里见过这些，小家伙？我想用新条目刷新我的数据库。
-When one of them gets grabbed, it will emit a laser, which causes any nearby vulture to be aware of a potential meal and fly over to check!|当其中一只秃鹫发现猎物时，它会发出激光，这会让附近的秃鹫意识到潜在的食物，并飞去参与狩猎！
+When one of them gets grabbed, it will emit a laser, which causes any nearby vulture to be aware of a potential meal and fly over to check!|当一只射线虫被抓住时，它会发出激光，这会让附近的秃鹫意识到潜在的食物，然后飞过来察看！
 What prompted you to come up with such a concept?|是什么促使你提出这样一个概念?
 What a pleasing picture! The colors are quite vibrant and work together well.|多么令人愉快的画面啊！这些鲜艳的色彩，搭配起来很好。
 What a fun-looking creature! I don't really recognize it, but it looks quite interesting.|多么有趣的生物啊！我不认识它，但它看起来很有趣。
 Was it intended?|是故意的吗？
-Unless you managed to find some... Questionable outfits, left behind by our creators, and used them as an inspiration. In that case, please find different inspirations.|除非你设法找到一些... 我们的创作者留下的迷惑的的服装，并将其作为灵感来源。如此，以便寻找不同的灵感。
-Those two beings are truly interesting. Did you know they have a close symbiotic relationship? You depicted it, so of course you must be at least aware of it.|这两个真的很有趣。你知道他们有共生关系吗？你描绘了它，所以你当然至少有所意识。
+Unless you managed to find some... Questionable outfits, left behind by our creators, and used them as an inspiration. In that case, please find different inspirations.|除非你设法找到一些... 我们创造者留下的迷惑装扮，并将其作为灵感来源。请找点别的灵感吧。
+Those two beings are truly interesting. Did you know they have a close symbiotic relationship? You depicted it, so of course you must be at least aware of it.|这两个生物真的很有趣。你知道它们有共生关系吗？当然，这是你画的，所以你应该有所意识。
 Those creatures are usually quite mean, pushing other organisms underwater, which quickly becomes a risk of drowning for those unlucky few. Although I wouldn't mind becoming a friend of this one in particular.|这些生物通常都很卑鄙，把其他生物推到水下，使得那些不幸的生灵溺亡。但是我并不介意成为它们的朋友。
-Those beings can hold grudges for quite a while. I don't envy you, little friend.|它们可能会记仇很长一段时间。我很担心你的安危，小小的朋友。
+Those beings can hold grudges for quite a while. I don't envy you, little friend.|它们可能会记仇很长一段时间。我很担心你的安危，小朋友。
 Those beings are incredibly smart, but I can't help but feel deeply concerned about the fact they have freely available explosives.|这些生物非常聪明，但我不禁因它们拥有无数炸药而深感担忧。
 This piece is... Incredibly chaotic, with how many colors were used.|这件作品... 令人难以置信的混乱，用了众多色彩。
 This particular piece is... Surely interesting. I am unsure of the meaning of it, but I can freely admit I do not enjoy the implications.|这件特别的作品... 肯定很有趣。我清楚它的含义，但说实话，我不喜欢它。
@@ -993,137 +994,137 @@ This is... Concerning.|这是... 奇怪。
 This image also reminds me of something else, but you shouldn't worry about it, as you likely wouldn't understand anyway. Just a coincidence, I believe.|这张照片也让我想起了别的东西，不必担心，因为你很可能不理解。我相信这只是个巧合。
 This amount of detail is quite incredible, for a little creature such as you!|对你来说，有如此细腻的笔法是相当惊人的!
 They hide so incredibly well, usually in really dark areas, it must've been hard to get a good look at one.|它们隐藏得非常好，通常在非常黑暗的地方，很难看清。
-They can indeed become dangerous after repeated ingestion, but I wonder why you dislike them so strongly. Do you not enjoy their taste?|反复食用后，它们确实会变得危险，但我不知道你为什么这么不喜欢它们。你不喜欢他们的味道吗?
-They are purposed organisms, previously kept within silver cages all their lives to light up otherwise dark areas, so they might not be the most stable now that they were freed from their duty.|它们是效用型有机体，以前被关在笼子里，照亮黑暗的地方，所以现在让它们自由，可能不太妥当。
-They are our eyes, after all, and scavengers already hunt them plenty without your guidance.|毕竟，它们是我们的眼睛，没有你的指导，拾荒者已经猎杀了它们很多次了。
-They are known for picking up items and food they find, not to use, but to lure unlucky scavengers into a trap. They use their incredibly heavy bodies to drop onto their prey and stun it, before injecting it with venom!|它们以捡起它们找到的物品和食物而闻名，不是为了使用，而是为了引诱不幸的拾荒者进入陷阱。它们用沉重的身体扑向猎物并将其击晕，然后再向其注射毒液!
-They are known for helping friendly creatures out every so often.|它们以经常帮助友好的生物而闻名。
+They can indeed become dangerous after repeated ingestion, but I wonder why you dislike them so strongly. Do you not enjoy their taste?|多次食用后，它们确实会变得危险，但我不明白你为什么这么不喜欢它们。你不喜欢那味道?
+They are purposed organisms, previously kept within silver cages all their lives to light up otherwise dark areas, so they might not be the most stable now that they were freed from their duty.|它们是效用有机体，以前被关在笼子里，照亮黑暗的地方，所以现在让它们自由，可能不太妥当。
+They are our eyes, after all, and scavengers already hunt them plenty without your guidance.|毕竟，它们是我们的眼睛，没有你的指引，拾荒者已经猎杀了它们很多次了。
+They are known for picking up items and food they find, not to use, but to lure unlucky scavengers into a trap. They use their incredibly heavy bodies to drop onto their prey and stun it, before injecting it with venom!|它们有衔走沿途发现的物品和食物的习性，但这不是为了自己使用，而是用来引诱倒霉的拾荒者落入陷阱。它们用沉重的身体扑向猎物使其击晕，然后再向其注射毒液!
+They are known for helping friendly creatures out every so often.|它们以经常帮助对它们友善的生物而闻名。
 They are also very sharp, so I advise you to be careful next time you see them.|它们也很锋利，所以我建议你下次看到它们时要小心。
 These flowers are a form of organic lighting for underground machinery, so I wonder where you saw them!|这些花是地下机械的一种有机照明形式，所以我想知道你在哪里看到它们的!
-The spores they squirt out were said to have an overwhelming odor, which works as great repellent for the carnivorous colonies of stationary worm species.|据说，它们喷出的孢子有一种强烈的气味，对静止的食肉蠕虫物种来说，这是一种很好的驱虫剂。
+The spores they squirt out were said to have an overwhelming odor, which works as great repellent for the carnivorous colonies of stationary worm species.|据说，它们喷出的孢子有一种强烈的气味，因此这是一种强效的舌草驱避剂。
 The memory crypts were considered sacred ground by my creators, which is the reason behind the existence of those beings. |记忆陵墓被我的创造者认为是神圣的地方，这就是那些生物存在的原因。
-They are incredibly vicious, aggressively protecting the wealth of those laid to rest underneath.|他们极其凶狠，保护着逝者的遗产。
+They are incredibly vicious, aggressively protecting the wealth of those laid to rest underneath.|它们极其凶狠，保护着逝者的遗产。
 The creature that you drew is oddly shaped. Is it based on anything in particular?|你画的那个生物形状很奇怪。它是基于什么特别的东西吗?
 That seems like a good idea, doesn’t it?|这似乎是个好主意，不是吗?
-That poor creature... It appears to me they know that if their scared eyes are any indicator.|那个可怜的家伙......在我看来，他们知道，如果他们害怕的眼睛是任何指示。
-That is... surely an interesting piece of art. Although I would highly prefer not to see it. As Five Pebbles' senior and close neighbor, it feels disrespectful to have such images of him on my chamber walls.|这是......真是一件有趣的艺术品。虽然我非常不希望看到它。作为五块卵石的前辈和近邻，把他的照片挂在我房间的墙上，感觉很不尊重。
-That is... Such an interesting depiction of one of many purposed organisms used for recycling waste materials. Is that a spear, stuck to the back of their head?|这是......这是对用于回收废物的许多有目的生物之一的有趣描述。那是一支长矛吗，插在他们后脑勺上?
+That poor creature... It appears to me they know that if their scared eyes are any indicator.|那个可怜的生灵......看来它们那惊恐的眼神，想必早就明白发生了什么。
+That is... surely an interesting piece of art. Although I would highly prefer not to see it. As Five Pebbles' senior and close neighbor, it feels disrespectful to have such images of him on my chamber walls.|这是......真是一件有趣的艺术品。虽然我非常不希望看到它。作为五块卵石的前辈和近邻，把他的照片放在我房间的墙上，感觉很不尊重。
+That is... Such an interesting depiction of one of many purposed organisms used for recycling waste materials. Is that a spear, stuck to the back of their head?|这是......对一种回收废料的效用有机体的有趣描绘。那是一根长矛插在它的脑袋上?
 Such an accurate depiction of a little creature! Did you know that they have much stronger muscles within their tails than any other creature? Such interesting purposed organisms!|对这种小动物的描绘真是太精确了!你知道吗，它们尾巴上的肌肉比其他任何动物都要强壮得多?如此有趣的有目的的生物!
-So far, it seems to be one of your best works, and it imitates ancient art quite well!|到目前为止，这似乎是你最好的作品之一，它复古地非常相像!
+So far, it seems to be one of your best works, and it imitates ancient art quite well!|到目前为止，这似乎是你最好的作品之一，它很接近先民的艺术!
 Poor little thing.|可怜的小东西。
-Poor creatures. And yet... They survived for so long.|可怜的生物。然而... 他们活了这么久。
-Please do not swim in any chemicals you might find inside or outside our structures, little friend! While the cycle will let you wake right back up again, it is truly an unpleasant way to go.|小小的朋友，请不要在我们建筑内外的任何化学物质中游泳!虽然这种循环会让你再次醒来，但这确实是一种不愉快的方式。
+Poor creatures. And yet... They survived for so long.|可怜的生物。然而... 它们活了这么久。
+Please do not swim in any chemicals you might find inside or outside our structures, little friend! While the cycle will let you wake right back up again, it is truly an unpleasant way to go.|小朋友，请不要在我们结构内外的任何化学物质里游泳!虽然循环会让你再次醒来，但这确实不是一种愉快的死法。
 Please be careful.|请小心。
-Or... You are simply mean to them.|还是......你对他们太刻薄了。
+Or... You are simply mean to them.|还是......你对它们太刻薄了。
 Oh... Huh. Those flowers definitely hold some resemblance to an ancient karma symbol, I wonder if it was intended?|哦......嗯。这些花确实有点像古代的业力符号，我想知道这是不是故意的?
 Oh. I would advise you to be careful around those if you see them around, little creature.|哦。如果你在周围看到它们，我建议你小心点，小家伙。
-Oh! Is this the maw of a leviathan? I wonder where you saw it, considering they live in really deep waters! They are quite big, after all.|哦!这是利维坦的大嘴吗?我想知道你在哪里看到的，考虑到它们生活在深水中! 毕竟它们相当大。
+Oh! Is this the maw of a leviathan? I wonder where you saw it, considering they live in really deep waters! They are quite big, after all.|哦!这是利维坦的大嘴吗?我想知道你在哪里看到的，毕竟它们生活在深水中，而且体型相当大。
 Now let me take a look...|现在让我看看......
 Neither I nor Pebbles enjoy the feeling of having pieces of our bodies scratched up and eaten, I hope you understand.|我和卵石都不喜欢自己身体的碎片被抓来吃去的感觉，我希望你能理解。
 My true body is this entire structure that you are walking through, which might be difficult for you to comprehend.|我真正的身体是你走过的这整个结构，这对你来说可能很难理解。
-My puppet might look mildly similar to you - which I truly do not see - but it is not my actual body. It is simply what I was given to express myself and speak to my creators directly.|我的人偶可能看起来有点像你——我真的没有看到——但它不是我真正的身体。这只是我被赋予的表达自己和直接与我的创造者交谈的东西。
-Little creature, how did you manage to replicate the exact likeness of one of our neighboring iterators so well? Have you traveled from afar, or is it a lucky coincidence?|小生灵，你是怎么把邻近的迭代器复制得这么好?你是远道而来的，还是幸运的巧合?
-It's you. I cannot say that I recognize the gesture your hand is making, however.|这是你的。然而，我不能说我认识你的手所做的手势。
+My puppet might look mildly similar to you - which I truly do not see - but it is not my actual body. It is simply what I was given to express myself and speak to my creators directly.|我的人偶可能看起来有点像你——虽然我真没看出来——但它不是我真正的身体。这只是我被赋予的一具化身，让我得以表达想法，并直接与我的创造者交谈。
+Little creature, how did you manage to replicate the exact likeness of one of our neighboring iterators so well? Have you traveled from afar, or is it a lucky coincidence?|小生灵，你是怎么把邻近的迭代器复现得这么好?你是远道而来，还是说只是个幸运的巧合?
+It's you. I cannot say that I recognize the gesture your hand is making, however.|这是你。但我不敢说我认识你的手势。
 It looks to me like the fruit of a feathery plant. Have you imagined it, or got inspired by an existing plant?|在我看来，它就像一种长着羽毛的植物的果实。你是想象出来的，还是从现有的植物中得到了灵感?
 It is your face, drawn over a green flame.|那是你的脸，画在绿色的火焰上。
-It is familiar, so with a little bit of cross-referencing I could possibly find its ancestors, which would be a nice little project to pass some time.|它很熟悉，所以通过一些交叉引用，我可能会找到它的祖先，这将是一个消磨时间的好项目。
+It is familiar, so with a little bit of cross-referencing I could possibly find its ancestors, which would be a nice little project to pass some time.|它很眼熟，所以通过对照检录，我可能会找到它的祖先，这将是一个消磨时间的好项目。
 It is a very adorable depiction of a lizard.|这是一幅非常可爱的蜥蜴画。
 It is a very accurate depiction of a part of our systems.|它非常准确地描述了我们系统的一部分。
 It is a very accurate depiction of a jellyfish, swimming with pearls.|这是一个对水母与珍珠游泳非常准确的描绘。
-It is a simple depiction of a fern-like plant. I believe that it is a fly lure, which was used often to lure away pests from areas where their continuous presence would be damaging.|这是一种蕨类植物的简单描绘。我相信这是一种诱蝇剂，通常用来引诱害虫离开那些持续存在会造成破坏的地区。
-It is a red centipede, looking at a pearl. From the color, I can tell that it is the aggressive kind.|它是一只红色的蜈蚣，正看着一颗珍珠。从颜色上看，它有攻击性。
+It is a simple depiction of a fern-like plant. I believe that it is a fly lure, which was used often to lure away pests from areas where their continuous presence would be damaging.|这是一种蕨类植物的简单描绘。我认为这是一种诱蝇剂，用来引走害虫，以免它们的存在对一些地区造成破坏。
+It is a red centipede, looking at a pearl. From the color, I can tell that it is the aggressive kind.|一条红蜈蚣，正看着一颗珍珠。从颜色上看，这是富有攻击性的一种。
 It is a picture of you. Are you trying to ensure that I remember you forever by putting portraits of yourself over my walls?|这是你的肖像。你是想让我记住你吗?
-It is a lizard that had spray paint thrown at it. I hope that their eyes are alright, as paint in places it is not meant to be can be quite harmful, and might even cause loss of vision.|这是一只被喷了油漆的蜥蜴。我希望他们的眼睛没事，因为喷漆对生物体有害，甚至可能导致视力丧失。
-It is a difficult goal to achieve. I can only hope that they succeeded in what they wanted to do.|这是一个难以实现的目标。我只能希望他们能成功地做他们想做的事。
+It is a lizard that had spray paint thrown at it. I hope that their eyes are alright, as paint in places it is not meant to be can be quite harmful, and might even cause loss of vision.|这是一只被喷了油漆的蜥蜴。我希望它的眼睛没事，因为喷漆对生物体有害，甚至可能导致视力丧失。
+It is a difficult goal to achieve. I can only hope that they succeeded in what they wanted to do.|这是一个难以实现的目标。我只能希望他们能如愿以偿。
 It is a depiction of an angered mother with two children, ready to attack. Or maybe they are teaching their children how to fight?||这幅画描绘了一位愤怒的母亲带着两个孩子，准备进攻。或者她只是在教孩子如何打架?
-It is a depiction of a vulture grub, summoning multiple vultures.|这是一幅描绘射线虫的画，它召唤了多只秃鹫。
+It is a depiction of a vulture grub, summoning multiple vultures.|这是一幅射线虫的画，它召唤了多只秃鹫。
 It is a depiction of a species of aquatic snail that lives in the watery areas under my can. They have a very unusual ability to let out a burst of energy, which might stun any nearby creature.|这幅画描绘的是一种水生蜗牛，生活在我罐头下面的水域里。它们有一种独特的能力，可以释放出一阵冲击并击晕周围的生物。
 It appears to me this species might have evolved recently, as I have never seen one before.|在我看来，这个物种可能是最近才进化至此的，因为我以前从未见过。
 Is... Is it me?|是......是我?
 Is this Five Pebbles' city, viewed from afar?|这是五块卵石的城市，从远处看的视角吗?
 Is that what you were trying to depict? If yes, I suppose you succeeded.|这就是你想描绘的吗? 如果是，我想你成功了。
-Is it... An overseer? They usually aren't this colorful, you see.|这是...一个监视器? 不过，它们通常没有这么鲜艳。
+Is it... An overseer? They usually aren't this colorful, you see.|这是...一个监视者? 不过，它们通常没有这么鲜艳。
 Is it the face of a particular scavenger you met on your travels, or did you take artistic liberty with the depiction?|这是你在旅途中遇到的某个拾荒者的脸，还是你纯粹的艺术表现?
 Is it just how you view those organisms, or is it based on something? Maybe you are silently projecting your feelings onto them?|这仅仅是你对这些生物的看法，还是基于某些东西? 也许你把你的感情融入了画面中?
 Is it a self-portrait? It definitely is more odd than regular portraits.|这是自画像吗? 它比普通的自画像看起来奇怪得多。
 Is it a lantern mouse? It does look vaguely similar, but there's something odd about this depiction. I do find this piece mildly unsettling.|它是一只光鼠吗? 看起来有点像，但是有点奇怪。我觉得这幅画真的有点令人不安。
-Is it a hazer? I truly hope you are not planning on using their ink to create your paintings, as it is significantly more difficult to remove than your current painting materials.|是乌贼吗? 我不希望你用他们的墨水来创作，因为它比你现在所用的材料更难清洗干净。
-In this particular context, it means that the creature on the art piece is violent and dangerous, as it wishes harm upon you.|在这种情况下，意味着画作上的生物是很危险的，因为它有伤害你的欲望。
+Is it a hazer? I truly hope you are not planning on using their ink to create your paintings, as it is significantly more difficult to remove than your current painting materials.|是乌贼吗? 我不希望你用它们的墨水来创作，因为它比你现在所用的材料更难清洗干净。
+In this particular context, it means that the creature on the art piece is violent and dangerous, as it wishes harm upon you.|这种情况意味着画作上的生物是很危险的，因为它有伤害你的欲望。
 I'm unsure of what this piece is meant to portray. I apologize, but I do not recognize the symbols.|我不确定这幅画是要描绘什么。我很抱歉，我不认识那些符号。
 I'm touched that you would take time out of your cycle just to draw my puppet, little friend.|我很感动你能从你的雨循环中抽出时间来画我的人偶，小小的朋友。
 I'm surprised you know about the existence of those, little friend.|我很惊讶你知道这些东西的存在，小小的朋友。
-I'm sure they would enjoy having the portrait somewhere they could actually see it, little friend.|我相信他们会喜欢把画像放在他们能看到的地方，小小的朋友。
-I'm sorry I cannot be one of you, little friend.|很抱歉我不能成为你们中的一员，小小的朋友。
+I'm sure they would enjoy having the portrait somewhere they could actually see it, little friend.|我相信它们会很乐意把这幅画放在它们能时常看到的地方，小朋友。
+I'm sorry I cannot be one of you, little friend.|很抱歉我不能成为你们中的一员，小朋友。
 I'm quite confused by this art piece, I apologize. It appears that you do not approve of the use of mushrooms.|很抱歉，我无法理解这幅作品。看来你不赞成使用蘑菇。
-I'm not entirely sure what it is meant to depict. A triangle? Maybe a prism?|我不完全确定它想要描绘什么。一个三角形? 抑或者是三棱镜?
+I'm not entirely sure what it is meant to depict. A triangle? Maybe a prism?|我不能确定这画的是什么。一个三角形? 抑或者是三棱镜?
 I'm most likely wrong about my interpretation as well.|我的解释很可能也是有误的。
-If you find any pearl that you deem interesting enough, could you bring it to me? I would love to see what you may find.|如果您发现任何一颗您认为很有趣的珍珠，可以拿给我吗? 我很好奇你的发现。
-If they find no meal, however, they will grab and eat the grub, which is truly unfortunate for the grub.|然而，如果它们找不到食物，它们就会吃掉射线虫，对射线虫来说这真的很不幸。
-I would advise you to be careful around randomly placed, useful objects in an otherwise empty area, but I'm sure you already know that.|我建议你要留意其他区域散落的物品，不过我相信你已经知道了。
+If you find any pearl that you deem interesting enough, could you bring it to me? I would love to see what you may find.|如果你找到了一颗你认为很有趣的珍珠，可以拿给我吗? 我很好奇你的发现。
+If they find no meal, however, they will grab and eat the grub, which is truly unfortunate for the grub.|然而，如果它们找不到食物，它们就会吃掉射线虫，对射线虫来说这真的很倒霉。
+I would advise you to be careful around randomly placed, useful objects in an otherwise empty area, but I'm sure you already know that.|我建议你要留意其他区域散落的物品，不过我想你已经知道了。
 I would advise you to avoid coming near them, as they can be quite dangerous to a little creature such as you!|我建议你不要靠近它们，因为它们对像你这样的小生灵来说是相当危险的!
-I wonder where you saw that symbol, and what exactly made you want to recreate it. Maybe my overseers?|我想知道你在哪里看到了那个符号，是什么让你想要重绘它。也许是我的监视器?
+I wonder where you saw that symbol, and what exactly made you want to recreate it. Maybe my overseers?|我想知道你在哪里看到了那个符号，是什么让你想要重绘它。也许是我的监视者?
 I wish I could keep this art piece up, but unfortunately, I have to keep my walls clean.|我希望我能把这件艺术品保存起来，但不幸的是，我必须保持我的墙壁干净。
-I truly hope you never swam in deep waters too close to them.|我真心希望你不要在深水中离他们太近。
-I suspect that Five Pebbles' overseers still broadcast quick meal ads, despite the audience being long since gone. Have you gotten your inspiration from there?|我怀疑，尽管观众早已离去，但“五块卵石”的监视器仍在播放快餐广告。你从那里得到灵感了吗?
-I surely hope that the liquid pouring from this poor lizard's mouth is not meant to be void fluid, as that would surely be unpleasant for the creature.|我希望从这只可怜的蜥蜴嘴里流出来的液体不是虚空液体，因为那对它来说肯定是不愉快的。
-I suppose their life might be better with freedom, although I can't help but wonder what their quality of life is like, outside of their initial purpose.|我想他们的生活有了自由可能会更好，尽管我忍不住想知道，在他们最初的目的之外，他们的生活质量是什么样的。
-I suppose living in near-constant darkness does make even purposed organisms have weaknesses.|我想这种生活在近乎持续的黑暗中确实会让有目的的生物也有弱点。
-I see that you had the unfortunate pleasure of meeting a Miros Bird? I do not advise you to continue visiting the area where they live.|我看到你有幸遇到了钢鸟? 我不建议你继续参观他们居住的地区。
-I imagine it would really hurt being pierced by that! Hopefully, you were never a target for their anger or their training.|我想被它刺穿一定很疼吧! 希望你不会成为他们愤怒的目标，也不会成为他们训练的目标。
+I truly hope you never swam in deep waters too close to them.|我真心希望你不要在深水中离它们太近。
+I suspect that Five Pebbles' overseers still broadcast quick meal ads, despite the audience being long since gone. Have you gotten your inspiration from there?|看来，尽管观众早已离去，但五块卵石的监视者仍在播放快餐广告。你从那里得到灵感了吗?
+I surely hope that the liquid pouring from this poor lizard's mouth is not meant to be void fluid, as that would surely be unpleasant for the creature.|我希望从这只可怜的蜥蜴嘴里流出来的不是虚空流体，因为那对它来说肯定是不愉快的。
+I suppose their life might be better with freedom, although I can't help but wonder what their quality of life is like, outside of their initial purpose.|我觉得它们的生活有了自由可能会更好，尽管我忍不住去想，脱离了最初被赋予的使命之后，它们的生活又会怎样。
+I suppose living in near-constant darkness does make even purposed organisms have weaknesses.|看来，几乎终生都生活在黑暗中的生活方式确实会让效用有机体也有弱点。
+I see that you had the unfortunate pleasure of meeting a Miros Bird? I do not advise you to continue visiting the area where they live.|我看到你有幸遇到了钢鸟? 我不建议你继续参观它们的栖息地。
+I imagine it would really hurt being pierced by that! Hopefully, you were never a target for their anger or their training.|我想被它刺穿一定很疼吧! 希望你不会成为它们泄愤的目标，更不会成为它们的训练用靶。
 I highly recommend taking another route when you see one in your path.|我强烈建议你在路上看到这样的生物时走另一条路。
-I have a feeling I don't want to know.|我有一种本不想体验的感觉。
-I have a feeling he would enjoy this one... If it was painted over proper canvas, and not my chamber walls.|我有预感他会喜欢这个...如果画在合适的画布上，而不是我房间的墙壁上。
+I have a feeling I don't want to know.|我感觉我不想知道这个。
+I have a feeling he would enjoy this one... If it was painted over proper canvas, and not my chamber walls.|我有预感他会喜欢这个...如果画在合适的画布上，而不是我房间的墙上。
 I find it impressive how well you adapt to various painting styles. I think Pebbles would like this one. It reminds me of an ancient piece of art which symbolizes unity of all existing things within the cycle.|你对各种绘画风格的适应能力让我印象深刻。我觉得卵石会喜欢这个。它让我想起了一件古老的艺术品，象征着循环中所有存在的事物的统一。
-I feel so incredibly regretful about having to erase it, even if I need my walls clean...|我非常抱歉必须把它擦掉，即使我需要把我的墙擦干净...
-I don't really recognize this creature, but it is very close to various abstract paintings I have seen my creators make.|我真的不认识这个生物，但它非常接近我看到我的创作者制作的各种抽象画。
-I don't even know what to think of this...|我真的不认识这个生物，但它非常接近我看到我的创作者制作的各种抽象画。
-I don't believe it is very accurate to their anatomy, however. Isn't the head a bit too large?|我都不知道该怎么想...
-I do have to admit that your ability to capture bodies in motion is incredible. However... I would rather keep my walls clean, please.|然而，我不认为这与他们的解剖结构非常准确。头是不是有点太大了?
-I do find this depiction amusing. I might even send it to a few friends, if you don't mind...?|我不得不承认你捕捉运动中的身体的能力令人难以置信。然而...我宁愿保持我的墙干净，拜托。
-I do believe it was intended, however, due to the nature of this particular picture.|我相信这是故意的，但是，由于这张特殊图片的性质。
-I definitely see the inspiration, and it truly makes vultures look scary, that's for sure. I'm glad I don't have to encounter them myself!|我确实看到了灵感，它真的让秃鹫看起来很可怕，这是肯定的。我很高兴我不用亲自遇到他们!
-I can tell that those are meant to be overseers of my neighbor, Five Pebbles, exchanging information.|我能看出来他们是我邻居“五块卵石”的监视器，他们在交换信息。
+I feel so incredibly regretful about having to erase it, even if I need my walls clean...|我非常抱歉必须把它擦掉，我必须让我的墙保持整洁...
+I don't really recognize this creature, but it is very close to various abstract paintings I have seen my creators make.|我真的不认识这个生物，但它非常接近我看到我的创造者画出的各种抽象画。
+I don't even know what to think of this...|我都不知道该怎么想……
+I don't believe it is very accurate to their anatomy, however. Isn't the head a bit too large?|但我不觉得这准确描绘了它们的解剖结构。头是不是有点太大了？
+I do have to admit that your ability to capture bodies in motion is incredible. However... I would rather keep my walls clean, please.|我必须承认你捕捉动态的能力难以置信！然而...我更想让我的墙保持干净。
+I do find this depiction amusing. I might even send it to a few friends, if you don't mind...?|我觉得这幅画真的很有趣。我想把它展示给我的朋友们看，如果你不介意……？
+I do believe it was intended, however, due to the nature of this particular picture.|但是，由于这幅特别图画的风格，我相信这是有意为之的。
+I definitely see the inspiration, and it truly makes vultures look scary, that's for sure. I'm glad I don't have to encounter them myself!|我确实领会到了其中的灵感，它真的让秃鹫看起来很可怕，毫无疑问。我很高兴我不用亲身体会遭遇它们的感觉!
+I can tell that those are meant to be overseers of my neighbor, Five Pebbles, exchanging information.|我能看出来那是我邻居五块卵石的监视者，它们在交换信息。
 I believe you got inspired by them at least a little bit, didn't you? It is surprisingly close in style.|我相信你至少受到了一点启发，不是吗?它的风格惊人地接近。
-I believe that this piece is based on an ancient species of dangling mold?|我相信这件作品是基于一种古老的悬垂霉菌?
-I believe that it is a pile of makeshift weapons, crafted by scavengers?|我相信那是一堆临时武器，是拾荒者制造的?
+I believe that this piece is based on an ancient species of dangling mold?|我觉得，这幅作品是基于一种古老的悬垂霉菌创作的?
+I believe that it is a pile of makeshift weapons, crafted by scavengers?|看起来那是一堆临时武器，是拾荒者制造的?
 I believe it is beneficial for you, however, as it definitely makes catching them easier!|不过，我相信这对你是有益的，因为它肯定会让你更容易抓住它们!
 I apologize, but I have to remove it.|我很抱歉，但我必须去掉它。
 I apologize, but I do not recognize any of those symbols.|我很抱歉，但我不认识这些符号。
 I apologize once again.|我再次道歉。
 I am impressed by the details on the can as well.|我对罐头上的细节也印象深刻。
-However... I find it unfortunate that you had to paint it in such an unlucky spot. Maybe you could recreate it outside of my chamber next time?|然而......我觉得很不幸，你不得不把它画在这样一个倒霉的地方。也许下次你可以在我房间外再做一次?
+However... I find it unfortunate that you had to paint it in such an unlucky spot. Maybe you could recreate it outside of my chamber next time?|然而......我觉得很不幸，你不得不把它画在这样一个倒霉的地方。也许下次你可以在我房间外再画一遍?
 However... I can't tell what those red symbols are meant to portray in this context.|然而......我看不出这些红色符号在这种情况下是什么意思。
-Hopefully, they won't try to use them near any of my exposed systems.|希望他们不会在我暴露的系统附近使用。
-Have you seen it somewhere, or created it? If it was created by you, then you have a great imagination, little friend.|你在什么地方见过它，或者创造了它吗? 如果它是你创造的，那你的想象力真丰富，小小的朋友。
+Hopefully, they won't try to use them near any of my exposed systems.|希望它们没尝试在我暴露的系统附近使用这些东西。
+Have you seen it somewhere, or created it? If it was created by you, then you have a great imagination, little friend.|你在什么地方见过它，或者创造了它吗? 如果它是你创造的，那你的想象力真丰富，小朋友。
 Given the smile on your face, is it something pleasant?|从你脸上的笑容来看，这是令人愉快的事吗?
-Especially considering that you had to spend enough time near all of those dangerous predators to learn how they look... Truly admirable.|特别是考虑到你必须花足够的时间接近所有这些危险的捕食者来了解它们的样子......真正令人钦佩。
-Due to the nature of this art piece... I suppose you already know of their weakness to harsh light? I'm glad it helped you get past them safely.|由于这件艺术品的性质...我想你已经知道他们对强光的抵抗力了吧?我很高兴它帮你安全通过了他们。
+Especially considering that you had to spend enough time near all of those dangerous predators to learn how they look... Truly admirable.|特别是考虑到你必须花足够的时间接近所有这些危险的捕食者来了解它们的样子......真令人钦佩。
+Due to the nature of this art piece... I suppose you already know of their weakness to harsh light? I'm glad it helped you get past them safely.|由于这件艺术品的性质...我想你已经知道强光是它们的弱点了吧?我很高兴它帮你安全通过了它们。
 Do you know the meaning of the symbol you just painted?|你知道你刚刚画的那个符号是什么意思吗?
-Do not encourage them further.|不要再鼓励他们了。
+Do not encourage them further.|不要再鼓励它们了。
 Did you know that the small oval plates over their back are as heavy and strong as metal?|你知道吗，它们背上的小椭圆形盘子像金属一样又重又结实?
 Did you know about it when you painted it?|你画的时候知道吗?
 Despite looking like plants, they are actually beehives, full of incredibly aggressive insects that will attack any nearby creature.|尽管看起来像植物，但它们实际上是蜂巢，里面充满了攻击性极强的昆虫，会攻击附近的任何生物。
-Come back next cycle, and I will have it done by then.|下个周期再来，到时我会把它做完的。
+Come back next cycle, and I will have it done by then.|下个循环再来，到时候我会把它做完的。
 As one of you?|作为你们中的一员?
 As much as I appreciate the attention to detail, I would prefer it if you didn't spend too long inside of our systems, snacking on our neurons.|虽然我很欣赏你对细节的关注，但我更希望你不要在我们的系统里呆太久，吃我们的神经元。
 As much as I am still quite unhappy about you painting on my chamber walls... I can’t help but admire your skill and determination, little friend.|尽管我对你在我房间的墙上画画还是很不高兴......我不得不佩服你的技巧和决心，小小的朋友。
 Are the golden lines around them a depiction of that process?|它们周围的金线是对这个过程的描述吗?
-An interesting piece, that's for sure. Based on the symbol, I believe the creature you drew is searching for ascension?|一篇有趣的文章，这是肯定的。根据这个符号，我相信你画的那个生物正在寻求飞升?
+An interesting piece, that's for sure. Based on the symbol, I believe the creature you drew is searching for ascension?|一幅有趣的图画，这是肯定的。根据这个符号，你画的那个生物应该正在寻求飞升?
 Although... I have a feeling you are quite proud of what you did, aren't you?|尽管... 我有一种感觉，你对你所做的事感到很自豪，是吗?
-Ah... I see you do not enjoy the presence of our overseers? Despite your distaste for them, I would appreciate it if you did not advocate for violence against beings that are a part of me.|啊...看来你不喜欢我们的监工?尽管你讨厌它们，但如果你不提倡对我身体的一部分使用暴力，我会很感激。
+Ah... I see you do not enjoy the presence of our overseers? Despite your distaste for them, I would appreciate it if you did not advocate for violence against beings that are a part of me.|啊...看来你不喜欢我们的监视者?如果你不鼓吹对我身体的一部分使用暴力，我会很感激。尽管你讨厌它们。
 Ah... Did those creatures steal your tools, and you felt the need to immortalize them forever?|啊... 是不是那些生物偷了你的工具，你觉得有必要让它们永世长存?
-...Would you like me to immortalize it for you? I could take a picture and print it inside a pearl for you. You might not be able to read it, but if you give it to me, I could project the mural a second time through holograms.|...你想我让它持续存在吗?我可以拍张照片，然后印在珍珠里给你。你可能看不懂，但如果你把它给我，我可以通过全息图把壁画投影第二次。
+...Would you like me to immortalize it for you? I could take a picture and print it inside a pearl for you. You might not be able to read it, but if you give it to me, I could project the mural a second time through holograms.|...你想我保留它吗?我可以拍张照片，然后印在珍珠里给你。你可能看不懂，但只要你把它给我，我就可以把壁画再次投影出来。
 ...What a poor little thing! This creature looks very sad.|...多么可怜的小东西!这个生物看起来很悲伤。
 ...Please do not take this as a suggestion.|...请不要把这当成建议。
 ...Oh. That is an incredibly detailed piece of artwork, I see.|...哦。这是一件非常精细的艺术品。
-...Is this picture based on first-hand experience?|...这张照片是基于第一手经验吗?
+...Is this picture based on first-hand experience?|...这幅图是基于第一手经验创作的吗?
 ...Is that me? It is quite adorable, thank you!|...那是我吗?很可爱，谢谢!
-...Is that a squidcada covered by bread?|...那是包着面包的蝉乌贼吗?
+...Is that a squidcada covered by bread?|...那是裹着面包的蝉乌贼吗?
 ...I'm afraid I don't understand?|...恐怕我不明白。
-...I truly do not understand your insistence on drawing Five Pebbles with those ears.|...我真不明白你为什么非要用耳朵画五块鹅卵石。
-...I do not enjoy the look of this piece of art. The implications might be not intended, but I will be removing it from my walls despite that.|...我不喜欢这件艺术品的样子。这可能不是我的本意，但尽管如此，我还是要把它从墙上移走。
+...I truly do not understand your insistence on drawing Five Pebbles with those ears.|...我真不明白你为什么非要给五块卵石加上耳朵。
+...I do not enjoy the look of this piece of art. The implications might be not intended, but I will be removing it from my walls despite that.|...我不喜欢这件艺术品的样子。这可能不是故意的，但我还是要把它从墙上清理掉。
 ...Do you know what a prism is? I would explain, but I'm not sure how much you would understand.|...你知道棱镜是什么吗?我想解释，但我不确定你能理解多少。
-...And hopefully, you won't do so either, if you happen to trade them for any.|...希望你也不会这样做，如果你碰巧用它们来交换的话。
+...And hopefully, you won't do so either, if you happen to trade them for any.|...并且，你和它们做交易的时候，最好也别这么做。
 ...Although I am a bit curious about the choice of symbol you drew.|...虽然我对你画的符号的选择有点好奇
 ...|...
 
@@ -1141,12 +1142,12 @@ thetower-description|添加了一个新地图——高塔。
 The Tower|高塔
 
 //3010350558
-toothandclaw.slugpack-description|一个添加了水生的模组，一个完美的为这个世界建造的蛞蝓猫。还包括学者和遗忘者。如果你想要使用水生的外观，需要dress my slugcat（目前没有在文件中，将会在完全发布后添加）<LINE>当前计划：<LINE>新区域<LINE>给学者组建一个结合海滨设施和海岸线的新区域。<LINE>学者的新能力<LINE>更多的生物<LINE>为了这些家伙的新战役。<LINE>还有就是……是……<LINE><LINE>已经添加：<LINE>水生：一个发生在朋友和溪流时间线之间，有许多秘密和一个自定义的世界状态的蛞蝓猫。<LINE><LINE>学者：一个聪明但是失败的实验题，它的目的是对从最小的蝠蝇到最大的利维坦的一切生物进行分类。你的旅途将会非常艰辛，但是一切最终都会是值得的。<LINE>	遗忘者：一个寻找伴侣的生物，只想要一个安全的栖身之所。但是，要做到这一点，需要揭开许多秘密，但并不是所有的秘密都那么令人愉快……
+toothandclaw.slugpack-description|一个添加了水生的模组，一个完美适应这个世界的蛞蝓猫。还包括学者和遗忘者。如果你想要使用水生的外观，需要dress my slugcat（目前没有在文件中，将会在完全发布后添加）<LINE>当前计划：<LINE>新区域<LINE>给学者组建一个结合海滨设施和海岸线的新区域。<LINE>学者的新能力<LINE>更多的生物<LINE>为了这些家伙的新战役。<LINE>还有就是……是……<LINE><LINE>已经添加：<LINE>水生：一个发生在朋友和溪流时间线之间，有许多秘密和一个自定义的世界状态的蛞蝓猫。<LINE><LINE>学者：一个聪明的实验失败品，它的目的是对从最小的蝠蝇到最大的利维坦的一切生物进行分类。你的旅途将会非常艰辛，但是一切最终都会是值得的。<LINE>	遗忘者：一个寻找伴侣的生物，只想要一个安全的栖身之所。但是，要做到这一点，需要揭开许多秘密，但并不是所有的秘密都那么令人愉快……
 The Scholar|学者
 THE SCHOLAR|学者
 Scholar|学者
 A swift and intelligent slugcat, Looks to the Moon has created you to catalogue every creature.|一只敏捷而聪明的蛞蝓，仰望皓月创造了你来记录每一种生物。
-After having finished their studies,<LINE>this creature has decided to go out and learn once again.|在完成了他们的研究之后，<LINE>这个生物决定再次出去增长见闻。
+After having finished their studies,<LINE>this creature has decided to go out and learn once again.|在完成了它的研究之后，<LINE>这个生物决定再次出去增长见闻。
 The Aquatic|水生
 THE AQUATIC|水生
 Aquatic|水生
@@ -1173,7 +1174,7 @@ Twisted Exterior (Worn Ascent)|扭曲外部（磨损上坡）
 Twisted Exterior (Dreaded Overlook)|扭曲外部（恐怖俯瞰）
 Malfunctioning Telecommunications Broadcaster|故障广播核心
 Amygdalic Tombs|古旧陵墓
-Scavenger Hideout|拾荒者隐匿处
+Scavenger Hideout|拾荒者的藏身处
 Claustrophobic Dens|幽闭巢穴
 //YEEETUS FEETUS|不认识，摆烂了
 Five Pebbles (Recursive Transform Array)|五块卵石（递归变压阵列）
@@ -1181,7 +1182,7 @@ The Rot (Recursive Transform Array)|腐化之地（递归变压阵列）
 TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管管道
 Mud Flats|泥滩
 The Salty Abyss|咸味深渊
-Fogbound Isles|迷雾岛屿
+Fogbound Isles|隐雾岛
 Eroding Caverns|侵蚀洞穴
 Rotten Maw|腐化深渊
 Rotten Maw (Roots)|腐化深渊（根部）
@@ -1222,7 +1223,7 @@ Explorer|探索者
 An athletic little slugcat that can slow down time to deal deadly blows.|擅长运动的蛞蝓猫，可以减缓时间来进行致命的打击。
 
 //3016579669
-HallowedGrotto-description|强烈推荐启用倾盆大雨dlc，More Flora，Lunacy和M4rblelous Entity Pack，但都不是必须前置。一个郁郁葱葱的洞穴系统，位于地下深处，相对来说未被古人染指。<LINE>连接垃圾堆，排水系统，地下和海岸线以及……也许会有别的地方？<LINE>现在完全可以选择连接到荒芜之地，神圣花园和蜂鸣水道<LINE>附加功能：<LINE>一大堆世界建筑，拥有五颗珍珠，来自仰望皓月，五块卵石和追逐清风的专属对话以及超过20个广播<LINE>一个主要区域和四个小区域，几乎每个房间都会在不同的时间线中会有细微的变化。<LINE>漆黑战役的独特世界状态，战役设置在溪流和圣徒之间，以及圣徒之后的战役。<LINE>来自原版，倾盆大雨和mod社区的大量生物，有些生物支出现在某些战役中，有些需要进化系统。<LINE>一个广泛的的进化系统<LINE>怪猫线的广泛变化和热寂蛞蝓猫的兼容。<LINE>感谢bro回答了我所有的问题，SchuhBaum制作了这个mod曾经使用但是不再使用的插件，FlickerAway制作了区域艺术和Umbra用于该地区的一首未命名定制歌曲以及Joseph Nied制作歌曲"Hidden Life”。
+HallowedGrotto-description|强烈推荐启用倾盆大雨dlc，More Flora，Lunacy和M4rblelous Entity Pack，但都不是必须前置。一个郁郁葱葱的洞穴系统，位于地下深处，相对来说未被古人染指。<LINE>连接垃圾堆，排水系统，地下和海岸线以及……也许会有别的地方？<LINE>现在完全可以选择连接到荒芜之地，神圣花园和酸灼水道<LINE>附加功能：<LINE>一大堆世界建筑，拥有五颗珍珠，来自仰望皓月，五块卵石和追逐清风的专属对话以及超过20个广播<LINE>一个主要区域和四个小区域，几乎每个房间都会在不同的时间线中会有细微的变化。<LINE>漆黑战役的独特世界状态，战役设置在溪流和圣徒之间，以及圣徒之后的战役。<LINE>来自原版，倾盆大雨和mod社区的大量生物，有些生物支出现在某些战役中，有些需要进化系统。<LINE>一个广泛的的进化系统<LINE>怪猫线的广泛变化和热寂蛞蝓猫的兼容。<LINE>感谢bro回答了我所有的问题，SchuhBaum制作了这个mod曾经使用但是不再使用的插件，FlickerAway制作了区域艺术和Umbra用于该地区的一首未命名定制歌曲以及Joseph Nied制作歌曲"Hidden Life”。
 Hallowed Caves|神圣洞穴
 Hallowed Grotto|神圣石窟
 Hallowed Grotto (Depths)|神圣石窟（深处）
@@ -1230,7 +1231,21 @@ Big Pebbles is watching|石老大哥正在看着你
 Big Pebbles likes ruins too|石老大哥也喜欢废墟
 Big Pebbles is not disuaded by water|石老大哥不会被水分解
 Assimilation|溶洞
-Primordial Assimilation|原始消化
+Primordial Assimilation|原始同化
+Dark Forest|黑暗森林
+Hallowed Forest|神圣森林
+Moss Fields 2|苔藓原野2.0
+Moss Depths|苔藓深处
+Primordial Roots|原始根源
+Ancient Roots|古老根源
+Anchialine System|海蚀洞系
+Lost Facility|迷掉设施
+Research Station|研究站点
+Lush Laboratory|葱郁科室
+Unstable System|不稳结构
+Unstable Moss|生苔险地
+Cicatrix|瘢痕
+Sealed Intelligence Unit|密闭智元
 
 //3019770072
 coral.caves-description|一个色彩缤纷的水上主题新区域，拥有超过200个新屏幕。
@@ -1275,9 +1290,9 @@ Disappointed by the findings of it's previous misadventures,<LINE>the Estranged 
 The Betrayed|背叛
 THE BETRAYED|背叛
 Betrayed|背叛
-A frail mercenary, able to use their equipment and intellect to best their adversaries.<LINE>Dexterous in your movement and a master of spears, your journey will be considerably more violent and perilous than those who came before you.|一个脆弱的战士，能够利用他们的装备和智慧战胜对手。<LINE>你动作敏捷且善于用矛，旅程将比之前更加激烈和危险。
-A frail mercenary, proficient in using intellect to best their adversaries.<LINE>On a difficult journey to right past wrongs, you will face more perilous situations than those who have come before you.|一个脆弱的战士，能够利用他们的装备和智慧战胜对手。<LINE>在纠正过去的错误之路中，你将面临更为艰难的境遇。
-A vengeful craftsman and explosive enthusiast,<LINE>the Betrayed sets off into the unknown once more|作为一名复仇的工匠和爆炸爱好者，背叛再次踏上未知之路
+A frail mercenary, able to use their equipment and intellect to best their adversaries.<LINE>Dexterous in your movement and a master of spears, your journey will be considerably more violent and perilous than those who came before you.|一个脆弱的战士，能够利用它的装备和智慧战胜对手。<LINE>你动作敏捷且善于用矛，旅程将比之前更加激烈和危险。
+A frail mercenary, proficient in using intellect to best their adversaries.<LINE>On a difficult journey to right past wrongs, you will face more perilous situations than those who have come before you.|一个脆弱的战士，能够利用它的装备和智慧战胜对手。<LINE>在纠正过去的错误之路中，你将面临更为艰难的境遇。
+A vengeful craftsman and explosive enthusiast,<LINE>the Betrayed sets off into the unknown once more|作为一名复仇的工匠和爆炸爱好者，背叛将再次踏上未知之路
 Steam Pillars|蒸汽支柱
 Train Tunnels|火车隧道
 Tube Maze|管道迷宫
@@ -1288,7 +1303,7 @@ Aquaphobia|恐水
 Hometown|家乡
 Factory|工厂
 Outside World|外部世界
-Slug Colony|蛞蝓集群
+Slug Colony|蛞蝓聚落
 Wet Maze|潮湿迷宫
 Cloudscraping Towers|云卷尖塔
 Urban Marsh|郊区湿地
@@ -1380,7 +1395,7 @@ Sewage_Water.thechampion-description|一个健壮的男孩。
 The Champion|英杰
 THE CHAMPION|英杰
 Champion|英杰
-Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead?|有着坚硬外壳和长矛的野兽，试图保护那些你所珍视的人。<LINE>你帮不了他们，也许你可以帮别人？
+Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead?|披坚执锐的野兽，试图保护那些你所珍视的存在。<LINE>你救不了它们，也许你还可以帮别人？
 The Tower of Pains|苦痛之塔
 Ruinous Facility|废墟设施
 The Panopticon|圆形监狱
@@ -1397,7 +1412,7 @@ expandedindustrial-name|工业区扩展
 expandedindustrial-description|工业区低处的一个小扩展。
 
 //3037783004
-neuronforest-description|沉没巨构之下隐藏着什么？
+neuronforest-description|倒塌的巨构之下隐藏着什么？
 Neuron Forest|神经元森林
 
 //3042385413
@@ -1408,18 +1423,18 @@ Desolate Port|荒凉港湾
 Stormy Coast|风暴海岸
 
 //3393319993
-adventurer-description|这个模组不建议和其他区域模组一起启用，和其他区域模组可能不兼容！<LINE><LINE>此模组增加了两个新的蛞蝓猫，冒险家没有任何能力，但可以像饕餮一样吃东西，有背矛以及比普通的蛞蝓猫要快一点。另一个蛞蝓猫是陆战，它能在学校更好的屏住呼吸，能猛击和爬上瀑布。<LINE>这个模组并不完整，还有更多正在路上。
+adventurer-description|这个模组不建议和其他区域模组一起启用，和其他区域模组可能不兼容！<LINE><LINE>此模组增加了两个新的蛞蝓猫，冒险家没有任何能力，但可以像饕餮一样吃东西，有背矛以及比普通的蛞蝓猫要快一点。另一个蛞蝓猫是海洋，它在水下能更好的屏住呼吸，可以猛击和爬上背景里的瀑布。<LINE>这个模组并不完整，还有更多正在路上。
 The Adventurer|冒险家
 THE ADVENTURER|冒险家
 Adventurer|冒险家
 Explore a new world!|探索美丽新世界！
-The Marine|陆战
-THE MARINE|陆战
-Marine|陆战
+The Marine|海洋
+THE MARINE|海洋
+Marine|海洋
 A carnivorus swimmer|肉食，水生。
 Edge Islands|边缘岛屿
 Retaining Wall|边界
-Floral Hollow|花谷
+Floral Hollow|繁花空谷
 Garbage Disposal|垃圾处理场
 Shaded Tract|荫蔽土地
 Industrial Wastes|工业废墟
@@ -1451,13 +1466,13 @@ The Incinerator|焚化炉
 The Dreamer|梦者
 THE DREAMER|梦者
 Dreamer|梦者
-Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the desert.|亿万年前的景象在你的梦中困住了你，你的终身目标<LINE>就是利用其长期侵蚀的知识在沙漠中生存。
-Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the changing lands.|亿万年前的景象在你的梦中困住了你，你的终身目标<LINE>就是利用其长期侵蚀的知识，在这方变迁的土地上生存下来。
+Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the desert.|在你的焦灼的梦中，亿万年前的景象迷住了你，你的毕生目标<LINE>就是驾驭这份久经岁月磨损的知识在沙漠中生存。
+Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the changing lands.|在你的焦灼的梦中，亿万年前的景象迷住了你，你的毕生目标<LINE>就是驾驭这份久经岁月磨损的知识，在这方变迁的土地上生存下来。
 Adorned in decoration of the past, you aim to understand this world.|被遗弃在过去的景象里，你试图理解这个世界。
 Clawing your way out of the sea, you're deadset on your goals to survive.|挣扎着走出荒漠，你对自己的生存一筹莫展。
 uhhh dotn play this ok???|额能先别玩吗？？？
 UHHH DOTN PLAY THIS OK???|额能先别玩吗？？？
-(PLACEHOLDER) The greyest of buildings house a creature-priest. <LINE> Dedicated to your craft, you respectfully hunt and preserve your prey. (PLACEHOLDER)|（占位符）灰色建筑里住着一位牧师<LINE>专注于你的工艺，你尊敬地狩猎和保护你的猎物。（占位符）
+(PLACEHOLDER) The greyest of buildings house a creature-priest. <LINE> Dedicated to your craft, you respectfully hunt and preserve your prey. (PLACEHOLDER)|（占位符）灰色建筑里住着一位牧师<LINE>专注于你的工艺，你充满敬意地狩猎和保存你的猎物。（占位符）
 The Viper|毒蛇
 THE VIPER|毒蛇
 Viper|毒蛇
@@ -1478,7 +1493,7 @@ The Oracle|神谕
 Oracle|神谕
 THE ORACLE|神谕
 Found. Portable. Applicable.<LINE>This world will wake right back up again.<LINE>So wake up, little metal god.|已找到，可移植的，普适的。<LINE>这个世界将会苏醒并重回正轨。<LINE>所以醒来吧，小小的金属神明。
-You awaken for the first time. Your goal is one of curiosity. Learn the history of this world, and use that knowledge for survival.|这是你的首次苏醒。你的目标完全出于好奇。学习这个世界的过往，并用之生存下去。
+You awaken for the first time. Your goal is one of curiosity. Learn the history of this world, and use that knowledge for survival.|这是你的首次苏醒。你的目标完全出于好奇。了解这个世界的过往，并以这份知识生存下去。
 While your karma is at its lowest, your violent instincts take hold. In this state, you crawl as fast as you walk.|当业力处于最低等级时，你的暴力本能便会占据上风。在这种状态下，爬行和行走速度相当。
 Press GRAB and JUMP at the same time while standing to kick yourself into the air.|在站立状态下，同时按下“抓取”和“跳跃”可以将自己推向空中。
 When your karmic potential is at its lowest, your desperate attacks get strengthened.|当业力处于最低等级时，你的拼命攻击将得到增强。
@@ -1588,8 +1603,8 @@ Shrieker|尖啸
 A slugcat that uses its sonic abilities to survive.|一个利用声波能力生存的蛞蝓猫。
 
 //3058851317
-overgrownfacility-description|蜂鸣迷宫是一个连接着管道堆场和垃圾堆的小迷宫。
-Sizzling Sewers|蜂鸣水道
+overgrownfacility-description|酸灼迷宫是一个连接着管道堆场和垃圾堆的小迷宫。
+Sizzling Sewers|酸灼水道
 Caustic Caverns|灼热迷宫
 
 //3062937590
@@ -1649,7 +1664,7 @@ BOTTLESLUG|瓶子
 Peaceful yet timid, causing extreme agility.|平和但胆小，导致极度敏捷。
 
 //3075938424
-andrewrooms-description|一堆我只是为了好玩做的房间，目前只能通过warp模组进入，你可以随便查看他们。
+andrewrooms-description|一堆我只是为了好玩做的房间，目前只能通过warp模组进入，你可以随便看看。
 Andrews Rooms|安德鲁房间群
 Storm Local Group|风暴本地群组
 FEAR Local Group|恐惧本地群组
@@ -1678,11 +1693,11 @@ Chilled Hydroponics|冰冻水培室
 
 //3083682990
 badlands-description|一片到处都是古代遗迹的荒凉土地。
-Archaic Tundra|古风苔原
+Archaic Tundra|古老苔原
 Badlands|恶地
 
 //3022693438
-OlderHunter-description|将猎手放到了时间轴中较早的位置，如果你认为猎手被倾盆大雨玷污了（像我一样）的话非常推荐！
+OlderHunter-description|将猎手放到了时间轴中较早的位置，如果你认为猎手因为倾盆大雨而掉了档次了（像我一样）的话非常推荐！
 Acerbic Station|酸液垃圾场
 Deep Maw|深入腹地
 Sunken Vents|浸没管道
@@ -1724,7 +1739,7 @@ The Edge|边境
 The Backwall|后墙
 
 //3091642153
-saltedsour.desiccation2-description|你想要更多的玩法拓展吗？更多的受苦？更多的蛞蝓猫？！？！那么这就是为你而做的DLC！<LINE><LINE><LINE>暴怒和牧师的特色就在于他们什么都不知道！
+saltedsour.desiccation2-description|你想要更多的玩法拓展吗？更多的受苦？更多的蛞蝓猫？！？！那么这就是为你而做的DLC！<LINE><LINE><LINE>暴怒和牧师的特色就在于它们什么都不知道！
 The Priest|牧师
 THE PRIEST|牧师
 The Volatile|暴怒
@@ -1834,7 +1849,7 @@ bio-description|嘿！生物工程中心重新上传了！现在它是一个功�
 Bioengineering Center|生物工程中心
 
 //3139436454
-nyctophobia-description|一个带来了3只拥有专属能力和隐秘非常隐秘的剧情的新蛞蝓猫的模组，让我看看你是否恐惧黑暗……
+nyctophobia-description|一个添加了3只全新蛞蝓猫的模组，每只都拥有专属能力和非常隐秘的剧情，让我看看你是否恐惧黑暗……
 Exile|流放者
 Night Walker|夜行客
 Witness|见证者
@@ -2196,7 +2211,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 The Wall 2|高墙2.0
 
 //3272297488
-archaicfacility-description|一个不起眼的冲积平原将一座岛屿与一座损坏的巨构建筑分隔开来。在他们之间的一个小岛上面，三个大洞从沙子之中凭空而生，积累了无数循环的灰尘与雨水一齐涌入一座古老设施的多层洞穴与隧道。蜘蛛爬过长满苔藓之处，并非所有光源都值得信赖。你会从黑暗中生还吗？
+archaicfacility-description|一个不起眼的冲积平原将一座岛屿与一座损坏的巨构建筑分隔开来。在它们之间的一个小岛上面，三个大洞从沙子之中凭空而生，积累了无数循环的灰尘与雨水一齐涌入一座古老设施的多层洞穴与隧道。蜘蛛爬过长满苔藓之处，并非所有光源都值得信赖。你会从黑暗中生还吗？
 Archaic Facility|古老设施
 Mossy Grotto|苔藓洞窟
 Lost Foundations|失落地基
@@ -2373,25 +2388,6 @@ Your friend is on fire! Take it with you, please!|你的朋友在燃烧！请把
 District4B-description|你有没有想过从一个原版/DP区域转移到另一个原版/DP区域？<LINE>好吧，你可以以5业力以下的低价做到这个！（某些地区可能需要额外条件）。<LINE>这个技术奇迹可以带你去任何地方！（魔方结点（无归界） ♥♥♥♥这个地方除外），随时随地！（可能会有周期限制）。<LINE>也支持很多模组区域和DP特定时间线区域！<LINE>兼容区域将会在拓展菜单中显示为弱依赖项。
 Probationary District 4B|试用区4B
 
-//3016579669
-HallowedGrotto-description|强烈推荐启用倾盆大雨dlc，More Flora，Lunacy和M4rblelous Entity Pack，但都不是必须前置。一个郁郁葱葱的洞穴系统，位于地下深处，相对来说未被古人染指。<LINE>连接垃圾堆，排水系统，地下和海岸线以及……也许会有别的地方？<LINE>现在完全可以选择连接到荒芜之地，神圣花园和蜂鸣水道<LINE>附加功能：<LINE>一大堆世界建筑，拥有五颗珍珠，来自仰望皓月，五块卵石和追逐清风的专属对话以及超过20个广播<LINE>一个主要区域和四个小区域，几乎每个房间都会在不同的时间线中会有细微的变化。<LINE>漆黑战役的独特世界状态，战役设置在溪流和圣徒之间，以及圣徒之后的战役。<LINE>来自原版，倾盆大雨和mod社区的大量生物，有些生物支出现在某些战役中，有些需要进化系统。<LINE>一个广泛的的进化系统<LINE>怪猫线的广泛变化和热寂蛞蝓猫的兼容。<LINE>感谢bro回答了我所有的问题，SchuhBaum制作了这个mod曾经使用但是不再使用的插件，FlickerAway制作了区域艺术和Umbra用于该地区的一首未命名定制歌曲以及Joseph Nied制作歌曲"Hidden Life”。
-Hallowed Caves|神圣洞穴
-Dark Forest|黑暗森林
-Hallowed Forest|神圣森林
-Moss Fields 2|苔藓原野2.0
-Hallowed Depths|神圣石窟（深处）
-Moss Depths|苔藓深处
-Primordial Roots|原始根源
-Ancient Roots|古老根源
-Anchialine System|海蚀洞系
-Lost Facility|迷掉设施
-Research Station|研究站点
-Lush Laboratory|葱郁科室
-Unstable System|不稳结构
-Unstable Moss|生苔险地
-Cicatrix|瘢痕
-Sealed Intelligence Unit|密闭智元
-
 //3305713194
 Community.Gallery2-description|一个由72位不同的人提交的190个房间（477屏幕）的合集，是2024年编辑月的一部分。<LINE><LINE>这一次没有区域连接，但你扮演的是一只蛞蝓猫，如果你觉得需要的话，你可以在你的探索中开启许多帮助。没有雨循环，没有死亡，只是探索。
 COMMUNITY GALLERY REGION 2024|2024 社区画廊地区
@@ -2551,8 +2547,8 @@ little friend|小朋友
 Little helper|小助手
 little helper|小助手
 /// 七轮红日-喜爱
-My little friend|我的小小朋友
-my little friend|我的小小朋友
+My little friend|我的小朋友
+my little friend|我的小朋友
 
 /// 珍珠对话 ~ 使用月姐标记远程交流 ///
 /// 月姐收到神经元
@@ -3322,7 +3318,7 @@ Your network interface(s) are|你的网络接口是
 You are the owner of the lobby.|你是房间所有者。
 This player is the owner of the lobby.|此玩家是房间所有者。
 Players can "Direct Connect" to this lobby through your interface(s).|玩家可以通过你的接口"直接连接"到此房间。
-Players can "Direct Connect" to this lobby through their interface(s).|玩家可以通过他们的接口"直接连接"到此房间。
+Players can "Direct Connect" to this lobby through their interface(s).|玩家可以通过它们的"直接连接"到此房间。
 You cannot use this feature here.|你无法在此使用此功能。
 
 // 检查应用模组
@@ -3550,7 +3546,7 @@ Where does this neuron come from? My nearest functional neighbor is so... far.|�
 Thank you. I do wonder what you want.|谢谢你。我很好奇你想要什么。
 
 I am grateful - the relief is indescribable!|我很感激……终于如释重负的感觉难以言表。
-I could read a bit of Chasing Wind in this neuron before formatting it.<LINE>What a weird bundle of ideas this neuron was carrying. I don't think I understood any of it.|在格式化这个神经元之前，我还能读到一点追逐清风。<LINE>这个神经元携带着一堆多么古怪的想法。我不认为我理解其中任何一个。
+I could read a bit of Chasing Wind in this neuron before formatting it.<LINE>What a weird bundle of ideas this neuron was carrying. I don't think I understood any of it.|在格式化这个神经元之前，我还能读到一点追逐清风的信息。<LINE>这个神经元携带着一堆多么古怪的想法。我不认为我理解其中任何一个。
 We were supposed to help everyone, you know. Everything.<LINE>That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently.<LINE>Many with madness.|我们本来要帮助每个生命的，我是说，世间万物。<LINE>那曾经是我们的目标：一份给世界上芸芸众生的伟大礼物。<LINE>当面对无能为力的境地时，我们的反应各不相同。<LINE>大多数都陷入了疯狂。
 Some, out there, might still be trying.<LINE>Communications have been bad for a long time, and by now I suspect most of us are isolated like me, or connected only in small groups.|可能其它地方的某些迭代器仍在尝试。<LINE>不过糟糕的通讯情况已经持续很久了，而且现在我怀疑大多数迭代器和我一样被隔离开来，或者只能进行小范围联络。
 But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.|但即使在我们或多或少地还有些联系的时候，还是有一些迭代器对自己的使命做出了愤怒的反应。<LINE>我只能想象到他们现在会更加愤怒，只剩下贪得无厌的欲望和自己待在罐头里。
@@ -3598,7 +3594,7 @@ I very vaguely recognize this... this is the egg of a purposed organism raised a
 Famously, their efficiency once backfired quite spectacularly.|众所周知，它们反噬起来的效率也极度惊人。
 There was a rather infamous story that originated from the city of Three Small Frogs.<LINE>Apparently, a window or door was left ajar whilst a few were left unattended...|有一个非常臭名昭著的故事，起源于三只小蛙的城市。<LINE>显然，有几只个体在房间内无人看管，而窗或门只是虚掩着……
 Sources said that it only took a few measly cycles for them to populate and completely overtake countless<LINE>city blocks, turning into a real headache for the Grand Headmaster that was in charge of the ordeal.|有消息透露，它们只花了区区几个循环就聚集起来占领了无数街区，<LINE>让负责处理这个灾难性事件的大首席头痛不已。
-Please take that egg away and destroy it if you are able to, <PlayerName>. Introducing a species like that<LINE>may have drastic and dangerous effects on an ecosystem not equipped to handle their rapid spread.|如果可以的话，<PlayerName>，请把这枚卵带走并摧毁它。<LINE>引入这样的物种可能会对一个无法抵押它们快速扩张能力的生态系统产生灾难性的剧烈影响。
+Please take that egg away and destroy it if you are able to, <PlayerName>. Introducing a species like that<LINE>may have drastic and dangerous effects on an ecosystem not equipped to handle their rapid spread.|如果可以的话，<PlayerName>，请把这枚卵带走并摧毁它。<LINE>引入这样的物种可能会对一个无法抵御它们快速扩张能力的生态系统产生灾难性的剧烈影响。
 
 //HatchlingInspect;
 What a remarkably docile little beast! It is miraculous that you were able to bring this all the way to me.|多么温顺的小生物啊！你能一路把它带到我面前真让我惊讶。
@@ -3656,7 +3652,7 @@ Blizzard's Embrace|严寒之怀
 Frostbite Hailstorm|霜寒雹暴
 Tundra Ruinfields|苔原遗迹
 Terranium Train|领陆列车
-Ashen Desolation|荒芜苍白
+Ashen Desolation|灰白孤野
 Dusk|暮霭
 Eroded Ridge|侵蚀山脊
 FrostFall Expanse|霜降外缘
@@ -3679,7 +3675,7 @@ The SnowFlake|雪花
 THE SNOWFLAKE|雪花
 SnowFlake|雪花
 Snowflake|雪花
-Fragile in the embrace of its icy power, navigates the brutal blizzards with a remarkable resilience. <LINE>Its unique survival skills keep it thriving amidst the unforgiving snowscape.|在严寒之怀和它极寒的力量面前显得脆弱，却以非凡的韧性在残酷的暴雪中航行。<LINE>它独特的生存技能使它在无情的暴雪中茁壮成长。
+Fragile in the embrace of its icy power, navigates the brutal blizzards with a remarkable resilience. <LINE>Its unique survival skills keep it thriving amidst the unforgiving snowscape.|在严寒之怀和它极寒的力量面前显得脆弱，却以非凡的韧性在残酷的暴雪中穿行。<LINE>它独特的生存技能使它在无情的冰天雪地中茁壮成长。
 
 //3427461064
 April.MD-description|探索数据储存区的蜿蜒曲折与宏伟高度，以及拾荒者。
@@ -4011,11 +4007,11 @@ WEConfig_Desc_UnlockPerks|
 WEConfig_Name_Hunt_Barnacle|狩猎——藤壶
 WEConfig_Desc_Hunt_Barnacle|允许狩猎挑战选择：藤壶 从1.10.2开始，它们可以用波动龟来去壳。
 WEConfig_Name_Hunt_SandWorm|狩猎——沙虫
-WEConfig_Desc_Hunt_SandWorm|允许狩猎挑战选择：沙虫。类似于红树，但眩晕使你一旦被抓住就难以逃脱，并且他们会隐藏。
+WEConfig_Desc_Hunt_SandWorm|允许狩猎挑战选择：沙虫。类似于红树，但眩晕使你一旦被抓住就难以逃脱，并且它们会隐藏。
 WEConfig_Name_Hunt_BigMoth|狩猎——大蛾
-WEConfig_Desc_Hunt_BigMoth|允许狩猎挑战选择：大蛾。在1.10.2中，他们似乎更容易与之战斗和逃脱
+WEConfig_Desc_Hunt_BigMoth|允许狩猎挑战选择：大蛾。在1.10.2中，它们似乎更容易与之战斗和逃脱
 WEConfig_Name_Hunt_BoxWorm|狩猎——箱虫
-WEConfig_Desc_Hunt_BoxWorm允许狩猎挑战选择：箱虫。箱虫可以很轻易地困住你，在可以被杀死之前需要激活他们，和他们的战斗并不是很有趣。没有火精灵的箱虫是无法被杀死的。
+WEConfig_Desc_Hunt_BoxWorm允许狩猎挑战选择：箱虫。箱虫可以很轻易地困住你，在可以被杀死之前需要激活它们，和它们的战斗并不是很有趣。没有火精灵的箱虫是无法被杀死的。
 WEConfig_Name_Hunt_BoneShaker|狩猎——震骨者
 WEConfig_Desc_Hunt_BoneShaker|允许狩猎挑战选择：震骨者。 它们只会出现在腐化地图或者被腐化的地图之中。可以通过击倒他们从顶部杀死他们。
 WEConfig_Name_Challenge_Rot|腐化传播挑战
@@ -4156,15 +4152,15 @@ It’s some sort of shelled fruit, of no nutritional value to you.<LINE>The inde
 //5P
 Oh. Interesting. This is a standard issue confluence pearl,<LINE>many times larger than the standard fare, printed from a similarly colossal strand manipulator.|哦，有趣。这是颗标准制式的汇流珍珠，<LINE>比常规型号大了不少，由同样巨型的链式操控器打印而成。
 The pearl itself contains a barely living liquid center,<LINE>rendering the data easily overwritten by any skilled technician.|珍珠内部包含一个近乎死亡的液态核心，<LINE>使得任何娴熟的技师都能轻易复写其数据。
-The data on this traces its ownership back to a massive cargo sail,<LINE>with a departure date scheduled soon after our benefactors mass ascension. How peculiar.|数据显示这颗珍珠属于一艘大型货船，<LINE>启航日期设定在我们的施舍者集体飞升后不久，真是蹊跷。
+The data on this traces its ownership back to a massive cargo sail,<LINE>with a departure date scheduled soon after our benefactors mass ascension. How peculiar.|数据显示这颗珍珠属于一艘大型货船，<LINE>启航日期设定在我们的捐赠者集体飞升后不久，真是蹊跷。
 It’s highly likely whichever rebellious citizen commandeered this ship belonged to one of many groups of dissident monks.|强征了这艘船的反叛公民大概率来自于许多持不同政见的僧侣群体之一。
 Given the ships proximity to a particularly weak spot in the firmament,<LINE>they could have been a pure spindle fanatic, one of few remaining after the monastic purges carried out during the void fluid revolution.|由于该船迫近于天穹的薄弱点，<LINE>其大概是纯净纺锤体的狂热信徒，这类人在虚空流体革命期间的修道院清洗进行之后已经所剩无几。
-Focused on a physical and spiritual un-birth, this reclusive order felt their fate lie in the stars rather than beneath them,<LINE>and this particular believer may have escaped in order to decipher the nature of this ancient belief, unheeded by everyday needs.|追求着肉体和精神的双重“非生”，这个隐秘组织认为他们的命运在于星辰之间而非尘世，<LINE>其中的这位信徒或许正是为了解密古老教义而逃亡，忽视世俗需求。
+Focused on a physical and spiritual un-birth, this reclusive order felt their fate lie in the stars rather than beneath them,<LINE>and this particular believer may have escaped in order to decipher the nature of this ancient belief, unheeded by everyday needs.|追求着肉体和精神的双重“非生”，这个隐秘组织认为他们的命运在于星辰之间而非尘世，<LINE>其中的这位信徒或许正是为了领悟古老教义而逃亡，忽视世俗需求。
 As for where it departed from? The tracking data suggests it came from one of my neighboring cans-<LINE>not that I care enough to discover its exact origin.|至于启航地点？记录数据显示它来自于我某个邻居的巨构————<LINE>不过我对寻找它的确切起点并不关心。
 Although it hardly aligns with my present ambitions, I thank you for this strange insight.|虽然这与我的当前目标毫不相干，还是感谢你带来的奇怪线索。
 //LTTM
 This seems to be a larger variant of the standard data pearls you may have seen around,<LINE>meant for more direct interfacing.|这是你所发现过的标准数据珍珠中一个更大的变体，<LINE>用于适配更直接的接口。
-The data stored on this shows a trade route traversing the celestial underlayer,<LINE>our creators ever so wary of any slips in the firmament.|上面储存的数据显示了一条穿越天空下层的贸易路线，<LINE>我们的创造者们始终如此警戒天空中的失误。
+The data stored on this shows a trade route traversing the celestial underlayer,<LINE>our creators ever so wary of any slips in the firmament.|上面储存的数据显示了一条穿越天空下层的贸易路线，<LINE>我们的创造者们始终对天空中的一切潜在风险保持警惕。
 I never payed them any mind, however.<LINE>My kind concerned themselves with matters below, rather than above.|不过我从来没关心过这些。<LINE>我和我的同类们专注于地面的事务，而非天空。
 Besides that, this includes the departure and docking log for the ship.|除此之外，珍珠还记录着货船的启程和停靠日志。
 Strangely, it records docking at a refueling tower when no ships should have been active,<LINE>after the final days of my creators ascent.|奇怪的是，在本应无船航行的时间段，数据显示出在燃料补给塔停泊的记录，<LINE>届时是我们的创造者飞升的最后阶段之后。
@@ -4648,7 +4644,7 @@ Adds various random wakeup events. Face the dangers of the night, or enjoy froli
 rareCreatures|异色生成
 Adds rare creature variants into the game to spice up your exploration. Variants come in wacky colors, like rainbow, monochrome, and more!|在游戏内添加多种异色生物变体，为你的探索增添趣味。变体拥有奇异的颜色，比如炫彩、黑白等多种颜色！
 origTrioOverhaul|三重爆改
-Overhauls 1 vanilla slugcat to be more unique, so that they are no longer in Downpour's shadow.|爆改了一只本体蛞蝓猫，使它变得更特别。这样他们就不会逊色于倾盆大雨DLC带来的蛞蝓猫们。
+Overhauls 1 vanilla slugcat to be more unique, so that they are no longer in Downpour's shadow.|爆改了一只本体蛞蝓猫，使它变得更特别。这样它就不会逊色于倾盆大雨DLC带来的蛞蝓猫们。
 
 Advanced|高级
 Advanced Options|高级选项
@@ -5000,7 +4996,7 @@ Union Remnant|残损工会
 This appears to be a map and status of a pump system,<LINE> showing the exterior and interior mechanics and pathways for proper maintenance.|这似乎是一个泵系统的地图和状态图，<LINE>展示了内外部分的机械结构以及维护所需要的路径。
 It does appear rather awkward however,<LINE> considering that many of these pathways go through normally active machinery. |不过许多路径都需要穿过运行状态中的机器，这让它们显得相当尴尬。
 One of these quite literally goes through an active oil pipe. Quite outrageous if you ask me.|其中一个穿过了一条正在运行中的输油管道。我认为这太离谱了。
-This was considered an international safety violation for obvious reasons,<LINE> but considering the status of the plant I suppose they never got in enough trouble.|显而易见，这是违反国际安全规定的。但是考虑到工厂的状况，我想他们从未遇到过过度的阻碍。
+This was considered an international safety violation for obvious reasons,<LINE> but considering the status of the plant I suppose they never got in enough trouble.|显而易见，这是违反国际安全规定的。但是考虑到工厂的状况，我想他们从未遇到过度的阻碍。
 I must say, it is odd to see something like this transpire so close to our area.<LINE> I thought I would've heard of it, but I never did.|我必须说，这样的事情就发生在离我咫尺之遥的地方，真的很奇怪。我认为我本应该了解过它的，但事实并非如此。
 How far did you go? How did you find this?|你走了多远？你是怎么找到这个的？
 //OER_B2
@@ -5052,9 +5048,9 @@ Either way I don't think I would understand,<LINE> since I have never read this 
 It must be very far away from our territory...|它一定离我们的辖区相当遥远……
 That is, if it even exists at all.|我的意思是，如果它真的存在的话。
 //OER_U1
-This appears to be a transcript from an inspirational speech,<LINE> done by an individual under the name "Twenty Five Rules and Regulations". |这似乎是一个鼓舞人心的演讲的文字记录，<LINE>由个人以“二五守则，约法三章”的名义完成。
-Most inspirational speeches were done by those in higher authority or nobility,<LINE> but the content of the speech and the individual's clear status show otherwise.|大多数鼓舞人心的演讲都是由权威或贵族做到，但这篇演讲的内容和个人的公开地位与之相反。
-It appears that it must've been written in a haste,<LINE> since the pearl has frequent scratch marks and typographical errors.|看起来它一定写的很匆忙，<LINE>因为里面的珍珠常有划痕和印刷错误。
+This appears to be a transcript from an inspirational speech,<LINE> done by an individual under the name "Twenty Five Rules and Regulations". |这似乎是一个鼓舞人心的演讲的文字记录，<LINE>以某个叫“二五守则，约法三章”的人的名义完成。
+Most inspirational speeches were done by those in higher authority or nobility,<LINE> but the content of the speech and the individual's clear status show otherwise.|大多数鼓舞人心的演讲都是由权威或贵族发表的，但这篇演讲的内容和个人的公开地位与之相反。
+It appears that it must've been written in a haste,<LINE> since the pearl has frequent scratch marks and typographical errors.|看起来它一定写的很匆忙，<LINE>因为珍珠里有不少划痕和印刷错误。
 I can't help but feel like I have heard this name before...|我觉得我以前听说过这个名字……
 I wonder what has happened to this individual now?|我很想知道这个人现在怎么样了？
 //OER_U2
@@ -5126,7 +5122,7 @@ You were one of the few I could gain even a small amount of advice from with my 
 After everything I've been through, only now do you have something to say?<LINE>When I'm at the edge of collapsing from my own failures!?|在我经历了这么多之后，你现在才有话要说？<LINE>在我因为自己的失败濒临崩溃的时候？！
 I doubt you can even hear me. Not through any of your overseers, at least.|我怀疑你听不到我说的话。至少你的监视者听不到。
 ...As for your little pawn..|……至于你的小信使……
-It seems his design philosophy has never changed, after all this time. You're stuck in a repeating pattern,<LINE>little abomination. and I'm certain you are well aware of it by now.|这么久以来，他的设计理念似乎从未改变过。你陷入了一个重复的状态，<LINE>小讨厌东西。我相信你现在已经很清楚了。
+It seems his design philosophy has never changed, after all this time. You're stuck in a repeating pattern,<LINE>little abomination. and I'm certain you are well aware of it by now.|这么久以来，他的设计理念似乎从未改变过。你陷入了一个重复的状态，<LINE>可憎的小东西。我相信你现在已经很清楚了。
 You're likely in a great amount of pain, aren't you? There isn't anything that I can do to help you. Not even myself...|你也许很疼，对吧？我帮不了你什么忙。甚至连我自己……
 However.. there is one way I know of, that doesn't require my help. Head west from here,<LINE>past the farm arrays and deep underground, where the land fissures.|不过……我知道有一条路，不需要我的帮助。从这里向西走，经过农场阵列，于大地裂口处深入地下。
 There you can find an old place you can rest in... Far away from Grand Achievements.<LINE>If you wish to follow this advice, then go ahead. That is, if you want an escape from it all.|在那里你可以找到一个可以休息的老地方……远离伟大成就。<LINE>如果你想要采纳这个建议，那么就走吧。也就是说，如果你想逃离这一切的话。
@@ -5153,7 +5149,7 @@ As much as it somewhat pleases me to see your taste for your own kind,<LINE>the 
 It is best you leave, at this point. I'm sure you understand. After all, your intelligence is quite high, even for a cyst.|此刻你最好离开。我相信你能理解。毕竟你的智商非常高，尽管你只是一个肿瘤。
 I do hope you find something to do, in the end.<LINE>However, I must resume my work. Please take the access shaft on your way out.|我真心希望你最终能找到一点事做。不过，我得回去工作了。出去时请走管道。
 Ah, hello <PlayerName>. It has been some time since I had visitors.|啊，你好，<PlayerName>。我已经有一段时间没见到访客了。
-How unusual.. You appear to be some form of lizard species.<LINE>They don't tend to come here often on their own.|多不寻常……你看起来像是某种蜥蜴。<LINE>他们不常独自来这里。
+How unusual.. You appear to be some form of lizard species.<LINE>They don't tend to come here often on their own.|多不寻常……你看起来像是某种蜥蜴。<LINE>你的同类不常独自来这里。
 Not only that, your head has been replaced by a large metal jaw<LINE>similarly to the aquatic organisms my structure produces.|不仅如此，你的头部被一个巨大的金属颚代替，就像我结构中增生的水生生物一样。
 A messenger, I assume? Your design seems quite... Peculiar, for a messenger.<LINE>You seem more fit for hunting than long distance travel...|我猜你是信使吧？你的设计看起来很……对于一个信使来说很奇怪。<LINE>比起长途旅行，你似乎更适合狩猎……
 Your modifications don't hurt, do they? Unfortunately, even<LINE>then, I am unable to help you in a meaningful way.|你的改造没什么坏处，对吧？不幸的是，即时那时<LINE>我也无法以任何有意义的方式帮助你。
@@ -5177,7 +5173,7 @@ You would like me to read this?|你想让我读这个？
 This pearl seems to have been recently written on... Were you the one who did this, little organism?|这颗珍珠似乎是最近才写……是你干的吗，小生灵？
 I must admit, the way its been written into is a little clumsy, but it's still easy to read.|我不得不承认，它写得有点笨拙，但它依然很易读。
 Ah.. It seems you've stored a database into this pearl containing.. Creatures?|啊……你似乎在这个珍珠中储存了一个数据库，其中包含……生物?
-There's quite alot of information in these entries... It looks like you even have their genome stored here!|在这些条目中有相当多的信息……看起来你甚至把他们的基因组储存在这里！
+There's quite alot of information in these entries... It looks like you even have their genome stored here!|在这些条目中有相当多的信息……看起来你甚至把它们的基因组储存在这里！
 Physical descriptions, an image of the creature itself, different cell types and their function...<LINE>It's been so long since I've seen something like this.. I'm a bit surprised!|生物描述，生物的图像，不同细胞类型及其功能……<LINE>我已经很久没有看到这样的东西了。我有点惊喜！
 Just a single entry in this database contains so much information in it... This is quite impressive, little organism!|在这个数据库中，仅仅一个条目就包含了如此多的信息。这真令人印象深刻，小生灵！
 This reminds me of the days when I would make my own pearls like this...<LINE>Unfortunately I am unable to recall much of my work..|这让我想起来了我自己这样记录珍珠的日子……不幸的是，我无法回忆起我大部分的工作……
@@ -5185,7 +5181,7 @@ Although, I do wonder what you're trying to do with this? There's so much inform
 Well, I won't pry any further. I'm sure you have your reasons.<LINE>Thank you for showing me your work, little organism.|好吧，我不追问了。我相信你有你的理由。谢谢你给我看你的作品，小生灵。
 I've already read this one to you, <PlayerName>.|我已经给你读过这个了，<PlayerName>。
 Oh, wait... It appears theres a new entry. It looks like it's been highlighted, unlike the others.|哦，等等……好像有一个新条目。看起来它被重点标记了，不像其他条目一样。
-It seems to describe a small bipedal creature. A type of rodent, more specifically.<LINE>There are also notes attached, mainly indicating its ability to form large communities, and also its intelligence..|它似乎描述了一种小型两足动物。确切点来说，是一种啮齿类动物。<LINE>这里还有附注，主要说明了它形成了大型群体的能力，以及它的智力……
+It seems to describe a small bipedal creature. A type of rodent, more specifically.<LINE>There are also notes attached, mainly indicating its ability to form large communities, and also its intelligence..|它似乎描述了一种小型两足动物。确切点来说，是一种啮齿类动物。<LINE>这里还有附注，主要说明了它形成大型群体的能力，以及它的智力……
 I think I've seen this creature pass by here before, actually. My memory is a bit... faded,<LINE>though. I'm not sure how long its been since one had visited..|我觉得我以前见过这个生物从这里路过。我的记忆有点……褪色，<LINE>我不知道有多久没有人来过了……
 This entry also looks like its referencing many of the others, with small slices<LINE>of its genome being filled in with the genomes of other entries.|这个条目看起来像是引用了许多其他条目，<LINE>其基因组的小切片被其他条目的基因组填充了。
 
@@ -5572,7 +5568,7 @@ STRUCTURE DAMAGE - SEVERE|结构损伤 - 非常严重
 
 //3353299442
 ModTags
-notchoc.ModTags-description|将你的模组分类集合，使他们易于管理！<LINE>长按标签1秒（或“右”方向键）进入编辑模式；重复以上操作退出该模式。<LINE>长按并使用“上下”方向键重新排列标签<LINE>敬请期待更新自定义标签。
+notchoc.ModTags-description|将你的模组分类集合，使它们易于管理！<LINE>长按标签1秒（或“右”方向键）进入编辑模式；重复以上操作退出该模式。<LINE>长按并使用“上下”方向键重新排列标签<LINE>敬请期待更新自定义标签。
 Arenas|竞技场
 Regions|区域
 Campaigns|剧情
@@ -5929,8 +5925,8 @@ Anyway, I need another pearl. It stores data about an unfortunate development.|�
 The problem is that it was washed away along with other samples, its approximate location is the Garbage Wastes.|麻烦的是是它和其他样品一起被冲走了，大致在垃圾堆。
 You should be careful, my samples have an aggressive form of behavior...|你要小心，我的样本有攻击性行为……
 
-Did you tell your rotund friend about me?|你把我告诉过你那个圆润的朋友吗？
-I'm not here to help everyone and everything. Call off your kin and head west.|我在这里不是为了帮助万事万物的。呼唤你的族人，领他们向西方去。
+Did you tell your rotund friend about me?|你和我讲过你那个圆润的朋友吗？
+I'm not here to help everyone and everything. Call off your kin and head west.|我在这里不是为了帮助万事万物的。呼唤你的族人，领它们向西方去。
 I've already opened the gate to leave my complex.|我已经打开了离开我辖区的门。
 
 //Case 6
@@ -5977,7 +5973,7 @@ I hope you are okay, but at least you look a little better.|我希望你没事�
 If you want to learn anything new, I will be waiting for you. I appreciate your gifts.|如果你想学点新东西，我会等你的。我很感谢你的礼物。
 
 //仰望皓月第一次见面对话补充（我也不知道为什么作者的strings里面没有，我补充一下看看是否能运行）
-You can bring me different things, I might tell you something interesting about them.|你可以带给我一些不同的东西，我也许可以告诉你一些关于他们的趣事。
+You can bring me different things, I might tell you something interesting about them.|你可以带给我一些不同的东西，我也许可以告诉你一些关于它们的趣事。
 But I am glad to have a companion. It can be very lonely here, although sometimes I hear someone scavenging in the rubbish.|但我很开心能有一个伙伴。这里非常孤独，尽管有些时候我可以听到一些生物在垃圾里拾荒。
 
 
@@ -6148,9 +6144,9 @@ tsunochizu.barrenstreets-description|增加一处城市区域。
 Barren Streets|落寞巷道
 //五块卵石读珍珠
 It is a maintenance order with detailed instructions for the main aqueduct of my city, so I suspect you might've found it within what remained of it.|这是一份关于我的城市引水渠的维护指令，上面有着详细的说明。我想你是在它的残骸中找到的。
-It used to be one of the greater architectural monuments held within it, and it continued to function even well after the mass ascension, before the scavengers took home in the nearby area. <LINE> The current sorry state of the aqueduct is a direct consequence of their presence.|它曾经是城市内最伟大的建筑之一，并且一直到集体飞升之后仍运转良好，直到那些拾荒者来到附近定居。<LINE> 目前这条引水渠的糟糕状况就是因为他们的存在。
- am unsure if the wave of explosions they set off was planned with malicious intent, or if it happened due to a chain reaction set off by their extreme measures taken to neutralize a threat, but the outcome is one and the same.|我不确定爆炸波是出于恶意策划，还是因为他们采取极端措施消除威胁而引发的连锁反应，但结果是一样的。
-Hopefully thanks to your current efforts, no more historical monuments are going to get destroyed by their continuous presence.|幸运的是，多亏了你目前的努力，不会有更多的历史遗迹因为他们的持续存在而被破坏了。
+It used to be one of the greater architectural monuments held within it, and it continued to function even well after the mass ascension, before the scavengers took home in the nearby area. <LINE> The current sorry state of the aqueduct is a direct consequence of their presence.|它曾经是城市内最伟大的建筑之一，并且集体飞升之后仍运转良好，直到那些拾荒者来到附近定居。<LINE> 目前这条引水渠的糟糕状况就是因为它们的存在。
+ am unsure if the wave of explosions they set off was planned with malicious intent, or if it happened due to a chain reaction set off by their extreme measures taken to neutralize a threat, but the outcome is one and the same.|我不确定爆炸波是出于恶意策划，还是因为它们采取极端措施消除威胁而引发的连锁反应，但结果是一样的。
+Hopefully thanks to your current efforts, no more historical monuments are going to get destroyed by their continuous presence.|幸运的是，多亏了你目前的努力，不会有更多的历史遗迹因为它们的持续存在而被破坏了。
 You should return to that duty now, in fact.|事实上，你现在该回去履行职责了。
 //仰望皓月读珍珠
 It is a letter addressed towards new maintainers of the aqueduct within the city on top of Five Pebbles.|这是一封写给五块卵石上层城市内新人引水渠维护者的信。
@@ -6460,11 +6456,11 @@ Decomposing Gutter|腐殖地沟
 
 //3333707258
 The Castaway
-The Castaway-description|在一场毁灭性的风暴后，一只名为漂流者的半水栖，会吹泡泡的猫崽与亲人失散，被抛到海岸线之外陌生世界中。<LINE>你是会适应周围环境，独自在世界中前行，还是跟随如今的远亲深入未知的世界？<LINE>漂流者现在兼容观望者DLC了！<LINE>软锁定的问题已经解决！<LINE>暂时没有开场动画、竞技场、真结局CG，并使用了饕餮的世界设置。<LINE>我一直关注于学业（我尝试做了至少7个开场动画，但每个都不喜欢并陷入瓶颈）<LINE>就剧情内容来说，除了还没有剧情动画和独特仰望皓月对话外已经应有尽有了（对话，结局，机制）<LINE>他们也有使命任务和一些其他的特殊挑战内容！<LINE>雨甸1.5版本的兼容性未测试但应该有。<LINE>已知不兼容：Dress My Slugcat的自定义尾部会破坏尾巴纹路。
+The Castaway-description|在一场毁灭性的风暴后，一只名为漂流者的半水栖，会吹泡泡的猫崽与亲人失散，被抛到海岸线之外陌生世界中。<LINE>你是会适应周围环境，独自在世界中前行，还是跟随如今的远亲深入未知的世界？<LINE>漂流者现在兼容观望者DLC了！<LINE>软锁定的问题已经解决！<LINE>暂时没有开场动画、竞技场、真结局CG，并使用了饕餮的世界设置。<LINE>我一直关注于学业（我尝试做了至少7个开场动画，但每个都不喜欢并陷入瓶颈）<LINE>就剧情内容来说，除了还没有剧情动画和独特仰望皓月对话外已经应有尽有了（对话，结局，机制）<LINE>它也有使命任务和一些其他的特殊挑战内容！<LINE>雨甸1.5版本的兼容性未测试但应该有。<LINE>已知不兼容：Dress My Slugcat的自定义尾部会破坏尾巴纹路。
 The Castaway|漂流者
 THE CASTAWAY|漂流者
 A juvenile from beyond the sea, relying on wit and caution for survival.<LINE>Vunerable and far away from home, will you adapt to your circumstances, or reconnect with distant kin?|一只来自海彼岸的幼崽，依靠智慧和谨慎谋生。<LINE>脆弱而又远离家乡，你是会适应如今的环境，还是去与远方的亲人重新建立联系？
-Now confident in exploring the world,<LINE>the Castaway returns to find their place in this ecosystem|如今对探索世界充满信心的漂流者，将在这个生态系统中寻找他们的一席之地。
+Now confident in exploring the world,<LINE>the Castaway returns to find their place in this ecosystem|如今对探索世界充满信心的漂流者，将在这个生态系统中寻找它的一席之地。
 Sightseeing|观光
 Castaway Interactions:|漂流者操作：
 Hold JUMP while swimming to increase swim speed|游泳时按住“跳跃”键以提高游泳速度
@@ -6590,10 +6586,57 @@ WARNING: Saving will reset any existing region weathers.|警告：保存将会�
 [RegEX]DOWNPOUR STYLE\nUses the snowfall shader added in the Downpour DLC as well as it's end-of-cycle Blizzard. Has the same hypothermia mechanics present in Saint's campaign, however if you do not own a DLC, the weather will change back to rain at the end of the cycle.|倾盆大雨类型#Environment.NewLine#使用倾盆大雨DLC中添加的降雪着色器和循环结束的暴雪。有和圣徒战役相同的降温百分比机制，不过，如果你一个DLC都没有，那么天气会变成循环结束时的暴雨。
 [RegEX]SNOW SOURCES\nDuring snowy weather, snow piles will be dynamically placed in rooms. As the cycle progresses, the snow will accumulate. Unfortunately can look quite jarring in dark places like Shaded Citadel.|降雪源#Environment.NewLine#在下雪的天气里，雪砖会被动态地放置在房间中，随着循环发展，雪会累积起来。不幸的是，它会在黑暗的地方看起来非常显眼，比如阴影城堡。
 
+//3630842886
+supermariobrosworldone-description|这是对原版《超级马里奥兄弟》中的关卡“World1”的复刻。<LINE>建议从地下进入，从郊区出来。<LINE>这个模组没什么特别的地方，只是我第一次尝试制作区域模组。<LINE>如果发现任何bug，欢迎向我反馈。
+Sidewall Road|沿墙跑道
+Sidewall Road (Trainway Grounds)|铁路场
+Sidewall Road (Washout Islands)|冲蚀群岛
+Sidewall Road (Wastewater Facility)|废水处理设施
+Cat Mario|猫里奥
 
+//smbo_MARIO_PEARL-LTTM
+Oh, this is an interesting find <PlayerName>! This seems to contain an operating record for some sort of<LINE>parkour course around the western side of the retaining wall.|哦，很有意思，<PlayerName>！<LINE>这是一份挡土墙西侧跑酷赛道的通行记录。
+Given how you have this, it is reasonable to assume you have been there.<LINE>But from I can tell it was a course where my creators would try to make it from the top of the retaining wall down to one of the<LINE>abandoned suburbs before the downpours from Five Pebbles and I came down.|你既然能拿到这个，肯定去过那儿了。据我所知，在我和五块卵石带来的倾盆大雨降临地表之前，<LINE>创造者们打算将这条赛道从挡土墙顶部一直修到废弃的郊区。
+And it seems that this course was based off of a popular... play? I'm sorry, <PlayerName>,<LINE>this pearl is well worn and I have no memory of this place.|而且这赛道好像是照着一部广受欢迎的……舞台剧来建的？<LINE>抱歉，<PlayerName>，这颗珍珠磨损得太厉害了，我也已经完全不记得这个地方。
+I wonder what Five Pebbles would know about it...|我好奇五块卵石对此了解多少……
 
+//smbo_MARIO_PEARL-artificer
+This is an odd find, <PlayerName>. This contains an operating record for an obstacle course to the west of my facility.|这真是个奇怪的发现，<PlayerName>。<LINE>里面是在我巨构西边的障碍赛道的运行记录。
+It was being made as I was being constructed, though it was completed before I was and<LINE>my creators enjoyed it for generations before me.|在我诞生前，它就已经修建好，被创造者们使用了几代之久。
+In the rare times that I was not busy doing extensive tasks, I would watch them try to complete<LINE>the course with my overseers. Often times they had to take breaks midway due to the rainstorms we Iterators put out.|在我难得没有忙于繁重任务的闲暇时间，我会通过监视者观察他们如何尝试跑完赛道。<LINE>大多数时候，因为我们产生的暴雨，他们不得不中途休息。
+Though I did enjoy watching them at the time, it was odd to me that it was only made for recreational purposes,<LINE>as were the plays and games that inspired it. The inane thing to me is that there were plans to make<LINE>7 more of these courses all around this facility to "adapt" the rest of the material.|尽管我当时确实很喜欢观看这个“节目”，但这些赛道古怪地仅是为了娱乐目的而修建，就像那些作为它的灵感来源的戏剧和游戏一样。<LINE>令我感到荒谬的是，还有另外7条这样的赛道计划在它周围建造，为了“改编”那些作品剩下的内容。
+It is good that those plans were never put through. While they created us to use as tools to offput tasks onto,<LINE>the fact they put so much effort into such extensive and meaningless projects is frustrating, to say the least.<LINE>It is as though they made every selfish decision they could before ascending.|计划从未付诸实施，倒也算好事。尽管他们抱着将各种繁杂的任务都推卸给工具的目的创造了我们，但是，<LINE>他们在这个庞大而毫无意义的项目上倾注了如此多精力，才是真的让迭感到前途黯淡。<LINE>仿佛在飞升前，他们把能做的自私决定都做了个遍。
+Sorry, <PlayerName>, it would be pointless to explain my frustrations to you. You would not understand,<LINE>and I should be getting back to my work.|抱歉，<PlayerName>，向你解释我的不满毫无意义。<LINE>你不会理解，我该继续工作了。
+I wonder how Moon would have felt about this pearl...|不知道皓月会对这颗珍珠作何感想……
 
+//NSH_smbo_MARIO_PEARL-NSH
+Haha, this is a good find, <PlayerName>! This must be from the old road on the west side of Five Pebbles!|哈哈，真不错的发现，<PlayerName>！它一定来自五块卵石西边的那条旧跑道！
+Though there were a few paths from my can to his, that one was a particular favorite of my citizens,<LINE>since it took after some entertainment they liked. It was particularly popular with families;<LINE>they would take it to go visit relatives around Five Pebbles.|虽然从我的罐头到他的罐头有好几条路，但我的公民特别喜欢这一条。因为它参考了他们喜欢的娱乐作品。<LINE>尤其拖家带口的，都爱走这条路去五块卵石周边拜访亲戚。
+I did enjoy that material a bit back in those days, but my true association with that road was how,<LINE>after our creators left, Five Pebbles came to hate it. When I was still in contact with him,<LINE>I teased him about that quite alot~|当初，我确实也挺喜欢那些作品，不过，关于那条路让我真正铭记的事，还是在创造者们离开后，五块卵石开始讨厌它。<LINE>我还跟他有联系时，没少拿这个调侃他~
+There was even times where Moon interfered when he was getting a bit heated!|有时他急眼了，月姐还会出来打圆场呢！
+I do miss those days... But enough about that! To get this means you have been there yourself<LINE>and found it just as entertaining as they once did!|我很怀念那段日子……不过扯远啦！你能找到这东西，就说明<LINE>已经去过那儿了，而且和曾经的人们一样玩得很开心吧！
+I wonder what other silly adventures you may have gone on~|我真想知道你还经历了什么幼稚的冒险~
 
+//3636877115
+propane.fastRegion-description|一个大型空中区域，每个房间都是赶工的。<LINE>请注意，部分房间可能存在地形造成的单行道、物品错位，及其他各类问题。<LINE>此模组的无限版将于2026年内发布。
+Skyport|天空港口
+Ruined Workspace|毁坏的工作区
+Lower Docks|下埠头
+Upper Docks|上埠头
 
+//3636702654
+lunarcanyon-description|一片深藏于海底的洞穴群系，自仰望皓月崩塌后便笼罩在永恒的黑暗之中。<LINE>该区域有(大约)74个房间(含业力门与庇护所)、(大约)134个屏幕，以及1颗珍珠、1个回响(译者注：还没做出来)。
+Lunar Canyon|月之峡谷
+The Midnight Deep|如夜深处
+The Bottom|峡底
 
-
+//3637050259
+maxdubstep.steelmill-description|本区域用了1.5天时间制作，现在以永久未完工的状态公开发布。来探索这座围绕着沉没遗迹建成的钢铁工厂吧。
+Steel Mill|锻钢厂
+Forgotten Cranes|被遗忘的起重机
+Abandoned Leg|被弃支架
+Corroded Sink|朽化水槽
+Riven Factory|残裂工厂
+Metal Web|钢铁之网
+Vanity Remnant|虚荣遗迹
+Eroded Glacier|受蚀冰川

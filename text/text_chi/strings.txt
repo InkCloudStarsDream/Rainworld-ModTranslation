@@ -6713,7 +6713,7 @@ The Bottom|峡底
 //3637050259
 maxdubstep.steelmill-description|本区域用了1.5天时间制作，现在以永久未完工的状态公开发布。来探索这座围绕着沉没遗迹建成的钢铁工厂吧。
 Steel Mill|锻钢厂
-Forgotten Cranes|被遗忘的塔吊
+Forgotten Cranes|遗忘塔吊
 Abandoned Leg|被弃支架
 Corroded Sink|朽化水槽
 Riven Factory|残裂工厂
@@ -6744,3 +6744,4 @@ I would not recommend going there.|我不建议你再前往那个地方。
 This is a blueprint of a modification.|这是一张改造蓝图。
 What?<LINE>I don’t know what kind of structure this is.|但……我不清楚这是什么结构。
 In any case, the purpose of this modification is gas containment,<LINE>though I can’t say which specific gas.|总之，这个改造的目标是储存气体，<LINE>但我不知道是哪种气体。
+

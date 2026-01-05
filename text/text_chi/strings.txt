@@ -4880,6 +4880,39 @@ Decayed Chamber|衰变洞窟
 denchik slaziet|我们必须想象怪猫是幸福的
 The Lost Poops|失落代谢
 Brain Rot|脑腐
+//LT_BUNT_PEARL-rivulet
+The information on this pearl upsets me. |上面的信息令我很不安。
+It contains some ideas and dialogues from a group of my creators who were dissatisfied with the amenities of the metropolises on the roofs of the iterators and wanted to continue living on the surface, |内部记载了几位我的创造者的想法和对话。<LINE>他们对迭代器头顶的都市内的居住条件感到不满，并想要继续在地面生活。
+which became impossible due to the daily rains caused by us. |而这在我们所产生的周期性暴雨下是不可能的。
+I don't think you will understand the contents of this pearl and attempt to implement their ideas,|我不认为你会理解这颗珍珠的内容并试图实施他们的想法，
+so I will read it, even though it will be extremely unpleasant for me. |因此尽管内容让我非常不愉快，我依然会读给你听。
+"This can't go on! |“这情况不能再继续了！
+Although Looks-to-the-Moon and Five Pebbles are our Creatures and Gifts to the World (unable to achieve Enlightenment on their own due to their nature), |虽然仰望皓月和五块卵石是我们的造物<LINE>以及献给这个世界的礼物（由于他们的本质，他们无法自己获得启迪），
+we must not indulge them in everything! There must be an opportunity to live on the surface, |我们不能事事纵容他们！<LINE>一定存在从这些可恶的、无所不知的金属块的掌控下逃脱，在地表生活的可能性。
+free from the control of these vile, all-seeing piles of metal. Although there are 40 members of the Council who support our ideas, |尽管议会内已有40位成员支持我们的提议，
+we are considered dangerous due to the pathetic "Dependence" of other Houses on the supply of water, nectar, |但我们由于其他派系可悲地“依赖”着
+energy, and void fluid by these disgusting man-made creatures devoid of life. |这些令人厌恶的人造生命体所提供的水、神酒、能源以及虚空流体。
+Thanks to old maps and surveyors, we have a new meeting place |多亏了旧地图和测绘师，<LINE>我们有了一处新的接头地点以及一条秘密运输特殊货物的渠道，
+and a way to discreetly transport special cargo, but it seems that this place continues to be dangerous for us.|即便如此这里对我们来说依旧十分危险。
+I will provide a transcript of the negotiations between members of our House.|我将提供一份与议会成员间的谈判记录。
+"YB: These abandoned tunnels are almost perfect for secret meetings and special cargo traffic, |“YB：遗弃隧道确实是秘密集会以及运输特殊货物的绝佳选择，
+but there are a few problems. |但存在一些问题。
+They are located under a waste dump, and their infrastructure is in terrible condition, |此处位于垃圾填埋场下，而设施也状态极差，
+so frequent visits could lead to someone getting burried. |频繁造访可能会导致塌方事故。
+AB: However, the Iterators and ordinary citizens won't dare to venture there. |AB：然而，迭代器和普通的公民不太可能贸然进入这里。
+ST: Well, now we just need to find a weakness in the latest Iterator design to end the tyranny of these soulless machines.|ST：很好，那么我们只需要找出最新型迭代器设计中的一个漏洞就能终结这些无魂机器的统治。
+SF: Who currently has the blueprint? |SF：那谁掌握着蓝图？
+YB: The last time I heard about it was when it was in AG's possession. |YB:我最后一次听到是在AG的手上。
+AB: He was caught red-handed immediately after miraculously managing to pass the carrier to an unknown member of the House. |AB：他奇迹般将载体交给陌生议员后就被抓了正着。
+ST: I've heard rumors that it was too dangerous to leave the blueprint in the city, |ST：我听说将蓝图留在都市内太危险，而运输员当时正穿行在这些遗弃隧道内...”
+and the courier carrying the carrier was passing through these abandoned tunnels..." |由于金属巨兽的活动，我们能不被窥探的耳朵监听的会面<LINE>地点越来越少了，能考虑的时间也越来越少。
+Due to the activities of the huge metal monsters, we have fewer and fewer places to meet|议会中可能存在间谍，因为我们的议会成员收到过错误信息,
+where we won't be overheard by prying ears, and less time to think. |说一名送货员携带着迭代器最新迭代的蓝图穿过了遗弃的管道系统，
+It's possible that there's a traitor in our House, as our Council members had false information that|而他们在就要被监视者抓个正着时碰巧“遗失”了载体，
+a courier carrying a blueprint for the latest iteration of the iterator had passed through an abandoned tunnel system, |然而当时，还没人知道遗弃管道中的秘密走私活动。
+even though they "lost" the carrier when they were almost caught by an overseer, |——此条信息每位议会成员都应知晓，但在传播时必须极其谨慎，
+and at that time, there was no idea of conducting secret activities in the abandoned sewers.|以免其他居民察觉到我们的活动，那样他们<LINE>会获得我们对迭代器的厌恶的确凿证据，甚至包括我们的部分计划。”
+ - This data should be known to every member of the House, but it should be distributed with extreme caution, as if other residents learn about our activities, they will have irrefutable evidence of our dislike for Iterators and even part of our plans." Give this pearl to the scavengers or destroy it, but do not leave it here...|把这颗珍珠交给拾荒者或者摧毁它，无论如何不要把它留下……
 //0-LT_BUNT_PEARL
 ...|……
 Oops.|哦不。
@@ -4984,6 +5017,44 @@ District 5|第五区
 Embassy|大使馆
 Department of Love|真爱部
 Leave|离开
+//broadcastecho
+[LIVE BROADCAST] - PRIVATE Documented Empathy, Statistical Violence, Cause For Concern|【即时广播】 - 私聊：共情转录、暴行统计·危殆思忧
+<#983b3b>[DE:] Are you receiving this?|<#983b3b>共情转录：你能听到吗？
+<#8cb9b2>[SVCFC:] Loud and clear, brother! What are we discussing today?|<#8cb9b2>暴行统计·危殆思忧：嘹亮又清晰，兄弟！我们今天聊什么？
+<#983b3b>[DE:] I saw a little bird today. It was blue.|<#983b3b>共情转录：我今天看到了一只小鸟。它是蓝色的。
+<#8cb9b2>[SVCFC:] .... What is a bird?|<#8cb9b2>暴行统计·危殆思忧： ....鸟是什么？
+<#983b3b>[DE:] .... Nevermind, I have something to discuss with you.|<#983b3b>共情转录：....没什么，我有别的事要和你说。
+<#983b3b>[DE:] I have encountered a small orange thing. Have you seen anything similar to this description?|<#983b3b>共情转录：我遇到了一只橙色的小家伙。你见过相似的生物吗？
+<#8cb9b2>[SVCFC:] No, I don't think so.|<#8cb9b2>暴行统计·危殆思忧：不，我没见过。
+<#983b3b>[DE:] Hm. I see. |<#983b3b>共情转录：嗯...我知道了。 
+<#983b3b>[DE:] I will contact you after I gather more information.|<#983b3b>共情转录：我收集够信息后再联系你。
+<#983b3b>[DOCUMENTED EMPATHY HAS DISCONNECTED.]|<#983b3b>【共情转录离开了对话】
+//broadcastevil
+[NOTE PARTITION 1, DEPARTMENT OF LOVE]|【文件记录1，真爱部】
+<#304f81>[SMOS:] Damn it, damn it! Those whispering bastards, what do they see in him?|<#304f81>[SMOS:]该死！该死！那些喋喋不休的混蛋，他们是看上他什么了？
+<#304f81>[SMOS:] Even our praised Gift likes him, damn it all! Can't they find a better demi leader that has our best interests?|<#304f81>[SMOS:]甚至我们称颂的礼物都喜欢他，真该死！为什么他们不能找个更符合我们最大利益的副领袖？
+<#304f81>[SMOS:] I need to do something, I know I need to! Even if it takes all day and all night, I need that bastard dead!|<#304f81>[SMOS:]我得做些什么，我必须做些什么！即使不眠不休，我也要置他于死地！
+<#304f81>[SMOS:] I cannot let this happen. It is time.|<#304f81>[SMOS:]我绝对不能让那件事发生。现在是时候了。
+<#304f81>[SMOS:] I will phone up Twenty Seven Partitions later this evening.|<#304f81>[SMOS:]我晚些时候会联系二七横断。
+//mail1
+[INTERCEPTED MAIL EXCERPT]|【截获邮件片段】
+<#5951a7>Dear Twenty Five Rules And Regulations,|<#5951a7>“亲爱的二五守则、约法三章，
+<#5951a7>The mail has been quite nice today, and I appreciate your help in buying a small piece of bread from the bakery.<LINE> As you can see by the wax stamp, you may already know what we will be talking about today...|<#5951a7>今天的通讯情况不错，感谢你帮我从面包房买了一小片面包。<LINE>通过这封邮件的漆印，你可能知道我们今天要谈什么了...
+<#5951a7>At 11:84T of the following cycle, you will be greeted by a group of Council Security officers.<LINE> Tell them that you need to go check on something, and do not enter any official government buildings for the next three cycles. <LINE>Stay safe, I pray that this reaches you.|<#5951a7>下个循环的11：84刻，你将获得一帮安全委员会官员的欢迎。<LINE>告诉他们你还有事情要处理，接下的三个循环内都不要踏进任何市政大楼。<LINE>注意安全，我祈祷你能收到这份邮件。
+<#5951a7>Sincerely, Final Servant of Thoughts"|<#5951a7>您真挚的，思绪翻飞、永授功勋”
+//mail2
+[PHYSICAL NOTE PARTITON, MINISTRY OF INTERNATIONAL RELATIONS]|【实物文件记录，国际关系部】
+<#304f81>[SMOS:] Hello Twenty Seven Partitions, I hope this finds you well.|<#304f81>[SMOS:]贵安，二七横断，希望你过得不错。
+<#304f81>[SMOS:] The Revolutionary has been revealed to be a post officer under the name of "Twenty Five Rules And Regulations", the one we have been |<#304f81>[SMOS:]革命者找到了，是名叫“二五守则，约法三章”的邮政官，过去几个循环间我们一直在怀疑他。
+<#304f81>[SMOS:] You know what you need to do.|<#304f81>[SMOS:]你知道你该做什么。
+//note1
+[PHYSICAL NOTE PARTITION 1, DEPARTMENT OF TRUTH]|【文件记录1，真理部】
+<#68ab5d>[PIC:] I've been at these news stories for quite a while now, and I can't help but feel uncomfortable with my job.|<#68ab5d>[PIC:]我处理那些新闻已经有段时日了，我开始有点对我的工作感到不安。
+<#68ab5d>[PIC:] Throw away that, throw away this- What is real? What is fake?|<#68ab5d>[PIC:]那个要销毁，这个也是- 什么是真的？什么又是假的？
+<#68ab5d>[PIC:] Maybe I should be more worried that someone could be reading this.|<#68ab5d>[PIC:]或许我更该担心会有人看到这些文字。
+<#68ab5d>[PIC:] Well no, the council wouldn't do something like that! They know me, I do my job when it is due and don't question it.|<#68ab5d>[PIC:]不不不，议会不会这么做的！他们了解我，我工作尽职尽责，从不质疑他们。
+<#68ab5d>[PIC:] Er, out loud at least...|<#68ab5d>[PIC:]额，至少不会公开声明...
+<#68ab5d>[PIC:] I should probably stop writing before I disappear. I don't think I want to die this young.|<#68ab5d>[PIC:]我最好在我被迫消失前停笔。我还不想英年早逝。
 
 //3540673086
 dietpebsi.oilrig-description|未完成
@@ -6275,6 +6346,8 @@ The Scaffolds|脚手架
 //3620983555
 Storage Compartments-description|我的第一个区域模组。<LINE>区域入口位于郊区靠近排水系统业力门的庇护所的左上方。
 Storage Compartments|储物间
+//SC_PEARL_DARK_GREEN
+This one just says...|这上面只写了...
 
 //3622587249
 coastalconstruct-description|海岸线上出现了一处新大陆，一片充斥着管道、工厂和海洋的土地。<LINE>这个模组用了将近一年的时间，在RW模组社区的帮助下重做了两次。需要倾盆大雨DLC。<LINE><LINE>内容：竞技场、有色珍珠、探险瞭望点以及为本体3猫（黄白红）的区域生成设置。<LINE><LINE>区域连接：污水坑道（管道堆场子区域）、阴影城堡、排水系统和栈桥（The Trestle）（即将推出的区域）<LINE><LINE>施工中的更新：倾盆大雨DLC区域生成设置，溪流与圣徒线的区域变动，怪猫诈骗？？？<LINE><LINE>制作组：SaykioPorko-威胁音乐，Willow (InspectNerd)-IZ_Duckers房间，感谢CRS和RegionKit的开发者们使开发这种模组变得更简单。<LINE><LINE>其余其他部分都由我完成。
@@ -6284,6 +6357,13 @@ Frozen Facility|封冻设施
 The Trestle|栈桥
 Seaside Factory|海滨工厂
 Northern Leg|北支架
+//IZ_Shaft
+It's a blueprint for a repurposed production line, to produce cooling rods.<LINE>You probably found this in the building it was drawn up for little creature.|一张改造生产线的蓝图，用于生产冷却棒。<LINE>你大概是在建筑内发现的，这张蓝图是专为小生灵绘制的。
+When my creators built us, many decided to re-purpose abandoned industrial complexes,<LINE>rather than build new facilites for such work.|当初我们的创造者建造我们时，很多人在修建新设施与翻新废弃的工业区之间，选择了后者。
+Many buildings required drainage shafts so they wouldn't flood when the rain fell.|许多设施都需要排水井以免暴雨来袭时被洪水淹没。
+Most production was done in the local area.<LINE>But for iterators in remote locations, they either built new industrial complexes or brought in components via rail.|大部分施工都在本地完成。<LINE>但对于位于更偏远区域的迭代器，他们要么会修建新的工业区，<LINE>要么通过铁路运入零件。
+You've probably seen these railway networks before!|你可能已经见过这种铁路系统了！
+
 
 //3296852535
 TrynsEvergreen-description|添加自定义蛞蝓猫（常青）和与之相伴的全新线路！<LINE>美术：NOTOCORDA -- 概念、故事与代码：Tryn <LINE>精灵动画：Tryn & Auro（以Cutscene Slugcats为基础）（LightParty协助） -- 自定义区域由 Tryn, Finbotic, Nimble, TheNotSoGood Gamer 和 Mold223 共同制作！
@@ -6644,3 +6724,23 @@ Eroded Glacier|受蚀冰河
 //3637556546
 nicolasdreams.thepipe-description|一个连接工业区和净水系统的水管。支持所有蛞蝓猫游玩！
 The Pipe|管道
+
+//3632872462
+mlfunctioningbatteriy-description|增加一个区域
+Malfunctioning Batteries|故障储电区
+Unusable Railway|失效轨道
+//CBCB_modifyprojecttext
+This is the genome of the purposed organism.<LINE>Its purpose is to convert wind energy into electrical energy.|这是效用有机体的基因组。<LINE>目标是将风能转化为电能。
+I can’t quite understand what it is, but something about this really makes me uneasy.|我不清楚那是什么，但它让我感到不安。
+//CBCB_modifyprojecttext-Artificer
+This is the genome of the purposed organism.<LINE>Its purpose is to convert wind energy into electrical energy.|这是效用有机体的基因组。<LINE>目标是将风能转化为电能。
+I can’t ignore the fact that it lacks a mechanism to limit reproduction,<LINE>which in theory could lead to rather... grim consequences.|我必须指出这个有机体并未设置繁殖限制，而这理论上会导致……相当灾难性的后果。
+//CBCB_neurontext-Spear
+This is a blueprint of a modification to a local ground-based communications array.|改良本地地面通讯阵列的蓝图。
+It is outdated and was decommissioned shortly after my construction.|已经过时且在我完成建造后不久就废弃了。
+The last time my оverseers to return from there,<LINE>they recorded constant electrical storms.|我的监视者上次从那里返回时，记录到了持续不断的雷电风暴。
+I would not recommend going there.|我不建议你再前往那个地方。
+//CBCB_neurontext
+This is a blueprint of a modification.|这是一张改造蓝图。
+What?<LINE>I don’t know what kind of structure this is.|但……我不清楚这是什么结构。
+In any case, the purpose of this modification is gas containment,<LINE>though I can’t say which specific gas.|总之，这个改造的目标是储存气体，<LINE>但我不知道是哪种气体。

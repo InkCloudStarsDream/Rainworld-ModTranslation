@@ -4882,36 +4882,36 @@ The Lost Poops|失落代谢
 Brain Rot|脑腐
 //LT_BUNT_PEARL-rivulet
 The information on this pearl upsets me. |上面的信息令我很不安。
-It contains some ideas and dialogues from a group of my creators who were dissatisfied with the amenities of the metropolises on the roofs of the iterators and wanted to continue living on the surface, |内部记载了几位我的创造者的想法和对话。<LINE>他们对迭代器头顶的都市内的居住条件感到不满，并想要继续在地面生活。
+It contains some ideas and dialogues from a group of my creators who were dissatisfied with the amenities of the metropolises on the roofs of the iterators and wanted to continue living on the surface, |内部记载了几位我的创造者的想法和对话。他们对迭代器头顶的都市内的居住条件感到不满，并想要继续在地面生活。
 which became impossible due to the daily rains caused by us. |而这在我们所产生的周期性暴雨下是不可能的。
-I don't think you will understand the contents of this pearl and attempt to implement their ideas,|我不认为你会理解这颗珍珠的内容并试图实施他们的想法，
+I don't think you will understand the contents of this pearl and attempt to implement their ideas, |我不认为你会理解这颗珍珠的内容并试图实施他们的想法，
 so I will read it, even though it will be extremely unpleasant for me. |因此尽管内容让我非常不愉快，我依然会读给你听。
 "This can't go on! |“这情况不能再继续了！
-Although Looks-to-the-Moon and Five Pebbles are our Creatures and Gifts to the World (unable to achieve Enlightenment on their own due to their nature), |虽然仰望皓月和五块卵石是我们的造物<LINE>以及献给这个世界的礼物（由于他们的本质，他们无法自己获得启迪），
+Although Looks-to-the-Moon and Five Pebbles are our Creatures and Gifts to the World (unable to achieve Enlightenment on their own due to their nature), |虽然仰望皓月和五块卵石是我们的造物以及献给这个世界的礼物<LINE>（由于他们的本质，他们无法自己获得启迪），
 we must not indulge them in everything! There must be an opportunity to live on the surface, |我们不能事事纵容他们！<LINE>一定存在从这些可恶的、无所不知的金属块的掌控下逃脱，在地表生活的可能性。
 free from the control of these vile, all-seeing piles of metal. Although there are 40 members of the Council who support our ideas, |尽管议会内已有40位成员支持我们的提议，
-we are considered dangerous due to the pathetic "Dependence" of other Houses on the supply of water, nectar, |但我们由于其他派系可悲地“依赖”着
-energy, and void fluid by these disgusting man-made creatures devoid of life. |这些令人厌恶的人造生命体所提供的水、神酒、能源以及虚空流体。
-Thanks to old maps and surveyors, we have a new meeting place |多亏了旧地图和测绘师，<LINE>我们有了一处新的接头地点以及一条秘密运输特殊货物的渠道，
-and a way to discreetly transport special cargo, but it seems that this place continues to be dangerous for us.|即便如此这里对我们来说依旧十分危险。
-I will provide a transcript of the negotiations between members of our House.|我将提供一份与议会成员间的谈判记录。
-"YB: These abandoned tunnels are almost perfect for secret meetings and special cargo traffic, |“YB：遗弃隧道确实是秘密集会以及运输特殊货物的绝佳选择，
+we are considered dangerous due to the pathetic "Dependence" of other Houses on the supply of water, nectar, |但我们由于其他派系可悲地“依赖”着这些令人厌恶的
+energy, and void fluid by these disgusting man-made creatures devoid of life. |人造生命体所提供的水、神酒、能源以及虚空流体。
+Thanks to old maps and surveyors, we have a new meeting place |多亏了旧地图和测绘师，我们有了一处新的接头地点以及一条秘密运输特殊货物的渠道，
+and a way to discreetly transport special cargo, but it seems that this place continues to be dangerous for us. |即便如此这里对我们来说依旧十分危险。
+I will provide a transcript of the negotiations between members of our House. |我将提供一份与议会成员间的谈判记录。
+"YB: These abandoned tunnels are almost perfect for secret meetings and special cargo traffic, |‘YB：遗弃隧道确实是秘密集会以及运输特殊货物的绝佳选择，
 but there are a few problems. |但存在一些问题。
 They are located under a waste dump, and their infrastructure is in terrible condition, |此处位于垃圾填埋场下，而设施也状态极差，
 so frequent visits could lead to someone getting burried. |频繁造访可能会导致塌方事故。
 AB: However, the Iterators and ordinary citizens won't dare to venture there. |AB：然而，迭代器和普通的公民不太可能贸然进入这里。
-ST: Well, now we just need to find a weakness in the latest Iterator design to end the tyranny of these soulless machines.|ST：很好，那么我们只需要找出最新型迭代器设计中的一个漏洞就能终结这些无魂机器的统治。
+ST: Well, now we just need to find a weakness in the latest Iterator design to end the tyranny of these soulless machines. |ST：很好，那么我们只需要找出最新型迭代器设计中的一个漏洞就能终结这些无魂机器的统治。
 SF: Who currently has the blueprint? |SF：那谁掌握着蓝图？
 YB: The last time I heard about it was when it was in AG's possession. |YB:我最后一次听到是在AG的手上。
 AB: He was caught red-handed immediately after miraculously managing to pass the carrier to an unknown member of the House. |AB：他奇迹般将载体交给陌生议员后就被抓了正着。
-ST: I've heard rumors that it was too dangerous to leave the blueprint in the city, |ST：我听说将蓝图留在都市内太危险，而运输员当时正穿行在这些遗弃隧道内...”
-and the courier carrying the carrier was passing through these abandoned tunnels..." |由于金属巨兽的活动，我们能不被窥探的耳朵监听的会面<LINE>地点越来越少了，能考虑的时间也越来越少。
+ST: I've heard rumors that it was too dangerous to leave the blueprint in the city, |ST：我听说将蓝图留在都市内太危险，而运输员当时正穿行在这些遗弃隧道内...’
+and the courier carrying the carrier was passing through these abandoned tunnels..." |由于金属巨兽的活动，我们能不被窥探的耳朵监听的会面地点越来越少了，<LINE>能考虑的时间也越来越少。
 Due to the activities of the huge metal monsters, we have fewer and fewer places to meet|议会中可能存在间谍，因为我们的议会成员收到过错误信息,
 where we won't be overheard by prying ears, and less time to think. |说一名送货员携带着迭代器最新迭代的蓝图穿过了遗弃的管道系统，
-It's possible that there's a traitor in our House, as our Council members had false information that|而他们在就要被监视者抓个正着时碰巧“遗失”了载体，
+It's possible that there's a traitor in our House, as our Council members had false information that|而此人在就要被监视者抓个正着时碰巧“遗失”了载体，
 a courier carrying a blueprint for the latest iteration of the iterator had passed through an abandoned tunnel system, |然而当时，还没人知道遗弃管道中的秘密走私活动。
 even though they "lost" the carrier when they were almost caught by an overseer, |——此条信息每位议会成员都应知晓，但在传播时必须极其谨慎，
-and at that time, there was no idea of conducting secret activities in the abandoned sewers.|以免其他居民察觉到我们的活动，那样他们<LINE>会获得我们对迭代器的厌恶的确凿证据，甚至包括我们的部分计划。”
+and at that time, there was no idea of conducting secret activities in the abandoned sewers.|以免其他居民察觉到我们的活动，那样他们会获得我们对迭代器的<LINE>厌恶的确凿证据，甚至包括我们的部分计划。”
  - This data should be known to every member of the House, but it should be distributed with extreme caution, as if other residents learn about our activities, they will have irrefutable evidence of our dislike for Iterators and even part of our plans." Give this pearl to the scavengers or destroy it, but do not leave it here...|把这颗珍珠交给拾荒者或者摧毁它，无论如何不要把它留下……
 //0-LT_BUNT_PEARL
 ...|……
@@ -6695,7 +6695,7 @@ Though there were a few paths from my can to his, that one was a particular favo
 I did enjoy that material a bit back in those days, but my true association with that road was how,<LINE>after our creators left, Five Pebbles came to hate it. When I was still in contact with him,<LINE>I teased him about that quite alot~|当初，我确实也挺喜欢那些作品，不过，关于那条路让我真正铭记的事，还是在创造者们离开后，五块卵石开始讨厌它。<LINE>我还跟他有联系时，没少拿这个调侃他~
 There was even times where Moon interfered when he was getting a bit heated!|有时他急眼了，月姐还会出来打圆场呢！
 I do miss those days... But enough about that! To get this means you have been there yourself<LINE>and found it just as entertaining as they once did!|我很怀念那段日子……不过扯远啦！你能找到这东西，就说明<LINE>已经去过那儿了，而且和曾经的人们一样玩得很开心吧！
-I wonder what other silly adventures you may have gone on~|我真想知道你还经历了什么幼稚的冒险~
+I wonder what other silly adventures you may have gone on~|真想知道你还经历了什么幼稚的冒险~
 
 //3636877115
 propane.fastRegion-description|一个大型空中区域，每个房间都是赶工的。<LINE>请注意，部分房间可能存在地形造成的单行道、物品错位，及其他各类问题。<LINE>此模组的无限版将于2026年内发布。
@@ -6745,3 +6745,8 @@ This is a blueprint of a modification.|这是一张改造蓝图。
 What?<LINE>I don’t know what kind of structure this is.|但……我不清楚这是什么结构。
 In any case, the purpose of this modification is gas containment,<LINE>though I can’t say which specific gas.|总之，这个改造的目标是储存气体，<LINE>但我不知道是哪种气体。
 
+//3641559494
+powerplant-description|长久荒废的发电厂，已经被自然占领。食物和捕食者存在于地表，而地下则充满黑暗与危险。<LINE>连接烟囱天棚，海岸线，排水系统。
+Power Plant|发电厂
+Transmission Tower|输电塔
+The Basin|基部

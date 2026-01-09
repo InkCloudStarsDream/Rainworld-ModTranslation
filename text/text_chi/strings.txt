@@ -912,11 +912,11 @@ olaycolay.thevinki-description|扮演一只个性的青少年，穿着磨轨鞋�
 The Vinki|芬奇
 THE VINKI|芬奇
 Vinki|芬奇
-A daring athlete and adept of an ancient art form. You strive to make yourself known to this hostile land.\nIs your home here, or is this just another pile of steel and rubble?|一位胆大的运动健儿，同时精通古老的艺术形式。努力地想在这片充满敌意的土地上拼出点名气。<LINE>这里是你的家园，或仅仅是又一堆钢铁废墟？
+A daring athlete and adept of an ancient art form. You strive to make yourself known to this hostile land. Is your home here, or is this just another pile of steel and rubble?|一位胆大的运动健儿，同时精通古老的艺术形式。努力地想在这片充满敌意的土地上拼出名气。这里是你的家园，或仅仅是又一堆钢铁废墟？
 Five Pebbles (Research and Development)|五卵石（研究与建设）
 
 Hold (" + grind + ") while moving atop a horizontal beam or climbing a vertical pole to grind.|在水平杆上移动或爬上垂直杆时，按住"磨轨"以滑行。
-While grinding atop a horizontal beam, jump to execute a trick jump.|当在水平杆上滑行时，跳起来以做特技跳跃。
+While grinding atop a horizontal beam, jump to execute a trick jump.|当在水平杆上滑行时，按跳跃以做特技跳。
 hile grinding up a vertical pole, hold jump to trick jump off the top of the pole.|在打磨垂直杆的同时，保持跳跃，从杆顶上跳下。
 Hold (" + grind + ") while falling to catch a horizontal beam with your feet and continue grinding.|跌倒时按住“磨轨”以继续滑行。
 You can hold down to fall off a beam, then let go to catch another beam.|你可以按住“下”从一根横杆上掉下来，然后抓住另一根横杆。
@@ -927,7 +927,7 @@ Press (UpArrow + X) while carrying a Spray Can to spend a charge and spray graff
 You can also damage some creatures by spraying them.|你也可以通过喷涂来伤害一些生物。
 ... in a future update.|...在未来的更新中
 Access the Quest Map screen while hibernating to view hints of where to paint next.|在雨眠状态下查看任务地图，获取下一步绘制位置的提示
-The hologram-like visions show where you need to spray in order to pursue your goal.|全息图显示了你任务中而需要喷洒的地方
+The hologram-like visions show where you need to spray in order to pursue your goal.|全息图显示了你任务中需要喷涂的地方
 Some large pieces may require you to spray from multiple positions.|大块的画作可能需要从多个位置进行喷涂
 It appears that Five Pebbles might not tolerate your graffiti being anywhere near him. Search for better spots elsewhere.|看来五块卵石无法容忍你的涂鸦在他附近。去别处寻找更好的喷绘点
 
@@ -959,8 +959,8 @@ Maybe you could find some empty pearls outside of my chamber, or use something e
 Little creature. I asked you once, please do not use my pearls as painting supplies. Losing data is very unpleasant, please find other materials.|小生灵。我曾告诉过你，请不要用我的珍珠画画。丢失数据很不愉快，请你试试其他材料。
 Please stop destroying my data pearls. Find other materials.|请不要再破坏我的数据珍珠了。去找其他材料。
 As for what I was saying before you rudely interrupted me...|在你粗鲁地打断我之前，我说
-And what do we have here, on the once-pristine walls of my chamber?|你在我简洁的墙壁上画了什么?
-Is that ... scribble supposed to be me? Are those ... ears I'm wearing?|是我，和我戴的...耳朵?
+And what do we have here, on the once-pristine walls of my chamber?|你在我整洁的墙壁上画了什么?
+Is that ... scribble supposed to be me? Are those ... ears I'm wearing?|是我，还戴着...耳朵?
 I get the impression that you are proud of this, and I cannot understand why.|我不理解，你甚至为此洋洋得意。
 Is this really an accomplishment to celebrate? Terrorizing me with an atrocity like this?|有什么好高兴的? 你觉得你真吓到我了?
 Someone must have put you up to this. Was it No Significant Harassment? His name has always been considerably ironic.|一定是有人幕后指使。是无稽烦忧吗，他总是这么不长眼色。
@@ -1433,6 +1433,7 @@ THE MARINE|海洋
 Marine|海洋
 A carnivorus swimmer. Made for combat with its sharp teeth|食肉的游泳者，用它锋利的牙齿来战斗。
 Faraway Highlands|悠远高地
+Faraway Highland|悠远高地
 Flooded Cliffs|洪掩山崖
 Floral Hollow|繁花空谷
 Construction Yard|施工地

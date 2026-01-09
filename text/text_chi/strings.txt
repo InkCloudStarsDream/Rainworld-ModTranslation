@@ -908,11 +908,11 @@ fpexpansion-description|扩展了五卵石区域，增加了淋巴导管、原�
 Five Pebbles (Lymphatic System)|五卵石（淋巴系统）
 
 //3001275271
-olaycolay.thevinki-description|扮演一只个性的青少年，穿着磨轨鞋，在五块卵石上展现自己的风采。
+olaycolay.thevinki-description|扮演一只个性的青少年，穿着磨轨鞋，用到处喷涂的方式来报复五块卵石。
 The Vinki|芬奇
 THE VINKI|芬奇
 Vinki|芬奇
-Play as an angsty teen wearing rail-grinding shoes and spraying graffiti to enact revenge on 5P.|个性的青少年，穿着磨轨鞋，在五块卵石上展现自己的风采。
+A daring athlete and adept of an ancient art form. You strive to make yourself known to this hostile land.\nIs your home here, or is this just another pile of steel and rubble?|一位胆大的运动健儿，同时精通古老的艺术形式。努力地想在这片充满敌意的土地上拼出点名气。<LINE>这里是你的家园，或仅仅是又一堆钢铁废墟？
 Five Pebbles (Research and Development)|五卵石（研究与建设）
 
 Hold (" + grind + ") while moving atop a horizontal beam or climbing a vertical pole to grind.|在水平杆上移动或爬上垂直杆时，按住"磨轨"以滑行。
@@ -1427,34 +1427,35 @@ adventurer-description|这个模组不建议和其他区域模组一起启用，
 The Adventurer|冒险家
 THE ADVENTURER|冒险家
 Adventurer|冒险家
-Explore a new world!|探索美丽新世界！
+A quick explorer looking for a new home.|一位寻找着新家的迅捷探索者。
 The Marine|海洋
 THE MARINE|海洋
 Marine|海洋
-A carnivorus swimmer|肉食，水生。
-Edge Islands|边缘岛屿
-Retaining Wall|边界
+A carnivorus swimmer. Made for combat with its sharp teeth|食肉的游泳者，用它锋利的牙齿来战斗。
+Faraway Highlands|悠远高地
+Flooded Cliffs|洪掩山崖
 Floral Hollow|繁花空谷
+Construction Yard|施工地
 Garbage Disposal|垃圾处理场
-Shaded Tract|荫蔽土地
+Garbage Disposal Sector|废料处理部
+Inferior Disposal Sector|次级处理部
 Industrial Wastes|工业废墟
-Core|核心
-Outer Fields|外场
+Forgone Reactor|弃置反应堆
+Coolent Dump|冷却液泵
 Power Rail|能源线路
+Ruined Exterior|损毁外缘
 Tainted Supports|污染支架
 Corrupted Underbelly|腐蚀腹地
 Ruined Barrier|损毁屏障
 Railway|铁路
 Rotten Interior|腐化内部
-Rotten Interior (Cystic Memory Conflux)|腐化内部（囊性内存集成）
-Rotten Interior (Rotten Transform Array)|腐化内部（腐化传输阵列）
-8 Leaves Under Gold Rain (General Systems Bus)|八叶金雨（通用系统总线）
-Rotten Interior (The Source)|腐化内部（根源）
-8 Leaves Under Gold Rain (The Void Fluid Testing Area)|八叶金雨（虚空流体测试区）
+Glistening Rain|晶莹之雨
+Glistening Rain (Life Research Sector)|晶莹之雨（生命研究部）
+Glistening Rain (Rotten Power Storage)|晶莹之雨（腐化储能系统）
+Glistening Rain (General Reseach Core)|晶莹之雨（通用研究核心）
 Slug Home|蛞蝓之家
 Vacant Facility|空置设施
 Edge Of Adventure|冒险边缘
-Ruined Exterior|损毁外部
 
 //3046659892
 pu.theoutline-description|添加了外岸，一个连接着郊区和海岸线的长区域。这个区域在探索之外没什么可做的，不过可能在未来会添加内容。这个区域仍然未完成。
@@ -6746,7 +6747,7 @@ What?<LINE>I don’t know what kind of structure this is.|但……我不清楚�
 In any case, the purpose of this modification is gas containment,<LINE>though I can’t say which specific gas.|总之，这个改造的目标是储存气体，<LINE>但我不知道是哪种气体。
 
 //3641559494
-powerplant-description|长久荒废的发电厂，已经被自然占领。食物和捕食者存在于地表，而地下则充满黑暗与危险。<LINE>连接烟囱天棚，海岸线，排水系统。
+powerplant-description|长久荒废的发电厂，已经被自然占领。食物和捕食者存在于地表，而地下则充满黑暗与危险。连接烟囱天棚，海岸线，排水系统。
 Power Plant|发电厂
 Transmission Tower|输电塔
 The Basin|基部

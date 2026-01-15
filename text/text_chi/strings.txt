@@ -6752,3 +6752,12 @@ powerplant-description|长久荒废的发电厂，已经被自然占领。食物
 Power Plant|发电厂
 Transmission Tower|输电塔
 The Basin|基部
+
+//3642375288
+stonehead-description|我发布的首个区域——岩巷！<LINE>10个房间，11个屏幕。<LINE>基于喷泉（fountain）竞技场制作！
+Stoneheads|岩巷
+
+//3644655847
+fishy.SludgeTunnels-description|一个遍布涂鸦且锈迹斑斑的排污系统
+Sludge Tunnels|积淤隧道
+Frozen Sewers|结冻水道

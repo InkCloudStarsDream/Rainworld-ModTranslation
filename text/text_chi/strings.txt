@@ -6753,6 +6753,24 @@ Power Plant|发电厂
 Transmission Tower|输电塔
 The Basin|基部
 
+//3639710273
+hb.measurer-description|该模组是一个全新剧情线的测试版。整个剧情线只完成了一部分，后续会不断更新！
+The Measurer|衡量者
+THE MEASURER|衡量者
+A special being who sways the fate of such a great world.<LINE>There is no shortage of living in the wild,<LINE>but there is no time to delay because the only friend is waiting.|一个能左右这宏大世界命运的特殊存在。在野外的生活很富足，<LINE>但你不能拖延，因为唯一的朋友正在等待。
+
+Central Dogma|中心法则
+Struts|支柱
+Central Dogma (Short Circuits)|中心法则（短路组件）
+Central Dogma (Memory Conflux)|中心法则（内存阵列）
+Central Dogma (Central Nucleoli Bus)|中央核心总线
+Data Center|数据中心
+Sea of Information|信息之海
+Runway|过道
+Control Tower|控制塔
+Transport Hub|交通枢纽
+Submarine Tunnel|水底隧道
+
 //3642375288
 stonehead-description|我发布的首个区域——岩巷！<LINE>10个房间，11个屏幕。<LINE>基于喷泉（fountain）竞技场制作！
 Stoneheads|岩巷

@@ -6779,3 +6779,153 @@ Stoneheads|岩巷
 fishy.SludgeTunnels-description|一个遍布涂鸦且锈迹斑斑的排污系统
 Sludge Tunnels|积淤隧道
 Frozen Sewers|结冻水道
+
+//3556250701
+pain world
+PainWorld-description|为雨世界添加极其富有挑战的改变，包括：<LINE>腐化系统，指定某些生物变为腐化生物，<LINE>更频繁地触发预循环，<LINE>强化生物变异机制，<LINE>雨甸兼容，<LINE>配置菜单
+Core Settings|核心配置
+[ALL SETTINGS ARE LOCKED WHEN A CAMPAIGN IS ACTIVE]|【存档开启后所有配置都将锁定】
+Precycles trigger rain before the cycle starts.|预循环将在循环开始时引发降雨。
+Storms are intense rain and lightning events that occur during cycles.|风暴为在循环期间发生的伴随闪电的强降雨事件
+Precycle Chance|预循环概率
+Storm Chance|风暴概率
+Storm Intensity|风暴强度
+Debug|调试
+Open Debug Menu|打开调试界面
+
+Rot System|腐化系统
+[ROT SYSTEM DOES NOT AFFECT WATCHER CAMPAIGN]|【腐化系统不会影响观望者线】
+Region Rot|区域腐化
+Enable Region Rot|启用区域腐化
+Region Rot Settings|区域腐化选项
+Rot Increase Rate|腐化扩散速度
+% per cycle|% 每循环
+Rot Cap Amount|腐化上限
+Initial Rot Percentage|初始腐化率
+Creature Rot|生物腐化
+Rot Lizards|腐化蜥蜴
+Rot Centipedes|腐化蜈蚣
+Rot Vultures|腐化秃鹫
+Rot Scavengers|腐化拾荒者
+Rot Spiders|腐化狼蛛
+Rot Drop Bugs|腐化落网虫
+Rot Noodleflies|腐化面条蝇
+Balance Settings|平衡性设置
+Creature Rot Immunity Chance|生物免疫腐化概率
+Spawn Chances|生成概率
+Chance to spawn each type when creature rots|生物腐化时所生成的腐化物种类概率
+Daddy Long Legs Chance|蓝长腿菌概率
+Brother Long Legs Chance|黄长腿菌概率
+Terror Long Legs Chance|紫长腿菌概率
+
+VultureBuffChance|秃鹫强化概率
+KingVultureBuffChance|魔王秃鹫强化概率
+MirosVultureBuffChance|钢秃鹫强化概率
+Vulture Buff Chances|秃鹫强化概率
+Individual chances for each vulture variant to spawn as a buffed version.|每个秃鹫变种都有概率变为强化版本。
+Vulture
+King Vulture
+Miros Vulture
+
+SpiderBuffChance|小蜘蛛强化概率
+MotherSpiderBuffChance|蛛母强化概率
+BigSpiderBuffChance|狼蛛强化概率
+SpitterSpiderBuffChance|烈焰狼蛛强化概率
+Spider Buff Chances|蜘蛛强化概率
+Individual chances for each spider variant to spawn as a buffed version.|每个蜘蛛变种都有概率变为强化版本。
+Spider|小蜘蛛
+Big Spider
+Spitter Spider
+Mother Spider
+
+ScavengerBuffChance|拾荒者强化概率
+EliteScavengerBuffChance|精英拾荒者强化概率
+ScavengerKingBuffChance|拾荒者酋长强化概率
+ScavengerDiscipleBuffChance|拾荒者门徒强化概率
+ScavengerTemplarBuffChance|拾荒者圣堂武士强化概率
+Individual chances for each scavenger variant to spawn as a buffed version.|每个拾荒者变种都有概率变为强化版本。
+Scavenger Buff Chance|拾荒者
+Scavenger Buff Chances|拾荒者强化概率
+Elite Scavenger
+Scavenger King|拾荒者酋长
+Scavenger Disciple|拾荒者门徒
+Scavenger Templar|拾荒者圣堂武士
+
+PinkLizardBuffChance|粉蜥蜴强化概率
+GreenLizardBuffChance|绿蜥蜴强化概率
+BlueLizardBuffChance|蓝蜥蜴强化概率
+WhiteLizardBuffChance|白蜥蜴强化概率
+YellowLizardBuffChance|金蜥蜴强化概率
+BlackLizardBuffChance|黑蜥蜴强化概率
+CyanLizardBuffChance|青蜥蜴强化概率
+RedLizardBuffChance|烈焰蜥蜴强化概率
+TrainLizardBuffChance|火车蜥蜴强化概率
+SpitLizardBuffChance|焦糖蜥蜴强化概率
+EelLizardBuffChance|鳗蜥蜴强化概率
+SalamanderBuffChance|蝾螈强化概率
+StrawberryBuffChance|草莓蜥蜴强化概率
+IndigoLizardBuffChance|靛蓝蜥蜴强化概率
+BasiliskLizardBuffChance|蛇怪蜥蜴强化概率
+BlizzardLizardBuffChance|暴雪蜥蜴强化概率
+PeachLizardBuffChance|桃蜥蜴强化概率
+Lizard Buff Chances|蜥蜴强化概率
+Individual chances for each lizard variant to spawn as a buffed version.|每个蜥蜴变种都有概率变为强化版本。
+Pink Lizard
+Green Lizard
+Blue Lizard
+White Lizard
+Yellow Lizard
+Black Lizard
+Cyan Lizard
+Red Lizard
+Salamander
+Caramel Lizard
+Eel Lizard|鳗蜥蜴
+Train Lizard
+Strawberry Lizard|草莓蜥蜴
+Indigo Lizard
+Basilisk Lizard
+Blizzard Lizard
+Peach Lizard|桃蜥蜴
+
+CentipedeBuffChance|蜈蚣强化概率
+RedCentipedeBuffChance|烈焰蜈蚣强化概率
+CentiwingBuffChance|飞蜈蚣强化概率
+AquaCentipedeBuffChance|水蜈蚣强化概率
+Centipede Buff Chances|蜈蚣强化概率
+Individual chances for each centipede variant to spawn as a buffed version.|每个蜈蚣变种都有概率变为强化版本。
+Centipede
+Red Centipede
+Centiwing
+Aquapede
+
+Total Centipede Buff Chance|蜈蚣总强化概率
+Total Centipede buff chance|蜈蚣总强化概率
+Total Vulture Buff Chance|秃鹫总强化概率
+Total Vulture buff chance|秃鹫总强化概率
+Total Spider Buff Chance|蜘蛛总强化概率
+Total Spider buff chance|蜘蛛总强化概率
+Total Scavenger Buff Chance|拾荒者总强化概率
+Total Scavenger buff chance|拾荒者总强化概率
+Total Lizard Buff Chance|蜥蜴总强化概率
+Total Lizard buff chance|蜥蜴总强化概率
+Centipede Options|蜈蚣配置
+Vulture Options|秃鹫配置
+Spider Options|蜘蛛配置
+Scavenger Options|拾荒者配置
+Lizard Options|蜥蜴配置
+Chance for Centipede creatures to be replaced with stronger variants.|蜈蚣生物进化为强化变体的概率。
+Chance for Vulture creatures to be replaced with stronger variants.|秃鹫生物进化为强化变体的概率。
+Chance for Spider creatures to be replaced with stronger variants.|蜘蛛生物进化为强化变体的概率。
+Chance for Scavenger creatures to be replaced with stronger variants.|拾荒者生物进化为强化变体的概率。
+Chance for Lizard creatures to be replaced with stronger variants.|蜥蜴生物进化为强化变体的概率。
+
+//2950327774
+Revivify
+revivify-description|无论是否在联机中，都可以复活蛞蝓猫和猫崽！<LINE>将你的朋友平放在坚固地面上，并有节奏地每秒按“拾取”键两下将他们复活。<LINE>去鬼门关走一遭非常折磨，所以复活后请善待他们。<LINE><LINE>可配置。封面由twitter.com/GarbageWastes提供，<LINE>可在github.com/Dual-Iron/revivify查询代码。
+by Dual|由Dual制作
+Revive speed multiplier|复活速度倍率
+Deaths until exhaustion|复活后疲惫
+Deaths until slugpups become comatose|复活后蛞蝓猫幼崽陷入昏迷
+Deaths until slugpups permanently expire|蛞蝓猫幼崽仅可复活一次
+Time until bodies expire, in minutes|可复活窗口期（以分钟为单位）

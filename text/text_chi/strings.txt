@@ -6775,11 +6775,6 @@ Submarine Tunnel|水底隧道
 stonehead-description|我发布的首个区域——岩巷！<LINE>10个房间，11个屏幕。<LINE>基于喷泉（fountain）竞技场制作！
 Stoneheads|岩巷
 
-//3644655847
-fishy.SludgeTunnels-description|一个遍布涂鸦且锈迹斑斑的排污系统
-Sludge Tunnels|积淤隧道
-Frozen Sewers|结冻水道
-
 //3556250701
 pain world
 PainWorld-description|为雨世界添加极其富有挑战的改变，包括：<LINE>腐化系统，指定某些生物变为腐化生物，<LINE>更频繁地触发预循环，<LINE>强化生物变异机制，<LINE>雨甸兼容，<LINE>配置菜单
@@ -6929,3 +6924,9 @@ Deaths until exhaustion|复活后疲惫
 Deaths until slugpups become comatose|复活后蛞蝓猫幼崽陷入昏迷
 Deaths until slugpups permanently expire|蛞蝓猫幼崽仅可复活一次
 Time until bodies expire, in minutes|可复活窗口期（以分钟为单位）
+
+//3650821893
+dinstallation-description|一个很小的区域，到处都是垃圾和傻乎乎的蜥蜴。
+Derelict Installation|弃置设施
+You Aren't Mean't to Be Here|你不该在这儿
+Here it is|这里是

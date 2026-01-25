@@ -6920,7 +6920,7 @@ Echo Leviathan|回响利维坦
 Fat Fire Fly|烈焰鹫
 Glowpillar|荧光柱形虫
 Hazer Mom|大墨鱼
-Hoverfly|食蚜蝇
+Hoverfly|大眼蝇
 Hunter Seeker|白青蜥蜴
 Jelly Long Legs|果冻长腿菌
 Killerpillar|柱形虫

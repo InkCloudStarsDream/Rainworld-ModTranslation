@@ -2291,45 +2291,6 @@ Ground Spikes|地刺
 Pouncing and other movement techniques spawn two spikes where the player stood before jumping.|使用蓄力跳等其他跳跃技巧时，起跳处将生成三枚尖刺。
 Explosive Damage|爆炸伤害
 Your attacks explode!|你的攻击产生了爆炸！
-Water Spitter|射水蜥蜴
-Mole Salamander|盲蝾螈
-Gecko|波动蜥蜴
-Echo Leviathan|回响利维坦
-Hunter Seeker|白青蜥蜴
-Maraca Spider|爆鳞响蛛
-Baby Croaker|小黄蜥蜴
-Jelly Long Legs|果冻长腿菌
-Mini Leviathan|迷你利维坦
-Bigrub|大型管虫
-Thorn Bug|棘刺虫
-Water Blob|活泡水果
-Silver Lizard|银蜥蜴
-Hoverfly|食蚜蝇
-Bouncing Ball|爆弹龟
-Blizzor|雪钢鸟
-Fat Fire Fly|烈焰鹫
-Bombardier Vulture|爆鳞鹫
-Drain Mites|水道螨
-Reaper Lizard|南瓜蜥蜴
-Scroungers|行乞者
-Scutigera|钢蜈蚣
-Noodle Eater|食面蜥蜴
-Polliwog|紫蝾螈
-Sporantula|孢子狼蛛
-Surface Swimmer|水黾
-Red Horror Centipede|烈焰飞蜈蚣
-Udonfly|乌冬面蝇
-Mosquitos|蚊子
-Angry Mosquitos|怒蚊
-Exploding Mosquitos|爆炸蚊
-Fog Vulture|雾隐鹫
-Gray Lizard|灰蜥蜴
-Sea Drake|海龙
-Walker Beast|雨龙
-Bubble Weaver|气泡编蛛
-Sapphiric Weaver|蓝宝石编蛛
-Fanged Lizard|毒牙蜥蜴
-Great Fanged Lizard|巨型毒牙蜥蜴
 
 //3311812030
 //The M4rblelous Entity Pack
@@ -6775,6 +6736,11 @@ Submarine Tunnel|水底隧道
 stonehead-description|我发布的首个区域——岩巷！<LINE>10个房间，11个屏幕。<LINE>基于喷泉（fountain）竞技场制作！
 Stoneheads|岩巷
 
+//3644655847
+fishy.SludgeTunnels-description|一个遍布涂鸦且锈迹斑斑的排污系统
+Sludge Tunnels|积淤隧道
+Frozen Sewers|结冻水道
+
 //3556250701
 pain world
 PainWorld-description|为雨世界添加极其富有挑战的改变，包括：<LINE>腐化系统，指定某些生物变为腐化生物，<LINE>更频繁地触发预循环，<LINE>强化生物变异机制，<LINE>雨甸兼容，<LINE>配置菜单
@@ -6930,3 +6896,128 @@ dinstallation-description|一个很小的区域，到处都是垃圾和傻乎乎
 Derelict Installation|弃置设施
 You Aren't Mean't to Be Here|你不该在这儿
 Here it is|这里是
+
+//3466492305
+More Flora
+t1ws.moreflora-description|为模组区域增加了一些新的可使用的实体。<LINE>本模组用于区域模组的依赖项，不会在本体区域内产生新实体。
+//WalnutPiece
+This is a walnut! A long time ago, they were thought to bring good luck.|这是一颗核桃！很久以前，它们被认为可以带来好运。
+//DepthsFruit
+Ah... This is a bug pupa, but there are traces of void fluid inside, so the interior is partially dissolved<LINE>while the shell remains mostly intact. It's almost as fascinating as it is disturbing.|啊...这是一枚虫蛹，但内部有一些虚空流体的痕迹，<LINE>因此内部部分溶解而外壳仍旧保持完好。它既令人着迷又如此令人不安。
+The concentration is low enough that you won't accomplish anything by eating it, but it still contains enough<LINE>void fluid that doing so would not be pleasant. Now, would you please take it somewhere else?|其虚空流体的浓度很低，你就算吃下它也不会产生效果，<LINE>但它仍然含有足以让你感到不适的虚空液体。<LINE>现在，能请你把它带到别处去吗？
+
+///生物名称///
+//The M4rblelous Entity Pack
+Alpha Orange Lizard|金青蜥蜴
+Bigrub|大型管虫
+Blizzor|雪钢鸟
+Bouncing Ball|爆弹龟
+Chip Chop|窃食虫
+Common Eel|钢嘴鳗
+Denture|捕兽夹
+Diving Beetle|龙虱
+Echo Leviathan|回响利维坦
+Fat Fire Fly|烈焰鹫
+Glowpillar|荧光柱形虫
+Hazer Mom|大墨鱼
+Hoverfly|食蚜蝇
+Hunter Seeker|白青蜥蜴
+Jelly Long Legs|果冻长腿菌
+Killerpillar|柱形虫
+Mama Bug|蛋母虫
+Mini Black Leech|小黑水蛭
+Mini Echo Leviathan|迷你回响利维坦
+Mini Leviathan|迷你利维坦
+Mini Scutigera|小钢蜈蚣
+Mole Salamander|盲蝾螈
+Noodle Eater|食面蜥蜴
+Polliwog|紫蝾螈
+Red Horror Centipede|烈焰飞蜈蚣
+Scavenger Sentinel|拾荒者哨兵
+Scutigera|钢蜈蚣
+Seed Bat|芽蝠
+Silver Lizard|银蜥蜴
+Spark Eye|烈焰钢鸟
+Sporantula|孢子狼蛛
+Surface Swimmer|水黾
+Tailfly|长尾蝇
+Thorn Bug|棘刺虫
+Water Blob|活泡水果
+Tinted Beetle|鞭炮虫
+Water Spitter|射水蜥蜴
+xylo|木囊虫巢
+Xylo Worm|木囊虫
+
+//Luminous Code Stuff
+Teuthicada|电乌贼
+
+//Parascutigera
+Parascutigera|铁蚰蜒
+
+//Bubble Weavers
+Bubble Weaver|气泡编蛛
+Sapphiric Weaver|蓝宝石编蛛
+
+//Rain World: Deluge
+Craybug|小虾虫
+Creamsicle|奶棒蜥蜴
+Creamsicle Egg|奶棒蜥蜴蛋
+
+//Moss Fields
+Udonfly|乌冬面蝇
+
+//Weakened Platform
+Purple Wing|紫飞蜈蚣
+
+//Corrosive Geysers
+Acidic Hopping Salamander|酸泳蝾螈
+
+//Jousts
+Jousts|刺喙鹫
+
+//Bombardier Vulture
+Bombardier Vulture|爆鳞鹫
+
+//Drain Mites
+Drain Mites|水道螨
+
+//Reaper Lizard
+Reaper Lizard|南瓜蜥蜴
+
+//the scroungers（已下架）
+Scroungers|行乞者
+
+//Mosquitos
+Mosquitos|蚊子
+Angry Mosquitos|怒蚊
+Exploding Mosquitos|爆炸蚊
+
+//Shrouded Assembly Code 
+Fog Vulture|雾藻鹫
+Gecko|波动蜥蜴
+Maraca Spider|爆鳞响蛛
+Baby Croaker|小黄蜥蜴
+
+//Drought
+Gray Lizard|灰蜥蜴
+Sea Drake|海龙
+Walker Beast|雨龙
+
+//Fanged Terrors
+Fanged Lizard|毒牙蜥蜴
+Great Fanged Lizard|巨型毒牙蜥蜴
+
+//3449167349
+Archdruid's Additions
+archdruidbookwalter.archdruidsadditions-description|为雨世界的生态系统添加了一大堆神秘元素。
+//ScarletFlowerBulb
+This is the spore-releasing bulb of a mycelial root network.<LINE>My creators used to call it Monksweed, as it frustrated them to no end whenever it managed to grow inside their old temples and monasteries.<LINE>The roots can extend for miles below the surface, and are nearly impossible to remove once they infect an area.|这是某种菌丝体释放孢子的球茎。<LINE>我的创造者曾称它们为僧侣草，他们会因为发现它们在古寺和修道院中扎了根而极度沮丧。<LINE>它们的根能在地下蔓延数英里，感染了它们的区域几乎无法复原。
+Some believed the spores could make you hear strange whispers, or give you visions of the past and future if you inhaled them.<LINE>I don't know how true those rumors were, but I would be extremely careful with this if I were you.|传言说这些孢子会让你听到诡异的低语声，若你吸入它们则会看见过去与未来的幻象。<LINE>我并不确定这些传言的真实性，但如果是我的话，我会小心对待它们。
+//ParrySword
+Oh, what a curious find, <PLAYERNAME>... This weapon was once the personal item of one of my long-departed creators.<LINE>Its purpose was for self-defence, as its curved design and superior durability enables it to absorb and deflect blows from superior opponents.|哦！多么少见的发现，<PLAYERNAME>...这把武器曾是我早已离世的创造者之一的私人物品。<LINE>初衷是为了自卫，弯曲的设计和卓越的耐用性使它可以吸收并偏转强烈打击。
+You see, my creators believed that violence was the most base and unforgivable of all vices. Conflict was rare but not unheard of,<LINE>and so weapons like these were made to protect important persons from harm without comitting such harm in return.|如你所见，我的创造者坚信暴力是最为卑劣且不可饶恕的恶行。<LINE>冲突虽然少见但并不是完全不可能发生，<LINE>因此这种武器被制造出来用于保护重要人物免受伤害且不会造成反击伤害。
+This one was even equipped with a primitive AI module, to prevent it from being used for evil I assume.<LINE>It must trust you, if you were able to touch it and bring it all the way here. Perhaps it considers you its new wielder, even.|这一把甚至配备了初级人工智能程序，我猜是避免武器被用于作恶。<LINE>而你能接触它并将它一路带到这里，那它一定信任着你。<LINE>甚至可能已经将你认作新主人了。
+//Potato
+This is just a plant... What else is there to say about it? I suppose the roots look edible enough for you to eat.|这只是一株植物...我还能补充点什么呢？看起来你可以食用这些根茎。
+//Bow
+It's a bow, made from scavenged materials. The design is primitive,<LINE>but I assume it must be effective enough to be useful to you, <PLAYERNAME>.|这是一把弓，由废弃材料制成。设计十分原始，<LINE>但我认为对你来说已经够用了，<PLAYERNAME>。

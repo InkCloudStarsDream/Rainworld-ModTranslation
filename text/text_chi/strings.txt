@@ -6909,44 +6909,71 @@ The concentration is low enough that you won't accomplish anything by eating it,
 ///生物名称///
 //The M4rblelous Entity Pack
 Alpha Orange Lizard|金青蜥蜴
+AlphaOrange|金青蜥蜴
 Bigrub|大型管虫
 Blizzor|雪钢鸟
 Bouncing Ball|爆弹龟
+BouncingBall|爆弹龟
 Chip Chop|窃食虫
+ChipChop|窃食虫
 Common Eel|钢嘴鳗
+CommonEel|钢嘴鳗
 Denture|捕兽夹
 Diving Beetle|龙虱
+DivingBeetle|龙虱
 Echo Leviathan|回响利维坦
+FlyingBigEel|回响利维坦
 Fat Fire Fly|烈焰鹫
+FatFireFly|烈焰鹫
 Glowpillar|荧光柱形虫
 Hazer Mom|大墨鱼
+HazerMom|大墨鱼
 Hoverfly|大眼蝇
 Hunter Seeker|白青蜥蜴
+HunterSeeker|白青蜥蜴
 Jelly Long Legs|果冻长腿菌
 Killerpillar|柱形虫
 Mama Bug|蛋母虫
+MamaBug|蛋母虫
 Mini Black Leech|小黑水蛭
+MiniBlackLeech|小黑水蛭
 Mini Echo Leviathan|迷你回响利维坦
+MiniFlyingBigEel|迷你回响利维坦
 Mini Leviathan|迷你利维坦
+MiniLeviathan|迷你利维坦
 Mini Scutigera|小钢蜈蚣
+MiniScutigera|小钢蜈蚣
 Mole Salamander|盲蝾螈
+MoleSalamander|盲蝾螈
 Noodle Eater|食面蜥蜴
+NoodleEater|食面蜥蜴
 Polliwog|紫蝾螈
 Red Horror Centipede|烈焰飞蜈蚣
+RedHorrorCenti|烈焰飞蜈蚣
 Scavenger Sentinel|拾荒者哨兵
+ScavengerSentinel|拾荒者哨兵
 Scutigera|钢蜈蚣
 Seed Bat|芽蝠
 Silver Lizard|银蜥蜴
+SilverLizard|银蜥蜴
 Spark Eye|烈焰钢鸟
+SparkEye|烈焰钢鸟
 Sporantula|孢子狼蛛
 Surface Swimmer|水黾
+SurfaceSwimmer|水黾
 Tailfly|长尾蝇
 Thorn Bug|棘刺虫
+ThornBug|棘刺虫
 Water Blob|活泡水果
+WaterBlob|活泡水果
 Tinted Beetle|鞭炮虫
+TintedBeetle|鞭炮虫
 Water Spitter|射水蜥蜴
+WaterSpitter|射水蜥蜴
 xylo|木囊虫巢
+Xylo|木囊虫巢
 Xylo Worm|木囊虫
+XyloWorm|木囊虫
 
 //Luminous Code Stuff
 Teuthicada|电乌贼
@@ -7007,6 +7034,16 @@ Walker Beast|雨龙
 Fanged Lizard|毒牙蜥蜴
 Great Fanged Lizard|巨型毒牙蜥蜴
 
+//生物名称补充
+HunterDaddy|红长腿菌
+TowerCrab|塔蟹
+TrainLizard|火车蜥蜴
+PebblesPearl|五块卵石的珍珠
+VoidSpawn|虚空游魂
+RippleSpawn|涟漪游魂
+HRGuard|魔方节点守卫
+Germinator
+
 //3449167349
 Archdruid's Additions
 archdruidbookwalter.archdruidsadditions-description|为雨世界的生态系统添加了一大堆神秘元素。
@@ -7021,3 +7058,68 @@ This one was even equipped with a primitive AI module, to prevent it from being 
 This is just a plant... What else is there to say about it? I suppose the roots look edible enough for you to eat.|这只是一株植物...我还能补充点什么呢？看起来你可以食用这些根茎。
 //Bow
 It's a bow, made from scavenged materials. The design is primitive,<LINE>but I assume it must be effective enough to be useful to you, <PLAYERNAME>.|这是一把弓，由废弃材料制成。设计十分原始，<LINE>但我认为对你来说已经够用了，<PLAYERNAME>。
+
+//3651693609
+Verdant Forest|翠绿森林
+Treetop|树冠
+（和Hot Roots（3413539281）冲突，名称保留为“根部”）
+Roots
+Decaying Stump|朽木残桩
+
+//2924212543
+Keep That Away From Me
+keepthatawayfromme-description|在不损坏存档的前提下，禁用游戏内被选择的特定实体。
+Creatures|生物
+Creature List|生物列表
+BAN|禁用
+Presets|预设
+Toggle many types at once with Presets|使用预设快速禁用对应种类
+Objects|物品
+Object List|物品列表
+Banned <Preset>|禁用 <Preset>
+Reenabled <Preset>|启用 <Preset>
+All Creatures|所有生物
+Toggle All Creatures|禁用所有生物
+all Creatures|所有生物
+Arachnophobia|蜘蛛恐惧症
+Toggle All Spiders (Big and Small)|禁用所有蜘蛛（无论大小）
+all Spiders|所有蜘蛛
+Scolopendrphobia|蜈蚣恐惧症
+Toggle All Centipedes|禁用所有蜈蚣
+all Centipedes and Centiwings|所有蜈蚣和飞蜈蚣
+Entomophobia|昆虫恐惧症
+Toggle All Bugs (Excluding Spiders and Centipedes)|禁用所有昆虫(不包括蜘蛛和蜈蚣)
+all Bugs (except Spiders and Centipedes) and Noodleflies|所有昆虫(不包括蜘蛛和蜈蚣)和面条蝇
+Herpetophobia|爬虫恐惧症
+Toggle All Lizards|禁用所有蜥蜴
+all Lizards and Salamanders|所有蜥蜴和蝾螈
+Ornithophobia|鸟类恐惧症
+Toggle All Birds|禁用所有鸟类
+all Vultures and Miros|所有秃鹫和钢鸟
+Bdellophobia|水蛭恐惧症
+Toggle All Leeches|禁用所有水蛭（应该根本不存在“水蛭恐惧症”这种单词...）
+all Leeches|所有水蛭
+Pithecophobia|猿类恐惧症
+Toggle All Scavengers|禁用所有拾荒者
+all Scavengers|所有拾荒者
+Seplophobia|腐殖质恐惧症
+Toggle All Daddies|禁用所有腐化物（不包括腐化蜥蜴）
+all Daddies|所有腐化物
+All Items|所有物品
+Toggle All Items|禁用所有物品
+all Items|所有物品
+Weapons|武器
+Toggle All Damaging Weapons|禁用所有攻击性武器
+Rock, Spear and Bomb|石头、长矛和炸弹
+Pearls|珍珠
+Toggle All Pearls|禁用所有珍珠
+Data Pearls and Pebbles' Pearls|无色珍珠和五块卵石的珍珠
+Plants|植物
+Toggle All Unedible Plants|禁用所有无法食用的植物
+all Unedible Plants|所有无法食用的植物
+Crops|食物
+Toggle All Edible Crops|禁用所有食物
+all Edible Crops|所有食物
+ban-artificer-softlock-warning|警告！<LINE><LINE>禁用拾荒者将导致工匠线软锁定。
+ban-spearmaster-softlock-warning|警告！<LINE><LINE>禁用长矛将导致矛大师线软锁定。
+ban-gourmand-endinglock-warning|警告！<LINE><LINE>你无法在此配置下完成饕餮的食谱任务。

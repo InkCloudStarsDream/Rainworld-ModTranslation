@@ -6495,3 +6495,8 @@ ban-artificer-softlock-warning|警告！<LINE><LINE>禁用拾荒者将导致工�
 ban-spearmaster-softlock-warning|警告！<LINE><LINE>禁用长矛将导致矛大师线软锁定。
 ban-gourmand-endinglock-warning|警告！<LINE><LINE>你无法在此配置下完成饕餮的食谱任务。
 
+
+//3654423803
+gluttonyslugcat-description|他的暴饮暴食使我作呕。<LINE>我制作了这个模组，因为我想它会变得非常有趣且富有挑战性。<LINE>lvuk具有200点饱食度，并且需要100点才能雨眠，当然他也有一些能力。<LINE>这是一个玩笑模组，不要太当真。<LINE感谢RiTiKiN提供美术部分。
+Goodluck, you will need it.|祝你好运，你会需要它的。
+Really?<LINE>Goodluck with it lol.|真假？<LINE>祝你好运哈哈哈哈哈哈哈。

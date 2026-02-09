@@ -14,13 +14,12 @@
 
 本模组目前支持简体中文和西班牙语，
 如果你想协助我们进行翻译或做出建议，
-请在QQ群内联系我们:@墨色烟云,@实验喵
-QQ群号：690841592（欢迎加入以反馈意见）
-或在Discord上联系我:@MoseYanyun
+请在QQ群内联系我们，QQ群号：690841592（欢迎加入以反馈意见）
+或在Discord上联系我们:@Wings Echo, @havenoideawhatismyname
 
 本模组的非steam安装在这里：https://github.com/InkCloudStarsDream/Rainworld-ModTranslation
 
-贡献者：@墨色烟云，@实验喵，@Celen，@方糖冰猫，@zbiotr，@Wings Echo，@havenoideawhatismyname, @Tragulari
+贡献者：@墨色烟云，@实验喵，@Celen，@方糖冰猫，@zbiotr，@Wings Echo，@havenoideawhatismyname, @XuanZeBuFen, @Tragulari, @yuze
 
 ——————————————————————————
 

@@ -3217,6 +3217,10 @@ We have a tie!<LINE>Press the button in the bingo HUD to end the bingo session f
 We have a tie!<LINE>Press the button in the bingo HUD or abandon the save to end the bingo session.|打成平局！<LINE>请点击Bingo界面中的按钮，或放弃保存以结束这场bingo游戏。
 We have a tie!<LINE>Exit the game and abandon the save or wait for host to end the session.|打成平局！<LINE>请等待房主结束游戏或者退出游戏。
 
+//3445475815
+It's a can of Five Pebbsi. It is a drink that was popular with our citizens.|这是一罐五石可乐，一种深受我们市民喜爱的饮料。
+I'm not sure if I would drink it if I were you, <PlayerName>. It's not good for you.|<PlayerName>，我要是你的话，我不一定会选择喝它。这对你不好。
+
 //3448525198
 overgrowth-description|介绍你的模组！
 LOST SOUL|迷失灵魂

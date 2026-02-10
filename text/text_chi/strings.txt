@@ -6510,3 +6510,87 @@ ban-gourmand-endinglock-warning|警告！<LINE><LINE>你无法在此配置下完
 gluttonyslugcat-description|他的暴饮暴食使我作呕。<LINE>我制作了这个模组，因为我想它会变得非常有趣且富有挑战性。<LINE>lvuk具有200点饱食度，并且需要100点才能雨眠，当然他也有一些能力。<LINE>这是一个玩笑模组，不要太当真。<LINE感谢RiTiKiN提供美术部分。
 Goodluck, you will need it.|祝你好运，你会需要它的。
 Really?<LINE>Goodluck with it lol.|真假？<LINE>祝你好运哈哈哈哈哈哈哈。
+
+//3661415453
+TOTO_FonabA-description|本模组增加了4/5个新区域（一个区域为圣猫线专属），入口位于地下，房间号为SB_A04。
+Forgotten Urban|遗忘都市
+Forgotten Urban (Save Zone)|遗忘都市（安全区）
+The Exterior
+Main Foundation|主要地基结构
+Outer Lands|外域
+Outer Foundation|外部地基
+Railway Line|轨道线
+Rain Lands|落雨僻壤
+Overgrown Railway Line|荒杂轨道
+Observer|静默观测
+Observer (Memory Conflux)|静默观测（内存集成）
+Observer (General System Bus)|静默观测（通用系统总线）
+Observer (Experiment Section)|静默观测（实验区）
+Observer (Simulation Section)|静默观测（模拟区）
+The Exterior
+
+//迭代器对话
+//AfterGiveMark
+Little creature in my chamber.|在我演算室里的小生物。
+I have no idea why you're here.|我不清楚你是怎么来到这的。
+Are you here because of the changing environment?<LINE>Or something other?|你出现在这里是因为剧变的环境，<LINE>还是另有隐情？
+But i cant help you.|但我帮不了你。
+I can only give you one advice.|我只能为你指条明路。
+On the top of my superstructure.|在我的巨构顶端。
+You can find a new safe place.<LINE>Place, where no rain, more food and less dangers.|你能找到一处新的安全区域——<LINE>一个没有暴雨，威胁不多且食物充足的地方。
+//greetings
+I'm sorry, but I need to work.<LINE>Please leave.|很抱歉，但我得继续工作了。<LINE>麻烦离开。
+//hitByWeapon
+What are you doing?|你在做什么？
+//tofu_pearl_blueprint
+This pearl have blueprint of superstructure.<LINE>This structure is very different from ours.|这是巨构的蓝图。<LINE>这台巨构的结构与我们的大相径庭。
+It contains 4 parts:|它有4个部分：
+1 - The main foundation: is what supports the superstructure, and it also receives water from the depths.|1 - 主要地基结构：支撑着整个巨构的部分，并从地下获取水源。
+2 - The main superstructure is almost the same as ours|2 - 巨构主体与我们的基本相同
+3 - A just city, but located inside superstructure,|3 - 一个相似的都市，但位于巨构内部，
+4 - At the top of the superstructure, there are communication arrays.|4 - 在巨构顶端设有通讯阵列。
+I only remember that these superstructure were very far away.....|我只记得这些巨构距离这里非常遥远.....
+//tomf_pearl_broadcast
+Oh... Its recording the broadcast:|噢...这是录制的广播：
+Live broadcast || Observer, Three-Phase Cube|即时广播 - 静默观测，三相立方
+TPC: Hey, are you okay? We got a emergy message from your automatic system.|三相立方：喂！你还好吗？我们收到了由你的自动系统发送的紧急信息
+TPC: ...|三相立方：...
+TPC: I dont know, if you can read or answer this.|三相立方：我不知道你是否能收到或回答我。
+TPC: But if you can... Know, we already try help you.|三相立方：但如果你能...收到的话，我们已经在试图帮助你了。
+TPC: I believe: we can.|三相立方：我相信——我们能做得到。
+//tomf_pearl_scanners
+This pearl have information about a scanners?|这是关于扫描仪的信息？
+I never hear about this..... or maybe i just forget?<LINE>However.....|我从未听说过……或许只是我忘记了？<LINE>但是……
+These scanners work autonomously, collecting information about the condition of the structure.|这些扫描仪是自主运行的，用于收集巨构结构信息。
+I have no idea where these scanners were used.|我对它们被用于哪处结构没有一点头绪。
+//toto_pearl_broadcast
+Its a recording the broadcast.<LINE>Wait.....|这是录制的广播。<LINE>稍等……
+Live broadcast [Local Group] || Observer, Three-Phase Cube, Seven Color Sands|即时广播 - 【本地群组】：静默观测，三相立方，七色琉沙
+O: Finally, i will working!|静默观测：终于，我恢复功能了！
+O: Oh... How many time i been disabled?|静默观测：哦……我失去意识了多久？
+TPC: A lot of time...|三相立方：很久……
+SCS: And we still need working.|七色琉沙：而且我们还得工作。
+O: Of course.|静默观测：那是当然。
+I dont remember these iterators.....|我不认识这些迭代器……
+//tool_pearl_emergency_message
+Oh, this pearl include a message, but some information have been corrupted:|哦，这颗珍珠包含一条讯息，但部分信息已损坏：
+Automatic sending to [Local Group] || Include: Automatic System[Observer], Three-Phase Cube, Seven Color Sands|自动发送至【本地群组】 - 组员：自动系统【静默观测】，三相立方，七色琉沙
+AS[O]: Attention!|自动系统【静默观测】：注意！
+AS[O]: Emergency Message!|自动系统【静默观测】：紧急信息！
+AS[O]: Switching all systems to hibernation mode.|自动系统【静默观测】：所有系统切换为休眠模式。
+AS[O]: A manual restart is required.|自动系统【静默观测】：需要手动重启。
+AS[O]: End of message.|自动系统【静默观测】：结束通讯。
+//toto_pearl_1
+Oh..... I'm sorry, but this pearl is encrypted.<LINE>I cant tell you anything.|噢……抱歉，这颗珍珠被加密了。我无法告诉你任何信息。
+//toto_pearl_2
+There a lot of strange information in this pearl.<LINE>Sorry, but its not useful to us.|上面有大量奇怪的信息。抱歉，这对我们都没有帮助。
+//toto_pearl_3
+Oh, I'm sorry, but I have no idea what that means.....|哦，我不明白这颗珍珠上写的是什么，为此我很抱歉……
+//toto_pearl_4
+There a lot of information, but unfortunately, all this information is encrypted.|上面有非常多的信息，但……很不幸，所有的信息都被加密了。
+//toto_pearl_5
+This pearl was used recently.<LINE>But unfortunately, I can't say anything more.|这颗珍珠最近被使用过。<LINE>但很遗憾，我无法告诉你更多信息了。
+//toto_pearl_6
+Oh..... Wait, maybe if.....<LINE>Oh, I'm sorry, but I can't read this pearl for you.|哦……等等，或许……<LINE>呃，很抱歉，我读不了这颗珍珠。
+//toto_pearl_7
+Oh, there not much information in this pearl.<LINE>Just a few pictures.|哦，这颗珍珠上并没有多少内容。<LINE>只有一些图片。

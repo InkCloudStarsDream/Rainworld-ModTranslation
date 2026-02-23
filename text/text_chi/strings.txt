@@ -6601,3 +6601,9 @@ This pearl was used recently.<LINE>But unfortunately, I can't say anything more.
 Oh..... Wait, maybe if.....<LINE>Oh, I'm sorry, but I can't read this pearl for you.|哦……等等，或许……<LINE>呃，很抱歉，我读不了这颗珍珠。
 //toto_pearl_7
 Oh, there not much information in this pearl.<LINE>Just a few pictures.|哦，这颗珍珠上并没有多少内容。<LINE>只有一些图片。
+
+//3671762222
+RWDS.MDW_Demo-description|此模组是一个正在推进的企划“雨世界: 废墟”的演示版本，该项目旨在创造一个具有独特环境和战役的世界。我们的团队还在力求吸纳新人的加入。若要了解更多信息，请在Youtube搜索"Rain World: Desolation".
+Meadows|草甸
+Crumbling Aquifer|崩塌岩层
+First Communications Center|第一通讯阵列

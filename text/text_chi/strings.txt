@@ -6629,6 +6629,8 @@ First Communications Center|第一通讯阵列
 //3675586153
 randomspace-description|在垃圾堆的一处不起眼的小丘下，隐藏着通往未知区域的道路。<LINE>每个房间都各不相同，有很多值得一看的风景！<LINE>添加了超过500+不同屏幕供随意探索。
 The Jumblezone|拼接区
+you are not worthy of these cycles|你不配拥有这些循环
+uhhhhh|呃.....
 
 //3676544700
 Anthill-description|探索一个没什么特别的填充区域，没有自定义生物，但有蝗虫、淤泥还有大把的尘土，并没有蚂蚁。<LINE>特别感谢ItzThe_Blu制作了威胁音乐，<LINE>以及Patoma帮助处理地图与打磨区域。

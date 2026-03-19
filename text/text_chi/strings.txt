@@ -3153,6 +3153,60 @@ THE SCRAP|破碎
 Scrap|破碎
 A garble of metal scrap gathered by a particularly large neuron fly.|由神经元所簇集的一团金属。
 
+//3218324331
+industrialsupplement-description| 
+STAR complex|星核区
+Reactor complex|反应区
+Reactor AI|反应堆AI
+Reactor|反应堆
+Reactor vains|反应堆冷却管
+Reactor core|反应堆核心
+Industrial supplement|工业附区
+STARcomplex|星核区
+Metal Tomb|锻钢陵墓
+Air circulation vents|循环通风管
+Carnivorous roots|嗜血根须
+MT Reservoir|万吨储水库
+Neldriamer|四海之滨
+Connected region not jet build. use shortcut right of gate to get back|连接区域未完成。使用业力门右侧快捷通道返回。
+Note: Do not exit the stabilety field generator. Beyond it rest's my broken realety.|备注：请不要离开稳定场区域生成器。它背后是我破碎的现实。
+This region is unfinished and will be changed a lot. explore on your own risk.|此区域未完成且后续会极大变动。自行探索需承担风险。
+Warning you are about to enter or exit a unstabel region. this region is still a work in progress.|警告：你即将进入\离开一个不稳定区域。此区域还在施工中。
+?¦¬Æ¨:Approace and i shall take u back to your timeline.|?¦¬Æ¨：靠近我，我会送你返回你的时间线。
+?¦¬Æ¨:Your path of revenge does not lie within this place.|?¦¬Æ¨：你的复仇之路不在此处。
+?¦¬Æ¨:U strayed Far from your intended path small creature.|?¦¬Æ¨：你已严重偏离你原本的道路，小生物。
+?¦¬Æ¨:¿.|?¦¬Æ¨：¿
+?¦¬Æ¨:Approace and i will take u somwhere better than here.|?¦¬Æ¨：靠近我，我会送你去一个更好的地方。
+?¦¬Æ¨:I am unable to see your origional timeline.|?¦¬Æ¨：我无法找到你原本的时间线。
+?¦¬Æ¨:U strayed Far from your intended path creature.|?¦¬Æ¨：你已严重偏离你原本的道路，生物。
+?¦¬Æ¨:Find what u are seeking.|?¦¬Æ¨：去找到你所寻觅之物。
+?¦¬Æ¨:I wish u luck on your journey.|?¦¬Æ¨：我祝你一路顺风。
+?¦¬Æ¨:The Gate no longer exists in this relm.|?¦¬Æ¨：我无法在这个幻境里打开道路。
+?¦¬Æ¨:This place is to unstabel.|?¦¬Æ¨：此地很不稳定。
+?¦¬Æ¨:I have to disappoint u.|?¦¬Æ¨：我要让你失望了。
+?¦¬Æ¨:... Arent we all.|?¦¬Æ¨：...不是吗。
+?¦¬Æ¨:It looks like you are looking for somthing.|?¦¬Æ¨：你似乎在寻找什么。
+?¦¬Æ¨:Greetings strange creature.|?¦¬Æ¨：向你问好，奇怪的生物。
+?¦¬Æ¨:Approace and i shall take u to one who can help extend your time.|?¦¬Æ¨：靠近我，我将带你去找能为你延长时间的存在。
+?¦¬Æ¨:Your mission is not possible to be compleated here.|?¦¬Æ¨：你的使命无法在此完成。
+?¦¬Æ¨:Your sickness grows, limiting your time.|?¦¬Æ¨：你的病情日益严重，你的时日无多。
+?¦¬Æ¨:I advise u to return.|?¦¬Æ¨：我建议你回去。
+?¦¬Æ¨:Seek the one whom require's your assistance.|?¦¬Æ¨：去找到那个需要你帮助的存在。
+?¦¬Æ¨:Approace and i shall take u back to your snow covered timeline.|?¦¬Æ¨：靠近我，我会送你返回你那被白雪覆盖的时间线。
+?¦¬Æ¨:I shall not intervene in your struggle.|?¦¬Æ¨：我不会干预你的苦修。
+?¦¬Æ¨:Return to your intended path.|?¦¬Æ¨：返回你既定的道路。
+?¦¬Æ¨:U strayed Far from your intended path unchaind anomaly|?¦¬Æ¨：你已严重偏离你原本的道路，被释放的异常。
+?¦¬Æ¨:Approace and i shall take u back to your timeline|?¦¬Æ¨：靠近我，我会送你返回你的时间线。
+?¦¬Æ¨:The still need u to accomplish there delivery.|你还有讯息需要送达。
+?¦¬Æ¨:U strayed Far from your intended path messanger.|?¦¬Æ¨：你已严重偏离你原本的道路，信使。
+?¦¬Æ¨:The one u seek is not here.|?¦¬Æ¨：你所寻觅的存在不在此处。
+?¦¬Æ¨:When u are ready to go, Approche and i shall sent u back|?¦¬Æ¨：你准备好离开时，靠近我，我会送你回去。
+?¦¬Æ¨:I Shall open the way back.|?¦¬Æ¨：我会替你开辟回去的道路。
+?¦¬Æ¨:If u are not abel to do so.|?¦¬Æ¨：如果你无力完成。
+?¦¬Æ¨:Use your gift to return if possible.|?¦¬Æ¨：如果可以，请利用你的能力返回。
+?¦¬Æ¨:This instance is unstable.|?¦¬Æ¨：这里很不稳定。
+?¦¬Æ¨:Greetings traveler.|?¦¬Æ¨：向你问好，旅行者。
+
 //3220144154
 darkpipework-description|我用1.5小时做了这个区域，它非常成功。
 Dark Pipework|暗夜导管

@@ -1989,6 +1989,71 @@ THE IMPULSE|天枢
 Impulse|天枢
 Able to teleport short distances by expending bursts of energy; <LINE> your electricity-infused body invites you to venture to where the walls glow...|能够通过消耗能量爆发进行短距离传送。<LINE>你充满电的身体邀请你冒险去墙壁发光的地方...
 
+//3031575620
+Slugpup Safari
+yeliah.slugpupFieldtrip-description|蛞蝓猫猫崽生活质量与漏洞修复版本！
+Main Config|主设置
+Keep Item Config|拾取设置
+Creature Immunities|生物免疫
+Item Passing|传递物品
+Slugpup Safari Options|猫崽堆叠选项
+Pup Throw Protection|猫崽投掷保护
+(Piggybacked slugpups must be moved to your hand in order to throw them)|（猫崽仅在牵手时被投掷）
+Allow Backspear|允许背矛
+(Piggybacked slugpups will put their spear on their back)|（被背起的猫崽会将矛背在它们背后）
+Pup Impact Immunity|猫崽摔落免疫
+(Piggybacked slugpups are immune to fall damage)|（猫崽被背起时免疫摔落伤害）
+Artificer Parry Protection|工匠线格挡保护
+(Prevent piggybacked slugpups from being launched by artificer's parry)|（保护背起的猫崽免受工匠格挡产生的爆炸冲击）
+Release Vines|骨矛释放
+(Force slugpups to release vines when piggybacked)|（允许背着猫崽时正常制造骨矛）
+Stun Protection|眩晕保护
+(Slugpups won't fall off of stunned players and stunned pups can be piggybacked)|（玩家被眩晕时不会放下背上的猫崽，被眩晕的猫崽可以被背起）
+Killzone Protection|坠亡保护
+(Piggybacked slugcats will not die if out of bounds)|（背起的猫崽不会死于无底深渊）
+Infinite Stacking|无限堆叠
+(Max if disabled)|（禁用时最大值）
+Campaign Specific|特殊剧情保护
+Rivulet Drowning Immunity|溪流线溺水保护
+(Slugpups cannot drown in Rivulet's campaign)|（猫崽不会在溪流线时溺水）
+Artificer Explosion Immunity|工匠线爆炸保护
+(Slugpups resist explosions in Artificer's campaign)|（猫崽在工匠线时免疫爆炸伤害）
+Slugpup Grab Options|猫崽拾取设置
+Keep Items on Pickup|背起时保留物品
+(Allow slugpups to keep holding their item when picked up by the player)|（允许猫崽在被玩家背起后保留它们拾取的物品）
+Allow Grabbing Food|允许拾取食物
+(Allow slugpups to grab food while piggybacked)|（允许猫崽被背起时抓取食物）
+Allow Grabbing Noodleflies|允许拾取面条蝇
+Allow Grabbing Centipedes|允许拾取蜈蚣
+(Slugpups cannot eat when you are moving, so be careful)|（猫崽无法在你移动时吃东西，所以注意一点）
+Allow Grabbing Tardigrades|允许拾取水熊虫
+(Only Applicable if Watcher is Enabled)|（仅在启用观望者DLC后有效）
+Allow Grabbing Five Pebble's Neurons|允许拾取五块卵石的神经元
+(Neurons outside of Five Pebbles are always forbidden)|（猫崽仅在五块卵石区域内会拾取神经元）
+Allow Grabbing Mushrooms|允许拾取迷幻菇
+Allow Grabbing Karma Flowers|允许拾取业力花
+Allow Dropping Items|允许放弃物品
+(Slugpups will drop items in their hands to pick up food)|（猫崽会为了拾取食物而放下物品）
+Creature Protection Options|生物保护选项
+Leech Protection|免疫水蛭
+(Leeches will not target piggybacked slugpups)|（水蛭无法抓住被背起的猫崽）
+Coalescipede Protection|免疫小蜘蛛
+(Coalescipedes will not target piggybacked slugpups)|（小蜘蛛无法抓住被背起的猫崽）
+Miros Bird Protection|免疫钢鸟
+(Miros Birds will not bite piggybacked slugpups)|（钢鸟无法抓住被背起的猫崽）
+Controls|键位
+Item Passing|物品传递
+(Allow passing items up and down the stack)|（允许物品在堆叠的猫崽间上下传递）
+Move Player Items|移动玩家物品
+(When disabled piggybacked players will be skipped)|（禁用时背起猫崽的玩家无法传递物品给猫崽）
+Keyboard|键盘
+Pass Up|向上
+Pass Down|向下
+Controller|手柄
+Silliness|玩笑设置
+Big Brain Mode|大头模式
+(Double's the size of your slugpup's head for maximum brainage)|（为了获得最佳的智力开发效果将猫崽的脑袋大小增加两倍）
+
 //3032862920
 lurzard.pitchblack-description|增加了两个新的战役灯塔和电狂，爬行于一个垂死世界的夜晚。揭开这个世界隐藏的秘密，拼凑出支离破碎的故事。
 The Beacon|灯塔
@@ -5105,7 +5170,7 @@ Bow|弓
 CactusFruit|仙人掌果
 CactusSpear|仙人掌矛
 Cattail|芦苇
-ColoiredLantern|有色灯笼
+ColoredLantern|有色灯笼
 Lillypad|睡莲叶
 IceCube|冰块
 //More Flora

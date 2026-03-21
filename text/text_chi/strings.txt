@@ -3154,6 +3154,61 @@ THE SCRAP|破碎
 Scrap|破碎
 A garble of metal scrap gathered by a particularly large neuron fly.|由神经元所簇集的一团金属。
 
+//3218324331
+industrialsupplement-description| 
+STAR complex|星核区
+Reactor complex|反应区
+Reactor AI|反应堆AI
+Reactor|反应堆
+Reactor vains|反应堆冷却管
+Reactor core|反应堆核心
+Industrial supplement|工业附区
+STARcomplex|星核区
+Metal Tomb|锻钢陵墓
+Air circulation vents|循环通风管
+Carnivorous roots|嗜血根须
+MT Reservoir|万吨储水库
+Neldriamer|四海之滨
+Connected region not jet build. use shortcut right of gate to get back|连接区域未完成。使用业力门右侧快捷通道返回。
+Note: Do not exit the stabilety field generator. Beyond it rest's my broken realety.|备注：请不要离开稳定场区域生成器。它背后是我破碎的现实。
+This region is unfinished and will be changed a lot. explore on your own risk.|此区域未完成且后续会极大变动。自行探索需承担风险。
+Warning you are about to enter or exit a unstabel region. this region is still a work in progress.|警告：你即将进入\离开一个不稳定区域。此区域还在施工中。
+?¦¬Æ¨:Approace and i shall take u back to your timeline.|?¦¬Æ¨：靠近我，我会送你返回你的时间线。
+?¦¬Æ¨:Your path of revenge does not lie within this place.|?¦¬Æ¨：你的复仇之路不在此处。
+?¦¬Æ¨:U strayed Far from your intended path small creature.|?¦¬Æ¨：你已严重偏离你原本的道路，小生物。
+?¦¬Æ¨:¿.|?¦¬Æ¨：¿
+?¦¬Æ¨:Approace and i will take u somwhere better than here.|?¦¬Æ¨：靠近我，我会送你去一个更好的地方。
+?¦¬Æ¨:I am unable to see your origional timeline.|?¦¬Æ¨：我无法找到你原本的时间线。
+?¦¬Æ¨:U strayed Far from your intended path creature.|?¦¬Æ¨：你已严重偏离你原本的道路，生物。
+?¦¬Æ¨:Find what u are seeking.|?¦¬Æ¨：去找到你所寻觅之物。
+?¦¬Æ¨:I wish u luck on your journey.|?¦¬Æ¨：我祝你一路顺风。
+?¦¬Æ¨:The Gate no longer exists in this relm.|?¦¬Æ¨：我无法在这个幻境里打开道路。
+?¦¬Æ¨:This place is to unstabel.|?¦¬Æ¨：此地很不稳定。
+?¦¬Æ¨:I have to disappoint u.|?¦¬Æ¨：我要让你失望了。
+?¦¬Æ¨:... Arent we all.|?¦¬Æ¨：...不是吗。
+?¦¬Æ¨:It looks like you are looking for somthing.|?¦¬Æ¨：你似乎在寻找什么。
+?¦¬Æ¨:Greetings strange creature.|?¦¬Æ¨：向你问好，奇怪的生物。
+?¦¬Æ¨:Approace and i shall take u to one who can help extend your time.|?¦¬Æ¨：靠近我，我将带你去找能为你延长时间的存在。
+?¦¬Æ¨:Your mission is not possible to be compleated here.|?¦¬Æ¨：你的使命无法在此完成。
+?¦¬Æ¨:Your sickness grows, limiting your time.|?¦¬Æ¨：你的病情日益严重，你的时日无多。
+?¦¬Æ¨:I advise u to return.|?¦¬Æ¨：我建议你回去。
+?¦¬Æ¨:Seek the one whom require's your assistance.|?¦¬Æ¨：去找到那个需要你帮助的存在。
+?¦¬Æ¨:Approace and i shall take u back to your snow covered timeline.|?¦¬Æ¨：靠近我，我会送你返回你那被白雪覆盖的时间线。
+?¦¬Æ¨:I shall not intervene in your struggle.|?¦¬Æ¨：我不会干预你的苦修。
+?¦¬Æ¨:Return to your intended path.|?¦¬Æ¨：返回你既定的道路。
+?¦¬Æ¨:U strayed Far from your intended path unchaind anomaly|?¦¬Æ¨：你已严重偏离你原本的道路，被释放的异常。
+?¦¬Æ¨:Approace and i shall take u back to your timeline|?¦¬Æ¨：靠近我，我会送你返回你的时间线。
+?¦¬Æ¨:The still need u to accomplish there delivery.|你还有讯息需要送达。
+?¦¬Æ¨:U strayed Far from your intended path messanger.|?¦¬Æ¨：你已严重偏离你原本的道路，信使。
+?¦¬Æ¨:The one u seek is not here.|?¦¬Æ¨：你所寻觅的存在不在此处。
+?¦¬Æ¨:When u are ready to go, Approche and i shall sent u back|?¦¬Æ¨：你准备好离开时，靠近我，我会送你回去。
+?¦¬Æ¨:I Shall open the way back.|?¦¬Æ¨：我会替你开辟回去的道路。
+?¦¬Æ¨:If u are not abel to do so.|?¦¬Æ¨：如果你无力完成。
+?¦¬Æ¨:Use your gift to return if possible.|?¦¬Æ¨：如果可以，请利用你的能力返回。
+?¦¬Æ¨:i advise u to return.|?¦¬Æ¨：我建议你返回。
+?¦¬Æ¨:This instance is unstable.|?¦¬Æ¨：这里很不稳定。
+?¦¬Æ¨:Greetings traveler.|?¦¬Æ¨：向你问好，旅行者。
+
 //3220144154
 darkpipework-description|我用1.5小时做了这个区域，它非常成功。
 Dark Pipework|暗夜导管
@@ -4138,8 +4193,8 @@ Desolate Foundry|荒凉铸厂
 The Boiler|锅炉
 bird.|丸辣。
 Temperate Crevice|温热裂隙
-Watch out,2the steam could be dangerous|小心，蒸汽很危险
-Watch out,..................................................................................................................................|小心，..................................................................................................................................
+Watch out, the steam could be dangerous|小心，蒸汽很危险
+Watch out, ..................................................................................................................................|小心，..................................................................................................................................
 This water is boiling. You should probably know that isnt safe.|这片水域是沸腾的。你应该知道那并不安全。
 This water is water. duh. whats 19 +10? "21?" you stupid.|这水可真水。嗯...19+10是多少？“21?”你真是个笨蛋。
 
@@ -5028,6 +5083,51 @@ Rock|石头
 Rocks|石头
 Any Weapon|任意武器
 
+//mod物品【没处放了就这了吧，放一起挺好的】
+CWOracleSwarmer|追逐清风的神经元
+CWPearl|追逐清风的珍珠
+SpikeTip|尖刺
+//Shrouded Assembly Code
+PureCrystal|绿晶果
+RockFruit|波动坚果
+BigGoldenPearl|巨型金色珍珠
+CustomBigPearl|巨型珍珠
+MaracaDart|爆鳞镖
+//Eroded Refinery
+SaltPuff|盐泡
+Salt Puff|盐泡
+//Archdruid's Additions
+ScarletFlowerBulb|绯红球茎
+ParrySword|格挡剑
+Potato|土豆
+Bow|弓
+//Floodwaters Utilities (FWUtils)
+CactusFruit|仙人掌果
+CactusSpear|仙人掌矛
+Cattail|芦苇
+ColoiredLantern|有色灯笼
+Lillypad|睡莲叶
+IceCube|冰块
+//More Flora
+WalnutShell|核桃壳
+WalnutPiece|核桃
+DepthsFruit|深渊蓝果
+//Random Code Stuff
+SingularitySpear|奇点矛
+OPSingularitySpear|牛批的奇点矛
+OPOPSingularitySpear|十分牛批的奇点矛
+BrokenDrone|损坏的公民无人机
+MovingObject|移动物体
+//CN Community Gallery Code Stuff
+APPearl|净尘天枢的珍珠
+StorageCard|存储卡
+DroneEnergyCell|无人机电池
+//Mo Yu Shuang
+MoYuShuang|魔芋爽
+QueYaChi|缺牙齿
+//Saint's Outer Expanse 2.0
+OESphereItem|OE 植物球
+
 //代币
 <region> Arenas|<region>竞技场
 <region> Safari|<region>观览
@@ -5454,6 +5554,7 @@ Acidic Hopping Salamander|酸泳蝾螈
 
 //Jousts
 Jousts|刺喙鹫
+Joust|刺喙鹫
 
 //Bombardier Vulture
 Bombardier Vulture|爆鳞鹫
@@ -5488,6 +5589,10 @@ Walker Beast|雨龙
 //Fanged Terrors
 Fanged Lizard|毒牙蜥蜴
 Great Fanged Lizard|巨型毒牙蜥蜴
+
+//Archdruid's Additions
+Cloudfish|云鱼
+CloudFish|云鱼
 
 //生物名称补充
 HunterDaddy|红长腿菌
@@ -7003,57 +7108,14 @@ Repository|仓储区
 the_rainy_facility-description|你好！我需要你的帮助，没错就是你！<LINE>我需要有人来帮忙游玩这个仍在开发中的模组区域。并告诉我应该添加什么或者需要修改什么，<LINE>请提出建设性意见。综上，我将对你讲讲我的区域概况。<LINE>我急需测试员！<LINE><LINE>房间：39/100<LINE>屏幕数：129<LINE>拾荒者收费站：1<LINE>拾荒者商贩：1<LINE>庇护所：4<LINE>业力门：1<LINE>这个模组稍微有点玩笑模组的意思，所以玩起来可能有点受苦。<LINE>业力门位于SU_C04。<LINE><LINE>本模组很大程度上受到了另一个模组区域“边漠巴士”（desert bus）的启发。<LINE>https://steamcommunity.com/sharedfiles/filedetails/?id=3314840317&searchtext=bus
 The Rainy Facility|天谴之地
 
-//3218324331
-industrialsupplement-description| 
-STAR complex|星核区
-Reactor complex|反应区
-Reactor AI|反应堆AI
-Reactor|反应堆
-Reactor vains|反应堆冷却管
-Reactor core|反应堆核心
-Industrial supplement|工业附区
-STARcomplex|星核区
-Metal Tomb|锻钢陵墓
-Air circulation vents|循环通风管
-Carnivorous roots|嗜血根须
-MT Reservoir|万吨储水库
-Neldriamer|四海之滨
-Connected region not jet build. use shortcut right of gate to get back|连接区域未完成。使用业力门右侧快捷通道返回。
-Note: Do not exit the stabilety field generator. Beyond it rest's my broken realety.|备注：请不要离开稳定场区域生成器。它背后是我破碎的现实。
-This region is unfinished and will be changed a lot. explore on your own risk.|此区域未完成且后续会极大变动。自行探索需承担风险。
-Warning you are about to enter or exit a unstabel region. this region is still a work in progress.|警告：你即将进入\离开一个不稳定区域。此区域还在施工中。
-?¦¬Æ¨:Approace and i shall take u back to your timeline.|?¦¬Æ¨：靠近我，我会送你返回你的时间线。
-?¦¬Æ¨:Your path of revenge does not lie within this place.|?¦¬Æ¨：你的复仇之路不在此处。
-?¦¬Æ¨:U strayed Far from your intended path small creature.|?¦¬Æ¨：你已严重偏离你原本的道路，小生物。
-?¦¬Æ¨:¿.|?¦¬Æ¨：¿
-?¦¬Æ¨:Approace and i will take u somwhere better than here.|?¦¬Æ¨：靠近我，我会送你去一个更好的地方。
-?¦¬Æ¨:I am unable to see your origional timeline.|?¦¬Æ¨：我无法找到你原本的时间线。
-?¦¬Æ¨:U strayed Far from your intended path creature.|?¦¬Æ¨：你已严重偏离你原本的道路，生物。
-?¦¬Æ¨:Find what u are seeking.|?¦¬Æ¨：去找到你所寻觅之物。
-?¦¬Æ¨:I wish u luck on your journey.|?¦¬Æ¨：我祝你一路顺风。
-?¦¬Æ¨:The Gate no longer exists in this relm.|?¦¬Æ¨：我无法在这个幻境里打开道路。
-?¦¬Æ¨:This place is to unstabel.|?¦¬Æ¨：此地很不稳定。
-?¦¬Æ¨:I have to disappoint u.|?¦¬Æ¨：我要让你失望了。
-?¦¬Æ¨:... Arent we all.|?¦¬Æ¨：...不是吗。
-?¦¬Æ¨:It looks like you are looking for somthing.|?¦¬Æ¨：你似乎在寻找什么。
-?¦¬Æ¨:Greetings strange creature.|?¦¬Æ¨：向你问好，奇怪的生物。
-?¦¬Æ¨:Approace and i shall take u to one who can help extend your time.|?¦¬Æ¨：靠近我，我将带你去找能为你延长时间的存在。
-?¦¬Æ¨:Your mission is not possible to be compleated here.|?¦¬Æ¨：你的使命无法在此完成。
-?¦¬Æ¨:Your sickness grows, limiting your time.|?¦¬Æ¨：你的病情日益严重，你的时日无多。
-?¦¬Æ¨:I advise u to return.|?¦¬Æ¨：我建议你回去。
-?¦¬Æ¨:Seek the one whom require's your assistance.|?¦¬Æ¨：去找到那个需要你帮助的存在。
-?¦¬Æ¨:Approace and i shall take u back to your snow covered timeline.|?¦¬Æ¨：靠近我，我会送你返回你那被白雪覆盖的时间线。
-?¦¬Æ¨:I shall not intervene in your struggle.|?¦¬Æ¨：我不会干预你的苦修。
-?¦¬Æ¨:Return to your intended path.|?¦¬Æ¨：返回你既定的道路。
-?¦¬Æ¨:U strayed Far from your intended path unchaind anomaly|?¦¬Æ¨：你已严重偏离你原本的道路，被释放的异常。
-?¦¬Æ¨:Approace and i shall take u back to your timeline|?¦¬Æ¨：靠近我，我会送你返回你的时间线。
-?¦¬Æ¨:The still need u to accomplish there delivery.|你还有讯息需要送达。
-?¦¬Æ¨:U strayed Far from your intended path messanger.|?¦¬Æ¨：你已严重偏离你原本的道路，信使。
-?¦¬Æ¨:The one u seek is not here.|?¦¬Æ¨：你所寻觅的存在不在此处。
-?¦¬Æ¨:When u are ready to go, Approche and i shall sent u back|?¦¬Æ¨：你准备好离开时，靠近我，我会送你回去。
-?¦¬Æ¨:I Shall open the way back.|?¦¬Æ¨：我会替你开辟回去的道路。
-?¦¬Æ¨:If u are not abel to do so.|?¦¬Æ¨：如果你无力完成。
-?¦¬Æ¨:Use your gift to return if possible.|?¦¬Æ¨：如果可以，请利用你的能力返回。
-?¦¬Æ¨:i advise u to return.|?¦¬Æ¨：我建议你返回。
-?¦¬Æ¨:This instance is unstable.|?¦¬Æ¨：这里很不稳定。
-?¦¬Æ¨:Greetings traveler.|?¦¬Æ¨：向你问好，旅行者。
+//3685428384
+infestedcorals-description|可水下呼吸的区域的点子是我一次做梦梦到的。<LINE>本模组尚处于早期开发阶段，但你可以去随便看看。<LINE>入口位于SL_E03。推荐使用Warp Menu。<LINE><LINE>欢迎反馈！
+Infested Corals|侵染珊瑚礁
+
+//3687374577
+styxnstonez.motherscug-description|一个由胶带、胶水、希望和梦想拼起来的模组。<LINE>很想进一步拓展，但我需要程序员的帮助。
+The Mother|慈母
+Lost in a world soon to take you with it. Your journey will be one of<LINE>choices and consequences. Keep your closest treasures with you before you soon depart.|迷失在一个即将与你一同消逝的世界。你的旅程将充满选择<LINE>带来的因果。即将启程前，请将你最珍视的事物带在你身边。
+
+//3687604637
+Eventide_two-description|对薄暮群屿【Eventide】的失败重置。<LINE>大部分房间需要Warp Menu进入，但还有部分房间完成度够高可以正常进入。<LINE>业力门和中转房间在天空群岛，能至少到达2个房间。<LINE>封面图由我绘制，我对这张图很满意。

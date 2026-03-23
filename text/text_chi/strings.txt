@@ -7179,14 +7179,15 @@ Infested Corals|侵染珊瑚礁
 
 //3687374577
 styxnstonez.motherscug-description|一个由胶带、胶水、希望和梦想拼起来的模组。<LINE>很想进一步拓展，但我需要程序员的帮助。
-The Mother|慈母
+The Mother|母亲
+THE MOTHER|母亲
 Lost in a world soon to take you with it. Your journey will be one of<LINE>choices and consequences. Keep your closest treasures with you before you soon depart.|迷失在一个即将与你一同消逝的世界。你的旅程将充满选择<LINE>带来的因果。即将启程前，请将你最珍视的事物带在你身边。
 
 //3687604637
 Eventide_two-description|对薄暮群屿【Eventide】的失败重置。<LINE>大部分房间需要Warp Menu进入，但还有部分房间完成度够高可以正常进入。<LINE>业力门和中转房间在天空群岛，能至少到达2个房间。<LINE>封面图由我绘制，我对这张图很满意。
 
 //3690097247
-mudpools-description|泥腿子模组
-Mud Pools|泥浆池
+mudpools-description|泥浆风味模组
+Mud Pools|泥沼
 Beyond Reach|旧日通路
-Mud Pools, Nuclear Roots|泥浆池，核能根源
+Mud Pools, Nuclear Roots|泥沼（核能根源）

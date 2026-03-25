@@ -1623,7 +1623,7 @@ Especially considering that you had to spend enough time near all of those dange
 Due to the nature of this art piece... I suppose you already know of their weakness to harsh light? I'm glad it helped you get past them safely.|由于这件艺术品的性质...我想你已经知道强光是它们的弱点了吧?我很高兴它帮你安全通过了它们。
 Do you know the meaning of the symbol you just painted?|你知道你刚刚画的那个符号是什么意思吗?
 Do not encourage them further.|不要再鼓励它们了。
-Did you know that the small oval plates over their back are as heavy and strong as metal?|你知道吗，它们背上的小椭圆形盘子像金属一样又重又结实?
+Did you know that the small oval plates over their back are as heavy and strong as metal?|你知道吗？它们背上的小椭圆形盘子像金属一样又重又结实。
 Did you know about it when you painted it?|你画的时候知道吗?
 Despite looking like plants, they are actually beehives, full of incredibly aggressive insects that will attack any nearby creature.|尽管看起来像植物，但它们实际上是蜂巢，里面充满了攻击性极强的昆虫，会攻击附近的任何生物。
 Come back next cycle, and I will have it done by then.|下个循环再来，到时候我会把它做完的。
@@ -5320,8 +5320,10 @@ The Reservior|水库
 easternexpanse-description|五块卵石之下，向东，在古老建筑下方隐藏着一处荒原。<LINE>探索野外沼泽，河流侵蚀的潮汐<LINE>踏上旅途，将过往印象甩在身后。
 Dark Caves|晦暗洞窟
 Eastern Expanse|东向广域
+Tenebrous Caverns|幽暗洞系
 Flooded Nest|浸湿巢穴
 Weathered Lake|风化湖泊
+Verdurous Barricade|翠屏
 New Home|新家
 Wilden Swamps|荒滩沼泽
 Hillside|山坡
@@ -7128,7 +7130,7 @@ antn.drippingtime-description|请输入文本。
 Windowed|窗口
 WINDOWED|窗口
 The Windowed|窗口
-A curious amphibius creature that fell through the cracks in the cycle.|一只满怀好奇的两栖生物，落入了循坏的裂隙中。
+A curious amphibius creature that fell through the cracks in the cycle.|一只满怀好奇的两栖生物，落入了循环的裂隙中。
 
 //3666395433
 dietpebsi.boiler-description|请输入文本
@@ -7191,3 +7193,16 @@ mudpools-description|泥浆风味模组
 Mud Pools|泥沼
 Beyond Reach|旧日通路
 Mud Pools, Nuclear Roots|泥沼（核能根源）
+Nuclear Roots|核能根源
+
+//3691684929
+nineteen-description|你想玩那种已损坏的模组吗？恭喜你下对了！这个模组有一堆制作蹩脚的区域、奇怪的竞技场，此外就没什么了，整体风格比原版游戏更像素化，反正真够古怪的！顺便一说没有地图，祝你玩得开心！
+The Outer Rim (I made this before watcher lol) |边缘界域（我在观望者出来前就做的哈哈哈）
+Western Sewers|西部水道
+Hazy Meadow|朦胧草甸
+Acidic Pipeline|酸性管道
+Ruined Atoll|荒败环礁
+Docking Station H14|对接站H14
+The Walker|行客
+THE WAILKER|行客
+This dude walks|这家伙在行

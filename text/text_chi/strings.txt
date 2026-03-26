@@ -7204,5 +7204,6 @@ Acidic Pipeline|酸性管道
 Ruined Atoll|荒败环礁
 Docking Station H14|对接站H14
 The Walker|行客
-THE WAILKER|行客
+Walker|行客
+THE WALKER|行客
 This dude walks|这家伙在行

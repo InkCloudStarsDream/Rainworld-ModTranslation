@@ -3211,6 +3211,19 @@ Rusted Basin|锈蚀湾流
 Gloomy Marshland|阴郁泽滩
 The Undergrowth|地底密林
 Heart of the Jungle|密林核心
+Matriarch's lung capacity has been temporarily extended, but the abilities of your slugpups will also help with underwater navigation.|族长的肺活量暂时延长了，你的猫崽的能力也有助于水下导航。
+It is highly recommended to continue right to the WIP tutorial area.|强烈建议继续进入未完成的教程区域。
+This update only adds some of the abilities we have planned, there will be more to come :3|本次更新仅添加了我们计划中的能力，后续还有更多内容加入 :3
+Your children are also your comrades in this expedition. They are much more capable than normal slugpups (WIP).|你的猫崽也是这次探险中的伙伴。它们比普通的猫崽能力强得多（未完成）。
+It is still highly recommended to have the Slugpup Safari mod installed and enabled to assist with the jankiness of slugpups.|仍然强烈建议安装Slugpup Safari模组并使用猫崽的辅助功能。
+This tutorial area is incomplete, but for now it will help with learning about your black slugpup, the Pyromaniac.|这个教程尚未完成，但现在有助于帮助你理解黑色猫崽——纵火狂的功能。
+As long as the Pyro has food, they will allow you to preform a dash similar to Artificer's rocket jump. Try giving them a spear as well.
+There will be a future ability to access this alternate path.|只要纵火狂还有饱食度，它可以让你完成类似工匠的爆炸跳的冲刺。也可以尝试给它一根长矛。
+Press jump, grab, throw, and map all at the same time to switch to controlling your blue child, the Diver, who can breathe underwater.|同时按下“跳跃”、“拾取”、“投掷”和“地图”四个键可以控制你的蓝色猫崽，潜水员——它可以水下呼吸。
+Apologies for the bugginess, Matriarch's extended breath should hopefully help with any issues you encounter.|为程序的不稳定性表示歉意，族长延长的呼吸能力应该有助于解决你遇到的问题。
+The Diver can safely store things in their stomach.|潜水员可以在胃里安全地储存物品。
+Use the same controls to switch back to the Matriarch. |使用相同的操作切换回控制族长。
+If one of your slugpups die, you can bring a karma flower to the site of their death to respawn them at the cost of karma.|如果你的猫崽之一死亡了，你可以带一朵业力花回到它们死亡的位置并以业力为代价复活它们。
 
 //3217841693
 //已下架，暂无法翻译简介

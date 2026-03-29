@@ -3222,7 +3222,7 @@ There will be a future ability to access this alternate path.|只要纵火狂还
 Press jump, grab, throw, and map all at the same time to switch to controlling your blue child, the Diver, who can breathe underwater.|同时按下“跳跃”、“拾取”、“投掷”和“地图”四个键可以控制你的蓝色猫崽，潜水员——它可以水下呼吸。
 Apologies for the bugginess, Matriarch's extended breath should hopefully help with any issues you encounter.|为程序的不稳定性表示歉意，族长延长的呼吸能力应该有助于解决你遇到的问题。
 The Diver can safely store things in their stomach.|潜水员可以在胃里安全地储存物品。
-Use the same controls to switch back to the Matriarch. |使用相同的操作切换回控制族长。
+Use the same controls to switch back to the Matriarch.|使用相同的操作切换回控制族长。
 If one of your slugpups die, you can bring a karma flower to the site of their death to respawn them at the cost of karma.|如果你的猫崽之一死亡了，你可以带一朵业力花回到它们死亡的位置并以业力为代价复活它们。
 
 //3217841693

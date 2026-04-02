@@ -7177,3 +7177,7 @@ Utterly Devious No Good Downright Sinful Incredibly Awful Absolutely Abysmal Spi
 Utterly Devious Spire (Cold)|绝对扭曲尖塔（寒冷版）
 oh god there's more|噢天哪还有更多
 The Stratosphere|至高层
+
+//3697519378
+tcan.RustedFactorySF-description|我大概2024年就开始做这个区域了，这一坨永远都做不完，朋友
+Rusted Factory|生锈车间

@@ -5098,7 +5098,7 @@ Hurricane|飓风
 Gameplay|游戏设置
 Bingo Gameplay Config|Bingo游戏设置
 Start with the Dial Warp perk fully charged:|开局即可定向传送：              
-Ripple eggs required for dial warp:|定向传送所需的涟漪游魂卵数量：                   
+Ripple eggs required for dial warp:|定向传送所需的涟漪游魂卵数量：                     
 Dial Warp|定向传送
 Dial Warp (Ripple Egg Warp) is unlocked from the start. <LINE>Watcher Exclusive|定向传送（涟漪卵传送）初始即可使用。<LINE>观望者专属
 
@@ -7181,3 +7181,7 @@ The Stratosphere|至高层
 //3697519378
 tcan.RustedFactorySF-description|我大概2024年就开始做这个区域了，这一坨永远都做不完，朋友
 Rusted Factory|生锈车间
+
+//3701301104
+presto.lambent-description|为观望者开辟了一处新区域
+Lambent Veil|曳光幕城

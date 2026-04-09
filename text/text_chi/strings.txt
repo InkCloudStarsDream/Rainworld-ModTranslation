@@ -7185,3 +7185,11 @@ Rusted Factory|生锈车间
 //3701301104
 presto.lambent-description|为观望者开辟了一处新区域
 Lambent Veil|曳光幕城
+
+//3701548076
+qtpi.coastland-sector-description|探索曾经在仰望皓月阴影下繁荣的都市，如今它已沦为昔日的残骸。
+Coastland Sector|海岸区
+Pee Water Gulley|氨水沟
+Frosted Port|结霜海港
+Desolation|孤野
+Oh Shit|卧槽

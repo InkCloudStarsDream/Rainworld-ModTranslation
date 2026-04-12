@@ -7193,3 +7193,18 @@ Pee Water Gulley|氨水沟
 Frosted Port|结霜海港
 Desolation|孤野
 Oh Shit|卧槽
+This fungus has a repulsive scent.|这种真菌散发着令人厌恶的气味。
+
+//3703607098
+hb.relationshipicons-description|通过头顶图标可视化生物关系。
+Relationship Icons|生物关系图标
+Eats|捕食
+Attacks|敌对
+Friend(Liz)|友好（蜥蜴）
+Afraid|恐惧
+Afraid(Scav)|恐惧（拾荒者）
+Uncomfortable|不安
+Ignores|忽视
+Friend(Scav)|友好（拾荒者）
+Apply icons on small creatures|显示小型生物关系图标
+Apply icons on ambush creatures|显示伏击类生物关系图标

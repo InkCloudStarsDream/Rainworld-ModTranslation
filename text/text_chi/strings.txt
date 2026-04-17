@@ -7210,3 +7210,29 @@ Ignores|忽视
 Friend(Scav)|友好（拾荒者）
 Apply icons on small creatures|显示小型生物关系图标
 Apply icons on ambush creatures|显示伏击类生物关系图标
+
+//3708175298
+wcf-description|邪恶红色迭代器
+Waxing Candleflame|蜡封烛焰
+Candle Leg, Overshade, Waxing Candleflame, Memory Ducts, The Hateful, Glass Chamber, Undershade, Silver Wall, Moldy Machines|烛腿，遮光罩，内存管线，可憎之物，玻璃存储室，遮蔽，银墙，陈腐器械
+【备注：标准的打错格式和留着战未来，先两个都留着了】
+Candle Leg|烛腿
+Overshade|遮光罩
+Memory Ducts|内存管线
+The Hateful|可憎之物
+Glass Chamber|玻璃存储室
+Undershade|遮蔽
+Silver Wall|银墙
+Moldy Machines|陈腐器械
+
+//迭代器对话
+//aftergivemark
+A wretched beast enters my complex.|一只可怜的野兽闯入了我的巨构。
+What purpose could a unfortunate stain like you have for visiting me?|像你这样不幸的家伙，来拜访我是为了什么呢？
+Did Epoch of Clouds send you, Are you one of their messengers?|是云雾纪元派你来的吗？你是祂们的信使之一吗？
+No. You are just a wasteful little mass of barely sentient meat gazing at a living god.|不。你只是一团毫无自觉的无用肉块，正目不转睛地注视着一个活着的神明。
+Do I mean to offend you?|无意冒犯。
+No I am just making an observation.|我只是在表达我的看法。
+
+//greetings
+Leave Wasteful Roach.|走开，废物蟑螂。

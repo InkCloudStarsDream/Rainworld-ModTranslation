@@ -7236,3 +7236,34 @@ No I am just making an observation.|我只是在表达我的看法。
 
 //greetings
 Leave Wasteful Roach.|走开，废物蟑螂。
+
+//3704277978
+lunapolis-description|该模组属于图一乐，别太认真对待。
+Moonopolis|月都会
+City Sewers|城市下水道
+Deteriorating Abode|凋败居所
+
+//2927500273
+InfiniteSpears-description|该模组有两个主要作用。你可以：<LINE>1)背上一根长矛，用它来矛生矛或回收场景中的其他矛；<LINE>2)背起多根长矛。
+Infinite Spears Mod|无限背矛
+MSC DLC|更多蛞蝓猫
+Watcher DLC|观望者
+-1 (infinite)|-1(无限)
+Number of BackSpears for Monk (-1)|僧侣背矛数
+Number of BackSpears for Survivor (-1)|求生者背矛数
+Number of BackSpears for Hunter (-1)|猎手背矛数
+Number of BackSpears for Gourmand (-1)|饕餮背矛数
+Number of BackSpears for Artificer (-1)|工匠背矛数
+Number of BackSpears for Rivulet (-1)|溪流背矛数
+Number of BackSpears for Spearmaster (-1)|矛大师背矛数
+Number of BackSpears for Saint (0)|圣徒背矛数
+Number of BackSpears for Watcher (0)|观望者背矛数
+Number of BackSpears for Inv (0)|Inv背矛数
+Pick Up on Release|拾取释放
+Slugs and Spears|背猫兼容
+Swallowed Items|无穷胃袋
+For values X > 0, the player can simply carry X spears on the back.|将背矛数设为X(需大于0)，你便可以背X根矛
+When enabled, you have infinite ammunition for the joke rifle.|装填后，你的玩笑步枪里会有无限的同类子弹。
+When enabled, backspears have priority. You only pick up items from the ground when releasing the grab key.|启用后优先背矛。松开拾取键时才能捡起物品。
+When enabled, you can carry slugcats and spear on your back at the same time./nHold up/down to interact with slugcats. Do the opposite to interact with spears.|你可以背猫的同时背矛。按上/下键来背起/拿下蛞蝓猫。按相反的键背/取矛。【本条有换行，无法替换。搞半天也没弄懂，留着战未来了】
+When enabled, most swallowed item are duplicated when regurgitating unless your hands are full.|吐出胃袋里的物品不会使其消耗，除非你的双手都已被占用。

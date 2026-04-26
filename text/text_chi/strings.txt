@@ -5455,6 +5455,8 @@ MEMORY CONFLUX - ONLINE<LINE><LINE>DAMAGED - CORRUPTION DETECTED|内存集成 - 
 STRUCTURE DAMAGE - SEVERE|结构损伤 - 非常严重
 
 //3466127398
+WatcherExpeditions-description|在探险游戏模式中加入观望者，以及一些额外的增益，一个使命任务和一个新的挑战类型。<LINE>在竞技场模式中添加观望者。<LINE>在竞技场模式中添加观望者DLC生物。
+
 Perk_Camo_Name|伪装
 Perk_Camo_Desc|按住“特殊”按钮可短时间获得躲避捕食者的伪装能力。
 Perk_LongWarp_Name|永久扭曲
@@ -5462,23 +5464,25 @@ Perk_LongWarp_Desc|形成永久而不是会在五个循环内消失的涟漪。<
 Perk_PoisonSpear_Name|毒矛
 Perk_PoisonSpear_Desc|用毒矛开始探险。
 Perk_Boomerang_Name|回旋镖热潮
-Perk_Boomerang_Desc|所有的石头都有机会被回旋镖取代。
+Perk_Boomerang_Desc|所有的石头都可能被回旋镖取代。
+Perk_DialWarp_Name|定向传送
+Perk_DialWarp_Desc|定向传送（涟漪卵传送）初始解锁。<LINE>观察者专属
 
 Burden_Rot_Name|被腐化
 Burden_Rot_Desc|所有区域在开始时就会被全部占领并感染。<LINE>这是为挑战而准备的。
 
-Challenge_Rot_Name|腐化蔓延
-Challenge_Rot_Desc|用觉知腐化感染 <score_target> 区域
+Challenge_Rot_Name|腐化传播
+Challenge_Rot_Desc|用知觉腐化感染 <score_target> 区域 [<current_score>/<score_target>]
  [<current_score>/<score_target>]
 Challenge_ST_Name|回响拜访
 Challenge_ST_Desc|拜访在 <region> 的回响
-Challenge_Warp_Name|传送周期
+Challenge_Warp_Name|循环传送
 Challenge_Warp_Desc|在一个循环内传送 <target> 次 [<current>/<target>]
 challenge_Prince_Name|王子交付
 challenge_Prince_Desc|交付 <item> 给王子
 
 Mission_Rot|腐化世界
-Watcher_Ex_Description|作为观察者，形成新的路径，在<LINE>涟漪中寻找新的目标。
+Watcher_Ex_Description|作为观察者，形成新的路径，在涟漪中寻找新的目标。
 
 
 WatcherExpeditions_Name|~观望者探险模组~
@@ -5487,19 +5491,23 @@ WatcherExpeditions_Desc|非官方的观望者探险
 WEConfig_Name_RippleMax|最高涟漪等级
 WEConfig_Desc_RippleMax|最高涟漪等级的起始量。 你需要三级最高涟漪等级来开启传送，五级涟漪等级来开启浮空，八级涟漪等级来传送到所有区域，九级业力等级来开启恶魔。
 WEConfig_Name_RippleMin|最小涟漪等级
-WEConfig_Desc_RippleMin|最小涟漪等级的起始量。 也许你不值得，你的最小涟漪等级会随着你拜访陀螺的次数增加而增加。
+WEConfig_Desc_RippleMin|最小涟漪等级的起始量。 以防你不知道，你的最小涟漪等级会随着你拜访陀螺的次数增加而增加。
 WEConfig_Name_RippleStart|起始涟漪
-WEConfig_Desc_RippleStart|涟漪等级的起始量，业力的替换品。
+WEConfig_Desc_RippleStart|涟漪等级的起始量，业力的替代品。
 WEConfig_Name_ChangeRipple|回响改变的最大/最小涟漪等级
 WEConfig_Desc_ChangeRipple|允许陀螺增加的最大和最小的涟漪等级。可以将涟漪设置到它可以达到的最大值。对原版探险中的回响无效。
+
 WEConfig_Name_KarmaFlower|全区域业力花
-WEConfig_Desc_KarmaFlower|允许业力花在每个观望者探险区域产生，作为观望者传送能力所需的重要物品。如果被禁用，它们仍然会产生在外缘，破碎露台，恶魔和腐化区域。
+WEConfig_Desc_KarmaFlower|允许业力花在每个观望者探险区域产生，作为观望者传送能力所需的重要物品。<LINE>如果被禁用，它们仍然会在外缘，破碎露台，恶魔和腐化区域内生成。
+
 WEConfig_Name_Unlock|强制解锁
 WEConfig_Desc_Unlock|不管是否完成观望者线，解锁观望者探险。
 WEConfig_Name_UnlockPerks|
 WEConfig_Desc_UnlockPerks|
  
- 
+WEConfig_Name_DialCharged|初始定向传送即可使用
+WEConfig_Name_DialAmount|定向传送所需的涟漪卵数量
+
 WEConfig_Name_Hunt_Barnacle|狩猎——藤壶
 WEConfig_Desc_Hunt_Barnacle|允许狩猎挑战选择：藤壶 从1.10.2开始，它们可以用波动龟来去壳。
 WEConfig_Name_Hunt_SandWorm|狩猎——沙虫
@@ -5510,6 +5518,7 @@ WEConfig_Name_Hunt_BoxWorm|狩猎——箱虫
 WEConfig_Desc_Hunt_BoxWorm允许狩猎挑战选择：箱虫。箱虫可以很轻易地困住你，在可以被杀死之前需要激活它们，和它们的战斗并不是很有趣。没有火精灵的箱虫是无法被杀死的。
 WEConfig_Name_Hunt_BoneShaker|狩猎——震骨者
 WEConfig_Desc_Hunt_BoneShaker|允许狩猎挑战选择：震骨者。 它们只会出现在腐化地图或者被腐化的地图之中。可以通过击倒他们从顶部杀死他们。
+
 WEConfig_Name_Challenge_Rot|腐化传播挑战
 WEConfig_Desc_Challenge_Rot|需要你感染区域来达成的挑战。5个为正常难度，范围为3-9.
 WEConfig_Name_Challenge_ST|
@@ -5519,7 +5528,6 @@ WEConfig_Name_RotWorld_Hunt|腐化维度——狩猎
 WEConfig_Desc_RotWorld_Hunt|狩猎计入腐化区域内的敌人，例如长腿菌和烈焰蜈蚣。因为你无法选择传送到哪个腐化区域，所以不建议勾选这个选项。
 WEConfig_Name_RotWorld_Shelter|腐化维度——庇护所
 WEConfig_Desc_RotWorld_Shelter|探险可以从腐化区域开始。你需要找到一个出口，然后传送你到一个随机的区域。永远不会到达外缘。
- 
 
 WEConfig_Name_VanillaPassage|观望者线通行证
 WEConfig_Desc_VanillaPassage|在观望者线中启用黑屏通行证功能。黑屏区域是因为它不兼容传送和没有区域艺术的新区域。
@@ -5532,10 +5540,8 @@ WEConfig_Desc_Music|在音乐盒中加入观望者原声带，无需解锁。
 WEConfig_Name_STSpeak|陀螺对话
 WEConfig_Desc_STSpeak|允许陀螺对话，它将按照顺序选择对话。
 
-Info Dump|信息转存
-Dump a  bunch of info|转存一些信息
-
-WatcherExpeditions-description|在探险游戏模式中加入观望者，以及一些额外的增益，一个使命任务和一个新的挑战类型。<LINE>在竞技场模式中添加观望者。<LINE>在竞技场模式中添加观望者DLC生物。
+WEConfig_Name_blank|
+WEConfig_Desc_blank|
 
 //3466384338
 mk.barnacleworld-name|珊世界
@@ -7277,3 +7283,33 @@ Deteriorating Abode|凋败居所
 //3710834434
 floodforge_jam-description|洪水铸造（FloodForge）的1周年区域作。<LINE><LINE>作者：<LINE>Haizlbliek, echo_ify, Dragonly44, Acorn_Donut, Tryn, Foto, riley_, Tarka, XenomorphicDNA<LINE><LINE>主创：Haizlbliek<LINE>区域封面由Dragonly44绘制<LINE><LINE>连接到农场阵列(LF_D02)
 Lost Grotto|迷失石窟
+
+//3711755499
+peterklaus.amalgamation-description|一个既不完全是蛞蝓猫，又不完全是蜥蜴的嵌合体。<LINE>一只太蛞蝓猫化的蜥蜴；一只太蜥蜴化的蛞蝓猫。<LINE>受命前往未知的土地传达讯息，在那里求生更需要你的蛮力。
+The Nest
+The Amalgamation|嵌合体
+THE AMALGAMATION|嵌合体
+An Amalgamation born not quite of slugcat, yet not quite of lizard. Employed to deliver<LINE>a message in land unbeknownst to you, one where survival will require your brute strength.|一个既不完全是蛞蝓猫，又不完全是蜥蜴的嵌合体。<LINE>一只太蛞蝓猫化的蜥蜴；一只太蜥蜴化的蛞蝓猫。<LINE>受命前往未知的土地传达讯息，在那里求生更需要你的蛮力。
+In an exploration of self, The Amalgamation<LINE>sets forth to discover their identity.|在对自我探索中，嵌合体决心去寻找它身份的真相。
+
+//迭代器对话//
+//fpenteramal
+It seems as though you have made it. |看来你确实做到了。
+Suns design does prove effective, how quaint.|多么奇妙，这证实了红日的设计有效。
+My overseers failed to see through your unusual anatomy, no suspicion behind a red lizard hauling its kill.<LINE>Especially not with that nest connecting to the Outskirts of my can. |我的监视者没有看穿你不寻常的身体构造，对一只拖拽着猎物的烈焰蜥蜴毫无怀疑。<LINE>特别是那个连接到我巨构所在郊区的巢穴。
+... Where is it? |...东西在哪？
+I believe you were to be arriving with a pearl, no? You entered my can with it, I remember that much.<LINE>I suppose this means you are unsuccessful in your endeavor, thus losing your purpose and proving inefficient. |我确信你来的时候带着一颗珍珠，没有？我记得你带着珍珠进入了我的巨构。<LINE>我认为这意味着你的努力是失败的，你弄丢了你的任务目标，而这证明你很低效。
+You and I have that in common, though I unfortunately cannot help you. Though for you, there is another way.<LINE>Head west and down into the earth, past the Farm Arrays where the land fissures. Do what I cannot.  |你和我有一个共同点，但很不幸我帮不了你。但你还有另一条路能走。<LINE>向西走，深入地下，穿过农场阵列，去往大地断裂之处。去做我做不到的事。
+Or you could return to them empty-handed. |或者空着手回去找它们。
+There will be another of you, that I am more than aware. I will do what I can to be of aid, out of pity no less.|我很清楚，那里会有另一个你。出于怜悯，我会尽力协助你的。
+Just know that you do not have to be another bug wandering a worthless maze. |你只要知道你不必成为另一只徘徊在无用迷宫里的虫子。
+... Maybe we will both find our way out. |...或许我们都会找到自己的出路。
+//lttmenteramal
+Are my words reaching you?|你能听到吗？
+Hello there, little amalgamation.|你好啊，小嵌合体。
+There are no records of your body's blueprints from here or anywhere else, you poor thing. It is<LINE>blatant your extreme adaptations weren't possible through... natural means.|这里以及任何地方都没有关于你身体构造的蓝图的记录，可怜的小生灵。很明显，你极端的适应能力不可能通过...自然手段获得。
+I would not mind some company, you are welcome to stay as long as you do not interrupt. Make yourself at home.  |我不介意陪伴，只要你不打扰我。你可以多待一会儿。
+If you dont mind me pondering, from where have you come from? I'm assuming your red counterhalf came from our outskirts considering the abundance.|如果你不介意我的探讨的话——你是从哪里来的？<LINE>我猜你身体红色的那部分来自我们的郊区，毕竟那里十分富饶。
+Say, you remind me of my neighbor in some way, Five Pebbles. Perhaps it is the way you look at<LINE>me, your expression does bear resemblance. |说起来，你让我想起了我的邻居——五块卵石。或许是因为你看着我的样子，你的表情太像祂了。
+... Here I am, monologuing to a strange amalgamation in my chamber. |...而我现在，正在对着一只进入我演算室的奇怪嵌合体自言自语。
+I've alerted the local group of your presence, now scurry along less you wish to bear me company. |我已经向本地群组报告了你的存在，如果你不愿陪伴我的话，就离开吧。

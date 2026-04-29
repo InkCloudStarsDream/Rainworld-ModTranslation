@@ -7322,6 +7322,22 @@ AQUAFLORA|水生花
 Decaying Crypts|破败陵墓
 Shaded Citadel|阴影城堡
 
+//迭代器对话
+//144
+.  .  . 
+W- what are you doing here?|你-你在这里做什么？
+Your kind has passed through here many times before.<LINE>I offered them guidance and my wisdom.|你的同类来过这里很多次了。<LINE>我给了它们方向和我的智慧。
+And yet, here you are, another little beast on the floor of my chamber.|然而我房间的地面上又来了你这只小野兽。
+I have nothing to offer you, for the only thing I had was removed from my core.<LINE>And you should not be here either, for ever since a friend's structure was restored...|我什么都给不了你，我所唯一能给出的东西已经从我的核心中移除了。<LINE>而且你也不应该在这里，因为自从一位朋友的巨构恢复之后……
+My structure began to shut down, and parts of it started to fall away.<LINE>Since then, it has become dangerous to remain near it.|我的结构已经开始关闭，部分零件也开始脱落。<LINE>从那以后，在这附近逗留越来越危险了。
+//126
+Oh. Hello there!|哦。你好呀！
+What exactly are you? It has not been long, but there was another of your kind before you.<LINE>They left not long ago, after restoring my machinery. You seem to bear a mark, do you not?|你到底是什么呢？不久之前，有你的另一个同类来过。<LINE>它在修复了我的结构后不久就离开了。你看上去拥有印记，不是吗？
+Putting the pieces together... it could not have been my neighbor, Five Pebbles, for he only worsened after his last mass rarefaction cell was removed.<LINE>Though the frequent and rapid rains have ceased,<LINE>his entire structure has since been corrupted by his own creation.|拼凑一下线索……不可能是我的邻居五块卵石给你的，他的情况在最后一颗质量稀解电池被移除后变得更糟了。<LINE>尽管频繁的倾盆大雨已经停止，他的整个巨构已经被他所创造的生物毁坏。
+So, you came from a distant land?<LINE>What is it that you want here, exactly? I have nothing to offer you, but I must warn you, little creature.|那你来自遥远的地方吗？你到底想要什么呢？<LINE>我没有能给你的东西，但我必须警告你，小生灵。
+You would be better off turning back and returning from where you came, for almost nothing remains in this domain.<LINE>Though one of my overseers has detected that parts of Five Pebbles have begun falling away.|你最好回头返回你来时的地方，因为这片辖区已经什么都不剩了。<LINE>我的监视者之一还观察到五块卵石已经开始部分脱落。
+I hope you understand that there is no longer any place here for creatures like you,<LINE>though the last of your kind to come this way did not remain for very long.|我希望你明白这里已经不适合像你这样的生灵生活了，<LINE>上一个来这里的你的同类也没逗留太久。
+
 //3713608550
 TeslaGrad_FonabA-description|增加新区域与新剧情。
 ТеслаГрад|特斯拉城
@@ -7329,3 +7345,6 @@ TeslaGrad_FonabA-description|增加新区域与新剧情。
 ТеслаГрад (Канализация)|特斯拉城（排污系统）
 ТеслаГрад (Метро)|特斯拉城（地铁）
 ТеслаГрад (Пустотные Насосы)|特斯拉城（虚空泵）
+Test|测试
+TEST|测试
+Just a test.|单纯是测试。

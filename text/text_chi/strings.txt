@@ -7248,6 +7248,12 @@ Friend(Scav)|友好（拾荒者）
 Apply icons on small creatures|显示小型生物关系图标
 Apply icons on ambush creatures|显示伏击类生物关系图标
 
+//3704277978
+lunapolis-description|该模组属于图一乐，别太认真对待。
+Moonopolis|月都会
+City Sewers|城市下水道
+Deteriorating Abode|凋败居所
+
 //3708175298
 wcf-description|邪恶红色迭代器
 Waxing Candleflame|蜡封烛焰
@@ -7274,11 +7280,11 @@ No I am just making an observation.|我只是在表达我的看法。
 //greetings
 Leave Wasteful Roach.|走开，废物蟑螂。
 
-//3704277978
-lunapolis-description|该模组属于图一乐，别太认真对待。
-Moonopolis|月都会
-City Sewers|城市下水道
-Deteriorating Abode|凋败居所
+//3709970484
+crippledmines-description|我一直没勇气做完这个模组，它在我电脑里躺了好几年了……也该放下它了，或许你可以来逛逛我做的这片小小区域？
+Crippled Mines|停产矿山
+Coal Pits|煤窖
+The Lift|电梯
 
 //3710834434
 floodforge_jam-description|洪水铸造（FloodForge）的1周年区域作。<LINE><LINE>作者：<LINE>Haizlbliek, echo_ify, Dragonly44, Acorn_Donut, Tryn, Foto, riley_, Tarka, XenomorphicDNA<LINE><LINE>主创：Haizlbliek<LINE>区域封面由Dragonly44绘制<LINE><LINE>连接到农场阵列(LF_D02)
@@ -7348,3 +7354,32 @@ TeslaGrad_FonabA-description|增加新区域与新剧情。
 Test|测试
 TEST|测试
 Just a test.|单纯是测试。
+
+//3713793788
+Abyssal Climb|渊升
+abyssalclimb-description|为Euryptid做的区域模组。<LINE>（译者注：该区域在传送菜单列表中显示为AB。）
+
+//3715795092
+overflowbeta-description|包含开拓者的教程区域的预告性质测试模组。不含蛞蝓猫。不连接至原版区域，请使用传送菜单。
+A beta teaser containing Trailblazer's tutorial area. No slugcats included. Bugs and issues may apply. NO VANILLA CONNECTIONS, USE WARPMENU.
+Scavenger Sanctuary|拾荒者保护区
+Sandstone Trial|沙岩之试炼
+Scavenger Stronghold|拾荒者要塞
+
+//3717106260
+rufflesfloodedpipeways-description|探索泛洪管沟，一个连接着排水系统与海岸线的全新区域。<LINE>不要问我这里的水有多少，我会告诉你很多，很多……
+Flooded Pipeways泛洪管沟
+Dim Tunnels|昏黑隧道
+Cave System|洞系
+Border Caverns|偏远穴群
+EVIL PARKUOR!!!|邪恶跳跳乐!!!
+Frozen Tunnels|冰结隧道
+Frozen Sewer|结冻沟渠
+Collapsed Tunnels|崩毁隧道
+Welcome to hell|欢迎来到地狱
+
+//3718563363
+ap.thinks.its.always.all.about.her-description|我认为没有翻译的必要。
+Borderline|边缘地
+Clairvoyant|千里目
+Lost soul|迷失的灵魂

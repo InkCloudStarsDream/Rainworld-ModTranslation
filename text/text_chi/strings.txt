@@ -3795,7 +3795,7 @@ I've... also lost someone, Quite recently no doubt. <LINE>Maybe their collapse i
 You're very brave to have travelled such a distance. <LINE>I suppose I already know why you'd accomplish such a feat.|你能旅行这么远非常勇敢。<LINE>我想我或许知道你为什么要完成如此壮举了。
 I am afraid to say that I cannot help you... <LINE>Although what i can do is push you in the right direction.|恐怕我必须说，我帮不了你……<LINE>尽管我能把你推向正确的方向。
 Far below the remains of my can, to the west... <LINE>Lies an entrance to the old subterranean railway.|远在我的罐头的残骸之下，向西走……<LINE>坐落着一个通往旧地下铁路的入口。
-The schematics held in my memory may now be obsolete...<LINE>But if I am correct, the tunnels below should still lead to their temples.|我内存中的示意图现在或许已经过时了……<LINE>但如果我是对的，下方的隧道仍然应该通往他们的寺庙。 
+The schematics held in my memory may now be obsolete...<LINE>But if I am correct, the tunnels below should still lead to their temples. |我内存中的示意图现在或许已经过时了……<LINE>但如果我是对的，下方的隧道仍然应该通往他们的寺庙。 
 Best of luck little traveller. I hope you find them again at the end of it all.|祝你好运，小旅行家。愿你最终能再度寻见祂。
 Hello again little pine tree! How goes your travels?|你好呀，小松树！你的旅行怎么样了？
 Have you... scaled five pebbles?|你……到过五块卵石那里了吗？
@@ -7066,16 +7066,31 @@ Roots
 Decaying Stump|朽木残桩
 
 //3652138665
+//3675260709【应该是这个mod的固定编号了】【大概吧】
 homeo.measurer-description|该模组是一个全新剧情线的测试版。整个剧情线只完成了一部分，后续会不断上传更新！
+measurer-description|—— 一个能左右这宏大世界命运的特殊存在。在野外的生活很富足，<LINE>但你不能拖延，因为唯一的朋友正在等待。<LINE>祝你好运，小温度计。<LINE><LINE>—— 一位信使，诞生自一个小小的心愿。<LINE>以及一场寻找朋友的旅程，等等。<LINE>循着道路，你终将抵达所寻找的目的地。<LINE><LINE>—— 10个新区域<LINE>—— 新的蛞蝓猫和新剧情<LINE>—— 敬请期待：后续会不断上传更新！<LINE><LINE>欢迎汇报错误。
 The Measurer|测度员
 THE MEASURER|测度员
+Measurer|测度员
 A special being who sways the fate of such a great world.<LINE>There is no shortage of living in the wild,<LINE>but there is no time to delay because the only friend is waiting.<LINE>Good Luck, little thermometer.|一个能左右这宏大世界命运的特殊存在。在野外的生活很富足，<LINE>但你不能拖延，因为唯一的朋友正在等待。<LINE>祝你好运，小温度计。
+Hold Special to release heat. The blazing heat frightens creatures.|按住“特殊”键释放热量。炽热的高温会吓退生物。
+Cycles left:|剩余雨循环：
+Cycles|雨循环
+The Buffer|缓存员
+THE BUFFER|缓存员
+buffer|缓存员
+A messenger, born from a small wish.<LINE>And, a journey to find your friend, and more.<LINE>Along the trail, you finally step on to the place where you've looking forward to.|一位信使，诞生自一个小小的心愿。<LINE>以及一场寻找朋友的旅程，等等。<LINE>循着道路，你终将抵达所寻找的目的地。
+New items can be made using rocks and spears.|可以利用石头和长矛制作新的物品。
+Clear the game as The Measurer to unlock.|完成测度员流程后解锁。
+Downdraft|坠落
+Collector|收藏家
 
-Central Dogma|中心法则
+Central Dogma|中心原理
 Struts|支柱
-Central Dogma (Short Circuits)|中心法则（短路组件）
-Central Dogma (Memory Conflux)|中心法则（内存阵列）
-Central Dogma (Central Nucleoli Bus)|中央核心总线
+Central Dogma (Short Circuits)|中心原理（短路组件）
+Central Dogma (Memory Conflux)|中心原理（内存阵列）
+Central Dogma (Central Nucleoli Bus)|中心原理（中央核心总线）
+FireWall|防火墙
 Data Center|数据中心
 Sea of Information|信息之海
 Runway|绿茵走道
@@ -7083,11 +7098,27 @@ Control Tower|控制塔
 Transport Hub|交通枢纽
 Submarine Tunnel|水底隧道
 Glass greenhouse|玻璃温室
+Glass Greenhouse|玻璃温室
 Incubation|孵化室
 Withered Factory|废弃工厂
 Vertical Worksite|竖井作业区
 Smelting Factory|熔炉工厂
-High Land|高地
+High Land|高原
+Auxiliary Communications Array|辅助通讯阵列
+Linear Regression|线性回归
+Underhang|下悬架
+Linear Regression (Correlation Matrix)|线性回归（相关矩阵）
+The Leg|支架
+Linear Regression (Artificial Neural Network)|线性回归（人造神经网络）
+Linear Regression (Memory Conflux)|线性回归（内存阵列）
+Research Complex|研发区
+Reagent Depot|试剂库
+Waste Reagent Treatment|废剂处理区
+Resonance Relay|谐振继电区
+Communication System|通讯系统
+
+The Measurer - Options|测度员 - 选项
+Unlock Buffer campaign immediately|立即解锁缓存员流程
 
 //3654423803
 gluttonyslugcat-description|他的暴饮暴食使我作呕。<LINE>我制作了这个模组，因为我想它会变得非常有趣且富有挑战性。<LINE>lvuk具有200点饱食度，并且需要100点才能雨眠，当然他也有一些能力。<LINE>这是一个玩笑模组，不要太当真。<LINE感谢RiTiKiN提供美术部分。

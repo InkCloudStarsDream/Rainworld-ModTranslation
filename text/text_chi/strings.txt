@@ -5192,6 +5192,7 @@ NeedleEgg|面条蝇卵
 Rock|石头
 Rocks|石头
 Any Weapon|任意武器
+RippleJelly|涟漪水母
 
 //mod物品【没处放了就这了吧，放一起挺好的】
 CWOracleSwarmer|追逐清风的神经元
@@ -7078,7 +7079,7 @@ Cycles left:|剩余雨循环：
 Cycles|雨循环
 The Buffer|缓存员
 THE BUFFER|缓存员
-buffer|缓存员
+Buffer|缓存员
 A messenger, born from a small wish.<LINE>And, a journey to find your friend, and more.<LINE>Along the trail, you finally step on to the place where you've looking forward to.|一位信使，诞生自一个小小的心愿。<LINE>以及一场寻找朋友的旅程，等等。<LINE>循着道路，你终将抵达所寻找的目的地。
 New items can be made using rocks and spears.|可以利用石头和长矛制作新的物品。
 Clear the game as The Measurer to unlock.|完成测度员流程后解锁。

@@ -7402,6 +7402,12 @@ Sandstone Trial|沙岩之试炼
 Scavenger Stronghold|拾荒者要塞
 Holding down while crawling helps resist the wind.|爬行时按住下来抵御强风。
 
+//3716785163
+peterklaus.jester-description|精工雕琢，悦目众生；不分贵贱，皆得欢欣。在宫廷和古堡之中，一个为欢愉而劳作的小丑将阴森可怖的殿堂化作了充满快活气息的戏台。
+The Jester|弄臣
+THE JESTER|弄臣
+Wrought to delight each creature in sight, to gladden the lowly and lofty alike.<LINE>A jester forged for delight in court and in keep, thou turnest dread halls to a stage of mirth deep.|精工雕琢，悦目众生；不分贵贱，皆得欢欣。<LINE>在宫廷和古堡之中，一个为欢愉而劳作的小丑将阴森可怖的殿堂化作了充满快活气息的舞台。
+
 //3717106260
 rufflesfloodedpipeways-description|探索泛洪管沟，一个连接着排水系统与海岸线的全新区域。<LINE>不要问我这里的水有多少，我会告诉你很多，很多……
 Flooded Pipeways|泛洪管沟

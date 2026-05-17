@@ -1,4 +1,4 @@
 0-1
-This is the result of geological prospecting. I can locate it somewhere southeast of here.<LINE>It reports an aquifer in proximity to... a Living Rock wellspring?
-I don't know what Living Rock is, little creature. Looking at its description in the survey, it seems to come from deep within the earth.
-There are descriptions of numerous sulfur deposits surrounding this formation.<LINE>In some forms, this substance can be very dangerous. And the smell is not particularly pleasant either!
+这是地质勘探报告。我可以确定它勘探的是东南方的某处。<LINE>上面写了有一处含水层在……活动的活石泉附近？
+我不知道活石是什么，小生灵。按这份报告的描述，它似乎源自地下深处。
+该地层周围分布着大量硫磺矿脉。<LINE>在某些情况下，这些物质会非常危险。而且它们闻上去糟透了！

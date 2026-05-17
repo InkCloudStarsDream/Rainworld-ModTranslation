@@ -7456,3 +7456,5 @@ IndUnderpass-description|连接烟囱天棚与垃圾堆。
 Industrial Underpass|地下工业通道
 Smokestacks|烟囱
 Radio Communications Array|无线电通讯阵列
+Turbulent Pipes|急流管道
+Desolate Border|荒凉界域

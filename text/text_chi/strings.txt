@@ -7453,7 +7453,7 @@ Lost soul|迷失的灵魂
 
 //3727366546
 IndUnderpass-description|连接烟囱天棚与垃圾堆。
-Industrial Underpass|地下工业通道
+Industrial Underpass|工业地道
 Smokestacks|烟囱
 Radio Communications Array|无线电通讯阵列
 Turbulent Pipes|急流管道

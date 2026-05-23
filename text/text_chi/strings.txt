@@ -5857,27 +5857,28 @@ Sunken Ridge|沉没山脊
 //3481663474
 ikayblythe.sunshower-description|如果你要启用该模组，请在拓展列表里将它的加载顺序置于观望者、Genetic Pups、Pups+这些模组之前。我很抱歉该模组的依赖项过多。
 Winding Gorge|蜿蜒峡谷
-The Changeling|换形孩
-THE CHANGELING|换形孩
+The Changeling|赝身孩
+THE CHANGELING|赝身孩
 Lost in a foreign land, vulnerable without your guardian. <LINE> Weak of strength, you must use patience and cunning to survive.|流落于异乡，失却庇护，孤苦伶仃。<LINE>你的力量很弱小，要想生存下来必须依靠耐心与狡诈。
-The Wayfarer|漂泊客
-THE WAYFARER|漂泊客
-An oceanic wanderer from beyond the horizon, driven by your desire for understanding.<LINE>You may not return till you have experienced this land in full, but the tides call you to reunion.|一位远自地平线外的海洋漂泊者，对求知的渴望便是你的航标。<LINE>在没有尽览这片土地的风貌之前，你无法返航，唯有波涛声声唤你归来重聚。
-CW-wsms_stomach
+The Wayfarer|浪子
+THE WAYFARER|浪子
+An oceanic wanderer from beyond the horizon, driven by your desire for understanding.<LINE>You may not return till you have experienced this land in full, but the tides call you to reunion.|一位远自地平线外的海洋漂泊者，对求知的渴望便是你的航标。<LINE>在没有览尽这片土地的风貌之前，你无法返航，唯有波涛声声唤你归来重聚。
+//CW-wsms_stomach
 Fascinating. This pearl has valid data, but is written in a foreign format. |真迷人。这颗珍珠里存储了有效的数据，但它是以一种外来格式书写的。
 I can make out bits and pieces of the files, and from what I can see,<LINE>the language is not too dissimilar from the ancient dialect once spoken on my island!|我可以识别出这些文件的一部分片段，从能读取到的内容来看，这种语言同我岛上的古老方言有些相像！
 It's still different enough to make only *some* sense, though.|但差别还是不小，只是能看懂*一部分*而已。
 I can recognize some signature . . . 'Edge'? 'Boundary'?|我还认出了一些特殊标识……“界”？还是“边域”？
 You must have come from very, very far away, little creature.|你一定是从特别，特别遥远的地方来的，小生灵。
-SL-wsms_stomach
+//SL-wsms_stomach
 	 How peculiar.|真奇怪。
 	This clearly contains a file, but not in any format I recognize!|这里头很明显有一份文件，但不是我能识别的任意格式！
 	The small tidbits I can read look like gibberish to me. Maybe another language?|少数能读到的片段对我来说都像是乱码。没准是另一种语言？
 	I'm sorry my friend, but I do not know what it says.|我很抱歉，小朋友，我不知道这上面写的是什么。
-SS-wsms_stomach
+//SS-wsms_stomach
 	. . .|……
 	Whatever this is, its format is incompatible with my readers.|不管这是什么，它的格式都与我的读取器不兼容。
 	You might as well dump it in the wastes. |你不妨把它扔到垃圾堆里去。
+
 //3482731057
 Cliffside|峭壁
 Bygone Mineshaft|古老矿井
@@ -7446,7 +7447,7 @@ Welcome to hell|欢迎来到地狱
 
 //3718563363
 ap.thinks.its.always.all.about.her-description|我认为没有翻译的必要。
-Borderline|边缘地
+Borderline|边境线
 The Clairvoyant|千里目
 CLAIRVOYANT|千里目
 Lost soul|迷失的灵魂
@@ -7458,3 +7459,9 @@ Smokestacks|烟囱
 Radio Communications Array|无线电通讯阵列
 Turbulent Pipes|急流管道
 Desolate Border|荒凉界域
+
+//3731003327
+peterklaus.yeti-description|一只身形较为厚重的被毛幸存者，适应了寒冷荒地的气候，依靠长舌在险恶地形中穿梭。作为你族群的最后一员，你必须在严冬肆虐的世界里生存下去。
+The Yeti|雪怪
+THE YETI|雪怪
+A wooly survivor on the heavier side adapted to the frozen wastes, wielding a long tongue to traverse<LINE>the harsh terrain. Last of your community, you must endure a world where winter thrives.|一只较为硕大的被毛幸存者，适应了寒冷荒地的气候，依靠长舌在险恶地形中穿梭。<LINE>作为你族群的最后一员，你必须在严冬肆虐的世界里生存下去。

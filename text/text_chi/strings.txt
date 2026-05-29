@@ -3452,6 +3452,18 @@ The Snow Cat|雪猫
 SNOW CAT|雪猫
 A custom campaign featuring a slugcat that must brave a freezing world|在寒霜之中求生。
 
+//3249529695
+The Floater|漂浮
+THE FLOATER|漂浮
+An odd Slugcat who can reach new heights, using the gas contained within its body to remain light.<LINE>There is a whole world to explore out there!|一只奇怪的蛞蝓猫，可以利用体内的气体保持轻盈，甚至飞上新的高度。<LINE>一整个世界都在等待着你去探索！
+The odd Slugcat goes on a journey.|这只奇怪的蛞蝓猫踏上旅程。
+The First Floater|第一只飘浮
+THE FIRST FLOATER|第一只漂浮
+Lost, yet strong and resilient for its kind.|迷路了，但相比它的同类们依旧称得上强壮而坚韧。
+The Final Floater|最后的漂浮
+THE FINAL FLOATER|最后的漂浮
+The last of its kind. Going on a pointless journey, a final exploration.|其族群的最后一员。即将走上一条没有目的地的旅途，一次终末的探险。
+
 //3254167010
 grinder-description|磨床并不欢迎你。从挡土墙开始，一直攀爬直到你抵达山顶。但是你确定这是你想要进入的地方吗？非常感谢Lángos, renistakingten和Timofey在区域美术，音乐和代码方面的支持。<LINE>去查看Wiki！<LINE>（已支持1.10版本）
 The grinder|磨床
@@ -7581,7 +7593,7 @@ Silent Depot (Residence)|静寂库所（住宅区）
 Silent Depot (Industrial District)|静寂库所（工业区）
 Silent Tundra|沉寂冻原
 Southern Retaining Wall|南部挡土墙
-The Assembly|集会所
+The Assembly|组架
 Junk Yard|垃圾场
 Facade|立面
 The Underside|底面
@@ -7590,8 +7602,44 @@ Unadorned Facade|未粉饰的立面
 The Furnace|洪炉
 The Furnace (Liquefied Conflux)|洪炉（液化集成）
 The Furnace (Molten Core)|洪炉（熔融核心）
-Melted Transit Line|冶炼传输线路
+Melted Transit Line|熔化的交通线路
 The Furnace (Warped Scaffold)|洪炉（歪曲支架）
 The Determined|决意
 THE DETERMINED|决意
 Setting out into a harsh frozen world with the training needed<LINE> to complete your mission. You hope the results will ease his burden.|身负完成任务所需的试炼，踏入一个冰封的严酷世界。<LINE>你期盼此行的结果能为他减轻负担。
+
+//3732998160
+ethan.lonescug-description|被一只怪物从它的家人身边抓走的蛞蝓猫。你最好祈祷你确实是独处着的。
+The LoneCat|孤寡猫
+LONECAT|孤寡猫
+A lonely slugcat that adapted to escape predators and find its way back home.|一只落单的蛞蝓猫，学会了躲避捕食者，并试图找到回家的路。
+
+//3734553250
+LostRailway-description|一个填补了缺失部分的区域——在更大的规划中。这个区域的入口最终被冲蚀打开了。该区域计划成为一个更大的模组合集（名称待定）的一部分。我没注意用了一个已经被使用过的区域代号，所以我不得不换掉所有的名字。
+Lost Railway|佚失铁路
+The peaks|群峰
+Deep crypts|深处陵墓
+
+/LRW_PEAKPEARL
+This seems to be a message of sorts, but who it's for and who sent it is corrupted, but I can read it if you want, <PLAYERNAME>.|这看起来是一系列消息中的一条，但收发双方的信息都损坏了，无法辨认。<LINE>如果你想听，我就读出来，<PLAYERNAME>。
+"[ERROR : UNABLE TO RETRIVE DATA, ASSUMING NULL.]|“[错误：无法读取数据，判定为空值。]
+NULL: So, old friend, have you finally done it? |空值：老友，你最终还是做到了吗？
+NULL: Did you find the solution? |空值：你找到了解决办法？
+NULL: ...|空值：……
+NULL: I'm wondering, after all of the cycles that have passed, [ERROR : UNABLE TO RETRIVE DATA, ASSUMING NULL.] was all of it worth it?|空值：我依旧想知道，在过去这么多循环之后，[错误：无法读取数据，判定为空值。]<LINE>这一切还值得吗？
+NULL: Could we have just thought a little harder, tried a little more? |空值：如果我们再多深思几分、再多尝试几次呢？
+NULL: I assume you won't respond, because of, well, you know the answer to that, [NULL].|空值：我想你也不会回应我了，毕竟你我都知道答案是什么，[空值]。
+NULL: I suppose, I'm writing this for myself, not for you."|空值：啊，看来，我写下这些也是给我自己，而不是给你。”
+I wonder who the sender made the message for?|我真好奇这条消息原本是写给谁的，
+Perhaps sliver of straw?|莫非是稻草裂片？
+
+/LRW_STORAGECONV
+This one seems to be very damaged, I'm not sure if I can read any of it.|这颗损坏很严重，我不确定还能不能读取出内容。
+Hang on, it looks like there might be a bit of data that was encrypted,<LINE>But due to time and erosion, I think I might be able to access the data.|等等，里面还有一段加密的数据。因为时间的磨损，反而我有办法解读它了。
+Alright, I think I got it... |好，我成功了……
+and it looks like this pearl is much older than I thought.<LINE>It seems that this is a storage log for some sort of station, I wonder where you found this, <PLAYERNAME>?|这颗珍珠的年代比我预想得要古早，看起来是某个站点的仓储日志，<LINE>我想知道你在哪儿找到它的，<PLAYERNAME>。
+Here are the contents if you were wondering:|如果你想知道的话，这就是它的内容：
+SYSTEMLOG.G2476A - - - STORAGELOG.A24765B <LINE>CONTENTS - - - AE037Y, Y327RT, YUA7R3, K43LOJ, B798E7|系统日志.G2476A —— 存储日志.A24765B<LINE>物品编号：AE037Y、Y327RT、YUA7R3、K43LOJ、B798E7
+[ERROR] - - - [CRITICAL EXCEPTION]-[Cannot find SYSTEMCACHE.E8634C, Value cannot be NULL.]<LINE>CREATING ERROR LOG|【错误】——【严重异常】：未找到系统缓存.E8634C，数值不能为空。<LINE>正在生成错误日志
+[ERROR] - - - [CRITICAL EXCEPTION]-[Cannot find SYSTEMLOGS.ERRORLOGS, Value cannot be NULL.]<LINE>CREATING ERROR LOG|【错误】——【严重异常】：未找到错误日志目录，数值不能为空。<LINE>正在生成错误日志
+It seems that it keeps throwing the same error over and over again, until it was shut down.|然后系统就不停地弹出相同报错，直至停机。

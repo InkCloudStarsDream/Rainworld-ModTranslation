@@ -7186,6 +7186,26 @@ fishy.SludgeTunnels-description|一个遍布涂鸦且锈迹斑斑的排污系统
 Sludge Tunnels|积淤隧道
 Frozen Sewers|结冻水道
 
+//3645457560
+Overgrown Waterworks|荒萋供水厂
+Frostbitten Reservoir|冰结储水库
+Metropolis Consumes All|大都会吞噬万物
+
+/LS_SideHouse
+It's a partial transcript, all plain text. I'll read what is still readable.|这是一份书面记录的一部分，全是明文。我会把依然可辨别的部分读出来。
+"On regards of the Common of Endless Seas of Neutrality, we are endlessly Thankful for the Stable waterflow from this Facility.<LINE>Without it our crops would desiccate and the Side House would falter.<LINE>And we offer our Wishes that this mutual cooperation continues,<LINE>for as long as the Stars stay fixed to the Celestial Spheres and our cooperation remains mutual.|因其设施提供的稳定水流，我们对共同体无边漠海致以不尽的感激。没有水，我们的作物会枯萎，侧堂也会衰落。<LINE>我们也希望这样的互惠合作能够保持，只要恒星闪烁于天球之上，就可以继续进行富有成果且相互满意的合作。
+So I with Honor, Stretched Cables-Two Stones, of the House of Nine Lakes, Count of 2 Living Blocks, Duke of 3, Head of Secretary of the Common of Endless Seas of Neutrality, write this to you (and those with you)...|我，延展缆绳·两块顽石，以九片湖泊院的一员，两个生活区的伯爵，公爵之三，<LINE>无边漠海的秘书长的光荣身份写信给你（以及与你同行的人）……
+...We are willing and oh so capable of providing support in-case of equipment failure and/or infestation..."|…我们愿意且完全有能力在设备故障和/或虫害肆虐的情况下提供援助…“
+The rest of the text has been scrambled or lost, most of the pearl's surface appears to have had its surface smoothed down.|其余的文本都打乱或丢失了，珍珠的大部分表面看起来被抛光过。
+
+/LS_EquipManifest（珍珠无法正常读，留着战未来)
+This is a interesting find. Did you find this inside the memory crypts? There is some plain text I can read for you.|这个有意思。你是在记忆陵墓里找到它的吗？上面有一些明文，我可以读给你听。
+"This vessel contains the living memories of Four Claws, Glistening Ravines, of the House of Spires, Count of 3 Living Blocks, Duke of 7,<LINE>Secondary Leader of the Iterator Project Five Pebbles, Bio-Enginnering Consultant for the Common of Determination.|此躯壳内安放了四只指爪·耀光山隙的活体记忆，此人是螺旋院的一员，三个生活区的伯爵，<LINE>公爵之七，迭代器项目五块卵石的次要领导人，共同体坚毅决心的生物工程顾问。
+Four Claws, Glistening Ravines begrudgingly chose to ascend at the end of 1478.012,<LINE>after nobly donating their earthly posessions to the House of Braids, they left these memories to be remembered by the carnal plane.|四只指爪·耀光山隙高贵地决定在1478.012之末开始飞升，在将其<LINE>尘世财产高尚地捐赠给编带院后，把这些记忆留给了世俗位面的人珍惜。
+The assorted memories include:|这些五光十色的记忆包括：
+Stargazing on a moonlit night (Adulthood). Finding a small pebble (Childhood). Purchasing a Yan Fruit (Old age)."|在夜晚时分盯着一缕月光（成年）。发现一颗小卵石（幼年）。买一颗延果（老年）。
+...That's it little creature, the rest of the list is heavily corrupted and unreadable.|……就是这样了，小生灵，清单上的其余内容都严重损坏，无法读取了。
+
 //3650821893
 dinstallation-description|一个很小的区域，到处都是垃圾和傻乎乎的蜥蜴。
 Derelict Installation|弃置设施
@@ -7643,3 +7663,12 @@ SYSTEMLOG.G2476A - - - STORAGELOG.A24765B <LINE>CONTENTS - - - AE037Y, Y327RT, Y
 [ERROR] - - - [CRITICAL EXCEPTION]-[Cannot find SYSTEMCACHE.E8634C, Value cannot be NULL.]<LINE>CREATING ERROR LOG|【错误】——【严重异常】：未找到系统缓存.E8634C，数值不能为空。<LINE>正在生成错误日志
 [ERROR] - - - [CRITICAL EXCEPTION]-[Cannot find SYSTEMLOGS.ERRORLOGS, Value cannot be NULL.]<LINE>CREATING ERROR LOG|【错误】——【严重异常】：未找到错误日志目录，数值不能为空。<LINE>正在生成错误日志
 It seems that it keeps throwing the same error over and over again, until it was shut down.|然后系统就不停地弹出相同报错，直至停机。
+
+//3737125183
+coldancientcity-description|一座存在于遥远过去，古人还未绝迹的古代城市。添加3个新生物，1种新物品，1个全新区域和1只蛞蝓猫，以及自制游戏机制。这3个新生物分别是：水黾(Striders)，古人(The Ancients)，和移动舌草(Mobile Worm Grass)。
+Frostspire|霜华尖塔
+The Acrobat|游侠
+THE ACROBAT|游侠
+An agile ancient city wanderer with the ability to triple jump. Spawns on SRS metropolis in the far past.|在古代城市里游荡的敏捷生物，可以进行三连跳。<LINE>出生在过去的七轮红日都市里。
+Better Prince|更好的王子
+Zigzoo3.BetterPrince-description|隐藏了王子脐带缆的纹理。我认为这也稍微改变了其AI。

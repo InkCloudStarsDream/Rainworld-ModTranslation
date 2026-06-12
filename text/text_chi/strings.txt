@@ -7634,6 +7634,57 @@ The LoneCat|孤寡猫
 LONECAT|孤寡猫
 A lonely slugcat that adapted to escape predators and find its way back home.|一只落单的蛞蝓猫，学会了躲避捕食者，并试图找到回家的路。
 
+//3733553614
+dietpebsi.martyr-description|制作SlugBase的一个模板
+The Martyr|殉道者
+THE MARTYR|殉道者
+A solumn slugcat running from their creator,<LINE> The Martyr seeks a place of safety in a world that has been taught by the gods to fear them.|一只从它的创造者身边逃走的独行蛞蝓猫，<LINE>殉道者试图在这片被神明教导要求敬畏的世上寻找一处安生之所。
+Sprawling Towers|蔓生高塔
+Underground Filter|地下过滤系统
+Unknown Identification Number|未知识别码
+UNKNOWN ID? (Abstract Convergence Manifold)|未知ID？（抽象收敛集管）
+Sharpened Legs|显锐支架
+UNKNOWN ID? (Neural Terminus)|未知ID？（神经末梢）
+Faltering Skyline|欲坠天际线
+UNKNOWN ID? (Memory Conflux)|未知ID？（内存集成）
+UNKNOWN ID? (Vents)|未知ID？（通风管）
+Equipment Manifest|设备清单
+Abandoned Pump System|废弃泵水系统
+Abandoned Graveyard|荒废墓地
+The Old Path|旧路
+Thriving City|繁荣都市
+The Tallest Tower|至高塔
+Pillars of Gold|黄金柱
+The World Anew|新世界
+Distress Signals of a Dead God|已死神明的求救信号
+The Shell|外壳
+Sunburnt Bridge|晒桥
+The Runaway Locale|逃离之所
+The Rotting Cage|腐朽囚笼
+Western Intake|西部摄水系统
+Two Gods Colony|双神区
+Respite From The Sun Above|日上喘息
+Resting Place|休憩之所
+Melting Architecture|融化结构
+That Which The Sun Doesn't Reach|日光不可及之处
+In Moment And Memory|记忆与转瞬之间
+Visions of Angered Gods|怒神幻境
+not again|别再来了
+The Sunburnt God|日晒神明
+The Sunburnt God (To Remember For Eternity)|日晒神明（铭刻于心）
+The Sunburnt God (To Lash Out in Fear)|日晒神明（恐惧怒火）
+The Sunburnt God (Pity and Mishandling)|日晒神明（过错遗憾）
+The Sunburnt God (Central Path)|日晒神明（中枢路径）
+Place of Rest|安息所
+Desolate Pathway|荒凉小径
+Desolate Pathway (The Leg)|荒凉小径（支架）
+Desolate Pathway (Underhang)|荒凉小径（下悬挂）
+Desolate Pathway (The Wall)|荒凉小径（高墙）
+Unknown Tunnels|未知隧道
+Damp Abyss|潮湿深渊
+???|？？？
+Hold Pickup with a nonedible item and a pearl to create a special pearl.|按住“拾取”，使用不可食用物品和一颗珍珠合成一颗特殊珍珠。
+
 //3734553250
 LostRailway-description|一个填补了缺失部分的区域——在更大的规划中。这个区域的入口最终被冲蚀打开了。该区域计划成为一个更大的模组合集（名称待定）的一部分。我没注意用了一个已经被使用过的区域代号，所以我不得不换掉所有的名字。
 Lost Railway|佚失铁路

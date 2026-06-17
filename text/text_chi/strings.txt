@@ -7487,28 +7487,6 @@ THE AMALGAMATION|嵌合体
 An Amalgamation born not quite of slugcat, yet not quite of lizard. Employed to deliver<LINE>a message in land unbeknownst to you, one where survival will require your brute strength. |一个既不完全是蛞蝓猫，又不完全是蜥蜴的嵌合体。<LINE>一只太蛞蝓猫化的蜥蜴；一只太蜥蜴化的蛞蝓猫。<LINE>受命前往未知的土地传达讯息，在那里求生更需要你的蛮力。
 In an exploration of self, The Amalgamation<LINE>sets forth to discover their identity.|在对自我探索中，嵌合体决心去寻找它身份的真相。
 
-//迭代器对话//
-//fpenteramal
-It seems as though you have made it. |看来你确实做到了。
-Suns design does prove effective, how quaint.|多么奇妙，这证实了红日的设计有效。
-My overseers failed to see through your unusual anatomy, no suspicion behind a red lizard hauling its kill.<LINE>Especially not with that nest connecting to the Outskirts of my can. |我的监视者没有看穿你不寻常的身体构造，对一只拖拽着猎物的烈焰蜥蜴毫无怀疑。<LINE>特别是那个连接到我巨构所在郊区的巢穴。
-... Where is it? |...东西在哪？
-I believe you were to be arriving with a pearl, no? You entered my can with it, I remember that much.<LINE>I suppose this means you are unsuccessful in your endeavor, thus losing your purpose and proving inefficient. |我确信你来的时候带着一颗珍珠，没有？我记得你带着珍珠进入了我的巨构。<LINE>我认为这意味着你的努力是失败的，你弄丢了你的任务目标，而这证明你很低效。
-You and I have that in common, though I unfortunately cannot help you. Though for you, there is another way.<LINE>Head west and down into the earth, past the Farm Arrays where the land fissures. Do what I cannot.  |你和我有一个共同点，但很不幸我帮不了你。但你还有另一条路能走。<LINE>向西走，深入地下，穿过农场阵列，去往大地断裂之处。去做我做不到的事。
-Or you could return to them empty-handed. |或者空着手回去找它们。
-There will be another of you, that I am more than aware. I will do what I can to be of aid, out of pity no less.|我很清楚，那里会有另一个你。出于怜悯，我会尽力协助你的。
-Just know that you do not have to be another bug wandering a worthless maze. |你只要知道你不必成为另一只徘徊在无用迷宫里的虫子。
-... Maybe we will both find our way out. |...或许我们都会找到自己的出路。
-//lttmenteramal
-Are my words reaching you?|你能听到吗？
-Hello there, little amalgamation.|你好啊，小嵌合体。
-There are no records of your body's blueprints from here or anywhere else, you poor thing. It is<LINE>blatant your extreme adaptations weren't possible through... natural means.|这里以及任何地方都没有关于你身体构造的蓝图的记录，可怜的小生灵。<LINE>很明显，你极端的适应能力不可能通过...自然手段获得。
-I would not mind some company, you are welcome to stay as long as you do not interrupt. Make yourself at home.  |我不介意陪伴，只要你不打扰我。你可以多待一会儿。
-If you dont mind me pondering, from where have you come from? I'm assuming your red counterhalf came from our outskirts considering the abundance.|如果你不介意我的探讨的话——你是从哪里来的？<LINE>我猜你身体红色的那部分来自我们的郊区，毕竟那里十分富饶。
-Say, you remind me of my neighbor in some way, Five Pebbles. Perhaps it is the way you look at<LINE>me, your expression does bear resemblance. |说起来，你让我想起了我的邻居——五块卵石。或许是因为你看着我的样子，你的表情太像祂了。
-... Here I am, monologuing to a strange amalgamation in my chamber. |...而我现在，正在对着一只进入我演算室的奇怪嵌合体自言自语。
-I've alerted the local group of your presence, now scurry along less you wish to bear me company. |我已经向本地群组报告了你的存在，如果你不愿陪伴我的话，就离开吧。
-
 //3713549163
 the_aquaflora-description|一只适应自然与海洋的蛞蝓猫。
 With adaptations to the vastness of the forests and the abyssal depths of the seas<LINE>survival is essential in a world changing drastically.|拥有对广袤森林和海底深渊的适应力，<LINE>生存在急剧变化的世界中至关重要。

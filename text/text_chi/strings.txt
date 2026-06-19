@@ -7894,3 +7894,7 @@ However, it seems like this place has experienced a catastrophic failure.|然而
 The sequence of proteins recorded have been twisted with one another in an unnatural way.<LINE>Strange adaptations have evolved since the departure of our creators, and the resulting<LINE>creatures have learnt to feed off the biological waste coming from the surface.|记录中的蛋白质序列以一种非自然的方式相互扭曲缠结。<LINE>自我们的创造者离去之后，发生了奇异的适应性演化，<LINE>新物种能够以来自地表的生物废料为食。
 It appears my brother, in his quest for survival, has nourished them with the infected material that he irresponsibly discarded time ago.|看来，我的兄弟在自救的过程中，用他不负责任地丢弃的腐化物滋养了它们。<LINE>那已是许久之前的事了。
 If I were you, I would take care when venturing into this place. Such destructive organisms would certainly be dangerous to a small creature like yourself!|如果我是你，去那里时一定会倍加小心。如此具有破坏性的生物，<LINE>对你这样弱小的生灵来说是非常危险的！
+
+//3747321652
+taintedbranch-description|一个贫瘠的地方，在很远的某处……虫子超多。
+Tainted Branch|病枝

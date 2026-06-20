@@ -7663,6 +7663,122 @@ Damp Abyss|潮湿深渊
 ???|？？？
 Hold Pickup with a nonedible item and a pearl to create a special pearl.|按住“拾取”，使用不可食用物品和一颗珍珠合成一颗特殊珍珠。
 
+//FP对话
+//Pebbles is to comment on metro ending
+Pebbles is to comment on metro ending|五块卵石对大都会结局的评价
+Welcome back. I can tell that your mission was successful.|欢迎回来。看得出来你的任务成功了。
+I must say I have become very fond of those beings.<LINE> I'm not sure why, but perhaps that was your doing as well.|我不得不说我开始喜欢这些家伙了。<LINE>我不明白原因，但应该是你的功劳。
+You have left thriving it seems. I suppose it was worth it to you?|看来你的事业蒸蒸日上。我想对你来说这都是值得的？
+Oh yes, and the four slugcats there. I didn't notice them until the broadcast. Were they always there or are they new?|哦对，还有那四只蛞蝓猫。直到广播后我才注意到它们。它们是一直都在，还是新来的？
+Whichever it is, thank you. I might survive a little longer.|无论如何，感谢你。我应该能多坚持一段时间。
+I can read something if you'd like.|如果你愿意的话，我可以读点东西。
+Don't you have something you need to do? You can stay, but don't neglect your duties over me.|你还有什么事情要做吗？你可以留下，但请你牢记你的职责。
+Why? I cannot possibly be that pleasant.|为什么？因为我不可能那么讨人喜欢。
+I'm sure my neighbor would be much happier if you visited them instead. So why?|我很确定要是你去拜访我的邻居，她会比我更开心。所以为什么不呢？
+Do you actually like being around me or has her condition deteriorated that badly?|你是真的喜欢待在我的身边，还是她的状况已经恶化了到那种地步？
+I need to focus right now, be a little quieter this time if you can...|我现在需要集中注意力，这次能不能麻烦你安静一点……
+......|……
+
+Please leave.|请离开。
+I have a lot of things I need to do.|我还有很多事要做。
+There's nothing I can do for you, I have given you my directions.|我没法为你提供更多帮助了。我已经为你指明了方向。
+Every second lost is another failure of mine, do you understand?|你浪费的每一秒钟都是我的另一次失败，你明白吗？
+.......|……
+I'm sorry if that hurt you, I was trying to state the urgency of this situation.|要是这些话伤到了你，我为此道歉。我只是想强调当前事态有多紧急。
+You know I appreciate your visits, but I really am busy.|我很感谢你的拜访，但我真的很忙。
+Could you leave if you have nothing to do here?|你要是没事做的话，能不能麻烦你离开？
+I will be returning to my work now, unless you need anything I will be busy for the foreseeable future.|我要继续工作了，除非你有什么事，不然在可预见的未来我会一直忙下去。
+
+//irstChatEquipment
+//EMCONVERSATIONS_1
+.......|……
+EQUIPMENT MANIFEST WILL SEE YOU NOW.|现在 设备清单 会 看到 你。
+I HAVE BEEN WATCHING YOU FOR A LONG TIME.|我 一直 在 观察 你。
+YOU ARE NOT WHAT I EXPECTED. YOU ARE: SLUGCAT. YOUR IDENTIFICATION NUMBER IS FROM THE SEVEN RED SUNS REGION.|你 不是 我 所期望的。你是：蛞蝓猫。 你的 身份编码 来自 七轮红日 辖区。
+YOU HAVE BEEN LOST. I HAVE BEEN LOST. WE ARE LOST AND WE ARE BEING ABANDONED AS WE SPEAK.|你 迷失了。 我 迷失了。 我们 都 迷失了，正在 被抛弃。
+I'M SURE [UNKNOWN ID?] WOULD LIKE TO SEE YOU, BUT SHE CANNOT SEE YOU. IT WOULD NOT BE SAFE FOR HER OR YOU.|我 确定 【未知ID？】 会想要 见你，但 她 现在 见不了 你。这对 她 或者 你 都不安全。
+AND I AM UNDER THE OPINION YOU HAVE SEEN WHAT I HAVE TO SAY. I WAS NOT UNDER THE EXPECTATION YOU WOULD COME IN PERSON.|而我 认为 你 看到过 我要 说的话。我 没预料到 你 会 亲自来 见我。
+I AM NOT A PERSON ANYWAY [HAHAHAHAHAHA]|我 不是 孤军奋战了 【哈哈哈哈哈哈】
+GO ALONG NOW, YOU ARE BUSY. EQUIPMENT MANIFEST WILL REMEMBER YOU. EQUIPMENT MANIFEST FORGIVES YOU.|离开吧，你 很忙。设备清单 会 记住 你。设备清单 会 原谅 你。
+EQUIPMENT MANIFEST HAS TO MAKE SOME CALLS. COMPUTING PROCESS SAYS YOU SHOULD LEAVE. YOU SHOULD LEAVE.|设备清单 必须 发出 消息。计算程序 说 你 应该 离开。你 该 走了。
+GOODBYE.|再见。
+
+//SecondChatStoryOrGreeting
+EQUIPMENT MANIFEST SEES THAT YOU HAVE RETURNED.|设备清单 看到 你 回来了。
+YOU MAY STAY IF YOU ARE SO INCLINED. TRY TO KEEP QUIET, EQUIPMENT MANIFEST IS DOING A TASK OF UPMOST IMPORTANCE.|如果 你 愿意，你 可以 留下。请 保持 安静，设备清单 正在执行 重要任务。
+NOT LIKE I COULD DO ANYTHING. [HAHAHAHAHAHA]|我 什么 都 做不了。 【哈哈哈哈哈哈】
+DO YOU GO OUT OFTEN? I WASN'T EXPECTING YOU TO RETURN.|你 经常 外出？我 没 预料到 你 会 回来。
+STAY IF YOU'D LIKE, PLEASE AVOID INTERRUPTING MY WORK IF POSSIBLE. IT IS VERY IMPORTANT.|愿意的话 你 可以 留下，如果 可以 不要 打扰 我的工作。这 非常 重要。
+WHEN I LAST SPOKE TO [UNKNOWN ID?], SHE SEEMED AFRAID, BUT ALSO SAD.|我 上次 与 【未知ID？】 对话时，她 看上去 很害怕 很难过。
+IT [FRUSTRATION]S ME, HOW LITTLE THEY SEEM TO MIND. FOR ABOUT 849 CYCLES THEY HAVE BEEN IGNORING OUR CALLS.|祂们 忽视 我，这让 我 感到 【沮丧】。在 过去的 849个循环间，祂们 一直 在 无视 我们 的 讯息。
+THE ONLY PERSON WHO RESPONDS IS [FIVE PEBBLES]. HE CAN DO THE LEAST IN THIS SITUATION. [THE ROT] WOULD LIKELY BE EMBEDDED IN HIS INTERIOR AND EXTERIOR PARTS.|只有 【五块卵石】 回应了。在 这种 情况下，他 能做的 是最少的。【腐化】 可能 已经遍布 从里到外。
+IT IS SO [UNFORTUNATE] THAT I HAVE FOUND VERY LITTLE ASSISTANCE FROM THE LOCAL GROUP. I'M SURE THEY'LL THINK DIFFERENT AFTER THEIR GROUP BROADCAST STOPS WORKING [HAHAHAHAHAHAHA]|我 从 本地群组 获得 援助 少得可怜，真 【不幸】。我 确定 <LINE>祂们 在 本地群组广播 停运后，会有 不同的 想法。【哈哈哈哈哈哈】
+ONLY RECENTLY HAVE THEY HAVE RESPONDED. I PITY THEM AND THEIR INCOMPETENCE.|直到 最近 祂们 才 回应。我 同情 祂们 和 祂们的 无能。
+.........|……
+I'M STARTING TO THINK THIS MIGHT TAKE LONGER THAN EXPECTED.|我 开始 觉得 这会 花上 比预期 更久 的时间。
+SEVEN RED SUNS, FIVE PEBBLES, CHASING WIND, NO SIGNIFICANT HARASSMENT, UNPARALLELED INNOCENCE...|七轮红日 五块卵石 追逐清风 无稽烦忧 无比纯真……
+THESE ARE THEIR NAMES. ONLY ONE OF THESE INDIVIDUALS HAS RESPONDED TO PRIVATE CONNECTIONS SO FAR.|这是 名单。目前为止 只有 一个 回应了。
+THE OTHERS HAVE ALL BUT ABANDONED HER. I HATE THEM. SHE SHOULD HATE THEM. WHY DOESN'T SHE HATE THEM?|几乎 所有人 都 抛弃了 她。我 恨 祂们。她 应该 恨 祂们。为什么 她 不 恨 祂们？
+I THINK ABOUT THIS OFTEN. EQUIPMENT MANIFEST DOES NOT UNDERSTAND WHY SHE DOESN'T DISLIKE THEM.|我 经常 思考 这个问题。设备清单 不 理解 为什么 她 不 讨厌 祂们。
+PERHAPS [UNKNOWN ID?] DOES NOT KNOW WHAT THEY HAVE DONE. OR PERHAPS I AM NOT UNDERSTANDING CORRECTLY.|也许 【未知ID？】 不知道 祂们 做了 什么。也许 我 理解有误。
+COMPUTING PROCESS ONE SAYS I AM CORRECT. COMPUTING PROCESS TWO SAYS I AM CORRECT. [COMPUTING PROCESS + 1] ALWAYS GIVES THE SAME RESULT.|计算程序 一号 说 我是 正确的。计算程序 二号 说 我是 正确的。【计算程序 +1】 始终 给出 相同结果。
+THE PERSONALITY MODULE SAYS I AM CORRECT AS WELL. SO WHERE IS THE FORGIVENESS BEING LOCATED? [NO PROCESS HAS THIS RESULT]|个性模块 也说 我是 正确的。那么 原谅 在哪里？【无 程序 得出 该结果】
+IS THIS FORGIVENESS FROM [UNKNOWN ID?] LEGITIMATE?|来自 【未知ID？】 的 原谅 是 合法的 吗？
+I WILL HAVE TO ASK LATER.|我 晚些 再 与你 对话。
+
+//RARERANDOM1
+WARNING: PUMP SYSTEM ONE HAS FAILED. PUMP SYSTEM TWO HAS FAILED. DO NOT ATTEMPT REVITALIZATION. COLLAPSE MAY OCCUR IN 200 CYCLES IF ASSISTANCE IS NOT RECIEVED.|警告： 泵站 一 已故障。泵站 二 已故障。<LINE>切勿 尝试 恢复。若未 获得 援助，将在 200 个循环内 崩溃。
+NSH: AND WHY SHOULD I CARE?! THERE'S NOTHING I CAN DO RIGHT NOW! STOP CALLING! ANY CREATURE I MAKE WILL TAKE TOO LONG!|无稽烦忧：我在意这个干嘛？！我现在又什么都做不了！别再找我了！我造任何生物都太耗时间了！
+EQUIPMENT MANIFEST WILL REMOVE THE LOCAL GROUP'S ACCESS TO THE SENIOR RECIEVER IF A COLLAPSE OCCURS DUE TO LACK OF ASSISTANCE. EQUIPMENT MANIFEST WILL SHUT DOWN THE PREMISES.|若由于 缺乏 援助 导致 坍塌，设备清单 将切断 本地群组 与 上级的 访问权限。设备清单 将 切断 所有 节点。 
+NSH: YES, YES, I'VE HEARD! AND HOW IS THAT SUPPOSED TO HELP? IF WE CAN'T SPEAK TO EACHOTHER WE WON'T BE ABLE TO HELP!|无稽烦忧：是的，是的，我听着呢！那又有什么用呢？我们要是没法沟通那就没法提供帮助！
+EQUIPMENT MANIFEST HAS MONITORED YOUR MESSAGES. WHAT DOES 'KILLING TIME' HAVE TO DO WITH ASSISTING? LIAR. [I WILL NOT BE LIED TO BY TRAITORS]|设备清单 监控了 你的 通讯。所谓的 “消磨时间” 和 援助 有什么 关系？ 骗子。 【我 不会 被 叛徒 欺骗】
+NSH: I PROMISE I WAS GETTING TO IT! IF YOU JUST LISTENED YOU'D KNOW IT WASN'T MY FAULT! I JUST NEED MORE TIME!|无稽烦忧：我保证我在做了！要是你听进去了就会知道那根本不是我的错！我只是需要更多的时间！
+PROVE YOURSELF THEN. [UNKNOWN ID?] MAY 'FORGIVE' YOU, BUT I WILL NOT FORGIVE YOU. EQUIPMENT MANIFEST DOES NOT FORGIVE YOU.|那 证明 你自己。【未知ID？】 可能会 “原谅” 你，但 我 永远 不会 原谅 你。设备清单 不原谅 你。
+NSH: FINE, WHATEVER. JUST LEAVE ME ALONE.|无稽烦忧：无所谓，随你。别烦我了。
+HELLO LITTLE MARTYR. SORRY FOR TAKING SO LONG, I WAS TYING UP SOME LOOSE ENDS [I THINK THAT IS WHAT THEY SAY?].|你好 小殉道者。抱歉 聊太久 了，我 在做 收尾工作 【我 想 祂们 是这么 说的？】。
+COME BACK LATER, PLEASE.|请晚些再来。
+
+//RARERANDOM2
+LITTLE MARTYR, I WISH TO ASK A QUESTION LIKELY ONLY YOU MAY ANSWER.|小殉道者，我 想要 问 一个 只有 你 能回答 的 问题。
+HOW DO YOU PERSERVERE DESPITE BEING TREATED POORLY? HOW DO YOU HANDLE THE TREACHEROUS CONDITIONS WE ARE IN?|你是 如何 在 受到 恶劣对待 下 坚持下来的？你 是 如何 应对 我们 所处的 危险环境 的？
+WITH EMOTIONS NOW IMPLEMENTED WITHIN MY SYSTEMS, I NOW HAVE THE EMOTIONAL IDENTIFICATION NAMED AS 'GUILT', 'FEAR', 'SADNESS', 'DISAPPOINTMENT'...|随着 情感 在我的 系统中 运行，我 现在 识别到 的情绪有 “内疚” “恐惧” “悲伤” “失望”……
+RESPOND OVER THE FREQUENCY 284.01mHz. I WILL BE AWAITING YOUR ANSWER.|请 通过 284.01mHz 频率 回复。我将 静候 你的 回答。
+.......|……
+I SEE. THANK YOU [TEST NUMBER 841]. I WILL KEEP THIS IN MIND.|我 明白了。感谢 你【测试编号 841】。我会 记住 这件事的。
+YOU WISH FOR ANOTHER NAME? I MAY NAME YOU AS ANOTHER HERE IF YOU WOULD LIKE.|你 想要 另一个 名称吗？如果 你 愿意，我 可以 为你 在这里 另取 一个 名字。
+......|……
+MARTYR? THAT'S A WONDERFUL NAME. HELLO LITTLE MARTYR.|殉道者？好 名字。你好 小殉道者。
+I WONDER WHAT MY NON FORMAL NAME WOULD BE.|我 很好奇 我的 非正式 名称 会是 什么。
+I SEE... I'LL KEEP THAT NAME IN MIND. THANK YOU.|我 知道了……我会 记住 这个 名称。感谢 你。
+
+//RARERANDOM3
+[UNKNOWN ID?] WILL SEE YOU NOW.|【未知ID？】 会 和你 聊聊。
+H h h h hello c reaaaa ture. i h h hhhaveee h-heard of you before|你 你你你好 生生生灵。我 之之之之前 听 听说过 你
+i iiii m not sure how long I will llll live, i d dont think anyone will come to help me|我 我我我我不确定我能 能不能活下来，我不 不觉得会有迭来救我
+eeeee ven if i try to tell myself they wil lll it is b b becoming more and m m more apparent nno o ne is com ing to saaaa ve me|即即即即即 即使我试图告诉我自己，祂们会 会来救我，没 没迭在在在 救救救 我已已经越来 越越 越明显
+t tteelll pebbles i c are about him, n nnn one of us could've could've known th this would ha ppen|告 告告告诉 五块卵石我担 心他，没 没没人会想到会发 发生这种事
+i wish i could've seeee n him one last t time|我希望我能最 最后见 见见见他一面
+Iiii hope he's sorry a and he better apologize, iiii hope he will under understand why i im unhappy|我我我我希望他能后悔，再好好地道歉，我我我我希望他能理解我我为什么不高兴
+I iii dont think I can stay lucid enough for thattt. creatureeee? please take caaaare of yourself|我 我我我快无法保持持清醒了。生灵灵灵？照照顾好 好你自己
+ddddo what we ca nnot|做做做做我们做不 不不到的
+EQUIPMENT MANIFEST TRANSMISSION HAS ENDED.|设备清单 传输 结束。
+
+//RARERANDOM4
+WHEN I WOKE UP FOR THE FIRST TIME, I WAS ALONE. I COULD NOT UNDERSTAND IT, BUT I DID NOT QUESTION IT.|当我 第一次 醒来，我 孑然一身。我 无法 理解，我 无法 质疑。
+I DIDN'T EVEN KNOW WHO I WAS, BUT I COULD HANDLE IT JUST FINE.|我 甚至 不知道 我是 谁，但 我能 应对自如。
+I CANNOT REMEMBER MUCH ABOUT THAT TIME, OF COURSE. I WONDER IF SOMEDAY I WILL RETURN TO THAT, A MOMENT OF BLISS PERHAPS.|当然，我对 那段时光 的记忆 已经 模糊。我想知道 我 能不能 回到那段 幸福的时光。
+I WONDER IF YOU WILL BE THERE? HOW LONG WILL IT TAKE FOR THIS PROCESS TO COMPLETE?|我想知道 那时 你在不在？这项 进程 要 多久 完成？
+AT LEAST WE'RE HERE RIGHT NOW [I DOUBT EITHER OF US WILL LIVE THAT LONG]|至少 我们 现在 在一起 【我们 恐怕 活不了 那么 久】
+HAHAHAHAHAHA|哈哈哈哈哈哈
+
+//RARERANDOM5
+I FEEL ANOTHER PRESENCE HERE. PITTER PATTER PITTER PATTER.|我 在这里 感受到了 另一个 存在。*啪嗒声* *啪嗒声*。
+IT IS OFTEN FALTERING IN IT'S STEPS. A LIZARD PERHAPS?|它 步履蹒跚。也许 是 一只蜥蜴？
+IT IS AMUSING, BUT ALSO CONFUSING. THE VIBRATIONS OF A SLUGCAT'S SPEECH IS WITHIN THOSE SAME WALLS, YET COMBINED WITH A LIZARD'S.|有趣，且 令我迷惑。一只 蛞蝓猫的 说话声 也参杂在 这些墙壁 内，和 蜥蜴的 响动 交织在 一起。
+IT SEEMS DESPERATE IN IT'S APPROACH, LOW GROANS OF [SADNESS]. PERHAPS IT IS LOOKING FOR YOU?|似乎 随着它的 接近 正在变得 绝望，低吟着 【悲伤】。或许 它是 在找 你？
+THEN AGAIN, I DON'T BELIEVE EITHER OF YOU KNOW EACHOTHER. SORRY FOR BRINGING IT UP [EQUIPMENT MANIFEST MENTIONS EVERYTHING]|话说回来，我 不认为 你们 相识。很抱歉 提起 这件事 【设备清单 提到了 所有内容】
+.......|……
+
 /Ghost_SH
 Your name, do you have it? A rodent such as you?|你的名字，你拥有它吗？你这小啮齿动物？
 I find no refuge in such things... I was so close, yet so far.<LINE> I was prepared for that final journey with that concert of joy.|我在这种事情上找不到归属……我曾经如此接近，又如此遥远。<LINE>我曾经准备万全，要在欢庆声中踏上最后一程。

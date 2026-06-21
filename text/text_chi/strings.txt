@@ -7620,12 +7620,12 @@ A solumn slugcat running from their creator,<LINE> The Martyr seeks a place of s
 Sprawling Towers|蔓生高塔
 Underground Filter|地下过滤系统
 Unknown Identification Number|未知识别码
-UNKNOWN ID? (Abstract Convergence Manifold)|未知ID？（抽象收敛集管）
+UNKNOWN ID? (Abstract Convergence Manifold)|未知ID？（抽象汇聚集管）
 Sharpened Legs|显锐支架
 UNKNOWN ID? (Neural Terminus)|未知ID？（神经末梢）
 Faltering Skyline|欲坠天际线
 UNKNOWN ID? (Memory Conflux)|未知ID？（内存集成）
-UNKNOWN ID? (Vents)|未知ID？（通风管）
+UNKNOWN ID? (Vents)|未知ID？（通风口）
 Equipment Manifest|设备清单
 Abandoned Pump System|废弃泵水系统
 Abandoned Graveyard|荒废墓地
@@ -7633,6 +7633,7 @@ The Old Path|旧路
 Thriving City|繁荣都市
 The Tallest Tower|至高塔
 Pillars of Gold|黄金柱
+1st Council Pillar, House of Two Gods|第一委员会支柱，双神议会
 The World Anew|新世界
 Distress Signals of a Dead God|已死神明的求救信号
 The Shell|外壳

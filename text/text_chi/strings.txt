@@ -8015,3 +8015,19 @@ If I were you, I would take care when venturing into this place. Such destructiv
 //3747321652
 taintedbranch-description|一个贫瘠的地方，在很远的某处……虫子超多。
 Tainted Branch|病枝
+
+//3753079502
+plop-description|低质小型拼接区续作
+Slugbetterworld|蝓适界
+a bit better...|好点了……
+its... ok|这……行
+pro leditor right here, it cant get any better than this|哦太好了，是一位专业编辑者，我们有救了
+oh, it can get better...|哦，还可以更好的……
+ok this is just showing off now|这不过是在炫技罢了
+cardinal one collected|红衣主教一号，已收集
+welcome to the harmonozone little creature|欢迎来到谐声区，小生灵
+...|……
+this place looks familiar...|这地方看起来很眼熟……
+WHAT IS THIS SHIT ROOM|这是什么鬼房间
+please, turn back|请回头
+swim down|游下去

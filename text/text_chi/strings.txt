@@ -5823,6 +5823,10 @@ Great Fanged Lizard|巨型毒牙蜥蜴
 Cloudfish|云鱼
 CloudFish|云鱼
 
+//The Measurer&Buffer
+cloverlizard|叶蜥蜴
+Clover Lizard|叶蜥蜴
+
 //生物名称补充
 HunterDaddy|红长腿菌
 TowerCrab|塔蟹
@@ -7123,6 +7127,79 @@ There was even times where Moon interfered when he was getting a bit heated!|有
 I do miss those days... But enough about that! To get this means you have been there yourself<LINE>and found it just as entertaining as they once did!|我很怀念那段日子……不过扯远啦！你能找到这东西，就说明<LINE>已经去过那儿了，而且和曾经的人们一样玩得很开心吧！
 I wonder what other silly adventures you may have gone on~|真想知道你还经历了什么幼稚的冒险~
 
+//3631022024
+Older Hunter
+【简介自带翻译】
+The Shell
+Looks To The Moon
+The Shell (Vents)|外壳（通风口）
+Looks To The Moon (Arteries)|仰望皓月（动脉）
+Luna
+Waterfront Facility
+
+//携带交流印记//
+...thank you.|……谢谢你。
+Thank you.|谢谢你。
+Thank you!|谢谢你！
+//attempts To Pick Up
+Almost got it! Try again, <PLAYERNAME>.|几乎够到它了！再来一次，<PLAYERNAME>。
+Almost had it...|几乎够到它了……
+Ah... Once more?|呃……再试试？
+Nearly there!|就差一点！
+Nearly.|很接近了。
+So close!|差一点！
+So close.|差一点。
+...!……！
+...|……
+//ready To Grab From Throw
+//失败
+You'll get it next time.|下次会成功的。
+//投掷的是长矛
+Ah, please do not throw it!|呃啊，别扔那个！
+//矛插在了墙上
+Oh...|哦……
+//如果月姐喜欢猫
+Excuse me...|让我试试……
+I cannot seem to reach it, <PLAYERNAME>. Could you help me out and try to toss it up here|看来我够不到它，<PLAYERNAME>。你能帮我把它扔上来吗？
+I cannot seem to reach it, <PLAYERNAME>. Could you help me out and try to carefully pass it to me?|看来我够不到它，<PLAYERNAME>。你能小心地把它递给我吗？
+It's too far away, can you use the alternating gravity to give it to me?|它太远了，你能利用交替的间歇重力把它交给我吗？
+I'm afraid I cannot move from my position to inspect your gift.|恐怕我无法我的当前位置去查看你的礼物。
+I can't reach it, <PLAYERNAME>.|我够不到它，<PLAYERNAME>。
+It's too far away!|它被扔得太远了！
+I cannot move, <PLAYERNAME>.|我动不了，<PLAYERNAME>。
+//ever Told How To Throw
+Perhaps I can help direct you on where to throw it?|或许我可以告诉你该在哪扔？
+The optimal throwing position is to your right, <PLAYERNAME>.|最佳投掷点在你的右边，<PLAYERNAME>。
+The optimal throwing position is to your left, <PLAYERNAME>.|最佳投掷点在你的左边，<PLAYERNAME>。
+Right.|右边。
+A little right...|再往右一点……
+Left.|左边。
+A little left...|再往左一点……
+Don't move.|别动。
+Now, turn left.|现在，向左转。
+Now, throw it!|就是现在，扔出去！
+//打断
+Do you not care to know?|你是不关心了吗？
+Please...|拜托……
+Are you no longer interested?|你不再感兴趣了吗？
+//由于蛞蝓猫抓住神经元而打断
+No, please, release it!|不，不要，放开它！
+NO! ... no. Let it go, please.|不要！…… 不。放开它，拜托了。
+Wait, that's not food!|等等，那不是食物！
+not... edible, please.|不……可食用，拜托了。
+What are you doing? Stop!|你在做什么？停下！
+stop, don... don't!|停下，不……不要！
+Please, don't touch those! I don't have many left.|请不要碰它们！我不剩多少了。
+LET GO! p please|放 开！拜托了……
+Despite some power to my facility being restored, those are still crucial to my survival!|尽管我的部分设施恢复了电力，但这些对我的生存仍旧至关重要！
+Those are the only memories I have left. I will cease functioning without them.|这是我仅剩的记忆了。离了它们我无法运作。
+Your intention was to help me, was it not? Then please don't play with those!|你的初衷是来帮助我，对吧？那就不要再玩弄那些东西了！
+Why would you take one of these after helping me? I do not understand your logic,<LINE><PLAYERNAME>, put it back.|你为什么要在帮助我后，再拿走其中一个？我不明白你的逻辑，<LINE><PLAYERNAME>，把它放回去。
+//被攻击
+Please, don't throw it at me! I will not tolerate this behavior!|请不要向我扔那个东西！我绝不容忍那样的行为！
+You miss me with your gift, but you can hit me with that?|你用礼物向我表示你的思念，但你却用它打我？
+Why?|为什么？
+
 //3632872462
 mlfunctioningbatteriy-description|增加一个区域
 Malfunctioning Batteries|故障储电区
@@ -7273,6 +7350,9 @@ Communication System|通讯系统
 
 The Measurer - Options|测度员 - 选项
 Unlock Buffer campaign immediately|立即解锁缓存员流程
+
+CloverLizard|叶蜥蜴
+Clover Lizard|叶蜥蜴
 
 //3654423803
 gluttonyslugcat-description|他的暴饮暴食使我作呕。<LINE>我制作了这个模组，因为我想它会变得非常有趣且富有挑战性。<LINE>lvuk具有200点饱食度，并且需要100点才能雨眠，当然他也有一些能力。<LINE>这是一个玩笑模组，不要太当真。<LINE感谢RiTiKiN提供美术部分。
@@ -7620,12 +7700,12 @@ A solumn slugcat running from their creator,<LINE> The Martyr seeks a place of s
 Sprawling Towers|蔓生高塔
 Underground Filter|地下过滤系统
 Unknown Identification Number|未知识别码
-UNKNOWN ID? (Abstract Convergence Manifold)|未知ID？（抽象汇聚集管）
+UNKNOWN ID? (Abstract Convergence Manifold)|未知ID？（抽象收敛集管）
 Sharpened Legs|显锐支架
 UNKNOWN ID? (Neural Terminus)|未知ID？（神经末梢）
 Faltering Skyline|欲坠天际线
 UNKNOWN ID? (Memory Conflux)|未知ID？（内存集成）
-UNKNOWN ID? (Vents)|未知ID？（通风口）
+UNKNOWN ID? (Vents)|未知ID？（通风管）
 Equipment Manifest|设备清单
 Abandoned Pump System|废弃泵水系统
 Abandoned Graveyard|荒废墓地
@@ -7633,7 +7713,6 @@ The Old Path|旧路
 Thriving City|繁荣都市
 The Tallest Tower|至高塔
 Pillars of Gold|黄金柱
-1st Council Pillar, House of Two Gods|第一委员会支柱，双神议会
 The World Anew|新世界
 Distress Signals of a Dead God|已死神明的求救信号
 The Shell|外壳
@@ -8031,3 +8110,7 @@ this place looks familiar...|这地方看起来很眼熟……
 WHAT IS THIS SHIT ROOM|这是什么鬼房间
 please, turn back|请回头
 swim down|游下去
+
+//3753687438
+dg_littletower-description|我第一个小型区域！紫色调、食物丰富以及一只非常愤怒的蜥蜴。<LINE>由于我没有倾盆大雨DLC或观望者DLC，所以我无法为某些蛞蝓猫定制时间线区分。<LINE>本模组与基层（Substratum）不兼容，因为使用了相同的入口。<LINE>入口位于SU_A63。感谢游玩我的第一个区域模组。
+Little Industrial Tower|小型工业塔

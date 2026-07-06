@@ -8114,3 +8114,12 @@ swim down|游下去
 //3753687438
 dg_littletower-description|我第一个小型区域！紫色调、食物丰富以及一只非常愤怒的蜥蜴。<LINE>由于我没有倾盆大雨DLC或观望者DLC，所以我无法为某些蛞蝓猫定制时间线区分。<LINE>本模组与基层（Substratum）不兼容，因为使用了相同的入口。<LINE>入口位于SU_A63。感谢游玩我的第一个区域模组。
 Little Industrial Tower|小型工业塔
+
+//3758132647
+ravagedskyline-description|在叛教巨构建筑建造前，该区域的古人曾在他们的神圣城堡附近统治过一个宏伟的首都。<LINE>而如今，上方的巨构使该区域笼罩在黑暗之中，从邻近区域刮来的风扬起尘土，将天空染成暗红色。
+Ravaged Skyline|损毁天际线
+Dusted Coast|尘封海岸
+Bloody Causeway|血染堤
+Former Capital|旧都
+Chapel Pathway|教堂走道
+Northern Face|北面

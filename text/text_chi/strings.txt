@@ -2186,17 +2186,17 @@ The Incinerator|焚化炉
 The Dreamer|梦者
 THE DREAMER|梦者
 Dreamer|梦者
-Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the desert.|在你的焦灼的梦中，亿万年前的景象迷住了你，你的毕生目标<LINE>就是驾驭这份久经岁月磨损的知识在沙漠中生存。
-Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the changing lands.|在你的焦灼的梦中，亿万年前的景象迷住了你，你的毕生目标<LINE>就是驾驭这份久经岁月磨损的知识，在这方变迁的土地上生存下来。
+Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the desert.|在你焦灼的梦中，亿万年前的景象迷住了你，你的毕生目标<LINE>就是驾驭这份久经岁月磨损的知识在沙漠中生存。
+Visions of eons past mesmerised you in your anxious dreams, your lifelong goal <LINE> has been to harness its long-eroded knowledge simply to survive the changing lands.|在你焦灼的梦中，亿万年前的景象迷住了你，你的毕生目标<LINE>就是驾驭这份久经岁月磨损的知识，在这方变迁的土地上生存下来。
 Adorned in decoration of the past, you aim to understand this world.|被遗弃在过去的景象里，你试图理解这个世界。
 Clawing your way out of the sea, you're deadset on your goals to survive.|挣扎着走出荒漠，你对自己的生存一筹莫展。
 uhhh dotn play this ok???|额能先别玩吗？？？
 UHHH DOTN PLAY THIS OK???|额能先别玩吗？？？
-(PLACEHOLDER) The greyest of buildings house a creature-priest. <LINE> Dedicated to your craft, you respectfully hunt and preserve your prey. (PLACEHOLDER)|（占位符）灰色建筑里住着一位牧师<LINE>专注于你的工艺，你充满敬意地狩猎和保存你的猎物。（占位符）
-The Viper|毒蛇
-THE VIPER|毒蛇
-Viper|毒蛇
-The changing lands have stirred a venomous, deadly assassin. Reeling from a<LINE>devastating injury, you must use your fangs to battle your ravenous hunger and survive.|变迁的土地唤醒了一个恶毒而致命的杀手。在<LINE>致命的境地中求生，你必须用你的獠牙来对抗你饥饿并生存下来。
+(PLACEHOLDER) The greyest of buildings house a creature-priest. <LINE> Dedicated to your craft, you respectfully hunt and preserve your prey. (PLACEHOLDER)|（占位符）灰色建筑里住着一位生灵祭司。<LINE>专注于你的工艺，你充满敬意地狩猎和保存你的猎物。（占位符）
+The Viper|毒牙
+THE VIPER|毒牙
+Viper|毒牙
+The changing lands have stirred a venomous, deadly assassin. Reeling from a<LINE>devastating injury, you must use your fangs to battle your ravenous hunger and survive.|变迁的土地唤醒了一个恶毒而致命的杀手。在<LINE>致命的境地中求生，你必须用你的獠牙来对抗饥饿并生存下来。
 An experienced assassin with a devastating injury,<LINE>you hit to stun and use your venom to finish the job.|经验丰富的刺客，身受重伤，<LINE>你能一击昏迷，然后用毒液完成你的任务。
 I wouldn't recommend using this slugcat in expedition, as it's untested. You do you tho.|我不建议在探险中使用这种蛞蝓猫，因为它未经测试。
 The Siren|塞壬
@@ -2206,8 +2206,8 @@ The colder waters have stirred an ancient predator. <LINE> You fumble with spear
 The Trailblazer|开拓者
 THE TRAILBLAZER|开拓者
 Trailblazer|开拓者
-A master of combat raised by scavengers in the coldest of wastes, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|由拾荒者在凛原中培养的战斗大师，你<LINE>在逝去的众神的王国中漂流，寻找远在你小家之外的秘密。
-A master of combat raised by scavengers in the dying lands, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|由拾荒者在奄奄一息的土地上培养的战斗大师，你<LINE>在逝去的众神的王国中漂流，寻找远在你小家之外的秘密。
+A master of combat raised by scavengers in the coldest of wastes, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|由拾荒者在凛原中培养的战斗大师，你<LINE>在逝去众神的王国中漂流，寻找远在你小家之外的秘密。
+A master of combat raised by scavengers in the dying lands, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|由拾荒者在奄奄一息的土地上培养的战斗大师，你<LINE>在逝去众神的王国中漂流，寻找远在你小家之外的秘密。
 Your kin have assigned you another goal, and so <LINE> you embark on your journey once again.|你的君主给你分配了另一个目标，<LINE>所以你再次踏上了你的旅程。
 The Oracle|神谕
 Oracle|神谕
@@ -8095,6 +8095,13 @@ If I were you, I would take care when venturing into this place. Such destructiv
 taintedbranch-description|一个贫瘠的地方，在很远的某处……虫子超多。
 Tainted Branch|病枝
 
+//3750500519
+Garlide.TheTrusted-description|（说了很多丧气的描述）当时到底发生了什么？？别听他的，他不值得你*笃信*
+The Trusted|笃信
+THE TRUSTED|笃信
+Trusted|笃信
+A slugpup with more dog-like behavior. Always takes assignments seriously, and...<LINE>Wait, stop playing with the rubbish ball!|一只更像忠犬的蛞蝓猫幼崽。总是认真对待任务，而且……<LINE>等等，别玩废料球了！
+
 //3753079502
 plop-description|低质小型拼接区续作
 Slugbetterworld|蝓适界
@@ -8103,7 +8110,7 @@ its... ok|这……行
 pro leditor right here, it cant get any better than this|哦太好了，是一位专业编辑者，我们有救了
 oh, it can get better...|哦，还可以更好的……
 ok this is just showing off now|这不过是在炫技罢了
-cardinal one collected|红衣主教一号，已收集
+cardinal one collected|一号核心，已收集
 welcome to the harmonozone little creature|欢迎来到谐声区，小生灵
 ...|……
 this place looks familiar...|这地方看起来很眼熟……
@@ -8115,6 +8122,42 @@ swim down|游下去
 dg_littletower-description|我第一个小型区域！紫色调、食物丰富以及一只非常愤怒的蜥蜴。<LINE>由于我没有倾盆大雨DLC或观望者DLC，所以我无法为某些蛞蝓猫定制时间线区分。<LINE>本模组与基层（Substratum）不兼容，因为使用了相同的入口。<LINE>入口位于SU_A63。感谢游玩我的第一个区域模组。
 Little Industrial Tower|小型工业塔
 
+//3755113964
+lapis_ott-description|在外面有一个庞大的世界。一个对大多数人来说都不合适的世界。一个我们无法抵达的世界。不过，也许，我们可以稍微多看到它一点。只要我们能看到……
+The Aquarius|宝瓶座
+THE AQUARIUS|宝瓶座
+Aquarius|宝瓶座
+You were not designed for this place, an outlier. The world is harsh and unsympathetic, will you find a way?|你并不是为了这个地方而被创造出来的，你是个异类。<LINE>世界残酷而毫无同情心，你能否从中找到一条出路？
+Flighted Sullen Strings|沉弦飞扬
+Weightless Mass|无重之重
+Flighted Sullen Strings, Arteries|沉弦飞扬（动脉）
+Flighted Sullen Strings, Memory Bank|沉弦飞扬（内存库）
+Flighted Sullen Strings, Central Processing|沉弦飞扬（中央处理器）
+Flighted Sullen Strings, Output|沉弦飞扬（输出端）
+The Ceiling|顶部
+Leather Jungle|皮革丛林
+Thunder Walls|轰雷之墙
+Dark Roof|昏黑顶棚
+High Machinery|高耸机械
+Support|支承
+Luna|皓月
+Monorail|单轨铁路
+Aquifer|含水层
+The Freezer|冷藏库
+Plateu|高原
+
+//3755197563
+hyps_hillypumps-description|我的第一个区域模组，非常迷你！欢迎任何反馈。
+Hilly Pumps|小丘泵站
+/HYPS_DARK_GREEN3
+"Purification Machine Health Update"|“过滤器状态日志更新”
+"Machine #1 - 2% (UNHEALTHY)"|“设备#1-2%（不健康）”
+"Machine #2 - 0.7% (UNHEALTHY)"|“设备#2-0.7%（不健康）”
+And the list goes on. I'm sorry <PLAYERNAME>, I won't read all of these.|往下还有。抱歉，<PLAYERNAME>，我无法把这些全部读给你听。
+However, on the other side..|不过，另一方面……
+"They've declared this area deprecated."|“此区域已被宣布废弃停用。”
+"Excessive amounts of obstructions and maintenance. We're better off without it."|“大量的杂物使维护成本居高不下。我们放弃这里会更省事。”
+
 //3758132647
 ravagedskyline-description|在叛教巨构建筑建造前，该区域的古人曾在他们的神圣城堡附近统治过一个宏伟的首都。<LINE>而如今，上方的巨构使该区域笼罩在黑暗之中，从邻近区域刮来的风扬起尘土，将天空染成暗红色。
 Ravaged Skyline|损毁天际线
@@ -8123,3 +8166,47 @@ Bloody Causeway|血染堤
 Former Capital|旧都
 Chapel Pathway|教堂走道
 Northern Face|北面
+
+//3759496849
+ALIVE_FonabA-description|这是一个【活的】区域
+Water Facility|水滨设施
+Water Facility (Farm Arrays)|水滨设施（农场阵列）
+Water Facility (Sky Islands)|水滨设施（天空群岛）
+Water Facility (Subterrain)|水滨设施（地下）
+/water_facility_pearl
+Oh, this pearl from water facility!|啊，这颗珍珠来自水滨设施！
+This water facility was used to pump excess water from the Farm Arrays.|这座设施是用来把农场阵列多余的水量抽走的。
+It's become so useless.|它现在已经失业了。
+But I don't know if it's still working.|不过，我不确定它是否还运行着。
+
+//3763058691
+ASE-description|该模组起初只是一个区域，现在它是一个系列拓展，通过它拜访某个熟悉的友好面孔！对沿途的环境保持警惕，你会遭遇大沙暴，走过血红天穹所笼罩的黑暗地带，穿过被浪潮摧毁的废墟，跨越那将先于其他建筑坠毁之地。该模组仍在大力开发中，我第一次制作如此规模的作品，所以请注意：可能存在各种问题或bug。
+The Dustbowl|尘碗
+Sanded Station|覆沙站台
+sanded station|覆沙站台
+Former Canals|老运河
+former canals|老运河
+rusty central|锈色中心
+dusted coast|尘封海岸
+bloody causeway|血染堤
+former capital|旧都
+chapel pathway|教堂走道
+northern face|北面
+
+//3765600200
+decaying_deadlands-description|一片孤寂荒凉的沙漠，被黑暗所笼罩。增加了2个(?)可探索区域。
+Decaying Deadlands|腐化死地
+Quiet Corridors|静寂廊道
+Abandoned Arboretum|废弃植物园
+Realm of Madness|癫狂领域
+Huh|啥
+Silent Strings|弦音稀声
+Gardens|园圃
+Sunlit Sands|灿沙
+
+//3765976995
+surrealist-description|一只对现实的感知十分微弱的蛞蝓猫。你将通过新的视角来展开一段熟悉的旅程——依靠迷幻菇。
+The Surrealist|虚实行者
+THE SURREALIST|虚实行者
+Surrealist|虚实行者
+A slugcat with a fragile grip on reality. A familiar journey through new eyes -- and fuelled by mushrooms.|一只对现实的感知十分微弱的蛞蝓猫。<LINE>一段熟悉的旅程将以新的视角展开——依靠迷幻菇。

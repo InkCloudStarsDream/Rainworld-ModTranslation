@@ -8169,12 +8169,12 @@ Northern Face|北面
 
 //3759496849
 ALIVE_FonabA-description|这是一个【活的】区域
-Water Facility|水滨设施
-Water Facility (Farm Arrays)|水滨设施（农场阵列）
-Water Facility (Sky Islands)|水滨设施（天空群岛）
-Water Facility (Subterrain)|水滨设施（地下）
+Water Facility|汲水区
+Water Facility (Farm Arrays)|汲水区（农场阵列）
+Water Facility (Sky Islands)|汲水区（天空群岛）
+Water Facility (Subterrain)|汲水区（地下）
 /water_facility_pearl
-Oh, this pearl from water facility!|啊，这颗珍珠来自水滨设施！
+Oh, this pearl from water facility!|啊，这颗珍珠来自汲水区！
 This water facility was used to pump excess water from the Farm Arrays.|这座设施是用来把农场阵列多余的水量抽走的。
 It's become so useless.|它现在已经失业了。
 But I don't know if it's still working.|不过，我不确定它是否还运行着。
@@ -8210,3 +8210,13 @@ The Surrealist|虚实行者
 THE SURREALIST|虚实行者
 Surrealist|虚实行者
 A slugcat with a fragile grip on reality. A familiar journey through new eyes -- and fuelled by mushrooms.|一只对现实的感知十分微弱的蛞蝓猫。<LINE>一段熟悉的旅程将以新的视角展开——依靠迷幻菇。
+Realm of Madness (Exterior)|癫狂领域（外缘）
+Realm of Madness (Shaded Citadel)|癫狂领域（阴影城堡）
+Realm of Madness (Chimney Canopy)|癫狂领域（烟囱天棚）
+Realm of Madness (Sky Islands)|癫狂领域（天空群岛）
+Eat mushrooms to gain the adrenaline effect|吃掉蘑菇以进入时缓状态
+While adrenaline is active, your jump boost is much higher than normal|时缓生效期间，跳跃高度提升
+Hitting a creature with a spear while adrenaline is active causes it to explode|时缓生效期间，长矛对生物造成伤害时会爆炸
+Press SPECIAL to cancel adrenaline|按下【特殊】键以退出时缓状态
+Hold SPECIAL while karma is reinforced to gain the adrenaline effect|拥有业力花保护时，按【特殊】键可主动进入时缓状态
+You are immune to stuns while your karma is reinforced|拥有业力花保护时，你免疫眩晕

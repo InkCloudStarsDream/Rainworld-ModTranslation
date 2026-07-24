@@ -5085,7 +5085,6 @@ Collect the vista in <region_name>|到达位于 <region_name>的瞭望点
 Collecting vistas|访问瞭望点
 Room|指定房间
 
-
 //观望者专属任务
 Collect [<current>/<amount>] ripplespawn eggs <onecycle>|<onecycle>收集[<current>/<amount>]枚涟漪游魂卵
 Collecting ripplespawn eggs|收集涟漪游魂卵
@@ -5116,6 +5115,26 @@ In one Cycle|单循环
 in one cycle|在单循环内，
 Portal Room|指定房间
 Region|区域
+Dropping a creature in the bottom of Daemon|将一个生物扔下恶魔底部
+Drop a <crit> in the bottom of Daemon|将一只<crit>扔下恶魔底部
+Touch all the Watcher toys in one cycle|在单循环内，接触所有玩具
+Touching Watcher toys|触摸玩具
+Deliver <article> <type> pearl to the pearl reader in Ancient Urban|将<article><type>珍珠，送达上古城市中的阅读机器
+Delivering pearls to the pearl reader|珍珠阅读
+common|普通
+Common|普通珍珠
+a|一颗
+the| 
+Feed the Rarefaction Cell to an Angler (completes if you die)|将质量稀释电池喂给琵琶鱼(死亡后也视为完成任务)
+Feeding the Rarefaction Cell to an Angler|将质量稀释电池喂给琵琶鱼
+Rest [<current>/<amount>] times <unique> shelters <region>|<region><unique>庇护所内休眠[<current>/<amount>]次
+Resting in shelters|在庇护所内休眠
+Different regions|不同区域
+Unique shelters|同一庇护所
+in|的
+ unique|同一
+Touch the <pearl> pearl in <region>|收集位于<region>的<pearl>珍珠
+Touching pearls|珍珠收集
 
 // UI
 <LINE>Completed by: |<LINE>完成于：
@@ -5204,40 +5223,39 @@ random|随机
 
 //菜单//
 Bingo Config|Bingo设置
-Open Bingo HUD keybind:|显示bingo板按键：
 Which button opens/closes the Bingo grid in game|设置按键用于打开/关闭游戏内的bingo表格
+- Open Bingo HUD keybind|- 显示bingo板按键              
 Use map<LINE>input instead:|使用“地图键”<LINE>代替：
-Show tutorials:|显示教程：          
--  Keyboard|-  键盘
--  Controller 1|-  手柄1
--  Controller 2|-  手柄2
--  Controller 3|-  手柄3
--  Controller 4|-  手柄4       
-Quick reset keybind:|快速重置键：              
+Show tutorials|显示教程
+Keyboard - |键盘 - 
+Controller 1 - |手柄 1 - 
+Quick reset keybind|快速重置键
 Reset a Bingo/Expedition save instantly|立即重置Bingo/探险存档
-Play custom music in bingo menu:|bingo菜单播放音乐：                       
-Play custom music when game ends:|游戏结束时播放音乐：           
-Play custom music when your team is losing:|队伍败北时播放音乐：               
-Fill icon sprites:|填充图标：      
+Play custom music in bingo menu|bingo菜单播放音乐
+Play custom music when game ends|游戏结束时播放音乐
+Play custom music when your team is losing|队伍败北时播放音乐
+Fill icon sprites|填充图标
 Fill the crosses and arrows on certain goals|填充特定任务的“叉”和“箭头”图标
-Discord Rich Presence:|Discord状态显示：          
+Discord Rich Presence|Discord状态显示
 Show Bingo as your Discord activity (restart to take effect)|将Bingo显示到你的Discord activity中（重启后生效）
-1:1 spectator board:|1：1看板：          
+1:1 spectator board|1：1看板
 Leave Bingo board at same scale as gameplay while in board viewer mode|使Bingo板在观众模式下保持游戏时所显示的大小
-Singleplayer team color:|单人游戏队伍颜色：           
-Which team's color to use in singleplayer|单人游戏时所使用的队伍颜色                           
-Red|红
-Blue|蓝
-Green|绿
-Orange|橙
-Pink|粉
-Cyan|青
-Black|黑
-Hurricane|飓风
+Singleplayer team color|单人游戏队伍颜色
+Which team's color to use in singleplayer|单人游戏时所使用的队伍颜色
+Blue|蓝色
+Green|绿色
+Orange|橙色
+Pink|粉色
+Cyan|青色
+Black|黑色
+Peach|桃色
+Indigo|靛蓝色
+Blizzard|白色
+Yellow|黄色
 Gameplay|游戏设置
 Bingo Gameplay Config|Bingo游戏设置
 Start with the Dial Warp perk fully charged:|开局即可定向传送：              
-Ripple eggs required for dial warp:|定向传送所需的涟漪游魂卵数量：                     
+Ripple eggs required for dial warp:|定向传送所需的涟漪游魂卵数量：                          
 Dial Warp|定向传送
 Dial Warp (Ripple Egg Warp) is unlocked from the start. <LINE>Watcher Exclusive|定向传送（涟漪卵传送）初始即可使用。<LINE>观望者专属
 

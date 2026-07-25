@@ -8277,6 +8277,9 @@ East Coast|东岸
 Coolant Conduit|冷却通管
 Halted Conduit|停滞通管
 The Coast|海滨
+There seems to be a man here.|似乎有一个人曾经在这里。
+He offers you an egg.|他给了你一枚卵。
+This place is cold, find lanterns to remain alive.|这里很冷，找个灯笼来维持你的体温。
 
 /EC_PEARL_CONV
 This pearl is slightly damaged by water, but I'll do my best to try and read it...|这颗珍珠有点被水流侵蚀了，不过我会尽我所能……

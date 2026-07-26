@@ -8234,7 +8234,7 @@ northern face|北面
 
 //3765600200
 decaying_deadlands-description|一片孤寂荒凉的沙漠，被黑暗所笼罩。增加了2个(?)可探索区域。
-Decaying Deadlands|腐化死地
+Decaying Deadlands|衰败死地
 Quiet Corridors|静寂廊道
 Abandoned Arboretum|废弃植物园
 Realm of Madness|癫狂领域

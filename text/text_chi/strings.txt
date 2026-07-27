@@ -4024,6 +4024,8 @@ The Exoframe|外框
 Undershade|荫蔽
 Tidebrace|防波堤
 The Conduit|导管
+Conduit|导管
+The Palisade|栅栏
 The West Leg|西支架
 The East Leg|东支架
 The Decaying Wall|衰蚀高墙
@@ -4031,7 +4033,10 @@ The Decaying Wall|衰蚀高墙
 Looks To The Moon (General System Bus)|仰望皓月（通用串行总线）
 Looks To The Moon (Damaged Transform Arrays)|仰望皓月（损毁转换阵列）
 Looks To The Moon (Memory Conflux)|仰望皓月（内存集成）
-
+Looks to the Moon (Volatile Transform Cluster)|仰望皓月（易失转换群集）
+Looks to the Moon (Parallel Control Bus)|（并行控制总线）
+Looks to the Moon (Primary Memory Conflux)|仰望皓月（主内存集成）
+Looks to the Moon (Exhaust Framework)|（排气框架）
 
 /// 错误信息 ///
 DroughtAssets folder is missing! Put DroughtAssets with [Rain World Drought.dll]!|找不到 DroughtAssets 文件夹！请将 DroughtAssets 文件夹与 [Rain World Drought.dll] 放在一起！

@@ -6997,6 +6997,7 @@ Hatred|憎恨
 //3608877389
 bodminstheboxesregion-description|一个小巧而平和的区域，位于排水系统与管道堆场之间。这个是我做的第一个模组，所以可能会有一点BUG。
 The Boxes|箱庭
+Decaying Pipes|衰朽管道
 
 //3608951932
 alduris.jigsaw-description|现在游戏变成了一款拼图谜题，你必须边玩边解开谜题（可配置）。

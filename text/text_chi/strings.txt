@@ -7526,7 +7526,7 @@ Lambent Veil|曳光幕城
 
 //3701381440
 Forgotten_Underground-description|我的第一个模组！我之前没搓过模组所以可能会出点问题？该区域是一个介于过滤系统、管道堆场和垃圾堆之间的集合。
-Forgotten Underground|佚失铁道
+Forgotten Underground|佚失地道
 Forgotten Wastes|遗忘废墟
 
 //3701548076

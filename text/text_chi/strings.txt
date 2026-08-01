@@ -8306,3 +8306,90 @@ It has sustained some water damage, quite surprising that a creature like you ma
 Strange... it is encoded in a writing style from <LINE> before my construction... that was quite some time ago.|奇怪……编码它所用的书写方式……属于我诞生之前的时期，<LINE>而那已经是很久远的事了。
 Anyway, there seems to be a signature below the list, <LINE> but it has been roughly scratched out by some sharp utensil.|总之，清单最底下似乎是有个签名，但被什么尖锐的东西刮擦掉了。
 This could be... useful--for my logs, little ruffian.|也许……它还有用，对于我的日志来说。小恶棍。
+
+//3774781226
+Subtitles
+peterklaus.subtitles-description|在游戏左下角显示字幕。<LINE>为那些听力障碍、正在听歌或其他原因需要无障碍的人提供！
+Player|玩家
+Slugcat Dies|蛞蝓猫：死亡
+[Slugcat dies]|【蛞蝓猫：死亡】
+Slugcat Stunned|蛞蝓猫：昏迷
+[Slugcat stunned]|【蛞蝓猫：昏迷】
+Objects|物品
+Spear Thrown|长矛：投掷
+[Spear thrown]|【长矛：投掷】
+Rock Thrown|石头：投掷
+[Rock thrown]|【石头：投掷】
+Spore Puff Thrown|孢子果：爆裂
+[Spore Puff thrown]|【孢子果：爆裂】
+Bomb Thrown|炸弹：投掷
+[Bomb thrown]|【炸弹：投掷】
+Object Thrown|物品：投掷
+[Object thrown]|【物品：投掷】
+Joke Rifle Use|玩笑步枪：发射
+[Joke Rifle Use]|【玩笑步枪：发射】
+Bubble Fruit Swell|泡水果：膨胀
+[Bubble Fruit Swell]|【泡水果：膨胀】
+Explosions|爆炸
+Explosion|爆炸声
+[Explosion]|【爆炸声】
+Explosive Spear Explosion|炸矛：爆炸
+[Explosive Spear Explosion]|【炸矛：爆炸】
+Firecracker Plant Explosion|鞭炮草：爆炸
+[Firecracker Plant Explosion]|【鞭炮草：爆炸】
+Flarebomb Start Burn|闪光果：爆裂
+[Flarebomb Start Burn]|【闪光果：爆裂】
+Noodleflies|面条蝇
+Infant Noodlefly Screams|小面条蝇：尖啸
+[Infant Noodlefly screams]|【小面条蝇：尖啸】
+Big Noodlefly Swish|大面条蝇：突刺
+[Big Noodlefly Swish]|【大面条蝇：突刺】
+Big Noodlefly Attack Charge|大面条蝇：准备攻击
+[Big Noodlefly Attack Charge]|【大面条蝇：准备攻击】
+Lizards|蜥蜴
+Lizard Bite|蜥蜴：撕咬
+[Lizard Bite]|【蜥蜴：撕咬】
+Lizard Spit|蜥蜴：喷吐
+[Lizard Spit]|【蜥蜴：喷吐】
+Lizard Jaws Snap Shut|蜥蜴下颚：猛然闭合
+[Lizard Jaws Snap Shut]|【蜥蜴下颚：猛然闭合】
+Lizard Tongue Impact|蜥蜴舌头：舔舐
+[Lizard Tongue Impact]|【蜥蜴舌头：舔舐】
+Bugs|虫类
+Centipede Shock|蜈蚣：电击
+[Centipede Shock]|【蜈蚣：电击】
+Centipede Crawl|蜈蚣：爬行
+[Centipede Crawl]|【蜈蚣：爬行】
+Dropwig Slash|落网虫：扑咬
+[Dropwig Slash]|【落网虫：扑咬】
+Dropwig Attack|落网虫：攻击
+[Dropwig Attack]|【落网虫：攻击】
+Dropwig Jump|落网虫：下落
+[Dropwig Jump]|【落网虫：下落】
+Dropwig Jump From Ceiling|落网虫：下落扑咬
+[Dropwig Jump From Ceiling]|【落网虫：下落扑咬】
+Big Spider Jump|狼蛛：跳跃
+[Big Spider Jump]|【狼蛛：跳跃】
+Big Spider Attack|狼蛛：攻击
+[Big Spider Attack]|【狼蛛：攻击】
+Big Spider Spit|狼蛛：喷吐
+[Big Spider Spit]|【狼蛛：喷吐】
+Eggbug Eggs Pop|蛋虫：蛋虫卵脱落
+[Eggbug Eggs Pop]|【蛋虫：蛋虫卵脱落】
+Lantern Mouse Squeak|光鼠：吱吱叫
+[Lantern Mouse Squeak]|【光鼠：吱吱叫】
+Snail Click|波动龟：波动
+[Snail Click]|【波动龟：波动】
+Misc|其他
+Long Legs Touch|长腿菌触手：摸索
+[Long Legs Touch]|【长腿菌触手：摸索】
+Grappling Worm Tongue Attach|管虫：舌头粘附
+[Grappling Worm Tongue Attach]|【管虫：舌头粘附】
+Vulture Grab|秃鹫：抓取
+[Vulture grab]|【秃鹫：抓取】
+Miros Bird Jaw Slam Shut|钢鸟：闭合尖喙
+[Miros Bird Jaw Slam Shut]|【钢鸟：闭合尖喙】
+Leviathan Jaws Snap|利维坦巨颚：咔哒声
+[Leviathan Jaws Snap]|【利维坦巨颚：咔哒声】
+Vulture Grub Initiate Signal|射线虫：发射激光
+[Vulture Grub Initiate Signal]|【射线虫：发射激光】

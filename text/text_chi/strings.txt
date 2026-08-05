@@ -6993,6 +6993,75 @@ UZATO|乌扎托
 Strike them all down. For you, your little sister, and your mother.|扫除一切障碍。为了你，你的小妹妹，还有你的母亲。
 Strike them all down boy|扫除一切障碍，小子
 Hatred|憎恨
+Spread the Hate|发泄
+The Lighter|点灯人
+THE LIGHTER|点灯人
+Semi-aquatic dreamwalker. The youngest member of cult.|半水生的梦旅者。族群中最年轻的成员。
+
+//迭代器对话//
+//FP
+//Uzato
+. . .|……
+Let's see.|让我看看。
+Young beast, I have already been visited by similar individuals like you.|年轻的野兽，你的同类此前已拜访过我。
+You all come to me for only one purpose.|你们找我都是为了同一个目的。
+You all are searching for help from higher powers.|你们试图向更高位的存在寻求帮助。
+Luckily, I am exactly the one you are looking for.|幸运的是，我就是你要找的那个高位存在。
+Go to the west, through the Farm Arrays.|向西走，穿过农场阵列。
+And then you'll find your only salvation.|然后你会找到那唯一的救赎。
+..And please, exit through the access shaft.|……另外，请从通道井离开。
+//Love
+Oh?..|哦？……
+Young and chunky beast... How heavy you are?..|年轻又敦实的野兽……你有多重了？……
+Uhm...|呃……
+I know why you are here. I am often visited by creatures like you.|我知道你为何来到这里。我经常受到类似你们这样的生物的拜访。
+You all seek for help from higher powers.|你们都在寻觅更高位存在的帮助。
+And luckily, I am the one you are looking for.|幸运的是，我就是你要找的那个高位存在。
+Your path lies to the west, past the Farm Arrays.|你的道路在西边，穿过农场阵列。
+And then you'll find your salvation!|然后你就会找到你们的救赎！
+Now go! I don't want a whole earthquake in my chamber.|现在去吧！我可不想在我的演算室里再发生一次大地震。
+//Lighter
+. . .|……
+Poor glowing thing. What led you to my chamber?|可怜的发光生物。是什么把你带来了我的演算室？
+I think I know what.|我想我知道原因。
+You. Surviving on your own. At such young age.|你，如此年幼，却独自求生。
+But nature gave you a great chance.|但自然给了你一个好机遇。
+Any living creature would envy such speed and agility.|任何生物都会羡慕你如此敏捷的身手。
+And I also give you a wonderful chance to end your suffering.|而现在我也会给你一个好机遇来结束你的苦难。
+To the west, through the farm arrays you go.|向西走，穿过农场阵列。
+Now GO!! GO GO GO!!|现在去吧！！走 走 快走！！
+
+//LTTM
+//Lighter
+. . .|……
+Hello, little insignificant beast that I would never want to see in the rest of my robotic life again.|你好，我不想在我的机器余生中再见到的，微不足道的小野兽。
+What do you want from me now?|你现在想从我这里得到什么？
+I see someone gave you a mark. And of course I know who it is.|我注意到有迭给你了印记。而我知道是谁。
+Five Pebbles. A loser who achieved nothing but got his superstructure to rot.|五块卵石，一个碌碌无为，导致自己的巨构腐化的失败者。
+Not only did his actions lead to nothing, but he took my life.|祂的所作所为不仅什么都没得到，还夺走了我的生命。
+Without the slightest pity.|而对此祂毫无廉耻之心。
+Do you think he deserves to live now?|你认为祂还有资格再活着吗？
+That's it. I won't tell you anything more. You already know more than other beings.|总之就是这样。我不会再说了。你已经比其他存在知道得更多了。
+And I know anything.|而我，什么都知道。
+Get out.|出去。
+//Love
+. . .|……
+Hello little beast.|你好，小野兽。
+You're fluffier than the previous beings similar to you that I met before.|你比我之前见到那个同类还要蓬松。
+And these... Feathers? Under what circumstanses were you born with them?|这些……羽毛？
+Are you perhaps... From the sky above? Hehe.|你是不是……从天而降的？哈哈。
+Jokes aside, what a pretty creature you are.|开个玩笑，你真是个漂亮的家伙。
+But as you can see, I have nothing for you. Not even my memories.|但如你所见，这里什么都没有了。甚至连我的记忆也没能留下来。
+You can stay if you want. It's always nice to have a company.|你愿意的话可以留下，能有谁陪陪我真好。
+//Uzato
+. . .|……
+Hello fluffy beast.|你好，毛茸茸的野兽。
+You look very familiar, like I've seen you before...|你看起来很眼熟，好像我以前见过你……
+. . .|……
+What brought you here?|是什么把你带来这里的？
+You must be brave to have made it all the way here all alone.|你能穿过艰难险阻来到这里，一定很勇敢。
+Sadly, I have nothing for you. |很遗憾，我什么都给不了你。
+But you can stay if you want. It's nice to have a listener after all.|但你愿意的话可以留下，能有一个可以倾诉的对象还是挺好的。
 
 //3608877389
 bodminstheboxesregion-description|一个小巧而平和的区域，位于排水系统与管道堆场之间。这个是我做的第一个模组，所以可能会有一点BUG。

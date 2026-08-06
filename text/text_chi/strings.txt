@@ -4362,7 +4362,7 @@ Fading Expanse|褪色外域
 Humid Fields|潮湿原野
 
 //3338330562
-secludedpass-descrpition|在设施边缘，珊瑚洞穴和暴风海岸之外，被遗忘的废墟笼罩在雾中。
+secludedpass-description|在设施边缘，珊瑚洞穴和暴风海岸之外，被遗忘的废墟笼罩在雾中。
 Secluded Pass|隐匿幽径
 Forgotten Reach|遗忘走廊
 Eastern Communications Tower|东通讯塔
@@ -8538,3 +8538,24 @@ LW_HG_B08
 /LDD_AI3
 <vertical5>Whew, that was a good story. Don't you think?</verticalend><NEXT><vertical5>I had fun playing that guessing game with you. Lucky for me, your story is pretty straightforward, huh, pal?</verticalend><NEXT><vertical5>And... sorry I kept interrupting. Don't sulk, okay?</verticalend><NEXT><vertical5>Oh, it's already dark outside. I didn't even notice with all the lamplight. And the blizzard has kicked in...</verticalend><NEXT><vertical5>You should probably get home, but I don't think you'll make it tonight...</verticalend><NEXT><vertical5>Would you like to crash here? You can leave in the morning... or stay and listen to some more stories. It's up to you</verticalend><NEXT><vertical5>You told me a little about your family today <color#ffd13cff>(*in the full version of the second story*)</colorend>, so maybe tomorrow I'll tell you about mine...</verticalend><NEXT><vertical5>Deal?</verticalend><NEXT><vertical5><color#ffd13cff>[ END OF CHAPTER 1! :D ]</verticalend><NEXT><vertical5><color#ffd13cff>[ Your feedback means the world to us! If you have a moment, please leave your thoughts on the mod page ]</verticalend><NEXT><vertical5><color#ffd13cff>[ If you're a modder, why not join the Lifeslice development? We'd love your help in expanding Crystal Mines! ]</verticalend><NEXT><vertical5><color#ffd13cff>[ Deal? ]</verticalend><NEXT><vertical5>Good night, my friend</verticalend>|
 <vertical5>呼，真是段好故事，你觉得如何？</verticalend><NEXT><vertical5>同你玩这场"对电波"的游戏很开心。算我运气好，你的经历不算复杂，伙计。</verticalend><NEXT><vertical5>还有…对不起，我老是打搅你，别生气啦。</verticalend><NEXT><vertical5>欸，天色黑透了，被灯照着我都没察觉。暴风雪又来了……</verticalend><NEXT><vertical5>按理说你该回家了，但我觉得你现在走不了。</verticalend><NEXT><vertical5>要不要在这儿过夜？天亮之后再动身……当然你也可以留下来接着听故事。</verticalend><NEXT><vertical5>今天你告诉了我不少关于你家人的事， <color#ffd13cff>(*这段会放在第二个故事的完整版里*)</colorend>所以明天就换我来讲吧……</verticalend><NEXT><vertical5>说好了？</verticalend><NEXT><vertical5><color#ffd13cff>[ 第一章，堂堂结束！ :D ]</verticalend><NEXT><vertical5><color#ffd13cff>[ 你的反馈对我们至关重要！如果方便的话，请在工坊的模组页面留下你的游玩感受 ]</verticalend><NEXT><vertical5><color#ffd13cff>[ 如果你是一位模组作者，欢迎加入 Lifeslice项目的开发，比如说帮助扩建结晶矿洞 ]</verticalend><NEXT><vertical5><color#ffd13cff>[ 说完了？]</verticalend><NEXT><vertical5>晚安，我的朋友。</verticalend>
+
+//3777864252
+Sannorama
+sannorama-description|一个多人模式，讲述两只蛞蝓猫的故事。
+Martyr|殉道者
+MARTYR|殉道者
+The Recluse|隐士
+Recluse|隐士
+RECLUSE|隐士
+Wanderer|漫游者
+PupWanderer|小漫游者
+The journey of a modified being and the child following in its wake.<LINE>Life in the wild is harsh, but the power of family is strong.|一个被改造的生灵和追随它的幼崽的旅程。<LINE>荒野的生活固然残酷，但家人的力量远比其更为坚韧。
+RECLUSE&MARTYR|隐士&殉道者
+Rumbling Conduit|轰鸣导管
+The Shaft|竖井
+Cooling Rods|冷却组
+Agonizing Soul|苦痛之魂
+The Clusters|聚落
+Moss Pier|苔掩支架
+Moss Valley|苔藓峡谷
+It is necessary to actively utilize the Special key. However, sufficient food must be consumed first.|积极地利用你的密匙，但首先需要摄入足够多的食物。

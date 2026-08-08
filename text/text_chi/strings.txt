@@ -8559,3 +8559,44 @@ The Clusters|聚落
 Moss Pier|苔掩支架
 Moss Valley|苔藓峡谷
 It is necessary to actively utilize the Special key. However, sufficient food must be consumed first.|积极地利用你的密匙，但首先需要摄入足够多的食物。
+
+//378335609
+litrovski.tinkerer-description|一位慈爱的母亲。
+Tinkerer|缝补匠
+TIHKERER|缝补匠
+A caring Mother.|一位慈爱的母亲。
+Remains|残余
+Blockage|拥堵之地
+Tier|堆层
+Squalid Garden|脏花园
+Remnant|残余
+Snowy Valley|冰封雪谷
+Ore Vein|矿脉
+Conveyor|传送带
+Water Pumping System|水泵系统
+Monumental Halls|不朽厅堂
+East Tower|东塔
+Small Tower|小塔
+The Receding Path|退路
+Drill Factory|钻机工厂
+Ventilation Tunnel|通风隧道
+Blast Furnace|高炉
+Casting Workshop|铸造坊
+Emergency Cooling System|应急冷却系统
+Tunnel Trains|隧道列车
+Operator's rooms|操作室
+Roof|顶棚
+/DF_ANCI_PEARL
+This is a regular report that tells you about the number of cast drill heads. |这是一份关于铸造的钻头数目的常规报告。
+Towards the end of the company's existence, they were produced in smaller quantities.|在公司将关停之前，钻头的生产量减少了。
+/SW_ANCI_PEARL
+-REPORT OF THE SENIOR ENGINEER, SEVEN RIDGES, FLOATING MAGMA-|-高级工程师七座山脊，岩浆浮流的报告-
+The mines continue to fill with water. |矿井仍在进水。
+The water pumping system often malfunctions or stops working altogether. |水泵系统频繁故障，甚至停止工作。
+Please consider requesting the replacement of the pumps.|请考虑申请更换水泵。
+/SW_ANCI_PEARL_2
+-REPORT OF THE SENIOR ENGINEER, SEVEN RIDGES, FLOATING MAGMA-|-高级工程师七座山脊，岩浆浮流的报告-
+Resource extraction is proceeding steadily. |开采工作正稳步进行。
+Please provide additional equipment and food for our workers. |请为我们的工人提供更多设备和食物。
+Pay attention to the supports in the eastern part of the mines, as it may collapse.|注意矿井东部的支撑，其有崩塌的风险。
+The report is completed according to the ALD-02 form|报告根据ALD-02格式完成。

@@ -6983,6 +6983,11 @@ Calmlands Subdistrict|安宁街区
 Home|家园
 Inside|内部
 Calmlands Subspace|安宁次区
+The Graveyard|墓园
+Headache Causing System|头痛制造系统
+Hell (5STL)|地狱(5STL)
+find the path yourself silly|自己找路蠢东西
+Healthy Blue |健康的蓝色
 //在解决同名为LOVE的mod猫的名称冲突前无法改动，本mod中的LOVE暂时定名为“慈爱者”//
 The Love
 THE LOVE
@@ -8577,9 +8582,10 @@ Water Pumping System|水泵系统
 Monumental Halls|不朽厅堂
 East Tower|东塔
 Small Tower|小塔
-The Receding Path|退路
+The Receding Path|衰退之径
 Drill Factory|钻机工厂
-Ventilation Tunnel|通风隧道
+Surface|表面
+Ventilation Tunnel|通风井
 Blast Furnace|高炉
 Casting Workshop|铸造坊
 Emergency Cooling System|应急冷却系统

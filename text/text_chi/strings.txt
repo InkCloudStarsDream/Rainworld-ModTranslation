@@ -8563,7 +8563,7 @@ Agonizing Soul|苦痛之魂
 The Clusters|聚落
 Moss Pier|苔掩支架
 Moss Valley|苔藓峡谷
-It is necessary to actively utilize the Special key. However, sufficient food must be consumed first.|积极地利用你的密匙，但首先需要摄入足够多的食物。
+It is necessary to actively utilize the Special key. However, sufficient food must be consumed first.|积极地使用“特殊键”合成固然重要，但首先需要摄入足够多的食物。
 
 //378335609
 litrovski.tinkerer-description|一位慈爱的母亲。

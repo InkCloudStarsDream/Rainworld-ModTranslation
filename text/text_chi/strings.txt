@@ -7751,6 +7751,23 @@ The Clairvoyant|千里目
 CLAIRVOYANT|千里目
 Lost soul|迷失的灵魂
 
+//3727261771
+365838258373394ProjectAnode-description|这个模组目前几乎没有内容。<LINE>若想为本模组提供代码或美术上的帮助，请在discord上私信我：superivar1000。<LINE>另外本模组有诸多依赖项，但我不知道怎么添加：The Grinder<LINE>RegionKit<LINE>POM<LINE>Custom Regions Support<LINE>The Watcher<LINE>More Slugcats Expansion<LINE>Floodwaters Utilities Mini<LINE>Iterator Creator<LINE>Rain World Remix<LINE>random code stuff
+The Underside|底部
+Forgotten Encryptions|遗忘加密库
+Two Frameworks|双框架构
+High Energy Conduit|高能导管
+The Heart|心脏
+Squelching Hydraulics|抑制液压区
+Unnecessary Hydraulics|附加液压区
+Botanical Gardens|生态园
+Main Framework control systems|主控制系统框架
+//备注：未实装名称，完全不知道是干嘛的，可能是占位//
+the fraxtixs|隔断
+//迭对话//
+//AfterGiveMark
+Hello|你好
+
 //3727366546
 IndUnderpass-description|连接烟囱天棚与垃圾堆。
 Industrial Underpass|工业地道
@@ -8564,6 +8581,12 @@ The Clusters|聚落
 Moss Pier|苔掩支架
 Moss Valley|苔藓峡谷
 It is necessary to actively utilize the Special key. However, sufficient food must be consumed first.|积极地使用“特殊键”合成固然重要，但首先需要摄入足够多的食物。
+
+//3782886589
+airelia.drds_sanctum-description|一座浸泡在水中的破败教堂，毗邻阴影城堡。
+Sunken Cathedral|沉没教堂
+Drowned Sanctum|浸没圣所
+Aphotic Depths|无光深渊
 
 //378335609
 litrovski.tinkerer-description|一位慈爱的母亲。

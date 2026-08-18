@@ -4283,6 +4283,14 @@ Hello, little envoy.|嗨，小信使。
 Do you have anything for me, perhaps?|或许你有什么东西要给我？
 You are welcome to stay here, but I must return to my work.|你可以留在这，但我必须回去工作了。
 
+//FS回响对话//
+You are not from around here, are you, little creature?|你不来自这附近，对吧？小生灵？
+I cannot recall what is it that I forgot here, yet here I am.<LINE>You must think of me quite lowly...|尽管我身在此处，我却记不起在此地忘却了什么。<LINE>你一定认为我很卑微……
+I cannot go, something holds me here.<LINE>Did I forget something important?|我无法离开，有什么将我困在此处。<LINE>我是否遗忘了什么重要之事？
+Through and after countless cycles, these lands have eroded into a faded silhouette of what it once was.<LINE>I can recognize this place no longer.|无数个循环的侵蚀，这片土地已褪色为昔日的模样。<LINE>我已无法辨认它原本的面貌。
+I steered away from my wonts, I lost my name, I cannot recall the words of high.<LINE>Is my time here a punishment, or a remembrance?|我丢失了我的本性，遗失了我的名字，忘却了圣贤的话语。<LINE>我在此地的时光是一种惩罚，还是一种纪念？
+I want to go.<LINE>But until then - walk the lands in my place, little creature.|我想离开。但在那之前，请替我行走在这片土地上吧，小生灵。
+
 //拓展菜单
 Main|主菜单
 Burst|暴雨
@@ -6295,6 +6303,10 @@ Rusted Way|锈烂走廊
 Lands Of The Rot|腐化弃土
 Rotting Construction|腐烂陈设
 Rotting Pipes|腐蚀管道
+//echoConv_FS
+Hello, what are you doing here, little creature?<LINE>You know, you're very deep in our maze.|你好，你在这里做什么呢，小生灵？你已经陷入我们迷宫的深处了。
+Perhaps we made a mistake when we laid these pipes.<LINE>Is it our selfishness or something else?|或许我们在铺设这些管道时犯下了错误。这是出于我们的自私，还是别的原因？
+But I hope you won't make mistakes like we once did.|但我希望你不会重蹈覆辙。
 
 //3521314879
 Misty Marish|薄雾沼泽

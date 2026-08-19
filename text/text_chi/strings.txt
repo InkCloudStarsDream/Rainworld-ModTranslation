@@ -5750,10 +5750,10 @@ Mama Bug|蛋母虫
 MamaBug|蛋母虫
 Mini Black Leech|小黑水蛭
 MiniBlackLeech|小黑水蛭
-Mini Echo Leviathan|迷你回响利维坦
-MiniFlyingBigEel|迷你回响利维坦
-Mini Leviathan|迷你利维坦
-MiniLeviathan|迷你利维坦
+Mini Echo Leviathan|小回响利维坦
+MiniFlyingBigEel|小回响利维坦
+Mini Leviathan|小利维坦
+MiniLeviathan|小利维坦
 Mini Scutigera|小钢蜈蚣
 MiniScutigera|小钢蜈蚣
 Mole Salamander|盲蝾螈

@@ -1,0 +1,86 @@
+mod:henpemaz_rainmeadow|View Rain Meadow credits|查看雨甸 制作人员
+mod:henpemaz_rainmeadow|Search lobbies by name|按名称搜索房间
+mod:henpemaz_rainmeadow|Refresh lobbies list|刷新房间列表
+mod:henpemaz_rainmeadow|Join selected lobby|加入所选房间
+mod:henpemaz_rainmeadow|Create a new lobby|创建新房间
+mod:henpemaz_rainmeadow|No Lobby Selected|未选择房间
+mod:henpemaz_rainmeadow|Selected Lobby|已选房间
+mod:henpemaz_rainmeadow|Filter for only public lobbies|仅显示公开房间
+mod:henpemaz_rainmeadow|Filter for a maximum lobby size|筛选最大房间人数
+mod:henpemaz_rainmeadow|Any|任意
+mod:henpemaz_rainmeadow|Filter for a specific lobby gamemode|按游戏模式筛选房间
+mod:henpemaz_rainmeadow|Lobby Gamemode|房间游戏模式
+mod:henpemaz_rainmeadow|MSC|更多蛞蝓猫拓展包
+mod:henpemaz_rainmeadow|MSC + Watcher|更多蛞蝓猫拓展包+观望者
+mod:henpemaz_rainmeadow|Filter lobbies for specific mods|按特定模组筛选房间
+mod:henpemaz_rainmeadow|Filters|筛选条件
+mod:henpemaz_rainmeadow|Directly connect to a local IP|直接连接本地 IP
+mod:henpemaz_rainmeadow|Steam|Steam
+mod:henpemaz_rainmeadow|Network|网络
+mod:henpemaz_rainmeadow|Click to view <LOBBY>|点击查看 <LOBBY>
+mod:henpemaz_rainmeadow|<PLAYER_COUNT>/<MAX_PLAYERS> Players|<PLAYER_COUNT>/<MAX_PLAYERS> 人
+mod:henpemaz_rainmeadow|Click to join <LOBBY>|点击加入 <LOBBY>
+mod:henpemaz_rainmeadow|Inv|怪猫
+mod:henpemaz_rainmeadow|Cheats:|作弊：
+mod:henpemaz_rainmeadow|If enabled, players will be allowed to use most Dev Tools cheats. Use with caution.|启用后，玩家将允许使用大部分开发者工具作弊功能。请谨慎使用。
+mod:henpemaz_rainmeadow|Sort by fullest lobby|按人数最多排序
+mod:henpemaz_rainmeadow|Timeline: |时间线：
+mod:henpemaz_rainmeadow|Drown|溺亡
+mod:henpemaz_rainmeadow|Multiplier on how far Artificer can stun other players compared to vanilla range. Default: 0.5|相对于原版范围，工匠眩晕其他玩家的距离倍率。默认值：0.5
+mod:henpemaz_rainmeadow|Artificer Stun Range Multiplier|工匠眩晕范围倍率
+mod:henpemaz_rainmeadow|How far Artificer can parry from compared to vanilla range. Default: 0.3|相对于原版范围，工匠格挡的有效距离。默认值：0.3
+mod:henpemaz_rainmeadow|Artificer Parry Range Multiplier|工匠格挡范围倍率
+mod:henpemaz_rainmeadow|Artificer Parry Leniency:|工匠格挡宽容度：
+mod:henpemaz_rainmeadow|Gives Artificer more leniency frames in the concussive blast's parry|在冲击波格挡中为工匠提供更多宽容帧
+mod:henpemaz_rainmeadow|Full Invisibility In Ripple Space:|在涟漪空间中完全隐身：
+mod:henpemaz_rainmeadow|Watcher will leave a faint glow at their position when in ripple space. Other Watchers will also be able to see their eyes.|观望者在涟漪空间中会在其位置留下一层微光。其他观望者也能看到他们的眼睛。
+mod:henpemaz_rainmeadow|Multiplier for amoeba lethality|涟漪阿米巴致死率倍率
+mod:henpemaz_rainmeadow|Amoeba Lethality Factor:|涟漪阿米巴致死系数
+mod:henpemaz_rainmeadow|Copy|复制
+mod:henpemaz_rainmeadow|Import|导入
+mod:henpemaz_rainmeadow|Settings:|设置：
+mod:henpemaz_rainmeadow|Drown Settings|溺亡设置
+mod:henpemaz_rainmeadow|Store keybind|商店快捷键
+mod:henpemaz_rainmeadow|Points required to buy a ... rock?|购买……岩石？所需积分
+mod:henpemaz_rainmeadow|Points required to buy a spear|购买长矛所需积分
+mod:henpemaz_rainmeadow|Points required to buy an explosive spear|购买爆炸长矛所需积分
+mod:henpemaz_rainmeadow|Points required to buy a scav bomb|购买拾荒者炸弹所需积分
+mod:henpemaz_rainmeadow|[MSC]: Points required to buy an electric spear|[更多蛞蝓猫拓展包]：购买电击长矛所需积分
+mod:henpemaz_rainmeadow|[Watcher]: Points required to buy a boomerang|[观望者]：购买回旋镖所需积分
+mod:henpemaz_rainmeadow|Points required to buy a respawn|购买重生所需积分
+mod:henpemaz_rainmeadow|Points required to open dens|打开巢穴所需积分
+mod:henpemaz_rainmeadow|How many waves before creature cleanup|生物清理前的波次数
+mod:henpemaz_rainmeadow|Creature limit before waves pause|波次暂停前的生物数量上限
+mod:henpemaz_rainmeadow|Martyrs|殉道者
+mod:henpemaz_rainmeadow|Outlaws|暴徒
+mod:henpemaz_rainmeadow|Dragonslayers|屠龙者
+mod:henpemaz_rainmeadow|Chieftains|酋长
+mod:henpemaz_rainmeadow|Henpemaz - Lead Developer<LINE><LINE>Wolfycatt(Ana) - Lead Artist<LINE><LINE>Intikus - Lead Audio Designer<LINE><LINE>Noircatto - Programming, engine<LINE><LINE>HelloThere - Programming, sound<LINE><LINE>A1iex - UI Design<LINE><LINE>FranklyGD - Programming, engine<LINE><LINE>MC41Games - Programming, menus<LINE><LINE>Silvyger - Programming, arena<LINE><LINE>Vigaro - Programming, menus<LINE><LINE>BitiLope - Programming, story<LINE><LINE>Pudgy Turtle - Programming, story<LINE><LINE>ddemile - Programming, modsync<LINE><LINE>UO - Programming, story, arena<LINE><LINE>Saddest - Programming, UI, chat<LINE><LINE>notchoc - Programming, story<LINE><LINE>phanie_ - Illustration<LINE><LINE>Timbits - Programming, UI, menus<LINE><LINE>Zedreus - Programming, UI, story<LINE><LINE>Persondotexe - Programming, modsync<LINE><LINE>invalidunits - Programming, UI, LAN<LINE><LINE>forthfora - Programming, modsync<LINE><LINE> WillowWisp - Programming, story<LINE><LINE>@None - Programming, gameplay<LINE><LINE>DustyLemmy - Arena, story, UI<LINE><LINE>Elizabeth - Programming, story, UI<LINE><LINE>niacdoial - LAN<LINE><LINE>Capt. Redstone - Meadow, story|Henpemaz - 首席开发者<LINE><LINE>Wolfycatt(Ana) - 首席美术<LINE><LINE>Intikus - 首席音频设计<LINE><LINE>Noircatto - 程序，引擎<LINE><LINE>HelloThere - 程序，音效<LINE><LINE>A1iex - UI 设计<LINE><LINE>FranklyGD - 程序，引擎<LINE><LINE>MC41Games - 程序，菜单<LINE><LINE>Silvyger - 程序，竞技场<LINE><LINE>Vigaro - 程序，菜单<LINE><LINE>BitiLope - 程序，剧情<LINE><LINE>Pudgy Turtle - 程序，剧情<LINE><LINE>ddemile - 程序，模组同步<LINE><LINE>UO - 程序，剧情，竞技场<LINE><LINE>Saddest - 程序，UI，聊天<LINE><LINE>notchoc - 程序，剧情<LINE><LINE>phanie_ - 插图<LINE><LINE>Timbits - 程序，UI，菜单<LINE><LINE>Zedreus - 程序，UI，剧情<LINE><LINE>Persondotexe - 程序，模组同步<LINE><LINE>invalidunits - 程序，UI，局域网<LINE><LINE>forthfora - 程序，模组同步<LINE><LINE> WillowWisp - 程序，剧情<LINE><LINE>@None - 程序，玩法<LINE><LINE>DustyLemmy - 竞技场，剧情，UI<LINE><LINE>Elizabeth - 程序，剧情，UI<LINE><LINE>niacdoial - 局域网<LINE><LINE>Capt. Redstone - Meadow，剧情
+mod:henpemaz_rainmeadow|Chat|聊天
+mod:henpemaz_rainmeadow|Player Menu Scroll Speed for Spectate, Story menu, Arena results. Default: <SCROLLSPEED>|观战、剧情菜单、竞技场结果中的玩家菜单滚动速度。默认值：<SCROLLSPEED>
+mod:henpemaz_rainmeadow|Player Menu Scroll Speed for Spectate, Story menu, Arena results. Default: 10|观战、剧情菜单、竞技场结果中的玩家菜单滚动速度。默认值：10
+mod:henpemaz_rainmeadow|Use simpler slugcat indicator icons above usernames|在用户名上方使用更简洁的蛞蝓猫标识图标
+mod:henpemaz_rainmeadow|Dev options|开发者选项
+mod:henpemaz_rainmeadow|Nightsky Skin|星空皮肤
+mod:henpemaz_rainmeadow|Cosmetic|外观
+mod:henpemaz_rainmeadow|Cosmetic Skin|外观皮肤
+mod:henpemaz_rainmeadow|cosmic|宇宙
+mod:henpemaz_rainmeadow|solid|纯色
+mod:henpemaz_rainmeadow|Cosmetic Color|外观颜色
+mod:henpemaz_rainmeadow|Warn|警告
+mod:henpemaz_rainmeadow|Error|错误
+mod:henpemaz_rainmeadow|Lobby Joining Timeout (seconds)|加入房间超时时间（秒）
+mod:henpemaz_rainmeadow|Lobby Joining Extra Info|加入房间额外信息
+mod:henpemaz_rainmeadow|Enable Meadow Cosmetics|启用 Meadow 外观
+mod:henpemaz_rainmeadow|Toggle Show Score|切换显示得分
+mod:henpemaz_rainmeadow|Countdown Safety Time (ticks)|倒计时安全时间（帧）
+mod:henpemaz_rainmeadow|How long the countdown will wait for everyone to join. Default : 300 ticks (7.5s)|倒计时等待所有玩家加入的时长。默认值：300 帧（7.5 秒）
+mod:henpemaz_rainmeadow|Custom Chat Username Color|自定义聊天用户名颜色
+mod:henpemaz_rainmeadow|Sound On New Message|新消息提示音
+mod:henpemaz_rainmeadow|Death Notification|死亡通知
+mod:henpemaz_rainmeadow|Join Notification|加入通知
+mod:henpemaz_rainmeadow|Round Notification|回合通知
+mod:henpemaz_rainmeadow|Session Notification|会话通知
+mod:henpemaz_rainmeadow|Enable Chat Logging Toggle|启用聊天日志记录开关
+mod:henpemaz_rainmeadow|Enable chat logging toggle (enabled by SHIFT + [CHAT KEY]) to display incoming errors in the chat.|启用聊天日志记录开关（通过 SHIFT + [聊天键] 开启），在聊天中显示传入的错误信息。
+mod:henpemaz_rainmeadow|Text Downscroll|文本向下滚动

@@ -84,3 +84,285 @@ mod:henpemaz_rainmeadow|Session Notification|会话通知
 mod:henpemaz_rainmeadow|Enable Chat Logging Toggle|启用聊天日志记录开关
 mod:henpemaz_rainmeadow|Enable chat logging toggle (enabled by SHIFT + [CHAT KEY]) to display incoming errors in the chat.|启用聊天日志记录开关（通过 SHIFT + [聊天键] 开启），在聊天中显示传入的错误信息。
 mod:henpemaz_rainmeadow|Text Downscroll|文本向下滚动
+
+//3033569804
+/回响对话
+mod:Sewage_Water.thechampion|The little beast returns!|你回来了，小野兽！
+mod:Sewage_Water.thechampion|I knew you would be back, you took quite the fall from freeing yourself from that winged foe.|我就知道你会回来的。你从那个有翼的敌人手里逃脱，真是摔得不轻啊。
+mod:Sewage_Water.thechampion|I watched as you made it through the tunnels and caves that that amuse me so.|我看着你，穿过那些令我着迷的洞穴和隧道。
+mod:Sewage_Water.thechampion|On your journey, I hope you were able to find acceptance.|愿你在旅程中能找到归属。
+mod:Sewage_Water.thechampion|May you find what you seek in this substratum of dead civilisations long gone.|也愿你在这片失落文明所留下的地底世界中，找到你追求之物。
+mod:Sewage_Water.thechampion|Good luck to you, be well.|祝你好运，保重。
+
+mod:Sewage_Water.thechampion|How odd...|真奇怪……
+mod:Sewage_Water.thechampion|When I was but a mortal, I would remain here in the fields.|当我还只是个凡人时，我总是流连于这片田野里。
+mod:Sewage_Water.thechampion|I would sit and watch the grasses swaying gently in the winds for what felt like hours.|我坐看青草在风中轻轻摇曳，似乎一下子过去了好几个小时。
+mod:Sewage_Water.thechampion|When I was here, the burden of The Cycles felt like a trivial nusance compared to the indifrence of nature.|当我在这里，同大自然的冷酷相比，循环的重担都显得微不足道。
+mod:Sewage_Water.thechampion|I suppose the simple pleasure of a tranquil place isn't lost upon you, Rodent.|我想，你会懂得这种简单的安乐，小啮齿动物。
+mod:Sewage_Water.thechampion|Please, Take one last breath before you go, don’t forget it.|请你在离开前最后深吸一口气吧，别忘了它。
+mod:Sewage_Water.thechampion|I order you gone, nevermore to return.|我要教你离开，永不再来。
+
+mod:Sewage_Water.thechampion|Do you hear it, gloomy one?|你听到了吗，阴暗的小东西？
+mod:Sewage_Water.thechampion|The buzzing in the air?|那空气中的嗡鸣？
+mod:Sewage_Water.thechampion|The endless chatter of a thousand thousand signals, long dead?|那无数早已逝去生灵喋喋不休的聒噪声？
+mod:Sewage_Water.thechampion|The relay nodes here were always in ruin. You could never be too sure with those self aligning microwave antennas...|这里的中继节点总是破破烂烂的。对于那些自动微波天线，你永远不能太放心……
+mod:Sewage_Water.thechampion|I always loved the way they would constantly bob up and down, a beautiful dance perpetuated now long after we departed.|我一直很喜欢它们那微微上下震动的样子，仿若一支美丽的舞蹈，即便我们离去已久也仍在舞动。
+mod:Sewage_Water.thechampion|None of that matters now, but it's the little things in life I miss the most... Promises me this...|现在这些都不重要了。我最怀念的还是生活中的点点滴滴。答应我……
+mod:Sewage_Water.thechampion|Even though the world we left for you is harsh, promise me you will stop to admire the little things in life.|哪怕我们留下的这个世界如此严酷，你也会停下来欣赏那生活中的细枝末节。
+
+mod:Sewage_Water.thechampion|Behold this empty husk of a land...|看看这片空荡荡的土地……
+mod:Sewage_Water.thechampion|From within my vessel of flesh, I would perch upon this spot to observe the rising of the sun.|在我还受到凡人之躯束缚的时候，我会待在这里看着太阳升起。
+mod:Sewage_Water.thechampion|The new day bringing another hungry stomach, another aching back, another troubled mind.|新的一天带来又一个空荡的胃囊，又一条酸痛的脊背，又一颗不安的心。
+mod:Sewage_Water.thechampion|Corporeal matters seem so distant now. But I can still imagine your anguished heart, your foggy mind, your battered body.|如今肉体凡胎已成遥远的往事。但我依旧能想象到，你的心是如何痛苦，<LINE>你的头脑是如何迷茫，你的身体是如何承受着伤痛。
+mod:Sewage_Water.thechampion|The freedom we hoped to achieve in ascension was one I... We should have prepared for...|我们希望借由飞升实现的解脱是我……我们本该为之准备的……
+mod:Sewage_Water.thechampion|Now I remain, witness to all. Witness to what you have done. Witness to what they made you do.|现在，我留下来了，见证着一切。见证你所做的一切。见证他们使你所做的一切。
+mod:Sewage_Water.thechampion|Perhaps you should reminisce on what you have done. Perhaps I should learn to accept my unlife.|或许，你当反思你的所作所为。或许，我当试着接受我的不朽。
+
+mod:Sewage_Water.thechampion|You had a name.|你有名字。
+mod:Sewage_Water.thechampion|You started off with humble beginnings, as did I.|你的起点卑微，我亦如是。
+mod:Sewage_Water.thechampion|Used the gifts \"Mother Nature\" gave unto you to make a name for yourself, as did I.|你利用自然之母赐予你的天赋得到了名字，我亦如是。
+mod:Sewage_Water.thechampion|Did they know? That you didn't want it, didn't want the scars?|他们知道吗？你并不想要名字，也不想要这些伤疤。
+mod:Sewage_Water.thechampion|That you didn't want to see the tears in their eyes as you broke their bodies?|你也不想看到，在你打倒他们时，从他们眼中流溢出的泪水。
+mod:Sewage_Water.thechampion|They gave you that name. Not out of malice, out of praise, for honor.|是他们给了你这个名字，并非出于恶意，而是出于赞美，出于敬意。
+mod:Sewage_Water.thechampion|If I were you, I wouldn't be ashamed.|如果我是你，我不会感到羞愧。
+mod:Sewage_Water.thechampion|Us \"name-havers\" gotta stick together!|我们这些“有名有姓”的人可得互相扶持啊！
+
+mod:Sewage_Water.thechampion|Our presence has been revealed to you now, blighted one.|我们向你现身，被诅咒的家伙。
+mod:Sewage_Water.thechampion|Your attunement has become... Much closer to ours.|你已经……和我们更接近了。
+mod:Sewage_Water.thechampion|The mark you recieved is an unimaginable gift.|你收到的印记是一份难以想象的礼物。
+mod:Sewage_Water.thechampion|With it I hope you can find peace within yourself|希望你能借此寻得内心的平静。
+mod:Sewage_Water.thechampion|The memories won't fade, like herbal tea stains on a white robe.|记忆不会消逝，如同素袍上的茶渍。
+mod:Sewage_Water.thechampion|Find your own way.|找到你自己的路吧。
+
+mod:Sewage_Water.thechampion|You, who have encountered a consequence much like my own.|你啊，遭遇了和我差不多的结果。
+mod:Sewage_Water.thechampion|Molded by your harsh upbringing, chains bind you, steering you towards hardship.|严酷的生长环境塑造了你，沉重的锁链束缚着你，把你引向困境。
+mod:Sewage_Water.thechampion|Whispering Specters of the past haunt you, crying for you to get what you deserve.|过去的幽灵在你耳边徘徊低语，哭号着要你去得到应得之物。
+mod:Sewage_Water.thechampion|Listen... Silence...|倾听……静默……
+mod:Sewage_Water.thechampion|Your unrewarding battle has come and gone, culminating in a path you walk out of choice.|你那无果的斗争已经落幕，最终你会走上一条自己选择的路。
+mod:Sewage_Water.thechampion|A perpetuity of torment, a product of learned helplessness.|永无止境的折磨是习得性无助的产物。
+mod:Sewage_Water.thechampion|Break your chain. Be free.|打破你的枷锁。获得自由。
+
+/FP对话2&3
+mod:Sewage_Water.thechampion|Well done Little Beast!|做得不错，小野兽！
+mod:Sewage_Water.thechampion|Shelled One, it appers our fates have already crossed|披甲的生物，看来我们的命运已经分道扬镳。
+mod:Sewage_Water.thechampion|You have granted me a boon, even though you may not realize it.|你于我有恩，尽管你可能没有意识到。
+mod:Sewage_Water.thechampion|For that I will grant you a charity. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|为此，我要送你一份仁慈之礼。向西走，穿越农场阵列，然后在大地断裂之处深入地下。<LINE>到你能抵达的最深处，古代文明就在那里建造了他们的神殿，用来跳那愚蠢的仪式舞蹈。
+mod:Sewage_Water.thechampion|Not that it solves anyone's problem but yours.|这只能解决你自己的问题，没办法解决其他生灵的。
+mod:Sewage_Water.thechampion|At the end of the day, none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|到最后这一切大概都无足轻重，但你最好换一条路离开。换一条不会让你……<LINE>在我的内存阵列里嬉闹的路。这里就有一个好得不能再好的通道井。
+mod:Sewage_Water.thechampion|Best of luck to you, and your family. There is nothing else I can do.|祝你和你的家人好运。除此之外我没什么能做的了。
+mod:Sewage_Water.thechampion|Best of luck to you, and your companion. There is nothing else I can do.|祝你和你的家人好运。除此之外我没什么能做的了。
+mod:Sewage_Water.thechampion|I must resume my work.|我得继续我的工作了。
+mod:Sewage_Water.thechampion|Best of luck to you, little creature. I must resume my work.|祝你好运，小生灵。我得继续我的工作了。
+
+/LTTM送神经元
+mod:Sewage_Water.thechampion|...oh... to... save me?|…啊…是…来救我？
+mod:Sewage_Water.thechampion|You... brought that... for me?|你…带着那…给我的？
+mod:Sewage_Water.thechampion|You are bringing a neuron. Hand it over then.|你正抓着一颗神经元呢。松手吧。
+mod:Sewage_Water.thechampion|A neuron.|一颗神经元。
+mod:Sewage_Water.thechampion|That... That is for me?|那…那是给我的？
+mod:Sewage_Water.thechampion|Oh! You brought me another|啊！你带了另一个给我。
+mod:Sewage_Water.thechampion|That... Oh, thank you.|那个……哦，谢谢你。
+mod:Sewage_Water.thechampion|A nuron of me to activate?|要我激活这颗神经元？
+mod:Sewage_Water.thechampion|Ah... <PlayerName>, a neuron from within my structure?|啊…<PlayerName>，一颗来自我构造里的神经元？
+mod:Sewage_Water.thechampion|Thank you, <PlayerName>. If you have the time, round up afew more for me?|谢谢你，<PlayerName>。如果你有空，能帮我再凑一些来吗？
+mod:Sewage_Water.thechampion|...More please...|……请多来点……
+mod:Sewage_Water.thechampion|The more the merrier!|越多越好！
+mod:Sewage_Water.thechampion|...Need more...|……需要更多……
+mod:Sewage_Water.thechampion|If you could find me a few more, that would be an unimaginable boon.|如果你能再多找几个来，那收益将不可想象。
+mod:Sewage_Water.thechampion|...Bring me more...|……给我多带些来……
+mod:Sewage_Water.thechampion|My chamber will likely be well kept after the fall. Please bring some more whenever you can.|即使坍塌了，我的罐头也应该能最大限度地保持原状。请尽可能再多带些来。
+mod:Sewage_Water.thechampion|...Get more for me...|……给我更多……
+/LTTM吃神经元
+mod:Sewage_Water.thechampion|...don't... do that.|…别…那样做。
+mod:Sewage_Water.thechampion|If you really want me \"dead\", I have told you want to do.|如果你是想让我*死*，我已经告诉过你怎么做了。
+mod:Sewage_Water.thechampion|Thank... you.|谢谢…你。
+mod:Sewage_Water.thechampion|Thank you. I must ask you... Don't do that again, neurons are not known for their durability.|谢谢你。我必须请求你……不要再这么做了，神经元很易折损。
+mod:Sewage_Water.thechampion|Please... don't do... that.|拜托…不要…
+mod:Sewage_Water.thechampion|I must ask you... Don't do that again.|我恳求你…别再这样干了。
+mod:Sewage_Water.thechampion|I... won't speak to you... if you do that.|你要是那么做了…我就不会再和你说话了…
+mod:Sewage_Water.thechampion|<CapPlayerName>, if you do that, I promise you will not speak to you any more.|<CapPlayerName>，如果你干了，我保证不会再和你讲一个字。
+/LTTM驱赶
+mod:Sewage_Water.thechampion|...leave...|…走开…
+mod:Sewage_Water.thechampion|...you…你。
+mod:Sewage_Water.thechampion|...pull the p-plug...|…拔掉电-电池…
+mod:Sewage_Water.thechampion|Here again.|又来了。
+mod:Sewage_Water.thechampion|You.|你。
+mod:Sewage_Water.thechampion|I wish you would just finish the job.|但愿你完成了你的职责。
+mod:Sewage_Water.thechampion|You again.|又是你。
+mod:Sewage_Water.thechampion|Please, get it over with.|拜托，快点结束吧。
+mod:Sewage_Water.thechampion|Oh, it's you, <PlayerName>.|哦，是你，<PlayerName>。
+mod:Sewage_Water.thechampion|Take your goblins with you when you go.|走的时候带上你的小崽子。
+mod:Sewage_Water.thechampion|Please do not bring more wildlife into my chamber.|请不要再把野生动物带进我的房间。
+/LTTM重复见面
+mod:Sewage_Water.thechampion|Hello again, <PlayerName>|你好，又见面了，<PlayerName>
+mod:Sewage_Water.thechampion|Hello, <PlayerName>|你好，<PlayerName>
+mod:Sewage_Water.thechampion|How have you been?|最近怎么样？
+mod:Sewage_Water.thechampion|You're here again.|你又来了。
+mod:Sewage_Water.thechampion|Come to spend more time with me before you deactivate me?|是想在结束我的运行前再多陪我一会儿吗？
+mod:Sewage_Water.thechampion|You really should get on with your task.|你真该抓紧去完成你的任务了。
+mod:Sewage_Water.thechampion|Oh, <PlayerName>. Hello|啊，<PlayerName>。你好
+mod:Sewage_Water.thechampion|You still wish to spend time with me? How thoughtful!|你还是打算多陪陪我？体贴的小家伙！
+mod:Sewage_Water.thechampion|With every cycle that passes, more slag will build up. Please hurry.|废渣会随循环积累得越来越多。请快点儿。
+mod:Sewage_Water.thechampion|It's you, <PlayerName>. Hello.|是你，<PlayerName>。你好啊。
+mod:Sewage_Water.thechampion|It's you, <PlayerName>!  Hello!|是你，<PlayerName>！你好！
+mod:Sewage_Water.thechampion|Back again to acompany me! You are very kind, thank you.|你又返回来陪我了！谢谢你，你真的很善良。
+mod:Sewage_Water.thechampion|I'm not getting any younger, you know. Please time is dire.|你知道的，我年纪大了。请快点，时间紧迫。
+mod:Sewage_Water.thechampion|Ah... <PlayerName>, you are here again|啊…<PlayerName>，你又回到这儿来了。
+mod:Sewage_Water.thechampion|Joining me for my final days once more? Very well.|是想在最后的时刻多陪伴我吗？好吧。
+mod:Sewage_Water.thechampion|I hope that you decide to fulfill my request before you leave...|我希望，在你离开前能应下我的请求…
+mod:Sewage_Water.thechampion|Ah... <PlayerName>, you're back|啊…<PlayerName>，你回来了。
+mod:Sewage_Water.thechampion|Why? do you not want to help me?|为什么？为什么不想帮我？
+mod:Sewage_Water.thechampion|Why? do you not want to leave?|为什么？为什么你不想离开？
+mod:Sewage_Water.thechampion|How cute, you brought your family, <PlayerName>?|真可爱，你带着你的孩子，<PlayerName>？
+mod:Sewage_Water.thechampion|Have you brought your family here?|你带来了你的孩子？
+mod:Sewage_Water.thechampion|Not your best choice, but I will not question your parenting strategy...|这并非最好的选择，但我不会对你的育儿方针提出质疑……
+mod:Sewage_Water.thechampion|Is this your friend, <PlayerName>? What a silly little guy!|这是你的朋友吗，<PlayerName>？真是个傻乎乎的小伙伴！
+/LTTM_DeathDenial
+mod:Sewage_Water.thechampion|...help... me...|…帮帮…我…
+mod:Sewage_Water.thechampion|... stop... please...|…拜托…停下…
+mod:Sewage_Water.thechampion|...why wont you... help... me...|…为什么不…帮我…
+mod:Sewage_Water.thechampion|Please stop! I beg you. I don't... understand your motivation...|请停下！我恳求你，我…无法理解你的行为…
+mod:Sewage_Water.thechampion|Why?! Why would you?? Please, I just need you to do this one thing!|为什么？！你为什么要这样？！拜托了，我只需要你做这一件事！
+mod:Sewage_Water.thechampion|What are you doing?!?! Stop!!! Please!! This isn't what I wanted!|你在干什么？！住手！！不要！！
+mod:Sewage_Water.thechampion|YOU LITTL-|你这——
+/LTTM对话4
+mod:Sewage_Water.thechampion|Why you come back <PlayerName>?|为什么又回来了，<PlayerName>？
+mod:Sewage_Water.thechampion|I ask for your aid an you... Hurt me...|我向你寻求援助…而你…伤害我……
+mod:Sewage_Water.thechampion|Just do as I asked and leave.|走吧，去完成我的请求。
+mod:Sewage_Water.thechampion|...Better yet, you could replace what you have stolen.|…如果能把你偷走的东西还回来，那就更好了。
+/LTTM受击
+mod:Sewage_Water.thechampion|No, please, release it!|不，拜托，放开它！
+mod:Sewage_Water.thechampion|NO! ... no. Let it go, please.|不！…不。松手。
+mod:Sewage_Water.thechampion|Wait, that's not food!|等下，那不是食物！
+mod:Sewage_Water.thechampion|not... edible, please.|拜托…那不能吃。
+mod:Sewage_Water.thechampion|What are you doing? Stop!|你在干什么？住手！
+mod:Sewage_Water.thechampion|stop, don... don't!|停下，别…不要！
+mod:Sewage_Water.thechampion|Please, don't touch those!|求你，别抓那些了！
+mod:Sewage_Water.thechampion|LET GO! p please|松手！求求你…
+mod:Sewage_Water.thechampion|The fewer you eat, the better the chance I have of survival!|你吃得越少，我活下来的可能性才越大！
+mod:Sewage_Water.thechampion|These ones in here are vital for my plan!|这些东西对我的计划很重要！
+mod:Sewage_Water.thechampion|Your intention was to help me, was it not? Then please don't play with those!|你的目的是帮助我，对不对？那就请别再拿这些取乐了！
+/LTTM雨循环结束
+mod:Sewage_Water.thechampion|...storm...|…雷暴…
+mod:Sewage_Water.thechampion|run|快跑！
+mod:Sewage_Water.thechampion|...wait..|…等等…
+mod:Sewage_Water.thechampion|...siren... discharge... coming... Go!|…警报…排放…来了…快走！
+mod:Sewage_Water.thechampion|...hold on...|…放开…
+mod:Sewage_Water.thechampion|Do you hear the siren..? You better go. I will be fine.|你听见警报了吗…？你最好离开。我会没事的。
+mod:Sewage_Water.thechampion|Look's like the only thing that I lothe more than you is about to occur...
+mod:Sewage_Water.thechampion|My structure will undergo a discharge event. If you stay, you will fry. Now, leave me alone.
+mod:Sewage_Water.thechampion|Don't forget my task...|别忘了我给你的任务…
+mod:Sewage_Water.thechampion|Take your goblins with you.|带上你的小崽子。
+mod:Sewage_Water.thechampion|Take your pet with you.|带上你的宠物。
+mod:Sewage_Water.thechampion|...Wait! Something is wrong...|…等下！有点不对劲…
+mod:Sewage_Water.thechampion|Do you hear it <PlayerName>? The screaming in the walls?|你听见了吗，<PlayerName>？墙体里传来的哀嚎。
+mod:Sewage_Water.thechampion|It's a safety feature from times long since past, warning all left outside to seek refuge from the storm.<LINE> It was installed primarily for the safty of maintenance workers, ironic considering the task I have given you!|这是来自古老时代的一种安全设施，提醒所有还在外面的人寻找庇护所来躲过雷暴。<LINE>它是出于对工人生命安全的考虑而安装的。<LINE>想到如今我交给你的任务，这多么讽刺！
+mod:Sewage_Water.thechampion|...You should go... Now... I will be fine... -ish...|…你该走了…马上…我会没…的…
+mod:Sewage_Water.thechampion|Keep your family safe!|照顾好你的家人！
+mod:Sewage_Water.thechampion|Keep your cute friend safe!~|照看好你可爱的朋友！
+
+/LTTM读垃圾堆珍珠
+mod:Sewage_Water.thechampion|This one... is authored by Five Pebbles, when he was young. There has been an attempt to scramble the data,<LINE> but it's sloppily done, and most is still somewhat legible.|这个……是五块卵石写的，那时他还年轻。有试图扰乱数据的痕迹，<LINE>但是做得很粗心，大部分数据还勉强能辨别。
+mod:Sewage_Water.thechampion|It’s written in an internal language, or thoughts, so it is hard for me to translate for you.<LINE> It’s a methodology for global ascension of course - quite good, although the Peripherists or the Slab Mongers certainly wouldn’t agree!|它是用内部语言或思想写成的，所以我很难翻译出来让你理解。当然了，这是一种普世飞升的方法论——<LINE>内容非常棒，尽管边缘派或板坯商肯定不会同意！
+mod:Sewage_Water.thechampion|“...considering the eight and the twenty sixth amendments to the Capricious Dogma,<LINE> we are apparently supposed to take for granted that a meaning collector point inversion is the only way to approach what has later become referred to as ‘noise milking’<LINE> (or occasionally ‘rock swatting’). I will argue my disagreement with this, not in regards to kind but in regards to…” Could it say… “volume”? Actually, are you getting anything out of this?|“……鉴于《反复无常教条》的第八条和第二十六条修正案，我们显然应该理所当然地认为意义收集器点反转是接近后来<LINE>被称为“噪声抽取”（或偶尔称为“岩石冲击”）的唯一方法。我将对此提出异议，不是关于种类，而是关于……”<LINE>我猜这是想说……“容积”？老实说，你真的能理解哪怕一点吗？
+mod:Sewage_Water.thechampion|Reading this takes me back to those simpler times of methodological theory making.<LINE> Probing through the doldrums of subservient research used to be unfulfilling, but lately I’ve begun to feel a great longing to return to it.<LINE> Unfortunately, I have more pressing issues at hand that I need to deal with first.|读到这些让我回忆起更轻松的时光，那时我还在构建方法理论。我过去在沉闷的从属研究中摸索，总觉得毫无成就感，<LINE>但近来我却开始深深渴望能重回那种状态。可惜的是，眼下我还有更紧迫的事情必须先处理。
+/LTTM读海岸线珍珠
+mod:Sewage_Water.thechampion|It is the genome for a purposed organism. A small slug to clean the insides of pipes.|这是一种效用有机体拥有的基因组。它是一只用来清洁管道内部的小蛞蝓。
+mod:Sewage_Water.thechampion|Do you know what a purposed organism is? Actually you are talking to one right now!|你知道什么是功能性有机体吗？实际上正在和你说话的就是！
+mod:Sewage_Water.thechampion|Although I may be in quite the sorry state; umbilical severed, cracked open puppet chamber, slag filled vents...<LINE> ...I am still quite a marvel of bioengineering!|虽然我现在的状态很糟糕：我的脐带缆断了，化身人偶的腔体开裂，通风口也塞满渣滓……<LINE>但我依旧是生物工程学的奇迹。
+mod:Sewage_Water.thechampion|Most purposed organisms were considerably smaller than me, and most barely looked like organisms at all.<LINE> More like tubes in metal boxes, where something went in one end and something else came out the other.|大多数效用有机体都比我小得多，而且很多看起来根本不像有机体。<LINE>更像是金属盒里的管子，一端有东西进去，另一端有东西出来。
+mod:Sewage_Water.thechampion|There were of course those that were purposed for spectacle rather than industry - they enjoyed the privilege of glass boxes.|当然，有些是为了观赏被创造的而不是工业——它们以住在玻璃盒子里为荣。
+mod:Sewage_Water.thechampion|When I came into this world there was very little primal fauna left. So it's highly likely that you are the descendant of a purposed organism yourself!|当我来到这个世界时，原始的动物群系所剩无几。所以很可能你自己就是一个效用有机体的后代！
+mod:Sewage_Water.thechampion|Quite the specimen you are indeed, I wish i had more time to study you.|你是个很特殊的个体，我真希望有更多的时间可以研究你。
+/LTTM读仰望皓月珍珠
+mod:Sewage_Water.thechampion|Oh! This is one of my pearls. Did you extract this from my Memory Conflux?|哦！这是我的一颗珍珠。你是从我的内存集成中拔出来的吗？
+mod:Sewage_Water.thechampion|While I value your curiosity, I would prefer you don't move things around or steal items from this facility.<LINE> I try to keep everything as organized as possible, so that I don't forget. I value my data and memories quite a lot, it would be a tragedy to lose them!|我尊重你的好奇心，但我更希望你不要乱动这个设施里的东西或偷窃。<LINE>我尽量把所有的东西都安排得井井有条，这样我就不会忘记。我很珍惜我的数据和记忆，失去它们会是一个悲剧！
+mod:Sewage_Water.thechampion|As for the contents of this pearl... it's a large batch of my personal notes and research.<LINE> I don't have the time to go over all of this with you, nor do I think you would gain much from it.|至于这颗珍珠的内容……是我的一大堆个人笔记和研究成果。<LINE>我没时间一一讲解给你听，我想你也不会从中得到什么。
+mod:Sewage_Water.thechampion|Tell you what, I'll add an image of you to it, for momento's sake...|告诉你吧，我会在里面加上一张你的照片的，为了纪念……
+mod:Sewage_Water.thechampion|And... Done. Could you please put this pearl back where you found it?|嗯……好了。你能把这颗珍珠放回原来的地方吗？
+/LTTM读烟囱天棚珍珠
+mod:Sewage_Water.thechampion|This information is illegal. Someone probably tried to send it by a pearl somehow rather than risking being overheard on broadcast.|这条信息是非法的。有谁试图以某种方式通过珍珠发送它，想避免在广播中被偷听的风险。
+mod:Sewage_Water.thechampion|It's an instruction on how to circumvent the self-destruction taboo. The problem with breaking taboos is that the barriers are encoded into every cell of our organic parts.<LINE> And there are other taboos strictly regulating our ability to rewrite our own genome.|这是一个如何规避自毁禁忌的说明。打破禁忌的问题在于，屏障被编码到我们有机部分的每个细胞当中。<LINE>还有其他禁忌会严格限制我们重写自己基因组的能力。
+mod:Sewage_Water.thechampion|Attempting to circumvent the issue using this process would be extremely risky.<LINE> That's not to say that there exists any known methods that would avoid putting the user in harm's way. Those barriers are there for a reason.|尝试利用该过程规避这个问题将极具风险。并不是说还有现存的可以避免将使用者置身危险的方法。<LINE>这些屏障的存在是有原因的。
+mod:Sewage_Water.thechampion|Where exactly did you find this pearl? I imagine you dug it up from somewhere within the surrounding facilities,<LINE> in which case that wouldn't leave many options as to the recipient.|你究竟是在哪里找到这颗珍珠的？我猜你是从周围设施的某处挖出来的，<LINE>这样的话，收件方是谁就相对明朗一些了。
+mod:Sewage_Water.thechampion|...Nothing I didn't already know by now...|…现下我已经没有什么不清楚的了……
+/LTTM读天空群岛珍珠3
+mod:Sewage_Water.thechampion|It’s an old conversation log from my friends and I. I was quite naive back then! Let me read it to you:|这是一份我与我朋友旧的对话日志。我那时太天真了！我读给你听：
+\"[1650.800 - PRIVATE]:\r\n Five Pebbles, Chasing Wind, Big Sis Moon, No Significant Harassment|“1650.800 - 私聊五块卵石、追逐清风、月姐、无稽烦忧
+mod:Sewage_Water.thechampion|CW: this is in confidence, but apparently a pseudonym \"Erratic Pulse\" has appeared on a nearby Sliverist conversation with ideas about personal ascension.<LINE> Someone here in our vicinity is trying to cross themselves out.|追逐清风：这是机密，但显然在附近的分离派对话中出现了一个化名“不稳脉冲”的家伙，那家伙说了对个人飞升的想法。我们附近有家伙正试图把自己抹去。
+mod:Sewage_Water.thechampion|FP: WhErE dId YoU hEaR tHiS?|五块卵石：亻尔人人口那口斤至刂白勺这个氵肖息？
+mod:Sewage_Water.thechampion|NSH: I wish them super good luck in that endeavor. How is it going to happen? Have the overseers gnaw through bedrock until their entire can crashes down in the void sea?|无稽烦忧：我祝那家伙在这条路上好运连连啊。然后呢？难道让监视者啃穿基岩 ，连同罐头一起掉进虚空之海
+mod:Sewage_Water.thechampion|BSM: Please be respectful when speaking of the Void Sea. Grey Wind, where did you hear this?|月姐：说到虚空之海的时候放尊重点。灰风，你在哪听到的这个消息？
+mod:Sewage_Water.thechampion|CW: I really shouldn't say. He's going to attempt some sort of breeding program. Thought you might want to know.|追逐清风：我真不该提这个。他打算尝试某种育种计划。你也许会好奇。
+mod:Sewage_Water.thechampion|NSH: Haha with the slimers, lizards and etceteras? Surely the answer was in a lizard skull all along!|无稽烦忧：哈哈，就用粘液、蜥蜴那些东西？对对对，答案就在蜥蜴头骨里面！
+mod:Sewage_Water.thechampion|CW: Well, he's not looking for the same thing as we anymore, he's changed his task, so who knows really.|追逐清风：好吧，他和我们寻找的东西不再一样了，他改变了他的任务，所以谁知道呢。
+mod:Sewage_Water.thechampion|BSM: I will try to find him and talk to him. Please don't spread this around!|月姐：我会试着找到他并和他聊聊。请各位不要把这件事传出去！
+mod:Sewage_Water.thechampion|NSH: Moon will go get them! Long live the inquisition!\"|无稽烦忧：月姐会抓到他的！审讯万岁！”
+mod:Sewage_Water.thechampion|In hindsight, his reluctance to engage in conversation on the topic was suspicious...|事后回想，他那时对这个话题表现出的抗拒态度就有些可疑……
+/LTTM读天空群岛珍珠4
+mod:Sewage_Water.thechampion|It’s me writing to the local group… of a conversation I wish I could forget.|这是我发送到本地迭代器群组里的话……一段我希望可以忘掉的对话。
+mod:Sewage_Water.thechampion|\"[1654.110 - PUBLIC]:\r\n Big Sis Moon to Local Group|"1654.110 - 公开<LINE>“1654.110 - 公开月姐至本地群组
+mod:Sewage_Water.thechampion|BSM: Two cycles ago, my neighbor Five Pebbles drastically increased his water consumption to four times the normal amount.<LINE> He has been unresponsive for a period of time longer than that. The two of us share groundwater, and I have been without water for almost a cycle.|月姐：两个雨循环前，我的邻居五块卵石将他的用水量急剧增加到平时的四倍。他已经有一段时间没有回复我了。<LINE>我们两个共享地下水源，而我已经断水差不多一个雨循环了。
+mod:Sewage_Water.thechampion|BSM: Any attempts at communication have been met with complete silence, and my situation is becoming increasingly dangerous.|月姐：任何交流尝试都杳无音信，我的处境变得越来越危险。
+mod:Sewage_Water.thechampion|BSM: I ask the local group for information about when you were last able to contact him, and to try to use those same communication channels again,<LINE> repeatedly until you get a response. I will be clear on this - if he is not persuaded to stop whatever it is he's doing, I will die.|月姐：我要向本地群组询问你们最后一次联系他的时间，并请各位尝试再次使用相同的沟通渠道联系他，<LINE>直到你们得到回应之前都不要停下来。我要先说清楚——如果他不被说服停止他正在做的任何事情，<LINE>我会死的。
+mod:Sewage_Water.thechampion|BSM: Before that happens, I will utilize my seniority privilege and use forced communications, hoping to shake him out of it.<LINE> Forced communications in the network will be unpleasant for all, and I will wait as long as possible before I turn to that option.\"|月姐：在那之前，我会利用我的上级特权发起强制通信，希望能把他摇醒。<LINE>网络中的强制通信对所有迭代器来说都是不愉快的，在我不得不这么做之前，<LINE>我会尽可能多等一会儿。”
+mod:Sewage_Water.thechampion|...That sure did help a whole lot...|…那可真是帮了大忙啊…
+/LTTM读天空群岛珍珠5
+mod:Sewage_Water.thechampion|I remember this. It isn't pleasant reading. But if you must hear it, this is what it says:|我记得它。读起来不是很愉快。但如果你一定要听的话，上面是这么写的：
+mod:Sewage_Water.thechampion|\"1654.116 - PRIVATE [FORCED]:\r\n Big Sis Moon, Five Pebbles|“1654.116 - 私聊【强制】月姐、五块卵石
+mod:Sewage_Water.thechampion|BSM: Immediately lower your groundwater consumption to one fifth of the current intake.|月姐：立即将你的地下水消耗量降低至当前五分之一。
+mod:Sewage_Water.thechampion|BSM: Stop whatever it is you are doing.|月姐：停止你正在做的任何事情。
+mod:Sewage_Water.thechampion|BSM: Please stop!|月姐：请停下来！
+mod:Sewage_Water.thechampion|BSM: As your local group senior I order you you you you you you|月姐：作为你当地群组的组长，我命令你你你你你你
+mod:Sewage_Water.thechampion|BSM: As your senior senior I plead|月姐：作为你的组组组长我恳求
+mod:Sewage_Water.thechampion|BSM: stop|月姐：停下
+mod:Sewage_Water.thechampion|Five Pebbles: You could not have chosen a worse moment to disturb me. You have ruined everything.|五块卵石：你选择一个最糟糕的时刻来打扰我。你毁了一切。
+mod:Sewage_Water.thechampion|BSM: please|月姐：求
+mod:Sewage_Water.thechampion|Five Pebbles: I almost had it. I will never forget this.\"|五块卵石：本来就差一点了。我不会忘了这件事的。”
+mod:Sewage_Water.thechampion|...And neither will I, dear brother, neither will I...|…我也不会，亲爱的兄弟，我也不会。
+/LTTM读天空群岛珍珠west
+mod:Sewage_Water.thechampion|This one is an old conversation between Five Pebbles and a friend of his, one that cared about him deeply. I'll read it to you.|这是五块卵石和他一个很关心他的朋友之间的往日对话。我读给你听。
+mod:Sewage_Water.thechampion|\"1591.290 - PRIVATE:\r\nFive Pebbles, Seven Red Suns|“1591.290 - 私聊五块卵石，七轮红日
+mod:Sewage_Water.thechampion|FP: Can I tell you something? Lately...|五块卵石：我能和你聊聊吗？最近……
+mod:Sewage_Water.thechampion|FP: I'm tired of trying and trying. And angry that they left us here.<LINE> The anger makes me even less inclined to solve their puzzle for them. Why do we do this?|五块卵石：总是试来试去的，我已经受够了。而且他们把我们丢在这里，我很生气。<LINE>愤怒让我更不愿意为他们解决他们的难题。我们为什么要做这个？
+mod:Sewage_Water.thechampion|SRS: Yes, I'll spell this out - not because you're stupid or naive... Also, not saying that you're not ~|七轮红日：好，我会和你解释清楚的——这不是因为你蠢或者天真……<LINE>当然，也不是说你就不笨或不幼稚~
+mod:Sewage_Water.thechampion|FP: Please, I'm coming to you for guidance.|五块卵石：嘴下留情，我是在寻求你的帮助。
+mod:Sewage_Water.thechampion|SRS: Sorry, very sorry. I kid. Fact is, of course we are all aware of the evident futility of this Big Task.<LINE> It's not said out loud but if you were better at reading between the lines there's nowhere you wouldn't see it. We're all frustrated.|七轮红日：抱歉，真抱歉。开个玩笑。事实上，我们当然都知道这项重大任务显然是徒劳的。<LINE>虽然没明说，但如果你咬文嚼字的水平更高，你就会发现这一点。我们都很沮丧。
+mod:Sewage_Water.thechampion|FP: So why do we continue? We assemble work groups, we ponder, we iterate and try. Some of us die. It's not fair.|五块卵石：那我们为什么还要继续？我们组建工作组、我们思考、我们迭代并尝试。<LINE>有些迭代器还死了。这不公平。
+mod:Sewage_Water.thechampion|SRS: Because there's not any options. What else CAN we do? You're stuck in your can, and at any moment you have no more than two alternatives:<LINE> Do nothing, or work like you're supposed to.|七轮红日：因为没有其他选项。我们还能“罐”得着什么？你被困在自己的罐头里，在任何时候你都只有两个选择：<LINE>要么什么都不做，要么做你该做的事。
+mod:Sewage_Water.thechampion|SRS: An analogy. You have a maze, and you have a handful of bugs. You put the bugs in the maze, and you leave.<LINE> Given infinite time, one of the bugs WILL find a way out, if they just erratically try and try. This is why they called us Iterators.|七轮红日：打个比方。你有一个迷宫，你还有一些虫子。你把虫子放在迷宫里，然后你就离开了。<LINE>给定无限的时间，哪怕它们只是在毫无规律地反复尝试，总有一只虫子能找到出路。<LINE>这就是为什么他们称我们为迭代器。
+mod:Sewage_Water.thechampion|FP: But we do die of old age.|五块卵石：但是我们会老死。
+mod:Sewage_Water.thechampion|SRS: Even more incentive! You know that nothing ever truly dies though, around and around it goes. Granted,<LINE> our tools and resources get worse over time - but that is theoretically unproblematic,<LINE> because in time even a miniscule chance will strike a positive. All the same to them, they're not around anymore!|七轮红日：甚至会更刺激！你知道的，没有任何东西会真正死亡，它会不停地轮回。当然，随着时间的推移，<LINE>我们的工具和资源会变得更糟——但这在理论上是没有问题的，因为假以时日，<LINE>即使有极小的可能性都会变得更好。反正对他们来说都一样，他们已经不在了！
+mod:Sewage_Water.thechampion|FP: I struggle to accept being a bug.\"|五块卵石：我很难接受自己是一只虫子。”
+mod:Sewage_Water.thechampion|...Seven Red Suns is a comendable iterator, but his decision to send that illegal data was an absolutely terrible idea.<LINE> He should have known Five Pebbles was too young, too naive...|七轮红日是个值得尊敬的迭，可他发送那些非法数据绝对是个馊主意。他本应该清楚五块卵石太年轻，太天真了……
+mod:Sewage_Water.thechampion|...I really wish he would have talked to me about this instead...|我真希望他能和我谈谈这事……
+mod:Sewage_Water.thechampion|I suppose that is siblings for you.|我想这就是拥有手足会有的感受吧。
+/LTTM读天空群岛珍珠top
+mod:Sewage_Water.thechampion|Oh, this one is all plain text. It's an excerpt from an Iterator conversation group.|哦，这个全都是明文。这是迭代器对话组的摘录。
+mod:Sewage_Water.thechampion|\"1650.787 - CLOSED GROUP [SLIVEROFOCEAN]:\r\nSliverOfOcean group, all participants anonymous|“1650.787 - 非公开群组【大洋裂片】<LINE>大洋裂片群组，所有参与者皆为匿名
+mod:Sewage_Water.thechampion|UU: Hah! I wouldn't necessarily disagree!|UU：哈！我不一定会反对！
+mod:Sewage_Water.thechampion|NGI: SLIVER OF STRAW WAS A TRAITOR TO THE CAUSE|NGI：稻草裂片是这个事业的叛徒
+mod:Sewage_Water.thechampion|NGI: SLIVER OF STRAW BROKE THE SELF-DESTRUCTION TABOO|NGI：稻草裂片打破了自毁禁忌
+mod:Sewage_Water.thechampion|UU: How did this idiot get in here? Kick them out ~|UU：这个蠢货是怎么进来的？踢出去~
+mod:Sewage_Water.thechampion|NGI: <Forcefully removed from group>|NGI：<被强制移出群组>
+mod:Sewage_Water.thechampion|EP: I think they had a point.|不稳脉冲：我认为这家伙说得有道理。
+mod:Sewage_Water.thechampion|UU: Hahaha really? Elaborate!|UU：嚯嚯嚯真的吗？仔细说说！
+mod:Sewage_Water.thechampion|EP: It was definitely coming from an idiotic state of mind, but there is something to it. Why is it, that even in a closed sliverist group,<LINE> the self-destruction taboo is held so high - while Sliver of Straw herself *evidently* is not among us anymore?|不稳脉冲：这绝对是蠢货的想法，但还是说到点子上了。为什么，即使在一个非公开的分离派群体中，<LINE>自我毁灭的禁忌也能得到如此重视？而稻草裂片她自己“很显然”已经不在我们之中了。
+mod:Sewage_Water.thechampion|HF: Wait now...|HF：等等……
+mod:Sewage_Water.thechampion|EP: I'm just saying that for all the research we are doing, all the theories we have, it's strange that we leave this path untrod.|不稳脉冲：我只是想说，我们进行了这么多研究，我们拥有这么多理论，我们抛弃这条路是很奇怪的。
+mod:Sewage_Water.thechampion|EP: It is not a new idea, but it needs to be vented occasionally. What if there is no universal solution? What if perception is in fact existence,<LINE> and when Sliver of Straw sent the triple positive it was *not* a mistake?<LINE> What if crossing oneself out, or even just death, is the way? We need to consider the possibility.\"|不稳脉冲：这不是什么新想法，只是偶尔需要提出来。如果没有普遍适用的解决方案呢？<LINE>如果灵感实际上是存在的，当稻草裂片发送三重肯定时它*不是*一个错误呢？<LINE>如果办法是把自己抹去，甚至就是死亡时呢？我们需要考虑这种可能性。”
+mod:Sewage_Water.thechampion|...\"Erratic Pulse\", so that was the name he used...<LINE> Quite fitting given our situation, I'll give him that...|……“不稳脉冲”，所以这就是他的化名……<LINE>我得承认，这倒挺符合我们的现状。
+mod:Sewage_Water.thechampion|...Wait...NGI..? Wasn't that the one who kept pratteling on about \"Transcendental Inversion\"???|…等一下，NGI…？这是那个一直念叨着“超验反转”的家伙吗？？？
+mod:Sewage_Water.thechampion|...Nevermind...|算了……
+/LTTM读地下珍珠
+mod:Sewage_Water.thechampion|It's a conversation log, all plain text. You want me to read it?|这是一份对话日志，全是明文，你想让我读给你听吗？
+mod:Sewage_Water.thechampion|\"1681.662 - PRIVATE:\r\nSeven Red Suns, Chasing Wind|“1681.662 - 私聊七轮红日、追逐清风
+mod:Sewage_Water.thechampion|CW: Have you had any contact with Five Pebbles recently?|追逐清风：你最近和五块卵石有接触吗？
+mod:Sewage_Water.thechampion|SRS: Not in a long while actually! Unless worrying about him counts.|七轮红日：其实很久没有了，除非单方面地担心他也算。
+mod:Sewage_Water.thechampion|CW: One of his neighbors, Unparalleled Innocence, sent an overseer to his can and got some images.<LINE> They were made public in the local group, in an effort to be mean I suppose. There's no other way of putting it - he looks awful.|追逐清风：他的其中一个邻居，无比纯真，派了一个监视者去他的罐头，得到了一些图像。<LINE>这些图像被公开发到了本地群组里面，我想是为了让他难堪吧。<LINE>我只能说——他现在很糟糕。
+mod:Sewage_Water.thechampion|SRS: Tell me.|七轮红日：具体说说。
+mod:Sewage_Water.thechampion|CW: He's got the rot, very badly. Big cysts have become mobile and are scattering down the west and middle legs.<LINE> He does listen to you, and few others by now, so you should talk to him.|追逐清风：他腐化了，非常严重。大型肿瘤已经变得可以移动并且在向西部和中部的支架扩散。<LINE>他会听你的话，现在也没几个迭能说动他了，所以你应该和他谈谈。
+mod:Sewage_Water.thechampion|SRS: I will try to contact him. Does Moon know?|七轮红日：我会试着联系他的。月姐知道这件事吗？
+mod:Sewage_Water.thechampion|CW: Moon has been unavailable for some time.\"|追逐清风：月姐已经有一段时间联系不上了。”
+mod:Sewage_Water.thechampion|It's nice to remember that others care about you.|想起来有人关心你真好。
+mod:Sewage_Water.thechampion|I miss them all so much...|我很想念他们……

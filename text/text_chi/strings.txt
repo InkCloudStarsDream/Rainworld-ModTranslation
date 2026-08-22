@@ -2146,14 +2146,21 @@ Null|空无一物
 Event Horizon|事件穹界
 
 //3033569804
-Sewage_Water.thechampion-description|一个健壮的男孩。
+Sewage_Water.thechampion-description|矛合成大师。以下为合成表：<LINE>任何矛+1饱食度→热熔矛；热熔矛+石头=破伤风之矛；破伤风之矛+石头→升级（最多可升级5次）；热熔矛+烟雾果=孢子矛；热熔矛+蘑菇=麻醉矛；热熔矛+蒲公英桃=蒲公英矛；热熔矛+灯笼/黏菌/水灯果=光矛；热熔矛+水莲灯=莲矛；热熔矛+扯线蜂巢=定身矛；热熔矛+神经元=忠诚Ⅲ之矛；热熔矛+火虫卵=火矛；热熔矛+监视者眼球=电矛；电矛+闪光果→充能；热熔矛+业力花=业力矛（如果启用了More Flora模组，你也可以用深渊果实来合成业力矛）；热熔矛+奇点炸弹=玩笑步枪；（启用观望者DLC时）石头+珍珠=回旋镖
 The Champion|英杰
 THE CHAMPION|英杰
 Champion|英杰
-Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead?|披坚执锐的野兽，试图保护那些你所珍视的存在。<LINE>你救不了它们，也许你还可以帮别人？
-The Tower of Pains|苦痛之塔
-Ruinous Facility|废墟设施
-The Panopticon|圆形监狱
+Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead? |披坚执锐的野兽，试图保护那些你所珍视的存在。<LINE>你救不了它们，也许你还可以帮别人？
+Labyrinth|迷宫
+Blighty Innards|布莱迪的内脏
+Pillars of Anguish|苦痛支柱
+All That is Left|仅剩之物
+Ruined|废墟
+Halls of The Forgotten|被遗忘者的中庭
+Smoldering Exhausts|喘息的排气管
+Ruinous Facility|破败设施
+Intake Manifold|摄水集成
+The Panopticon|环形监狱
 
 //3033901237
 //（由于该模组已内置翻译，此处删除）
@@ -5750,10 +5757,10 @@ Mama Bug|蛋母虫
 MamaBug|蛋母虫
 Mini Black Leech|小黑水蛭
 MiniBlackLeech|小黑水蛭
-Mini Echo Leviathan|小回响利维坦
-MiniFlyingBigEel|小回响利维坦
-Mini Leviathan|小利维坦
-MiniLeviathan|小利维坦
+Mini Echo Leviathan|迷你回响利维坦
+MiniFlyingBigEel|迷你回响利维坦
+Mini Leviathan|迷你利维坦
+MiniLeviathan|迷你利维坦
 Mini Scutigera|小钢蜈蚣
 MiniScutigera|小钢蜈蚣
 Mole Salamander|盲蝾螈
@@ -8641,6 +8648,3 @@ Resource extraction is proceeding steadily. |开采工作正稳步进行。
 Please provide additional equipment and food for our workers. |请为我们的工人提供更多设备和食物。
 Pay attention to the supports in the eastern part of the mines, as it may collapse.|注意矿井东部的支撑，其有崩塌的风险。
 The report is completed according to the ALD-02 form|报告根据ALD-02格式完成。
-
-//3787160205
-Cogworks|齿轮工厂

@@ -1083,6 +1083,13 @@ Asymmetry|非对称
 Roundness|弧度
 Wideness|宽度
 Length|长度
+(Change from main menu)|（从主菜单切换）
+(Not available for this slugcat)|（此蛞蝓猫不适用）
+Load Inactive Mods|加载未启用的模组
+Requires the Rain Meadow mod. If disabled, all other players skins are treated as player 1|若禁用，所有玩家都使用玩家1的皮肤。需启用雨甸。
+Default skins for Rain Meadow players|显示雨甸玩家为默认皮肤
+Wipe All Presets|清除所有预设
+Delete all DMS preset data, restoring everything to default. This can help fix issues with the get fancy menu if the data file has been corrupted.|清除所有DMS数据，重置为默认状态。若文件损坏，这可以修复“皮肤”菜单的问题。
 
 //2950073538
 customexpo-description|增加了不同的蛞蝓猫任务以带来全新的探险体验！

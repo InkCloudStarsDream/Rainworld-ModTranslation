@@ -2150,7 +2150,7 @@ Sewage_Water.thechampion-description|矛合成大师。以下为合成表：<LIN
 The Champion|英杰
 THE CHAMPION|英杰
 Champion|英杰
-Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead? |披坚执锐的野兽，试图保护那些你所珍视的存在。<LINE>你救不了它们，也许你还可以帮别人？
+Hardy beast of shell and spear, Tried to protect those you held dear.<LINE> You couldn't help them, maybe you can help someone else instead?|披坚执锐的野兽，试图保护那些你所珍视的存在。<LINE>你救不了它们，也许你还可以帮别人？
 Labyrinth|迷宫
 Blighty Innards|布莱迪的内脏
 Pillars of Anguish|苦痛支柱
@@ -2161,6 +2161,154 @@ Smoldering Exhausts|喘息的排气管
 Ruinous Facility|破败设施
 Intake Manifold|摄水集成
 The Panopticon|环形监狱
+/教程文字
+Eating adult centipedes while holding UP will let you rip off their shells, these shells act as extra defence.|食用成年蜈蚣的同时按住上，将它们的甲壳穿戴在你身上以获得额外防护。
+Different centipedes have different shells with different effects.|不同蜈蚣的甲壳有不同的作用。
+You may be able to use multiple of the same item to upgrade it.|你可以使用多个相同的物品来升级它。
+Hold pick-up and up together to heat up a spear to red hot temperatures.|同时按住上和拾取键以加热长矛至红热。
+They can only be crafted when they are glowing hot.|只有当矛还处于炽热状态时，它才能被用于合成。
+Experement!See what your creativity can manifest.|去大胆尝试吧！看看你能造出来什么。
+/FP对话1
+.  .  . Testing, testing, 1, 2, 3 .  .  .|……测试，1，2，3……
+Ah good, looks like this still is working|啊，很好，看来还能用。
+Sturdy One, I am pleased you have finally made your way here.|坚毅的生灵，我很高兴你终于来到了这里。
+Ever since the last one of your kind.  .  . departed, I haven't had a \"direct\" means of influence my surroundings.|自从上一个你的同类……离开后，我就没有直接影响周围环境的方式了。
+You seem similar enough to them anyway, I can sense something troubling you, it’s just no so.  .  . |反正你和它相似，我能感觉到困扰你的事物，只是没那么……
+Centerstage.  .  . |强烈又专注……
+I don’t think you want revenge or retribution, you just wish you had a way back.<LINE> To erase the errors of the past and do it all over again, the correct way.|你不是想要复仇或惩罚，只是希望有一条回去的路。<LINE>抹消过去的错误，以正确的方式重新来过。
+Perhaps I am projecting.  .  . Just a bit.  .  .|也许这只是我在投射自己……有那么点儿……
+But I think we both know that the meaning runs true.<LINE> We both want redemption for one reason or another.  .  .|但我想我们都知道我所说情真意切。我们都因这样或那样的原因渴望救赎。
+My neighbor, Looks to the Moon, her condition has grown progressively more volatile over the past 100 cycles or so.|我的邻居，仰望皓月，在过去的大约100个循环里，她的状况越来越不稳定。
+Logical reasoning would indicate that her collapse is imminent and she will fall any moment now. However this is not the case.<LINE> For whatever reason her can is still standing, hissing, spewing out toxic gas like a mushroom’s spores onto the wind.|按常理推断，她早就坍塌了。但事实并非如此。出于未知的原因，<LINE>她的躯壳仍然矗立着，像蘑菇释放孢子一样向风中喷出有毒气体。
+I could only imagine what being in that state for so long would feel like, the amount of discomfort must be immense.<LINE> All the lymphatic ducts, clogged with slag and dross. It would be a waking nightmare.|我仅能想象在那种状态下坚持这么久是什么感觉，那一定非常痛苦。<LINE>所有的淋巴导管都被废料和渣滓堵塞。一场清醒的噩梦。
+That is why I need you, Shelled one. I need you to find out why she has not fallen, why she still looms over this land, A reminder of my failures.|这就是我需要你的原因，披甲的生物。我需要你查明她为什么没有坍塌，<LINE>为什么仍然如一块铭记我失败的石碑，将这片土地笼罩于阴影之下。
+Go to where the land meets the sea and search below the crust. Crawl inside through the main intake, it should still be open.|前往陆海交汇之处，在地表之下搜寻。从主进气口爬进去。它应该还开着。
+I would get one of my overseers to guide you, but I can't risk her seeing my influence.|我本应该让我的一个监视者引导你，但我不能冒险让她察觉到我的干涉。
+You simply must, please. Put my mind at rest so I may focus on more.  .  . pressing matters…|请你务必要去。让我安心，这样我才能专注于更…紧迫的事务……
+Go now, Time is of the essence.|现在就去吧。抓紧时机。
+/LTTM对话1
+... Go... Away...|…走开…
+You again... Did you understand the first time you came in here?|又是你…你初来时就理解了现状吗？
+I am not much of an artist, but I really thought the pictures would have had worked!|我不是个符号学家，但我觉得那些图标会奏效！
+Still, your ability to leave here, journey to Five Pebbles and back is quite commendable.<LINE> It at least shows SOME intelligence...|不过，你能跋涉到五块卵石再返回这里，确实值得称赞。<LINE> 这表明你有一定的智慧……
+...Forgive me, <PlayerName>... It has been far too long since I have spoken to someone...|…原谅我，<PlayerName>…我已经太久没和谁对话过了……
+My initial scans indicate abnormal cerebral development spurred by some sort of... unidentified mass within you, such... Potential is intriguing...|我的初步扫描显示，你的大脑因为体内的某种…未知物质而发育异常，<LINE>这种…潜力很有趣…
+... Enough of all that though, I am in no condition to be research you. Changing the subject.|…不谈这些了，我现在的状态也不适合研究你。言归正传。
+It was unfair for him to drag you into this mess, but to make the most of this situation, I must ask for your assistance...|他将你拉进这滩浑水是不公平的，但为了把握局势，我必须向你求助…
+As you have most likely figured out, this structure in in the process of collapse. This is due to my neighbour, Five Pebbles,<LINE> who you have already met with. We share the same source of groundwater, a vital resource for our continued functionality.|你应当已经发现，这座巨构正在坍塌。这要归咎于我的邻居——五块卵石。你已经见过他了。<LINE>我们共用同一地下水源，这是维持我们机能的关键资源。
+This water is used to wash away the slag produced by our processing strata, without it, I will die...|这些水是用于冲刷我们处理层产生的废料的，没有干净的水，我就会死...
+... Or at least that is what I thought, through advanced techniques,<LINE> I have managed to maintain limited functionality... For a price. |…至少我以前是这么想的，通过一种高级技术，我设法维持了有限的功能……<LINE>但这是有代价的。
+The immense strain put on the structure during this time causes my whole can to resonate.<LINE>the slag is liquified and expelled via my vents.|这段时间，我结构所承受的巨大压力导致我的整个躯壳都在共振，<LINE>废渣被液化后经通风口排出。
+It is extremely painful, as the vents were not designed for this purpose, but it allows me to continue to function.<LINE> However the time it has granted me to think out a plan has been invaluable|这极其痛苦，因为通风口不是为此设计的，但我得以继续运作。<LINE>这确实为我争取到了宝贵的筹谋时间。
+My plan is to get you, <PlayerName>, to remove my main power core, a mass rarefaction cell. Once you remove this cell<LINE> the backup power provided to the gravity disruptors will be able to cushion most of the damage from the collapse,<LINE> while allowing my more sensitive hardware to shut off.|我的计划是让你，<PlayerName>，移除我的主能量核心，一颗质量稀释电池。一旦你移除了它，<LINE>提供给重力干扰器的备用电源将能够缓冲坍塌造成的大部分损害，同时让我更敏感的硬件关闭。
+...After that... I will enter a dormant state, you will not be able to communicate with me anymore...|…在那之后…我将进入休眠状态，你无法再与我交流……
+...I would have one of my overseers direct you towards it, but I sent most away so they would not be harmed in the event of my sudden collapse,<LINE> If there is anything more you wish to discuss please make it apparent before you... Pull the plug...|…我本来可以让我的一个监视者指引你，但大多数监视者都被我送走了，以免我崩塌时它们受到伤害。<LINE>如果你还有什么想说的，请在你…拔掉电池…之前表达出来。
+...Please hurry, with every cycle I can feel more of my memory fading. Good luck <PlayerName>!|…请快点，每过一个循环，我都能感觉到更多的记忆在消逝。祝你好运，<PlayerName>！
+/LTTM对话2
+You... He sent you, did he not? The Coward sitting upon his pile of rocks?|你...是他派来的，对吧？那个铁石心肠的懦夫？
+Typical of him, geting other to suffer for his mistakes!|他向来如此，让旁人为他的过错付出代价！
+... However, you do not seem to be here against your own will, did you come here for... me..?|…但你的到访似乎并非身不由己，难道是为我…而来…？
+/LTTM对话3
+Oh! you are back <PlayerName>.|哦！你回来了，<PlayerName>。
+I know that I only spoke with you once before, but I already feel this sort of... kinship with you? I'm not quite sure, it's strange...|虽然只见过你一次，但我却觉得…很亲切？我也说不清，这真奇怪……
+This familiar feeling, almost... Nostalgic? Like seeing an old friend.|这熟悉感…近乎怀念？简直如同和老友重逢一般。
+But then again it could just be the the fact that I have be stuck inside my own decaying carcass for goodness knows how long!..|当然，也可能只是因为我被困在自己的躯壳里太久太久了……
+...Point being, it is nice to see you <PlayerName>...|…总之，很高兴见到你，<PlayerName>。
+/LTTM读物品
+It's a piece of sharpened rebar... What is it you want to know?<LINE> You seem proficient enough at using it...<LINE>I wonder how much of me will become rebar when I am gone?|这是一根削尖的钢筋…你想知道些什么？看起来你能熟练使用它……<LINE>我在想，若我死去，我会有多少部分变成钢筋？
+A pebble... Very funny...|一块卵石…如此滑稽…
+It's a weapon made with fire powder. Amateur quality. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|这是一种火药做的武器。制作粗劣。是拾荒者给你的吗？<LINE>使用的时候要小心！
+How did you manage to get it to pop without any water?|你是如何不用水就泡开它的？
+This the the fruiting body of a purposed organism, specifically designed to produce a high luminocity arc flash.<LINE>Primarily used for pest control on photosensitive fauna.|这是一种效用有机体的果实，可以产生高亮的电弧闪光。<LINE>它被用于防治对强光敏感的害虫。
+A facial identification plate from a purposed organism, or a descendant of one at least.<LINE>How can I tell? It lacks a serialisation chip.|一种效用有机体或其后代的面甲，用于识别或认证。<LINE>我分辨不出什么，因为它缺少序列化芯片。
+This is the spore sack of a purposed organism, a fungus, one designed for pest control against arthropods.<LINE>The spores shouldn't be toxic to your kind, Please don't throw it in here.<LINE>The last thing I need is a fungus patch|一种真菌效用有机体的孢子囊，用于防治有害节肢生物。这些孢子应该对你的物种无毒，但还请不要扔在这儿。<LINE>我不想要一片真菌地。
+This length of rebar is considerably warmer than others I have felt.<LINE>It would take a considerable amount of energy to get it so thoroughly warmed...|这根钢筋比我以往接触过的要烫得多。要将其加热得如此彻底，<LINE>需要相当多的能量……
+This length of rebar has it's tip coated in some sort of fungal discharge...<LINE>Very effective against any arthropods you would be hunting.|这根钢筋的尖端涂了某种真菌的分泌物……对你想要狩猎的任何节肢生物都会很有效。
+This length of rebar has it's tip coated in psilocybin compounds.<LINE> I assume the purpose of it is to incapacitate rather then kill.|这根钢筋的尖端涂有迷幻菇中的化合物……我想它的用途是令目标丧失行动能力而不是杀害目标。
+This length of rebar has been tipped with a crude head.<LINE>The grain of the metal indicates sequential heating and cooling events.|这根钢筋的尖端处理得很粗糙。其金属纹理表明它经历过多次加热和冷却。
+This length of rebar has been tipped with the fruiting body of some sort of plant.<LINE>Those tufts must act like a wind break, reducing velocity.|这根钢筋的尖端附有某种植物的子实体。<LINE>那些绒毛似乎可以挡风，降低矛的速度。
+Such wastefulness...|多浪费……
+There... Is a strange energy around this item. Please be very careful with it...|这东西…笼罩着一种奇怪的能量。请小心对待它……
+This length of rebar has been tipped with some bioluminescent bacteria.<LINE>Movement seems to excite them, producing visible light.|这根钢筋的末端涂有一些能发出生物光的黏菌。<LINE>晃动能使它们激发出可见光。
+This... Is very clever...|这…非常巧妙……
+The sharp roots of this plant have been reinforced with the rebar inserted inside the body.<LINE>Whatever made this was skilled and thoughtful.|钢筋插入了某种植物锋利的根系内部，起到了加固作用。<LINE>无论制造者是谁，都很有技巧且思虑周全。
+A hive of insects appears to have made their home inside this hollowed out rebar! Please take it away!|一群昆虫似乎在这根中空的钢筋里安了家！请把它拿走！
+A weathered length of rebar. It has clearly seen better days...|一根饱经风霜的钢筋。显然它曾经有过更好的状态……
+Huh... Patterns in the grain of this metal are indicative of a high temperature heat source and foreign compounds...|嗯……其金属纹理表明它曾接触过高温热源和外来化合物……
+This appears to be the fruiting body of a vast, sprawling network of subterranean roots.|这似乎是从某个庞大的地下根系脉网中长出的子实。
+It is... Truely massive. Seeing such a specimen makes me envious of those equipped to digest such a meal.|真是硕大……看到这种样本，我不禁羡慕那些有本事消化掉它的生物。
+This... This is a citizen ID drone!|这是一台公民身份识别无人机！
+Our creators used these as keys to enter or access all sorts of things and places.|创造者们曾将它们用作通行和使用某些物品的钥匙。
+I do recall my observers showing me some images they snapped of a creature with a functional one.|我还记得我的监视者给我看过一些照片，里面是一只带着功能正常的无人机的生物。
+Perhaps they met a grim ending? Perhaps they abandoned it as it served no use to them?|也许它遭遇了不测？也许只是因为用不上，所以它就被丢弃了？
+I doubt this one is still functional. Not like it could recalibrate it in my state anyway.|我怀疑这台无人机还能用。不过以我现在的状态也无法重新校准它。
+Still, quite the rare find, my little friend.|真是个少见的发现，我的小朋友。
+/LTTM读珍珠
+...You took this from his can, didn't you?|…你从他的罐头里带来的，对吗？
+...Cast it away, let it succumb to entropy.|…扔了它吧，让它走向熵增。
+/LTTM彩蛋对话
+Oh no! How did one of those get in here? they are supposed to be patrolling the exterior... My condition must be much worse than I thought...|哦不！这些东西怎么会进来？它们不是应该在外面巡逻吗？<LINE>……我的状况可能比我想象的更糟……
+Mmmm, chonky.|唔，肥嘟嘟的。
+I can't eat venison!|我不能吃雨鹿！
+THE ROT CONSUMES.|吞吃一切的腐化物啊。
+Is that your reserve supply..? Ha Ha!!!|那是你的储备粮吗？……哈哈！
+Aw! what a cute pet! Lovely plumage!|噢！多可爱的宠物！翅膀真漂亮！
+Oh, hi Larry.|哦，你好，拉里。
+/FP彩蛋对话
+.  .  . HAHAHAHAHHAHAHAH!!! .  .  .|…哇哈哈哈哈哈哈哈哈哈哈！！！…
+YOU LITTLE IDIOT!!!|你这小白痴！！！
+SO! you must have use room warp to get here, yes? I'm not mad! In fact, this room serves as a sort of \"dev diary\". |所以！你一定是用了传送菜单进来的，对吧？我没生气。事实上，这个房间就像一份开发日志。
+This first entry is from the initial release in... August 2023? Yes i think it was then...|第一条日志写于最初发布的时候…大概是2023年8月？我想应该是…
+Good job getting here, mod downloader person but I am afraid to say this mod isn't finished yet.|你做得好啊，玩家。不过我得说这个模组还没做完。
+Still though, thank for dowloading. I hope you liked it so far|感谢你的下载游玩。我希望到目前为止你都玩得开心。
+It has been a long road getting here, to think I started learing to code a whole year ago!|一路走来真是不容易，想想我之前花了一整年学编程！
+Please report any bugs and send any ideas on over to the suggestion box!|欢迎报错，并把你的任何想法投到建议箱里吧！
+Time flys, and hopefully in another however long it takes, this mod will be finished and I can finally be proud of myself. Not that I am not now.|时间过得很快，但愿这个模组最终能完成，我终于能为自己感到骄傲。<LINE>当然我现在也不可谓不自豪。
+Oh, and Five Pebbles won't talk to you now!|哦，还有现在五块卵石不会再和你说话了！
+Well, see you in another 6 months!|好啦，6个月后再见！
+This next entry is from the first major update in... December 2023!|接下来这一条是关于第一次重要更新的……来自2023年10月！
+I'M BACK!!!|我回来了！！！
+Did you like coming in through the basement?|你喜欢从地下室进来吗？
+I made it myself! It was an interesting experence, lots of spaghetti, I still don't understand a few things.|那是我自己做的！这是一段挺有趣的体验，弄了一大堆意面，有些地方我还是没搞明白。
+Sorry about the rough transition to my struts, it's not cannon, the DM region changes are coming next update|我做的月腿衔接不太顺畅，抱歉啊。那个不算正式内容，DM的区域改建会在下次更新里实装。
+Maybe then the dev will stop using me like a sock-puppet.|也许到时候我就不会再被开发工具整得死去活来了。
+I also had a small try at making Past GW a little bit less stinky, diluted the acid a bit...|我也尝试了让过去的垃圾堆没那么脏臭，把酸液放少了点……
+Well that should be everything new...|呃，新东西应该就这些了……
+I'm just glad it didn't take me another 6 months...|我只庆幸这次没再花我六个月……
+Well, see you in less than 6 months!|那，咱们不到六个月后见！
+This next one is from 11:14 PM on 21/3/2024.|接下来这条写于自2024年3月21日晚上11:14。
+I'm coding and I've got two feral kittens I've domesticated on my lap.|我正在敲代码，我养的两只野猫躺在我腿上。
+Region modification was a doozie.|区域修改可真够折腾的。
+I got 5 hours of sleep last night.|我昨晚只睡了5个小时。
+Was going to add a new creature this update, but that plan has gone a little haywire thanks to the update|本来打算在这次更新里加个新生物，但现在那个计划有点乱套了。
+DM's region map is FUBAB'ed because the in game map maker is a nightmare.|DM的区域地图彻底完蛋了，因为游戏内置的地图编辑器简直是噩梦级别的难用。
+I'll get arround to fixing that in a patch soon, promise!|我会尽快在后续补丁里修复的，我保证！
+More is on the way.|更多内容还在路上。
+This will not be the end.|这不会是终点。
+BECAUSE I NEED TO PATCH THE BUGS!!! ARHG!!!|因为我还得修BUG啊！！！呃啊啊！！！
+This next one is from 7:23 AM on 20/8/2024.|接下来这条来自2024年8月20日早上7:23。
+Hello once again my dearies. I am happy to inform you all that I am not dead.|我又回来啦，很高兴告诉大家我还活着。
+This update Isn't the grand finale I wan planning on, but I am still happy with myself|这次更新并不是我原计划中的大结局，但我自己还是挺满意的。
+A new creature, a new level hazard and two new spears? Yes please! I am satisfied!|一种新生物、一种新关卡机关，还有两种新矛。我很满足！
+Life has been... Hard lately, but I will never give up. I can't.|最近生活……有点艰难，但我绝不会放弃。我不能。
+New rooms look nice... I think... Lots of... Salt...|新房间看着还不错……我觉得…很多…盐…
+My new kitties are doing well. They are named Arti and Miss Orange. I love them very much!|我的小猫咪们过得很好。它们有了新名字，分别是Arti和Miss Orange。我爱它们！<LINE>(译注：Arti即工匠的昵称。)
+Did anyone see that easter egg in the last update? The one with the cat? That was Arti. She has grown so much since then!|有人看到上次更新里的那个彩蛋了吗？就是有猫的那个？那是Arti。她长大了好多！
+If you want to see her, look in the mods illustration foulder.|如果想看她，可以去模组的illustration文件夹里找找。
+Sometimes I wonder if anyone even reads these. Please put the word \"Banker\" in the comments if you did read this.|有时候我都怀疑到底有没有人看这些。如果你真的读到了，<LINE>请在评论时写上 \"Banker\"这个词。
+Anyway, that's another dossage from moon the sock puppet|好了，以上就是来自这具月姐人偶的又一堆唠叨。
+AND IT ONLY TOOK ME 5 MONTHS THIS TIME!!!|而且这次只花了五个月！！！
+Now, a plea for assistance. Anybody know how to make music? Hit me up. Please... It is hard!|现在，求个助。谁懂怎么做音乐？联系我啊。拜托了……好难啊！
+Next is hopefully the ending, if I am lucky~|下一次希望就是大结局了，如果我运气好的话～
+And finally, this one was mad on 1/3/2025 at 5:47PM.|最后一条，写于2025年3月1日下午5点47分。
+Well, this is it.|嗯，就这样吧。
+This has been a hell of a thing. Hasn't it? Devlopment...|这真是一段不得了的经历，不是吗？开发这事儿……
+This project has been the largest thing I've worked on in my entire life.|这个项目是我这辈子做过的最大的东西。
+I am very proud of myself and Seranner for pulling through and making it to the end.|我为自己和Seranner能坚持到最后感到非常自豪。
+Devlopment will resume with a patch after the watcher comes out, to fix any bugs.|等观望者发布之后，开发工作还会以补丁形式继续，主要是修复各种bug。
+This Has been an absoulute blast. I am seriously considering wether or not I should make my own videogame...|这段时光非常精彩。我在认真考虑要不要自己做一款游戏……
+Until next time.|下次再见。
+And that's all the smug prick wrote.|以上就是那个自大狂写下的全部内容。
 
 //3033901237
 //（由于该模组已内置翻译，此处删除）
@@ -5757,10 +5905,10 @@ Mama Bug|蛋母虫
 MamaBug|蛋母虫
 Mini Black Leech|小黑水蛭
 MiniBlackLeech|小黑水蛭
-Mini Echo Leviathan|迷你回响利维坦
-MiniFlyingBigEel|迷你回响利维坦
-Mini Leviathan|迷你利维坦
-MiniLeviathan|迷你利维坦
+Mini Echo Leviathan|小回响利维坦
+MiniFlyingBigEel|小回响利维坦
+Mini Leviathan|小利维坦
+MiniLeviathan|小利维坦
 Mini Scutigera|小钢蜈蚣
 MiniScutigera|小钢蜈蚣
 Mole Salamander|盲蝾螈
@@ -8648,3 +8796,8 @@ Resource extraction is proceeding steadily. |开采工作正稳步进行。
 Please provide additional equipment and food for our workers. |请为我们的工人提供更多设备和食物。
 Pay attention to the supports in the eastern part of the mines, as it may collapse.|注意矿井东部的支撑，其有崩塌的风险。
 The report is completed according to the ALD-02 form|报告根据ALD-02格式完成。
+
+//3787160205
+CogworksRegion-description|一个正在开发中的模组区域。连接天空群岛、农场阵列和地下。
+Cogworks|齿轮工厂
+Junkyard|废品场

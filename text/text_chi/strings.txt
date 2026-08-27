@@ -8808,3 +8808,6 @@ The report is completed according to the ALD-02 form|报告根据ALD-02格式完
 CogworksRegion-description|一个正在开发中的模组区域。连接天空群岛、农场阵列和地下。
 Cogworks|齿轮工厂
 Junkyard|废品场
+
+//3785470100
+Rain Garden|雨中花园

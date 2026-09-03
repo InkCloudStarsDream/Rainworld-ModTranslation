@@ -8861,10 +8861,8 @@ CogworksRegion-description|一个正在开发中的模组区域。连接天空�
 Cogworks|齿轮工厂
 Junkyard|废品场
 
-//3785470100
-Rain Garden|雨中花园
-
 //3794855016
+Forgotensystemss-description|添加区域的模组，与修改了房间LM_E02的模组不兼容。<LINE>也不兼容同样使用LBW作为区域首字母缩写的模组。
 BORDERWALL(LEFT)|边境墙（左侧）
 PIPELINE|管道
 East BORDER WALL|东侧边境墙

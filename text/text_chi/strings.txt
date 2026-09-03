@@ -8813,3 +8813,9 @@ Junkyard|废品场
 
 //3785470100
 Rain Garden|雨中花园
+
+//3794855016
+BORDERWALL(LEFT)|边境墙（左侧）
+PIPELINE|管道
+East BORDER WALL|东侧边境墙
+west BORDER WALL|西侧边境墙

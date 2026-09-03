@@ -5539,6 +5539,10 @@ MoYuShuang|魔芋爽
 QueYaChi|缺牙齿
 //Saint's Outer Expanse 2.0
 OESphereItem|OE 植物球
+//Rain Garden
+BadMold|霉菌
+ToyBoat|玩具船
+CitizenMask|公民面具
 
 //代币
 <region> Arenas|<region>竞技场
@@ -7857,28 +7861,59 @@ An Amalgamation born not quite of slugcat, yet not quite of lizard. Employed to 
 In an exploration of self, The Amalgamation<LINE>sets forth to discover their identity.|在对自我探索中，嵌合体决心去寻找它身份的真相。
 
 //3713549163
-the_aquaflora-description|一只适应自然与海洋的蛞蝓猫。
+ECHOES OF RAIN
+the_aquaflora-description|雨之回响（Echoes of Rain）是完整的雨世界拓展包，添加一只新的蛞蝓猫——水生花，<LINE>拥有独特能力以及全新剧情、区域、生物、物品、游戏机制以及环境故事。<LINE>穿越被遗忘的废墟，探寻衰老文明的回响，在被岁月所改变的世界中生存。<LINE>每个区域都隐藏着新的挑战、秘密以及回忆，等待被揭露。
 With adaptations to the vastness of the forests and the abyssal depths of the seas<LINE>survival is essential in a world changing drastically.|拥有对广袤森林和海底深渊的适应力，<LINE>生存在急剧变化的世界中至关重要。
+the_aquaflora|水生花
+the Aquaflora|水生花
 aquaflora|水生花
 AQUAFLORA|水生花
+the lawn|草坪
+The Rot|腐化之地
+Five Pebbles (Primary Cortex)|五块卵石（原始皮层）
+Five Pebbles (Recursive Transform Array)|五块卵石（递归变压阵列）
+The Rot (Depths)|腐化之地（深渊）
+The Rot (Cystic Conduit)|腐化之地（囊性导管）
+Five Pebbles (Linear Systems Rail)|五块卵石（线性系统导轨）
 Decaying Crypts|破败陵墓
 Shaded Citadel|阴影城堡
+Dark Pillar|暗柱
+AquafloraWaterBall|水球
+WaterBall|水球
+Use Batnip and a Bubble Fruit to create BubbleWeed by pressing UP + PICK UP.|按住“上”+“拾取”键，使用蝠蝇草和泡水果合成气泡草。
+WaterBall: hold PICK UP while carrying a rock to turn it into a WaterBall at the cost of food.|水球：长按“拾取”键，消耗一格饱食度，将被吞入胃袋的石头加工为水球。
+Explosive WaterBall: hold a WaterBall and a Cherry Bomb, then press UP + PICK UP.|爆炸水球：手持水球和鞭炮草，按住“上”+“拾取”键合成。
+Spore WaterBall: hold a WaterBall and a Slime Mold, then press UP + PICK UP.|孢子水球：手持水球和黏菌，按住“上”+“拾取”键合成。
+
+//Initialize
+Abilities|能力
+General|通用
+CRAFTING & STOMACH ABILITIES|合成&吞储能力
+[RegEX]How to use:\n• Swallowing a Rock consumes 1 food pip and turns it into a WaterBall.\n• Hold UP + PICKUP while holding items to craft:\n   - WaterNut + Batnip = Bubble Weed\n   - WaterBall + Firecracker Plant = Explosive WaterBall\n   - WaterBall + Slime Mold = Spore WaterBall|使用说明：#Environment.NewLine#• 吞下石头并消耗1格饱食度，加工为水球。#Environment.NewLine#• 持有物品时，按住“上”+“拾取”键进行合成：#Environment.NewLine# - 泡水果+蝠蝇草= 气泡草#Environment.NewLine# - 水球+鞭炮草= 爆炸水球#Environment.NewLine# - 水球+黏菌=孢子水球
+Easy|简单
+Normal|普通
+Hard|困难
+ECHOES OF RAIN - DIFFICULTY|雨之回响 —— 难度
+Rain difficulty|暴雨强度
+Enemy difficulty|敌人强度
+Creature reputation|生物声誉
+[RegEX]Rain Difficulty:\n• Easy: Longer cycle timers.\n• Normal: Vanilla cycle timings.\n• Hard: Short and unpredictable cycles.|暴雨强度：#Environment.NewLine#• 简单：雨循环时间更长。#Environment.NewLine#• 普通：正常雨循环时长。#Environment.NewLine#• 困难：短暂且不可预测的雨循环。
+[RegEX]Enemy Difficulty:\n• Easy: Fewer dangerous predators.\n• Normal: Vanilla predator spawns.\n• Hard: Aggressive predators and higher spawns.|敌人强度：#Environment.NewLine#• 简单：掠食者数量更少。#Environment.NewLine#• 普通：正常掠食者生成数量。#Environment.NewLine#• 困难：掠食者更具威胁性且生成率更高。
+[RegEX]Creature Reputation:\n• Easy: Start with higher global reputation.\n• Normal: Standard default reputation.\n• Hard: Lower initial reputation with local fauna.|生物声誉：#Environment.NewLine#• 简单：初始群体好感度更高。#Environment.NewLine#• 普通：标准群体好感度。#Environment.NewLine#• 困难：所在区域生物好感度以及群体好感度更低。
 
 //迭代器对话
-//144
-.  .  . 
-W- what are you doing here?|你-你在这里做什么？
-Your kind has passed through here many times before.<LINE>I offered them guidance and my wisdom.|你的同类来过这里很多次了。<LINE>我给了它们方向和我的智慧。
-And yet, here you are, another little beast on the floor of my chamber.|然而我房间的地面上又来了你这只小野兽。
-I have nothing to offer you, for the only thing I had was removed from my core.<LINE>And you should not be here either, for ever since a friend's structure was restored...|我什么都给不了你，我所唯一能给出的东西已经从我的核心中移除了。<LINE>而且你也不应该在这里，因为自从一位朋友的巨构恢复之后……
-My structure began to shut down, and parts of it started to fall away.<LINE>Since then, it has become dangerous to remain near it.|我的结构已经开始关闭，部分零件也开始脱落。<LINE>从那以后，在这附近逗留越来越危险了。
-//126
-Oh. Hello there!|哦。你好呀！
-What exactly are you? It has not been long, but there was another of your kind before you.<LINE>They left not long ago, after restoring my machinery. You seem to bear a mark, do you not?|你到底是什么呢？不久之前，有你的另一个同类来过。<LINE>它在修复了我的结构后不久就离开了。你看上去拥有印记，不是吗？
-Putting the pieces together... it could not have been my neighbor, Five Pebbles, for he only worsened after his last mass rarefaction cell was removed.<LINE>Though the frequent and rapid rains have ceased,<LINE>his entire structure has since been corrupted by his own creation.|拼凑一下线索……不可能是我的邻居五块卵石给你的，他的情况在最后一颗质量稀解电池被移除后变得更糟了。<LINE>尽管频繁的倾盆大雨已经停止，他的整个巨构已经被他所创造的生物毁坏。
-So, you came from a distant land?<LINE>What is it that you want here, exactly? I have nothing to offer you, but I must warn you, little creature.|那你来自遥远的地方吗？你到底想要什么呢？<LINE>我没有能给你的东西，但我必须警告你，小生灵。
-You would be better off turning back and returning from where you came, for almost nothing remains in this domain.<LINE>Though one of my overseers has detected that parts of Five Pebbles have begun falling away.|你最好回头返回你来时的地方，因为这片辖区已经什么都不剩了。<LINE>我的监视者之一还观察到五块卵石已经开始部分脱落。
-I hope you understand that there is no longer any place here for creatures like you,<LINE>though the last of your kind to come this way did not remain for very long.|我希望你明白这里已经不适合像你这样的生灵生活了，<LINE>上一个来这里的你的同类也没逗留太久。
+//FP对话
+//152
+.  .  .|……
+O- what are you?|噢- 你是谁？
+So... you are taking a tour through my superstructure, is that it?|所以……你是在参观我的巨构，对吧？
+What I can tell you is this:<LINE>my structure is in no condition to shelter any specimen.<LINE>It has become dangerous, even for me.|我能告诉你的是：<LINE>我的巨构已无法容纳任何存在。它变得非常危险，甚至对我来说也是如此。
+And I have nothing to offer you,<LINE>little hybrid.|而我什么都给不了你，小杂种。
+. . .|……
+Then there is nothing for you to find here.|你在这里什么都找不到。
+If you are looking for answers, or something close to them,<LINE>she may be able to answer you better than I can.|如果你在寻找答案，或者什么接近答案的东西。<LINE>相较我而言，她或许能给你一个更好的回答。
+Go east, beyond the great walls of the Citadel,<LINE>and find an old friend.<LINE>She should be in better condition now.|向东走，越过城堡的高墙，然后去找一位旧友。她现在状态应该比我好了。
+That is all the guidance I can give you:<LINE>stay away from this place, and avoid being crushed by my structure...<LINE>or consumed by my own creation.|这就是我能给你的全部指引了：<LINE>远离这个地方，免得被我的巨构压扁……或被我自己的造物吞噬。
 
 //3713608550
 TeslaGrad_FonabA-description|增加新区域与新剧情。
@@ -8805,6 +8840,21 @@ Resource extraction is proceeding steadily. |开采工作正稳步进行。
 Please provide additional equipment and food for our workers. |请为我们的工人提供更多设备和食物。
 Pay attention to the supports in the eastern part of the mines, as it may collapse.|注意矿井东部的支撑，其有崩塌的风险。
 The report is completed according to the ALD-02 form|报告根据ALD-02格式完成。
+
+//3785470100
+frabjouspolygon.raingarden-description|一半是降雨控制区，一半是公园。这个植被浓密的地方虽然被忽视了，但依旧在运作。这里虽然平和，但你需要打破界限才能找到它。试着在郊区设施的视界之外寻找吧。
+Rain Garden|雨中花园
+//CitizenMask
+Look at you! You looked like one of my creators with that on.|看看你！你戴着它的样子看起来像我的一位创造者。
+This is the very same kind of headwear that they used to don.|这和他们过去常戴的头饰一模一样。
+I wonder where you could have gotten this?|我想知道你是从哪里拿到的？
+//ToyBoat
+Did you bring me this to play with?<LINE>How thoughful!|你是把这个带给我玩的吗？<LINE>真贴心！
+This is a toy replica of a sailing vessel. My creators used to use such things to traverse this resevoir,<LINE>though I doubt you would have much luck riding this one.|这是一个玩具帆船。我的创造者曾乘坐这些帆船横渡水库，但我想你是没有运气坐船了。
+That said, it appears to be in good condition.<LINE>It seems whatever fabricator made these is still active.|这个状态良好。看来无论工匠制作的是什么东西，现在都还在活动。
+//BadMold
+This was a popular diet food among my creators. It was purposed to have enough nutrients to sustain someone for a long period of time,<LINE>allowing them to ritualistically fast for longer.|这是一种在我的创造者中很流行的食物。<LINE>旨在为食用者提供足维持身体很长时间的营养，以便他们进行更久的仪式性禁食。
+I would encourage you to try it but your eyes were watering just from holding it.<LINE>Someone is quite the picky eater!|我本想鼓励你尝试一下，但你光拿着它就泪流不止了。<LINE>某人真是一个挑食鬼！
 
 //3787160205
 CogworksRegion-description|一个正在开发中的模组区域。连接天空群岛、农场阵列和地下。

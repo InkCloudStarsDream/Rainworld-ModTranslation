@@ -8609,6 +8609,37 @@ Strange... it is encoded in a writing style from <LINE> before my construction..
 Anyway, there seems to be a signature below the list, <LINE> but it has been roughly scratched out by some sharp utensil.|总之，清单最底下似乎是有个签名，但被什么尖锐的东西刮擦掉了。
 This could be... useful--for my logs, little ruffian.|也许……它还有用，对于我的日志来说。小恶棍。
 
+//3772996588
+DMSxMeadow
+dmsxmeadow-description|在选项中启用“分享你的皮肤”，即可自动与其他雨甸玩家共享你的皮肤！<LINE>也可以通过“皮肤”-“联机”选项并输入Steam ID手动上传（手动配置优先级最高）。<LINE>包含独立UI颜色以及皮肤可见性设置。
+dmsxm_tab_online|在线
+dmsxm_tab_local|本地
+dmsxm_title_online|在线选项
+dmsxm_title_profiles|配置文件管理
+dmsxm_title_banned|黑名单皮肤列表
+dmsxm_share_label|分享你的皮肤
+dmsxm_friends_label|仅显示steam好友的皮肤
+dmsxm_mode_id|玩家ID
+dmsxm_mode_name|名称
+dmsxm_mode_profile|样式 #
+dmsxm_delete|删除
+dmsxm_row_profile|样式 <num>  <id>
+dmsxm_row_orphan|样式 <num>  [orphan]
+dmsxm_profile_label|样式：
+dmsxm_set_btn|配置
+dmsxm_playerid_label|玩家ID：
+dmsxm_status_meadow_off|联机模式已关闭
+dmsxm_status_invalid|样式编号无效
+dmsxm_status_range|样式编号必须为1-99
+dmsxm_status_already|已启用样式<num>
+dmsxm_status_saved|已保存玩家ID
+dmsxm_status_deleted|样式已删除
+dmsxm_ban_desc|拉黑<name>的皮肤（本地，永久）
+dmsxm_unban_desc|取消拉黑<name>的皮肤（本地，永久）
+Identity|个性化
+Other players will be able to see your current skin|其他玩家将看到你的当前皮肤
+ShareSkin is off: other players will not see your skin|皮肤共享已关闭：其他玩家无法看到你皮肤
+
 //3774781226
 Subtitles
 peterklaus.subtitles-description|在游戏左下角显示字幕。<LINE>为那些听力障碍、正在听歌或其他原因需要无障碍的人提供！

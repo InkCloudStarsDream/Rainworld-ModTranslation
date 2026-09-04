@@ -8898,3 +8898,11 @@ BORDERWALL(LEFT)|边境墙（左侧）
 PIPELINE|管道
 East BORDER WALL|东侧边境墙
 west BORDER WALL|西侧边境墙
+
+//3795314357
+overgrownvents-description|区域模组，连接到工业区的(HI_A25)。
+Overgrown vents|长草的排气管
+/OV_PEARL_YELLOW_GREEN
+Oh! it appears to be a request from me to my neighbor iterator, five pebbles, to stop what they are doing.|啊！这是我向我的邻居五块卵石发送的一条请求，要求祂停下祂当时正在做的事。
+I seem to be quite frantic and scared, even a little angry.|我那时似乎相当慌乱和害怕，还有点愠怒。
+I wish this hadnt gone off course...|希望事态没有发展到完全脱轨的地步……

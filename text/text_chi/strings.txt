@@ -8882,10 +8882,10 @@ I wonder where you could have gotten this?|我想知道你是从哪里拿到的�
 //ToyBoat
 Did you bring me this to play with?<LINE>How thoughful!|你是把这个带给我玩的吗？<LINE>真贴心！
 This is a toy replica of a sailing vessel. My creators used to use such things to traverse this resevoir,<LINE>though I doubt you would have much luck riding this one.|这是一个玩具帆船。我的创造者曾乘坐这些帆船横渡水库，但我想你是没有运气坐船了。
-That said, it appears to be in good condition.<LINE>It seems whatever fabricator made these is still active.|这个状态良好。看来无论工匠制作的是什么东西，现在都还在活动。
+That said, it appears to be in good condition.<LINE>It seems whatever fabricator made these is still active.|这个目前状态良好。看来无论工匠制作的是什么东西，现在都还在正常运转。
 //BadMold
-This was a popular diet food among my creators. It was purposed to have enough nutrients to sustain someone for a long period of time,<LINE>allowing them to ritualistically fast for longer.|这是一种在我的创造者中很流行的食物。<LINE>旨在为食用者提供足维持身体很长时间的营养，以便他们进行更久的仪式性禁食。
-I would encourage you to try it but your eyes were watering just from holding it.<LINE>Someone is quite the picky eater!|我本想鼓励你尝试一下，但你光拿着它就泪流不止了。<LINE>某人真是一个挑食鬼！
+This was a popular diet food among my creators. It was purposed to have enough nutrients to sustain someone for a long period of time,<LINE>allowing them to ritualistically fast for longer.|这是一种在我的创造者中很流行的食物。<LINE>旨在为食用者提供足以维持身体很长时间的营养，以便他们进行更久的仪式性禁食。
+I would encourage you to try it but your eyes were watering just from holding it.<LINE>Someone is quite the picky eater!|我本想鼓励你尝试一下，但你光拿着它就泪流不止了。<LINE>某人可真是一个挑食鬼！
 
 //3787160205
 CogworksRegion-description|一个正在开发中的模组区域。连接天空群岛、农场阵列和地下。

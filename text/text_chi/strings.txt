@@ -8462,6 +8462,64 @@ Or go live your meaningless life in the trees. The gates are open to you at any 
 Your help is no longer needed.|这里用不着你帮忙了。
 And please, leave through the access shaft.|另外，要出去的话请用这边的通道井。
 
+//3752934406
+Two Friends
+Kridi8606.TwoFriends-description|添加两只驯服的蜥蜴，它们即使死亡也不会离开你。
+Lizards|蜥蜴
+When enabled, this friend spawns with you.|启用时，这只蜥蜴朋友会随你一起生成。
+Creature ID for this friend. It determines the creature's default properties.|蜥蜴朋友的ID。决定该生物的默认属性。
+Lizard Type|蜥蜴种类
+Species spawned for this friend. DLC types require the corresponding DLC.|这只蜥蜴朋友的种类。DLC种类需要对应的DLC。
+Winter Fur|防寒绒毛
+Spawns the lizard with winter fur.|使生成的蜥蜴拥有防寒绒毛。
+Rot level|腐化程度
+Rot stage for friends: 0=none, 1=slight, 2=opossum, 3=full. Only takes effect with Watcher installed.|为友好蜥蜴设置腐化程度：0=未腐化，1=轻度腐化，2=半腐化，3=完全腐化。
+Use Default Color|使用默认配色
+Use the species' natural color instead of custom RGB.|使用该物种的自然体色，而不使用自定义的RGB颜色。
+Use region rot color|使用该区域腐化物的颜色
+Use the region's corruption color for rot. When disabled, custom RGB below is used for tentacles and body tinting.|使用该区域中的腐化颜色。若关闭，则使用下方的自定义RGB值为触手和身体配色。
+Color (RGB)|颜色 (RGB)
+Custom body color when default color is disabled.|自定义身体颜色。（若关闭默认配色）
+Rot color (RGB)|腐化颜色 (RGB)
+Custom rot color when region color is disabled. Body tint uses the same formula as vanilla: 20% at opossum, 80% at full rot.|当关闭使用该区域腐化物的颜色时。身体配色将使用与原版完全相同的配色：20%时半腐化，80%时完全腐化。
+Gameplay|玩法
+Friendly Fire|友伤设置
+Protect friends from player projectiles|使蜥蜴朋友免疫玩家的投掷物伤害
+Blocks spears, rocks, and other player-thrown weapons from hitting friends. Slugcat-to-slugcat hits are not affected.|使蜥蜴朋友免疫长矛、石头、以及其他玩家投掷的武器的伤害。玩家间的伤害不受影响。
+Collisions between player and friends|是否开启玩家与蜥蜴朋友间的碰撞体积？
+When enabled, the slugcat physically collides with friend lizards.|启用后，玩家会与蜥蜴朋友产生物理碰撞。
+Collisions between friends|是否开启蜥蜴朋友间的碰撞体积？
+When enabled, friend lizards collide with each other.|启用后，蜥蜴朋友间会产生物理碰撞。
+Behavior|行为设置
+Pull back friends that fall too far behind|当蜥蜴朋友距离过远时，将它拉回玩家身边
+When a friend is more than one room away, it comes back through the pipe you last used (or a random one).|当蜥蜴朋友与你距离超过一个房间时，将它传送至你使用的上一个（或随机一个）管道。
+Share scavenger reputation with friends|使蜥蜴朋友共享玩家的拾荒者好感
+Companion lizards and scavengers stay peaceful unless scavengers are hostile to you. Accidental hits are still possible.|蜥蜴朋友和拾荒者通常保持和平（除非拾荒者与你是敌对关系）。但仍旧会被意外误伤。
+Climbing|攀爬设置
+Teach pole climbing to friends|允许蜥蜴朋友爬杆
+Friends who cannot climb poles gain pink-lizard pole stats. Has no effect on types that already can.|无法爬杆的蜥蜴朋友会获得粉蜥蜴的爬杆能力。对已会爬杆的品种无效。
+Teach wall climbing to friends|允许蜥蜴朋友爬墙
+Friends who cannot climb walls gain blizzard-lizard wall stats. Has no effect on types that already can.|无法爬墙的蜥蜴朋友会获得暴雪蜥蜴的爬墙能力。对已会爬墙的品种无效。
+Map|地图
+Custom friend map icons|使蜥蜴朋友在地图上显示特殊图标
+When enabled, friends use the mod's map icon (tinted to their color) instead of the vanilla creature icon. Requires slug senses in Rain World Remix.|启用后，蜥蜴朋友将使用本模组的地图图标（颜色采用它们本身的颜色）。需在雨世界拓展中开启蛞蝓感知。
+Campaigns|剧情设置
+Expedition|探险
+Spawn friends in Expedition mode|允许蜥蜴朋友在探险模式中生成
+When enabled, friends spawn during Expeditions.|启用时，蜥蜴朋友将在探险模式中生成。
+Story Campaigns|剧情
+Choose which story campaigns will have friends appear:|选择允许生成蜥蜴朋友的剧情线：
+When enabled, friends spawn in this campaign.|启用时，蜥蜴朋友将在该剧情线中生成。
+Artificer|工匠
+Gourmand|饕餮
+Hunter|猎手
+Monk|僧侣
+Rivulet|溪流
+Saint|圣徒
+Spearmaster|矛大师
+Survivor|求生者
+Watcher|观望者
+
 //3753079502
 plop-description|低质小型拼接区续作
 Slugbetterworld|蝓适界

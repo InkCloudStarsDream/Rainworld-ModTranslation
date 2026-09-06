@@ -27,6 +27,47 @@ fyre.BeastMaster-description|允许在所有游戏模式中随意生成物品或
 Candy Cane Spears
 lb-fgf-m4r-ik.candy-cane-spears-description|将长矛的外观替换为拐杖糖。
 
+//2923374705
+MapOptions
+MapOptions-description|为地图添加可配置选项。
+General|通用设置
+MapOptions Mod|地图选项模组
+Version |版本
+General:|通用：
+Symbols:|图标：
+Danger Zone|作弊
+Danger Zone:|作弊：
+The default map shader is used in Chimney Canopy and Sky Islands instead of the aerial map shader.|为烟囱天棚与天空群岛使用默认地图着色器，而不使用浮空地图着色器。
+Aerial Map|浮空地图
+[RegEX]Clears the map progress for each new campaign or expedition run.\nWARNING: This progress is lost even without completing a full cycle.|每次开始新剧情或新探险时，清除地图进度。#Environment.NewLine#警告：即使未完成一个完整的雨循环，该进度也会清除。
+Clear Map Progress|清除地图进度
+Creature symbols are added to the map. These symbols display what creature types are present in each room.|在地图上显示生物图标。图标会显示每个房间中的生物种类。
+Creature Symbols|生物图标
+Tracked key items are shown on the map even when the option 'Slug Senses' is disabled. The option 'Key item tracking' needs to be enabled in Rain World Remix.|追踪的关键物品会在地图上显示（即使关闭了“蛞蝓感知”选项）。需要在雨世界拓展中开启“关键物品追踪”。
+Item Tracker|物品追踪
+Only the active layer is displayed on the map.|仅显示当前层级的地图
+Layer Focus|分层聚焦
+Draws shadows for creature and slugcat symbols.|为生物和蛞蝓猫图标添加阴影。
+Shadow Sprites|图标阴影
+Pressing the map button shows the map with no delay.|按下地图键后立刻无延迟显示地图。
+Skip Fade In/Out|跳过淡入/淡出
+Draws a slugcat sprite on the map instead of a red circle. When Jolly Co-Op is enabled, draws a sprite for each player.|在地图上添加一个蛞蝓猫图标，替换原来的红圈。当启用惬意合作模式时，为每个玩家单独添加图标。
+Slugcat Symbols|蛞蝓猫图标
+[RegEX]Once loaded into the game the whole region map gets uncovered.\nWARNING: This progress is saved even without completing a full cycle.|当游戏加载时，直接显示区域的完整地图。#Environment.NewLine#警告：即使没有完成一个完整的雨循环，该进程也会保存。
+Uncover Region|揭示区域
+When the player enters a room the whole room gets uncovered instead of just the area around slugcat.|当玩家进入房间时直接揭示整个房间地图，而不单纯显示蛞蝓猫周围的区域。
+Uncover Room|揭示房间
+The default value is 100% (10). Each value (5-20) corresponds to 10*value% (50%-200%).|默认大小为100%（10）。每个数值（5-20）对应10*该值%（50%-200%）。
+Creature Symbol Size (10)|生物图标大小（10）
+[RegEX]The default value is two. For a given value X the map around slugcat is discovered (X/2)-times as far.\nWARNING: This will delete and change the size of any loaded region discover texture. The game tries to recover your map progress based on visited rooms.|默认数值为2。基于给定的数值X，将显示蛞蝓猫周围（X/2)-倍的地图。#Environment.NewLine#警告：这将删除并更改已显示区域地图的纹理大小。游戏会尝试根据你访问过的房间揭示你的地图。
+Discover Multiplier (2)|显示速率（2）
+The default value is 100% (10). Each value (5-20) corresponds to 10*value% (50%-200%).|默认大小为100%（10）。每个数值（5-20）对应10*该值%（50%-200%）。
+Slugcat Symbol Size (10)|蛞蝓猫图标大小（10）
+[RegEX]The default value is one. For a given value X the map is revealed X-times as fast.\nIf the maximum value is selected then opening the map displays known areas instantly instead of revealing them gradually.|默认值为1.基于给定的数值X，地图的显示速度将被加速X倍。#Environment.NewLine#若选择了最大值，则打开地图时就立即显示已知区域，而不会逐渐揭示。
+Reveal Speed Multiplier (1)|揭示速率（1）
+The default value is 100% (10) zoom. Each value (5-15) corresponds to 10*value% (50%-150%) zoom..|默认值为100%（10）缩放。每个数值（5-15）对应10*该值%（50%-150%）的缩放大小。
+Zoom Level (10)|缩放大小（10）
+
 //2922334539
 slime-cubed.inputdisplay-description|添加了一个可定制的屏幕输入显示。显示器与游戏同步更新，因此它可以比外部输入显示器更精确。
 Input Display Options|输入显示选项

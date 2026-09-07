@@ -59,7 +59,7 @@ When the player enters a room the whole room gets uncovered instead of just the 
 Uncover Room|揭示房间
 The default value is 100% (10). Each value (5-20) corresponds to 10*value% (50%-200%).|默认大小为100%（10）。每个数值（5-20）对应10*该值%（50%-200%）。
 Creature Symbol Size (10)|生物图标大小（10）
-[RegEX]The default value is two. For a given value X the map around slugcat is discovered (X/2)-times as far.\nWARNING: This will delete and change the size of any loaded region discover texture. The game tries to recover your map progress based on visited rooms.|默认数值为2。基于给定的数值X，将显示蛞蝓猫周围（X/2)-倍的地图。#Environment.NewLine#警告：这将删除并更改已显示区域地图的纹理大小。游戏会尝试根据你访问过的房间揭示你的地图。
+[RegEX]The default value is two. For a given value X the map around slugcat is discovered \(X/2\)-times as far.\nWARNING: This will delete and change the size of any loaded region discover texture. The game tries to recover your map progress based on visited rooms.|默认数值为2。基于给定的数值X，将显示蛞蝓猫周围（X/2)-倍的地图。#Environment.NewLine#警告：这将删除并更改已显示区域地图的纹理大小。游戏会尝试根据你访问过的房间揭示你的地图。
 Discover Multiplier (2)|显示速率（2）
 The default value is 100% (10). Each value (5-20) corresponds to 10*value% (50%-200%).|默认大小为100%（10）。每个数值（5-20）对应10*该值%（50%-200%）。
 Slugcat Symbol Size (10)|蛞蝓猫图标大小（10）

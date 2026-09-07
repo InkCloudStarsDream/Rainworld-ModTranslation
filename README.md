@@ -24,5 +24,5 @@
 ——————————————————————————
 
 ## 状态
-![Alt](https://repobeats.axiom.co/api/embed/dd840162af366dcb05c8af3b8babe867844fe7ea.svg "Repobeats analytics image")
+![Alt](https://github-repo-readme-stats.vercel.app/api?username=InkCloudStarsDream&repo=Rainworld-ModTranslation&theme=light "Repobeats analytics image")
 

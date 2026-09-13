@@ -9013,3 +9013,24 @@ Overgrown vents|长草的排气管
 Oh! it appears to be a request from me to my neighbor iterator, five pebbles, to stop what they are doing.|啊！这是我向我的邻居五块卵石发送的一条请求，要求祂停下祂当时正在做的事。
 I seem to be quite frantic and scared, even a little angry.|我那时似乎相当慌乱和害怕，还有点愠怒。
 I wish this hadnt gone off course...|希望事态没有发展到完全脱轨的地步……
+
+//3799025320
+Rotten World|腐化世界
+Rotted Regions|腐化区域
+Collection|收藏
+COLLECTION|收藏
+Pearl text will appear here|珍珠文本会在这里显示
+[ Room created by <CREATOR> ]|[ 房间由<CREATOR>制作 ]
+[ Pearl text written by <NAME> ]|[ 珍珠文本由<NAME>撰写 ]
+[ Reading: Looks to the Moon (pre-collapse) ]|[ 解读：仰望皓月（坍塌前）]
+[ Reading: Looks to the Moon ]|[ 解读：仰望皓月 ]
+[ Reading: Looks to the Moon (future) ]|[ 解读：仰望皓月（未来）]
+[ Reading: Five Pebbles ]|[ 解读：五块卵石 ]
+Hold SPECIAL to select a pearl reading|按住【特殊键】来选择一颗珍珠阅读
+Double tap SPECIAL while a pearl reading is playing to stop it|阅读珍珠时双击【特殊键】来停止阅读
+Double tap SPECIAL to display room credit|双击【特殊键】显示致谢
+SELECT STARTING REGION|选择起始区域
+creature|生灵
+little|小
+friend|朋友
+A collection of rooms submitted as part of the 100k members celebration of the official Rain World Discord Server.|为雨世界官方Discord服务器10万成员而发布的房间合集。

@@ -1,0 +1,2 @@
+# Pearl dialogue readers require CRLF in working-tree text files.
+/text/text_chi/100K*.txt text eol=crlf

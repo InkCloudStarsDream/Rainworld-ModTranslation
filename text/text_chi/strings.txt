@@ -9034,3 +9034,6 @@ creature|生灵
 little|小
 friend|朋友
 A collection of rooms submitted as part of the 100k members celebration of the official Rain World Discord Server.|为雨世界官方Discord服务器10万成员而发布的房间合集。
+
+//3559760080
+Documented Empathy|共情转录

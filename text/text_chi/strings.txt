@@ -6455,7 +6455,7 @@ The Climb|攀升处
 The City|都市
 District 5|第五区
 Embassy|大使馆
-Department of Love|真爱部
+Department of Love|友爱部
 Leave|离开
 //broadcastecho
 [LIVE BROADCAST] - PRIVATE Documented Empathy, Statistical Violence, Cause For Concern|【即时广播】 - 私聊：共情转录、暴行统计·危殆思忧
@@ -6470,7 +6470,7 @@ Leave|离开
 <#983b3b>[DE:] I will contact you after I gather more information.|<#983b3b>共情转录：我收集够信息后再联系你。
 <#983b3b>[DOCUMENTED EMPATHY HAS DISCONNECTED.]|<#983b3b>【共情转录离开了对话】
 //broadcastevil
-[NOTE PARTITION 1, DEPARTMENT OF LOVE]|【文件记录1，真爱部】
+[NOTE PARTITION 1, DEPARTMENT OF LOVE]|【文件记录1，友爱部】
 <#304f81>[SMOS:] Damn it, damn it! Those whispering bastards, what do they see in him?|<#304f81>[SMOS:]该死！该死！那些喋喋不休的混蛋，他们是看上他什么了？
 <#304f81>[SMOS:] Even our praised Gift likes him, damn it all! Can't they find a better demi leader that has our best interests?|<#304f81>[SMOS:]甚至我们称颂的礼物都喜欢他，真该死！为什么他们不能找个更符合我们最大利益的副领袖？
 <#304f81>[SMOS:] I need to do something, I know I need to! Even if it takes all day and all night, I need that bastard dead!|<#304f81>[SMOS:]我得做些什么，我必须做些什么！即使不眠不休，我也要置他于死地！

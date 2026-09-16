@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>你知道吗？报告里一处小小的误差，就足以毁掉<Wave1>整个设施。</Waveend></verticalend><NEXT><vertical5>是，我确实这么做了……篡改了报告。但我不是存心作恶，只是出于好奇。</verticalend><NEXT><vertical5>大自然真是神奇，哪怕 <Wave1>一株幼芽</Waveend> 也能让整条生产线停摆。</verticalend>

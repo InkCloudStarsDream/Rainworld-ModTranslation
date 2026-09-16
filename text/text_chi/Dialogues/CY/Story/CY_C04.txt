@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>好，让我们尝试一下……这里是你以前的家，是吗？</verticalend><NEXT><vertical5>真漂亮……我喜欢这些树。</verticalend><NEXT><vertical5>那时候还没下雪，你还是个小家伙吧？</verticalend>

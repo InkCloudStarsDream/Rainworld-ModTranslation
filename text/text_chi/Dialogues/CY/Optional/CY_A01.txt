@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>很抱歉打断你，朋友。<LINE>我想给你的故事补充个有趣的事实：</verticalend><NEXT><vertical5>这些老鼠是我的创造者们带来的，用于挖掘。然后它们在这里安了家。</verticalend><NEXT><vertical5>瞧瞧，这些会发光的小动物竟然成了不错的低廉光源，有意思吧？</verticalend><NEXT><vertical5>好啦，好啦，别皱眉头了，小家伙。我不会再打断你了。</verticalend>

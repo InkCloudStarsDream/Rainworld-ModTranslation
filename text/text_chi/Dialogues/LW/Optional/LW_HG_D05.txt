@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>我的创造者们致力于成为他们所谓的水母……<LINE>柔软的身体和没有欲望的意识，如此高尚的目标……</verticalend><NEXT><vertical5>但我真是想不通，吃野草怎么会对此有帮助。</verticalend><NEXT><vertical5>听着，朋友，你肯定吃过水母。你是杂食性的，就像我的创造者一样……所以，它们味道如何？</verticalend><NEXT><vertical5>是否像那些能轻松飞升的生物？最起码味道不错？</verticalend>

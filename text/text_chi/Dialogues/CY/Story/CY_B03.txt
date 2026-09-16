@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>唔，你想给我看什么？你……你出去散步了？对吗？</verticalend><NEXT><vertical5>不远处有棵树？然后，你被那只光鼠吸引了……是不是这样？</verticalend><NEXT><vertical5>然后，你就跑开了？</verticalend>

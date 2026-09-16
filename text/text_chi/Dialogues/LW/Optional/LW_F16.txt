@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>尽管它们很有力量……但植物令人感到平静。是啊，平静。</verticalend><NEXT><vertical5>你瞧，茂盛的植被能让环境充满生机和清新。<LINE>如果我能做主，我也想在自己附近摆上那么一盆小小的灌木。</verticalend>

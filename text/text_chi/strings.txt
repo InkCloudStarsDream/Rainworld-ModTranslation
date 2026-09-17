@@ -9037,3 +9037,9 @@ A collection of rooms submitted as part of the 100k members celebration of the o
 
 //3559760080
 Documented Empathy|共情转录
+
+//3803132743
+The Snaildog|蜗牛狗
+THE SNAILDOG|蜗牛狗
+Slow and steady.|缓慢而稳健。
+With somewhat weak legs and fast arms, you're slow and steady.<LINE>Your journey will be the slowest one yet.|你的双腿虚弱，但手臂灵活，因此你行动缓慢而稳健。<LINE>你的旅程将是迄今为止最长的一次。

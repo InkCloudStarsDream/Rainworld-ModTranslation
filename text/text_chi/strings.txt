@@ -6979,6 +6979,9 @@ Lacustral Tundra|湖畔苔原
 fishy.CorrosiveGeysers-description|一个观望者区域，充满了酸水和间歇泉。<LINE>感谢croken85制作了the green salamander
 Corrosive Geysers|腐蚀酸泉
 
+//3559760080
+Documented Empathy|共情转录
+
 //3563713375
 lostworldofa10-description|为观望者添加了一个具有73个房间的区域，这是我的第一个区域mod:3
 Lost World|失落世界
@@ -9005,6 +9008,12 @@ BORDERWALL(LEFT)|边境墙（左侧）
 PIPELINE|管道
 East BORDER WALL|东侧边境墙
 west BORDER WALL|西侧边境墙
+East Border Wall|东侧边境墙
+West Border Wall|西侧边境墙
+Pipeline|管道
+WIP
+Cavern|洞穴
+Failed Containment|收容失效
 
 //3795314357
 overgrownvents-description|区域模组，连接到工业区的(HI_A25)。
@@ -9034,9 +9043,6 @@ creature|生灵
 little|小
 friend|朋友
 A collection of rooms submitted as part of the 100k members celebration of the official Rain World Discord Server.|为雨世界官方Discord服务器10万成员而发布的房间合集。
-
-//3559760080
-Documented Empathy|共情转录
 
 //3803132743
 The Snaildog|蜗牛狗

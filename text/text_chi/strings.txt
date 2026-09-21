@@ -9044,6 +9044,48 @@ little|小
 friend|朋友
 A collection of rooms submitted as part of the 100k members celebration of the official Rain World Discord Server.|为雨世界官方Discord服务器10万成员而发布的房间合集。
 
+//3800931227
+Extended Collection
+Extended Collection-description|收藏拓展，使得收藏除了能查看本体的珍珠与广播之外，<LINE>也可查看模组中的自定义投影、动画、音乐、文本以及广播。
+CUSTOM PEARLS|模组
+TEXT|文本
+WATCHER|观望者
+[ Select a pearl ]|【 选择一颗珍珠 】
+Undiscovered Transcription|未知记录
+Pearl Reader Transcription|阅读机器的记录
+Pearl Reader|阅读机器
+ Iterator| 迭代器
+  Transcription|的记录
+WATCHER COLLECTION|观望者收藏品
+No custom pearls were found.|未找到模组珍珠
+No readable Watcher pearl definitions were found.|未找到可读观望者珍珠内容。
+[ Collection Empty ]|【 无收藏品 】
+This pearl was read without the Mark of Communication.|该珍珠在无交流印记的情况下阅读。
+AUDIO|音频
+PROJECTION HOLD|持续投影
+PROJECTION|投影
+Main|主菜单
+Debug|作弊
+EXTENDED COLLECTION|收藏拓展
+ExCollection|额外收集
+[RegEX]Extended Collection of pearls and broadcasts from vanilla and mods featuring\nprojections, animations, audios, text and broadcasts.|除本体原有的珍珠和广播收藏之外，在收藏中额外显示#Environment.NewLine#模组的投影、音频、动画、文本以及广播。
+Show custom pearls tab|显示模组珍珠
+[RegEX]Show modded pearls tab and custom iterator transcriptions\non vanilla/Downpour pearls.|显示模组珍珠以及模组迭代器#Environment.NewLine#对原版/倾盆大雨珍珠的解读。
+Show miscellaneous pearls|显示白色珍珠
+Show white pearl transcripts in their collection tabs [Downpour and Watcher].|在对应页面显示白色珍珠文本【倾盆大雨&观望者】。
+Version 1.2.1|版本 1.2.1
+DEBUG|作弊
+Show internal pearl names|显示珍珠内部名称
+Unlock all pearls|解锁所有珍珠
+Mark of Communication state|交流印记状态设置
+Use actual save data|使用实际存档数据
+Force without Mark|关闭交流印记
+Force with Mark|开启交流印记
+Delete Extended Collection progress for the active save slot|删除当前存档的收藏拓展进度
+[RegEX]RESET SAVE|重置存档
+Save data reset.|重置存档数据。
+Could not reset save data.|无法重置存档数据。
+
 //3803132743
 The Snaildog|蜗牛狗
 THE SNAILDOG|蜗牛狗

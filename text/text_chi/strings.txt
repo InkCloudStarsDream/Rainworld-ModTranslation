@@ -9043,6 +9043,11 @@ creature|生灵
 little|小
 friend|朋友
 A collection of rooms submitted as part of the 100k members celebration of the official Rain World Discord Server.|为雨世界官方Discord服务器10万成员而发布的房间合集。
+//3800169092
+Background Profiles
+sdfxf.backgroundprofiles-description|预设原版、倾盆大雨还有观望者的背景
+VANILLA|原版
+DOWNPOUR + WATCHER|倾盆大雨+观望者
 
 //3800931227
 Extended Collection
@@ -9091,3 +9096,59 @@ The Snaildog|蜗牛狗
 THE SNAILDOG|蜗牛狗
 Slow and steady.|缓慢而稳健。
 With somewhat weak legs and fast arms, you're slow and steady.<LINE>Your journey will be the slowest one yet.|你的双腿虚弱，但手臂灵活，因此你行动缓慢而稳健。<LINE>你的旅程将是迄今为止最长的一次。
+
+//3803213599
+Crafting Journal
+sdfxf.craftingjournal-description|在游戏内浏览饕餮和工匠的合成配方。
+O:Rock|石头
+O:DangleFruit|蓝果
+CRAFTING JOURNAL - ARTIFICER|合成表——工匠
+CRAFTING JOURNAL - GOURMAND|合成表——饕餮
+RECIPES|合成表
+CRAFTING JOURNAL|合成表
+Unlock all recipes|解锁所有配方
+[RegEX]Show all recipes immediately.\nWhen disabled\, a recipe becomes visible only after it is crafted.|立刻显示所有配方。#Environment.NewLine#若关闭，配方在合成过一次后才会显示。
+Show recipes in all campaigns|在所有战役中显示配方
+[RegEX]Normally RECIPES appears for Gourmand\, Artificer\, and Expedition.\nEnable this to show it everywhere.|通常情况下，合成表仅在饕餮、工匠以及探险模式下显示。#Environment.NewLine#启用后所有战役中都会显示合成表。
+Share recipes between save slots|存档配方同步
+Recipes from all slots. Each craft is still saved to its current slot.|所有存档的配方同步。所有合成配方都保存在同一位置。
+Show craft projection|显示产物投影
+[RegEX]Show the hologram only after crafting begins.\nUndiscovered recipes show \? instead of the result.|解锁配方后，合成时显示对应产物投影。#Environment.NewLine#未解锁的配方将显示产物为？。
+Delete recipe progress for the active save slot|清除当前存档的配方解锁进度
+RESET SAVE|重置存档
+Save data reset.|重置存档数据。
+Could not reset save data.|无法重置存档。
+CUSTOM CRAFTING|自定义合成
+Enable Custom Crafting|启用自定义合成配方
+Recipes can still be edited while disabled.|关闭时，依旧可以编辑配方。
+INGREDIENT 1|材料 1
+INGREDIENT 2|材料 2
+RESULT|产物
+ITEMS|物品
+CUSTOM RECIPES|自定义配方
+Ingredient 1: |材料 1：
+Ingredient 2: |材料 2：
+Result: |产物：
+ADD|添加
+Add this custom recipe. Existing game recipes cannot be replaced.|添加该自定义配方。游戏内已有的配方无法被替换。
+Select all three item slots first.|请先选择三个槽位内的物品。
+That ingredient combination already exists in the game.|该合成配方已存在于游戏内。
+Custom recipe saved.|自定义配方已保存。
+Could not save this custom recipe.|无法保存该配方。
+Hover an icon to see its name|将鼠标悬停在图标上，可查看物品名称
+Scroll through carryable item types. Gold icons are expandable ANY-variant groups.|滚动查看可拾取物品类型。有金色边框代表有任意变体拓展。
+Scroll through saved custom recipes.|滚动查看已保存的自定义配方。
+Two-handed items can only be used as a result.|需双手拾取的物品只能作为合成产物。
+Variant group (click to collapse): |变体组（点击收起）：
+Variant group (click to expand): |变体组（点击展开）：
+ANY variant - ingredients only: |任意变体 —— 仅限作为材料：
+Two-handed - result only: |双手拾取 —— 仅限作为产物：
+Drag/heavy object - result only: |需拖拽/重物 —— 仅限作为产物：
+Variant: |变体：
+A result must use a specific variant, not ANY.|产物必须是指定变体，不能为任意。
+Delete |删除
+Custom recipe deleted.|自定义配方已删除。
+  [group - click to collapse]|【物品组 ——点击收起】
+  [group - click to expand]|【物品组 —— 点击展开】
+  [ANY - ingredient only]|【任意 —— 仅限作为材料】
+  [two-handed - result only]| 【双手拾取 —— 仅限作为产物】

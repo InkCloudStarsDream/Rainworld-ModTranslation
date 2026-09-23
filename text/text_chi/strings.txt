@@ -9100,8 +9100,6 @@ With somewhat weak legs and fast arms, you're slow and steady.<LINE>Your journey
 //3803213599
 Crafting Journal
 sdfxf.craftingjournal-description|在游戏内浏览饕餮和工匠的合成配方。
-O:Rock|石头
-O:DangleFruit|蓝果
 CRAFTING JOURNAL - ARTIFICER|合成表——工匠
 CRAFTING JOURNAL - GOURMAND|合成表——饕餮
 RECIPES|合成表

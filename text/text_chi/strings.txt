@@ -9024,6 +9024,8 @@ I seem to be quite frantic and scared, even a little angry.|我那时似乎相�
 I wish this hadnt gone off course...|希望事态没有发展到完全脱轨的地步……
 
 //3799025320
+Raincord 100k Gallery|雨世界100K画廊
+raincord_100k-description|为庆祝雨世界官方DS到达10万成员而特别制作的画廊区域。
 Rotten World|腐化世界
 Rotted Regions|腐化区域
 Collection|收藏
@@ -9043,6 +9045,7 @@ creature|生灵
 little|小
 friend|朋友
 A collection of rooms submitted as part of the 100k members celebration of the official Rain World Discord Server.|为雨世界官方Discord服务器10万成员而发布的房间合集。
+
 //3800169092
 Background Profiles
 sdfxf.backgroundprofiles-description|预设原版、倾盆大雨还有观望者的背景

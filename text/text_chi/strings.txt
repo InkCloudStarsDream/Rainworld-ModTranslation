@@ -8703,21 +8703,11 @@ The Coast|海滨
 There seems to be a man here.|树后面有个男人。
 He offers you an egg.|他给了你一颗蛋。
 This place is cold, find lanterns to remain alive.|这里很冷，找个灯笼来维持你的体温。
-
-/EC_PEARL_CONV
-This pearl is slightly damaged by water, but I'll do my best to try and read it...|这颗珍珠有点被水流侵蚀了，不过我会尽我所能……
-It seems to be a log of the water quality inside of the processing unit below my can.|这似乎是某个处理单元的水质记录日志，该设备位于我的罐头下边。
-This contains a list of percentages and chemical formulas that correspond with the dates these were logged.|有一份罗列着各项百分比数据和化学分子式的清单，每条都有登记日期对应。
-The pearl is encoded in one of the basic writing patterns from before Five Pebbles' construction, <LINE> which is... strange, for such a recent pearl.|这颗珍珠是用五块卵石建成之前的一种基本书写格式编码的，<LINE>而它的时期明显较近，所以……有点蹊跷。
-Underneath the list of formulas, it is signed by whom I can only presume is one of the unit workers.|在分子式清单的下边有署名，我只能推测是处理单元的一名运维人员。
-Unfortunately, the signature is scratched out, so I cannot identify who it belongs to.|不幸的是，签名被刮掉了，所以我无法辨认此人的身份。
-Either way, thank you, little messenger.|总之，谢谢你，小信使。
-/EC_PEARL_CONV-Artificer
-This contains lists of specific chemicals in a water treatment facility near my can.|这是一份特定化学物质清单，来自我罐头附近的一座水处理设施。
-It has sustained some water damage, quite surprising that a creature like you managed to find it.|它被水泡过，有些损坏了，你这样的生物居然能找到它。
-Strange... it is encoded in a writing style from <LINE> before my construction... that was quite some time ago.|奇怪……编码它所用的书写方式……属于我诞生之前的时期，<LINE>而那已经是很久远的事了。
-Anyway, there seems to be a signature below the list, <LINE> but it has been roughly scratched out by some sharp utensil.|总之，清单最底下似乎是有个签名，但被什么尖锐的东西刮擦掉了。
-This could be... useful--for my logs, little ruffian.|也许……它还有用，对于我的日志来说。小恶棍。
+/EC_SPIREPEARL_CONV-Artificer
+This pearl contains a transcription of an iterator chat log, <LINE> let me see if I can understand what's left of it.|一份迭代器对话日志的转录备份，我看看我能否读取剩下的部分。
+It is... quite corroded, caused by heavy winds, I suppose.|它…腐蚀得很严重了，我想是因为剧烈的大风。
+I see.|我明白了。
+...I would prefer to keep this one, <PlayerName>.|...我更想就这么留着它，<PlayerName>。
 
 //3772996588
 DMSxMeadow

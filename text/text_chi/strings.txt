@@ -9143,3 +9143,12 @@ Custom recipe deleted.|自定义配方已删除。
   [group - click to expand]|【物品组 —— 点击展开】
   [ANY - ingredient only]|【任意 —— 仅限作为材料】
   [two-handed - result only]| 【双手拾取 —— 仅限作为产物】
+
+//3809806612
+The Echo|回响
+THE ECHO|回响
+What remains of a past ascension.<LINE>It carries no life of its own, only the echoes of what lived throughout time.|过往飞升遗留之物。<LINE>它本身并无生命，唯有时光中逝去之生灵的残响在其中回荡。
+Creature menu|生物菜单
+Show all creatures (untested ones too)|显示所有生物（包括未经测试的）
+Rain kills the echo|回响可死于降雨
+Food gained (%)|获取的食物量（%）

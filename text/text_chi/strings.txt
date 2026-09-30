@@ -9144,6 +9144,37 @@ Custom recipe deleted.|自定义配方已删除。
   [ANY - ingredient only]|【任意 —— 仅限作为材料】
   [two-handed - result only]| 【双手拾取 —— 仅限作为产物】
 
+//3806003692
+Project ESoT
+nulledcat.projectESoT-description|互联网狂欢。
+Lisp|林斯普
+LISP|林斯普
+The Lisp|林斯普
+Lisp_Descr|一位为传达他人意愿而长途跋涉的小信使。<LINE>专为快速绕过或清除障碍而生。
+kiki|可可
+KIKI|可可
+The Kiki|可可
+kikislug_desc| 
+
+Moon_Talk_0|...
+Moon_Talk_1|你好...
+Moon_Talk_2|可怜的小家伙，你的身体发生了剧烈的变化。你没有嘴……你是如何进食的？<LINE>是靠你那条有趣的尾巴吗？
+Moon_Talk_3|如此激进的变化显然不是自然产生的。也许有外界的影响？<LINE>如果是这样，这是一项极其艰难且复杂的工作。我应当向你的创造者致以敬意。
+Moon_Talk_4|但那不能解释你出现在这里的原因，对吗？<LINE>你看起来是一位来自远方的信使。而且可能有着特定的目标……
+Moon_Talk_5|我在想这是否和我的邻居，五块卵石切断了传入通讯有关？<LINE>无论谁都无法联系到祂。我们不知道祂身上发生了什么，祂现在又在做什么……
+Moon_Talk_6|说真的。自从祂收到来自七轮红日的信息后，祂的行为变得特别反常。<LINE>祂开始更频繁地询问关于茅草裂片和禁忌的信息，对此前从不关心的信息表现出了浓厚兴趣……
+Moon_Talk_7|...
+Moon_Talk_8|. . .
+Moon_Talk_9|我非常担心祂。但只要祂还没伤害祂自己或别人，我就不会去干涉。<LINE>希望祂所做的……值得担心。
+
+Moon_Return_1|你好，小信使。像往常一样，这里依然欢迎你。
+Moon_Return_2|先小憩一会儿吧。另外请告诉我在罐头外的世界是什么样的，我很想听。
+Moon_Return_3|要是你发现了什么有趣的东西，请带来给我看看！
+Moon_Return_4|……
+
+PREDATORY TAIL SETTINGS|掠食性尾巴设置
+Just grab other slugs (disable the camp)|仅抓取其他蛞蝓猫（禁用营地）
+
 //3809806612
 The Echo|回响
 THE ECHO|回响

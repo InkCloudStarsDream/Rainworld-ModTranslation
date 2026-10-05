@@ -7391,7 +7391,8 @@ Desert Complex|荒漠区
 Frozen Facility|封冻设施
 The Trestle|栈桥
 Seaside Factory|海滨工厂
-Northern Leg|北支架
+Sheltered Pipeline|掩蔽管道
+Chilled Pipeline|冷硬管道
 //IZ_Shaft
 It's a blueprint for a repurposed production line, to produce cooling rods.<LINE>You probably found this in the building it was drawn up for little creature.|一张改造生产线的蓝图，用于生产冷却棒。<LINE>你大概是在建筑内发现的，这张蓝图是专为小生灵绘制的。
 When my creators built us, many decided to re-purpose abandoned industrial complexes,<LINE>rather than build new facilites for such work.|当初我们的创造者建造我们时，很多人在修建新设施与翻新废弃的工业区之间，选择了后者。
@@ -7605,8 +7606,14 @@ Frozen Sewers|结冻水道
 
 //3645457560
 Overgrown Waterworks|荒萋供水厂
+Overgrown Waterworks (North)|荒萋供水厂（北部）
+Overgrown Waterworks (South)|荒萋供水厂（南部）
 Frostbitten Reservoir|冰结储水库
+Frostbitten Reservoir (North)|冰结储水库（北部）
+Frostbitten Reservoir (South)|冰结储水库（南部）
 Metropolis Consumes All|大都会吞噬万物
+Metropolis Consumes All (North)|大都会吞噬万物（北部）
+Metropolis Consumes All (South)|大都会吞噬万物（南部）
 
 //3650821893
 dinstallation-description|一个很小的区域，到处都是垃圾和傻乎乎的蜥蜴。

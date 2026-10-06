@@ -9178,3 +9178,5 @@ Food gained (%)|获取的食物量（%）
 
 //3810624762
 Flooded Arrays|沉没阵列
+Array Outskirts|阵列郊野
+Filtration Array|过滤阵列

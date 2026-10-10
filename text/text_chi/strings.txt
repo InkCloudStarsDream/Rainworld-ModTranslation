@@ -6326,6 +6326,11 @@ Water Purification Center|水流净化中心
 Grim Urban|阴森都市
 Dense Urban|稠密都市
 
+//3496622063
+overgrownurban-description|在五块卵石辖区的郊外，坐落着一个被某种植物覆盖的前迭代器城市。<LINE>情况就是这样，嘻嘻
+Overgrown Urbs|荒杂弃城
+Ossified Soars|僵化之升
+
 //3497918836
 //已下架，暂无法翻译简介
 Rebuilt Umbra|重铸暗影

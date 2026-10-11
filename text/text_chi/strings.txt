@@ -9185,3 +9185,7 @@ Food gained (%)|获取的食物量（%）
 Flooded Arrays|沉没阵列
 Array Outskirts|阵列郊野
 Filtration Array|过滤阵列
+
+//3817061158
+ap.speedruns.a.region-description|在你所熟知的迭代器的一条支架附近，有一座小小的水流控制设施。<LINE>为竞速挑战而制作的小型区域，风格基于原版竞技场"Pit"。
+Bureau|办公区域

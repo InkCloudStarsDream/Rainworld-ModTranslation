@@ -1,0 +1,6 @@
+0RG_A24-White
+Sonix: 本区域支持Nacu的 “ULTRAKILL Style Region Titles”模组
+Sonix: 我一开始想把草原的简介简单地写作“她的塔”
+Sonix: 但我最后决定参考Ultrakill中的7-4，将“天线”（Antennas）改为“触须”（Antennae），<LINE>以表达些更生物的属性，就像是塔本身具有生命一样。
+Sonix: 可能就像迭代器一样，这些数据库也具有未知比例的生物成分，谁知道呢。 
+Sonix: 据说，人脑有大约100万兆字节的存储空间，所以天知道经过特殊改造的神经系统会有多大的存储呢...

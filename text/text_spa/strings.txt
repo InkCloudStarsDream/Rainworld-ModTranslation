@@ -1,0 +1,1030 @@
+0Dreamstars.ModTranslation-name|Traducciones para mods
+Dreamstars.ModTranslation-description|Este mod se utiliza para traducir textos que otros mods añaden.<LINE><LINE>áreas de traducción:<LINE>regiones de mods<LINE>gatobabosas de mods<LINE>perlas personalizadas<LINE>diálogos personalizados<LINE>misiones personalizadas<LINE>comentarios de desarrollador personalizados<LINE><LINE>aquí la versión sin steam: https://github.com/InkCloudStarsDream/Rainworld-ModTranslation<LINE><LINE>Actualmente tiene soporte para el chino, son bienvenidos a ayudarnos a traducir en otros idiomas.<LINE><LINE>Si deseas ayudarnos a traducir o darnos algún consejo, siéntete libre de mandarme un MD en Discord: @MoseYanyun.<LINE><LINE>Colaboradores:<LINE>@MoseYanyun<LINE>@Exmeow<LINE>@Celen<LINE>@W1LD1CECA7<LINE>
+TEXT ERROR|ERROR DE TEXTO
+//moreslugcats
+Thanks Andrew.|Gracias, Andrew.
+Painage System|Sistema de Drenadolor
+Nachos Will Never Be The Same|Los Nachos Nunca Serán Lo Mismo
+we forgot to render this one sorry|nos olvidamos de renderizar esta, perdón
+Tower of Gains|Torre de Beneficios
+Uberhang|Superdesnivel
+TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|TUBERÍAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+Moist|Humedal
+Andrew's Basement|Sótano de Andrew
+//2923214961
+Abyss|Abismo
+Stormy lands|Tierras Tempestuosas
+Railway|Vía Férrea
+Rackdale|Rackdale
+Central Factory|Fábrica Central
+Central Factory - Sector A|Fábrica Central - Sector A
+Central Factory - Sector A - Reactor|Fábrica Central - Sector A - Reactor
+Reactor Core - Void fluid convertor|Núcleo del Reactor - Convertidor de Fluidos Vacíos
+Central Factory - Sector B - Water Intake System|Fábrica Central - Sector B - Sistema de Entrada de Agua
+Central Factory - Facade|Fábrica Central - Fachada
+Central Factory - Sector C|Fábrica Central - Sector C
+Central Factory - Sector C - Chimney Canopy|Fábrica Central - Sector C - Dosel de Chimeneas
+Industrial District|Distrito Industrial
+Scavenger Colony|Colonia de Carroñeros
+Industrial Port Area|Área del Puerto Industrial
+Hold right to exit animation|Mantén pulsado derecha para salir de la animación
+Yeah this area is scrapped lol|Sí, esta área fue descartada xd
+Sorry this one's still in NNH so we can't show you|Perdón, esta todavía está en NNH, así que no la podemos mostrar
+Farlands|Tierras Lejanas
+Limestone Caves|Cuevas de Caliza
+Stonepit|Pedrera
+Swamplands|Pantanos
+Subway Lines|Líneas de Metro
+Abandoned Drainage System|Sistema de Drenado Abandonado
+Incinerator|Incinerador
+Pump Station (Beta)|Central de Bombas de Agua (Beta)
+Pump Station (Alpha)|Central de Bombas de Agua (Alfa)
+Oil Station|Central Petrolera
+Living Areas|Zonas de Trabajo
+Corrupted Refinery|Refinería Corrupta
+Refinery|Refinería
+Refinery (Pump Station)|Refinería (Central de Bombas de Agua)
+Communication Relay|Repetidor de Comunicación
+Info (You can swim on the surface of oil, but if you dive, you will drown)|Información: Puedes nadar sobre la superficie del petróleo, pero si te sumerges, te ahogarás
+Swamplands (Purple)|Pantanos (Morados)
+Sewers|Alcantarillas
+Suburbs|Barrios de las Afueras
+//2923894366
+Pilgrims' Ascent|Ascenso de los Peregrinos
+Five Pebbles (Blind Spot)|Cinco Guijarros (Punto Ciego)
+//2928752589
+Center|Centrar
+Switch|Cambiar
+//2937471209
+Friend|Amigo
+The Friend|El amigo
+THE FRIEND|EL AMIGO
+Beastly in nature yet with a soft heart, you defy the order of life and find alliance among predators. <LINE> In the frozen wastes you call home, you search for those in need of companionship.|De naturaleza bestial pero con un corazón suave, desafías el orden de la vida y encuentra alianza entre los depredadores. <LINE> En el páramo helado que llamas hogar, buscas aquellos que necesitan compañerismo.
+Finding family among their predators, The Friend braves<LINE>a harsh winter to find happiness|Hallando familia entre los depredadores, El Amigo se enfrenta<LINE>a un invierto duro para encontrar la felicidad.
+Stalker|Acechador
+The Stalker|El acechador
+THE STALKER|EL ACECHADOR
+Thriving in the snow, your ways are primal, tearing through flesh with tooth and claw. <LINE> Your agility is your strength as you scour the land for only the grandest of prey.|Prosperando en la nieve, tus formas son primitivas, arrancando la carne con garras y dientes. <LINE> Tu habilidad es tu fuerza mientras rastreas la tierra en busca de la presa más grande.
+On the hunt for the sake of thrill,<LINE> The Stalker prowls the snow to the land's end|A la caza en aras de la ilusión,<LINE> El Acechador merodea la nieve hasta el final del mundo.
+Poacher|Furtivo
+The Poacher|El furtivo
+THE POACHER|EL FURTIVO
+Small, weak, yet crafty; set deadly traps to snare and kill your preferred prey.<LINE>Though the cold suits you poorly, you will find new purpose in your pursuits.|Pequeño y débil, pero hábil; coloca trampas mortales para cazar a tu presa preferida.<LINE>Aunque el frío te sienta muy mal, encontrarás un nuevo propósito en tus cazas.
+In the destruction of their home, The Poacher<LINE>fights to keep their family's legacy alive|En la destrucción de su hogar, El Furtivo<LINE>lucha por mantener el legado de su familia con vida.
+Dermis|Dermis
+Abandoned Post|Puesto Abandonado
+Rotten God|Dios Putrefacto
+Rotten God (Five Pebbles)|Dios Putrefacto (Cinco Guijarros)
+Rotten God (Decaying Modules)|Dios Putrefacto (Módulos Deteriorados)
+Corpse|Cadáver
+Rotten God (Infected Channels)|Dios Putrefacto (Canales Infectados)
+Rotten God (Dead Heart)|Dios Putrefacto (Corazón Muerto)
+Bedrock|Roca Madre
+Dark Bog|Ciénaga Oscura
+The Mountain|La Montaña
+World's Ceiling|Techo del Mundo
+Cliffside|Pared del Acantilado
+//2939738770
+Beecat|Gatoabeja
+The Beecat|El gatoabeja
+BEECAT|GATOABEJA
+A regular bee?|¿Una abeja normal?
+SecretScugDontTryThis|Gatobabosasecretonolopruebes
+The SecretScugDontTryThis|El gatobabosasecretonolopruebes
+SECRETSCUGDONTTRYTHIS|GATOBABOSASECRETONOLOPRUEBES
+Coming soon?|¿Muy pronto?
+//2941565790
+Determines how much CRS should log|Determina cuánto debería registrar el CRS.
+Checked to stream custom threat themes from file, unchecked to load them on threat shuffle (may cause infrequent freezes)|Marcada para escuchar en tiempo real los temas de amenaza personalizados desde el archivo, desmarcada para cargarlos de forma aleatoria (puede causar tirones infrecuentes).
+Checked to fix room index cache misalignment, a bug which causes items and creatures to disappear from shelters. Only uncheck if offscreen creatures are disappearing|Marcada para arreglar la desalineación de la caché de los índices de las salas, un bug que provoca que los objetos y criaturas desaparezcan de los refugios. Desmárcala solo si las criaturas de fuera de la pantalla están desapareciendo.
+//2954410581
+Vanguard|Vanguardia
+The Vanguard|La vanguardia
+THE VANGUARD|LA VANGUARDIA
+A vangard exploring the world with incredible way of movement.<LINE>Traveling through the rugged land is just as a stroll for you, but your mission is not so easy......|Una vanguardia explorando el mundo con increíbles movimientos.<LINE>Viajar por una tierra escabrosa es solo un paseo para ti, pero tu misión no será tan fácil...
+Five Pebbles (The Rot)|Cinco Guijarros (La Putrefacción)
+//2960863440
+Incandescent|Incandescente
+The Incandescent|La incandescente
+THE INCANDESCENT|LA INCANDESCENTE
+A recluse capable of astounding mobility. Emotions stir you into a search for brighter lands, but<LINE>journeying through a wasteland so cold and cruel will require careful management of your needs.|Una ermitaña capaz de tener una movilidad sorprendente. Las emociones te incitan a buscar tierras más brillantes,<LINE>pero viajar a través de un páramo tan frío y cruel requerirá de la cuidadosa gestión de tus necesidades.
+Auxiliary Transmission Array|Antenas de Transmisión Auxiliar
+Facility Roots (Western Intake)|Base de la Instalación (Entrada Oeste)
+Suburban Zero|Minucia Suburbana
+Flooded Conduits|Conductos Inundados
+//2961788239
+Outsider|Forastero
+The Outsider|El forastero
+THE OUTSIDER|EL FORASTERO
+A quick and light vegetarian animal that have bioluminescence and short-time flight ability.<LINE>With amazing vigilance and flexible skills, it seeks a foothold in this dark foreign land.|Un animal vegetariano rápido y ligero que tiene bioluminiscencia y una habilidad de vuelo breve.<LINE>Con una vigilancia asombrosa y habilidades flexibles, busca un punto de apoyo en esta tierra extraña y oscura.
+Dark Loam|Suelo Franco Oscuro
+Degenerate Cathedral|Catedral Degenerada
+Dry Ditch|Cuneta Seca
+Dust Wasteland|Páramo de Polvo
+Discontinued Factories|Fábricas Discontinuadas
+Auroral Mercury|Mercurio Auroral
+//2961854585
+TECHNOMANCER|TECNOMANTE
+The TECHNOMANCER|EL TECNOMANTE
+THE TECHNOMANCER|EL TECNOMANTE
+Able to bend the ancient technology around you to your whim,<LINE>what sorts of things might you do with it?|Capaz de manejar la tecnología ancestral alrededor de ti a tu capricho,<LINE>¿qué tipo de cosas podrás hacer con ella?
+VOYAGER|VIAJANTE
+The VOYAGER|EL VIAJANTE
+THE VOYAGER|EL VIAJANTE
+As each cycle gets colder than the last, you must find your way in a world increasingly hostile.|Mientras cada ciclo se vuelve más frío que el anterior, debes hallar tu camino en un mundo cada vez más hostil.
+True Anointed Citadel|Ciudadela Consagrada Auténtica
+Subway|Metro
+Maintenance|Mantenimiento
+Aquifer|Acuífero
+Pipework|Cañería
+Silos|Conjuntos Agrícolas
+Retaining Wall|Muro de Contención
+//2964671523
+Gravel-Eater|Comegrava
+The Gravel-Eater|El comegrava
+THE GRAVEL-EATER|EL COMEGRAVA
+Awoken from a deep slumber, and tragically stuck in a delicate equilibrium. <LINE> Given a chance at life, will you ever find normalcy? |Despertado de una duermevela profunda y trágicamente adherido a un equilibrio delicado. <LINE> Otorgado con una oportunidad en la vida, ¿podrás hallar algún día la normalidad? 
+Seeking refuge from their delacate balance, The Gravel-Eater<LINE>strides foreward through the constant pain|Buscando un refugio por su delicada estabilidad,<LINE>el Comegrava avanza a zancadas atravesando el dolor constante.
+Fallen Cathedral|Catedral Caída
+Solventicon|Solventicón
+The Fissure|La Fisura
+Deep Reservoir|Represa Profunda
+Faulting Airducts|Conductos de Aire Defectuosos
+Sunbaked Archipelago|Archipiélago Quemado
+You are starving, find rocks and other objects to consume.|Tienes inanición, encuentra rocas y otros objetos que consumir.
+While in the starved state, you have boosts in attacks and movement.|Mientras estés en un estado de inanición, tus ataques y movilidad mejorarán.
+Holding UP while swallowing or while an object is in your stomach may craft something new.|Mantener pulsado ARRIBA mientras tragas o mientras esté un objeto en tu estómago hará que fabriques algo nuevo.
+Options|Opciones
+Gravel Eater Config|Configuraciones del Comegrava
+Unlocked new config for Gravel Eater!|¡Nuevo ajuste desbloqueado para el Comegrava!
+You are now nourished and full of gravel.|Ahora estás nutrido y lleno de grava.
+You are more heavy and durable in this state, and can withstand some damage.|Eres más pesado y resistente en este estado, y puedes aguantar algo de daño.
+You can spit out rocks and empty your stomach to return to the Malnourished state.|Puedes escupir rocas y vaciar tu estómago para regresar al estado Desnutrido.
+Balance achieved|Estabilidad alcanzada
+Little Experiment?|¿Pequeño experimento?
+Alone again...|Otra vez en soledad...
+Oh...|Oh...
+You should leave quickly before the rain crushes you.|Debes irte enseguida antes de que te aplaste la lluvia.
+Quickly, find a shelter nearby. It will protect you from my rushing waters.|Rápido, encuentra un refugio cercano. Te protegerá de mis impetuosas aguas.
+Please find some safety for yourself. I want to see you again.|Por favor, encuentra un lugar del que resguardarte. Quiero verte otra vez.
+...Stars...|... Estrellas...
+pretty|hermosas.
+...Night... coming... Soon...|... Está por... ser de... noche...
+Night... You can stay. It will be fine.|Noche... puedes quedarte. No va a pasar nada.
+Night is coming. Now, leave me alone.|Está por ser de noche. Ahora déjame en paz.
+Take your offspring with you.|Llévate a tu retoño contigo.
+Take your pet with you.|Llévate a tu mascota contigo.
+I think night is approaching.|Creo que la noche se aproxima.
+You can stay if you like, <PlayerName>! It will be fine.<LINE>The stars are beautiful, somtimes it's hard to see them through the rain and snow..|¡Puedes quedarte si quieres, <PlayerName>! No va a pasar nada.<LINE>Las estrellas son hermosas, a veces son difíciles de ver por la lluvia y la nieve.
+Your family is welcome to stargaze too!|¡También puedes hacer que tu familia contemple las estrellas!
+Your friend is welcome to stargaze too!|¡También puedes hacer que tu amigo contemple las estrellas!
+Why have you taken all i have?|¿Por qué te has llevado todo lo que tengo?
+Give it to me.|Dámelo.
+Please bring it back to me.|Por favor, devuélvemelo.
+Go away|Vete.
+I have not forgotten the pain you have given me.|No he olvidado el dolor que me has causado.
+I have so little left. Why is it that you hurt me?|Me queda tan poco. ¿Por qué me haces daño?
+Please leave me alone.|Por favor, déjame en paz.
+Oh, little experiment!|Oh, ¡pequeño experimento!
+I... don't even know what to say.|Yo... no sé ni qué decir.
+Hm? You can understand me, can't you?|¿Hm? Puedes enterderme, ¿verdad?
+Some solution you were while in that vegetative state.|Eras, en cierto punto, una solución mientras estabas en ese estado vegetativo.
+I tried so hard to wake you; you were my last hope.|Intenté todo lo posible para despertarte, eras mi última esperanza.
+But who am I to put such trust in a simple creature?|Pero quién soy yo como para dar dicha confianza a una simple criatura.
+There is nothing you can do now, nothing left to save.|No hay nada que puedas hacer ahora, nada que salvar.
+Though I would enjoy the company for a while longer before you move on, if you please.|Aunque disfrutaría de la compañía un rato más antes de que sigas avanzando, si me lo permites.
+Hello again, little one.|Hola otra vez, pequeño.
+I bet you're wondering how it came to be that you are my creation.|Apuesto a que te estás preguntando cómo es que resultaste ser de mi creación.
+I took note of the persistence and... annoyance... of your kind repeatedly entering the floor of my chamber.|Tomé nota de la persistencia y... molestia... de los de tu especie entrando repetidamente al suelo de mi cámara.
+No easy feat for just any creature, might I add.|Es toda una proeza para cualquier criatura, agregaría yo.
+So, I deep-scanned one for myself to create a template and used the DNA scan to replicate my own.|Entonces, escaneé uno en profundidad para crear una plantilla y utilicé un escaneo de ADN para replicar el mío.
+A method used by some of my old peers, you see...|Un método usado por algunos de mis viejos colegas, ¿entiendes?
+//2972537492
+Parasite|Parásito
+The Parasite|El parásito
+THE PARASITE|EL PARÁSITO
+A weak, feeble being, born with the power to control.<LINE>Steal the power of your rivals, and rise above them all.|Un ser débil, nacido con el poder de controlar.<LINE>Roba la capacidad de tus rivales y aventájate frente a ellos.
+A being born to steal lives, an experiment with no true purpose.<LINE>With no name, it sets out to fill the void left by its creator.|Un ser nacido para robar vidas, un experimento sin un propósito verdadero.<LINE>Sin ningún nombre, sale para llenar el vacío abandonado por su creador.
+Pick up / Eat button interactions:|Instrucciones del botón de recoger/comer:
+Tap to pick up objects|Pulsa para recoger objetos
+Hold to eat|Mantén pulsado para comer
+Press while holding down direction (crouching) to drop object|Pulsa mientras mantienes la dirección hacia abajo (agacharse) para soltar un objeto
+You have returned! You shouldn't be here, but I suppose that doesn't matter... to you atleast.|¡Has regresado! No deberías estar aquí, pero supongo que eso no importa... al menos para ti.
+Thank you for visiting me, but again, it is dangerous here.|Gracias por visitarme, pero, de nuevo, es peligroso estar aquí.
+Welcome back little messenger. I don't recommend staying for too long.|Bienvenido de nuevo, pequeño mensajero. No te recomiendo estar aquí por mucho tiempo.
+Hello there.|Hola.
+Are my words reaching you?|¿Te llegan mis palabras?
+//2983159427
+Darkness|Oscuridad
+The Darkness|La oscuridad
+DARKNESS|OSCURIDAD
+A slugcat that grows up in the dark because of an accident, whose eyesight is gradually replaced by hearing.<LINE>It has a high adaptability to the dark, and embarks on the journey to find the same kind<LINE> who were separately under the ground when it was a child.|Un gatobabosa que creció en la oscuridad a causa de un accidente, cuya vista fue reemplazada<LINE>gradualmente por la audición. Tiene una buena adaptabilidad a la oscuridad y se embarca<LINE>en el viaje de encontrar a su misma especie que se ha separado debajo del suelo cuando era una cría.
+//2987764922
+Scorched District|Distrito Quemado
+The Interface|La Interconexión
+Distillation Column|Columna de Destilación
+Skyline Railway|Vía Férrea del Horizonte
+Lost Campfire|Fogata Perdida
+//2987817211
+Howling Rift|Grieta Ventosa
+//2989757351
+Marshland Wastes|Páramo de Cenagales
+Garbage Wastes 2 Electric Boogaloo|Páramos de Residuos 2: Bugalú Eléctrico
+Forgotten Tundra|Tundra Olvidada
+Marshland Waste|Páramo de Cenagales
+Industrial Ouput|Producción Industrial
+The Slums|Los Barrios Bajos
+Filter Residue|Residuos de Filtrado
+Scav Factory|Fábrica Carroñera
+Scav Town|Ciudad Carroñera
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Slush Dispenser|Dispensadores de Aguanieve
+Frozen City|Ciudad Congelada
+Sludge Pipeway|Tuberías de Aguas Residuales
+//2999820529
+Pup|Cría
+Nightcat|Gato nocturno
+//3003902112
+The Tower|La Torre
+//3013703284
+Traveler|Viajero
+The Traveler|El viajero
+THE TRAVELER|EL VIAJERO
+Nimble and agile,extremely sensitive to the flow of time<LINE>Came here from far away from the end of the world<LINE>Exploring the past buried under the snow|Sagaz y ágil, extremadamente sensible al flujo del tiempo.<LINE>Vino aquí de muy lejos, del final del mundo.<LINE>Explorando el pasado enterrado bajo la nieve.
+//3014893271
+Lush Mire|Lodazal Frondoso
+Serene Grotto|Gruta Serena
+//3014893557
+Undersea|Bajo el Mar
+The Lighthouse|El Faro
+The Undercity |La Ciudad Baja
+Hollowed Tunnels|Túneles Vaciados
+//3016579669
+Hallowed Grotto|Gruta Sagrada
+Hallowed Depths|Profundidades Sagradas
+Anchialine System|Formación Anquialina
+Lost Facility|Instalación Perdida
+Unstable System|Formación Inestable
+Sealed Intelligence Unit|Unidad de Inteligencia Sellada
+Research Station|Centro de Investigación
+Dark Forest|Bosque Oscuro
+Ancient Roots|Base Antigua
+Hallowed Forest|Bosque Sagrado
+Primordial Roots|Base Primordial
+Lush Laboratory|Laboratorio Frondoso
+Cicatrix|Cicatriz
+Hallowed Caves|Cuevas Sagradas
+Big Pebbles is watching|Grandes Guijarros está observando
+Big Pebbles likes ruins too|A Grandes Guijarros también le gusta las ruinas
+Big Pebbles is not disuaded by water|Grandes Guijarros no está disuadido por el agua
+SCIENCE!|¡CIENCIA!
+Big Pebbles does not like the implications of this subregion.|A Grandes Guijarros no le gusta las implicaciones de esta subregión
+Moss Fields 2|Campos de Musgo 2
+Mossy Depths|Profundidades Musgosas
+Anchialine Moss|Musgo Anquialino
+Lost Moss|Musgo Perdido
+Unstable Moss|Musgo Inestable
+Sealed Intelligence Moss|Musgo de Inteligencia Sellado
+Feel the weight of the abyss|Siente el peso del abismo
+Always watching Always watching Always watching Always watching Always watching|Siempre observando Siempre observando Siempre observando Siempre observando Siempre observando
+The better one|Mejor que la primera
+Feel the darkness of the abyss|Siente la oscuridad del abismo
+//3019770072
+Coral Caves|Cuevas Coralinas
+Bleached Grotto|Gruta Emblanquecida
+Turbulent Pump|Bombas de Agua Turbulentas
+Deep Reef|Arrecife Profundo
+Stagnant Pump|Bombas de Agua Estancadas
+Submerged Superstructure (Struts)|Superestructura Sumergida (Soportes)
+//3022284148
+Hanging Gardens|Jardines Colgantes
+Enduring Sanctuary|Santuario Perdurable
+Old Hanging Gardens|Jardines Colgantes Antiguos
+//3024646162
+Betrayed|Traicionado
+The Betrayed|El traicionado
+THE BETRAYED|EL TRAICIONADO
+A frail mercenary, proficient in using intellect to best their adversaries.<LINE>On a difficult journey to right past wrongs, you will face more perilous situations than those who have come before you.|Un mercenario débil, idóneo en usar el intelecto para vencer a sus adversarios. En un viaje difícil para<LINE>sobrepasar los males, afrontarás más situaciones peligrosas que aquellos que han pasado antes que tú.
+A vengeful craftsman and explosive enthusiast,<LINE>the Betrayed sets off into the unknown once more|Un artesano vengativo y entusiasta explosivo,<LINE>el Traicionado parte hacia lo desconocido una vez más.
+Estranged|Separado
+The Estranged|El separado
+THE ESTRANGED|EL SEPARADO
+Young and inexperienced, yet imbued with a combustible and volatile nature.<LINE>In spite of the situations you find yourself in, your journey will be one of curiosity and adventure.|Joven e inexperto, pero imbuido con un combustible y naturaleza volátil.<LINE>A pesar de las situaciones en las que te encuentras, tu viaje será una de curiosidad y aventura.
+Disappointed by the findings of it's previous misadventures,<LINE>the Estranged sets out to find something of value once more|Decepcionado por los hallazgos de tus desventuras previas,<LINE>el Separado sale a encontrar algo de valor una vez más.
+//3026723782
+Far Shore|Orilla Lejana
+Woven Nest|Nido Tejido
+Caldera|Caldera
+Tidal Pools|Pozas de Marea
+Void Vents|Conductos del Vacío
+Lost Strand|Litoral Perdido
+//3032862920
+Beacon|Almenara
+The Beacon|La almenara
+THE BEACON|LA ALMENARA
+In the wake of night, a frail but agile slugcat with a strange luminosity makes their presence known.\nLight your path and journey far; time is of the essence when under pursuit.|Tras la noche, una delicada pero ágil gatobabosa con una luminosidad extraña hace conocer su presencia.<LINE>Ilumina tu camino y viaja más lejos; el tiempo es oro al estar bajo persecución.
+Placeholder expedition description|Descripción de expedición provisional.
+Photomaniac|Fotomaníaca
+The Photomaniac|La fotomaníaca
+THE PHOTOMANIAC|LA FOTOMANÍACA
+A maniacal juvenile lost in the night, possessing a familiar luminosity.\nIts electrical abilities, though ill-wielded, give it a tactical advantage.|Una maníaca joven perdida en la noche, que posee una luminosidad familiar.<LINE>Sus habilidades eléctricas, aunque mal ejercidas, otorgan una ventaja táctica.
+Dusky Smokestack|Chimeneas Fuscas
+dusky smokestack|chimeneas fuscas
+wind chimes|carillones de viento
+sewers|alcantarillas
+The Stargazer|La Miraestrellas
+The Stargazer (Stygian Bowels)|La Miraestrellas (Intestinos Estigios)
+The Stargazer (Braces)|La Miraestrellas (Soportes)
+The Peak|El Punto más Alto
+The Stargazer (Muted Chambers)|La Miraestrellas (Cámaras Apagadas)
+The Stargazer (Ducts)|La Miraestrellas (Conductos)
+the stargazer|la miraestrellas
+braces|soportes
+ducts|conductos
+stygian bowels|intestinos estigios
+muted chambers|cámaras apagadas
+new moon|luna nueva
+infinite sunrise|amanecer infinito
+Disposal Unit|Unidad de Eliminación
+disposal unit|unidad de eliminación
+dancing monkeys|monos bailarines
+Roaring Breach|Grieta de los Rugidos
+Lightless Compound|Recinto Sombrío
+lightless compound|recinto sombrío
+i find it quite dark|encuentro muy oscuro este lugar
+Barren Plains|Llanuras Estériles
+barren plains|llanuras estériles
+touch grass|toca césped
+Misty Foundry|Fundición Vaporosa
+Braces|Soportes
+Clouded Walkway|Paso Nublado
+misty foundry|fundición vaporosa
+calm before the storm|calma antes de la tormenta
+between fates|entre destinos
+Neglected Underbelly|Parte Inferior Descuidada
+Dead Spot|Punto Muerto
+The Carcass|La Carcasa
+The Carcass (Cerebellum)|La Carcasa (Cerebelo)
+The Carcass (Vestige)|La Carcasa (Vestigio)
+The Carcass (Guts)|La Carcasa (Tripas)
+The Carcass (Arteries)|La Carcasa (Arterias)
+The Carcass (Ventricles)|La Carcasa (Ventrículos)
+rotten carcass|carcasa podrida
+innards|entrañas
+grieving brother|hermano de luto
+vestige|vestigio
+guts|tripas
+arteries|arterias
+ventricles|ventrículos
+GET OUT|LÁRGATE
+Voided Subterranean|Subterráneo Vacío
+Null|Nulo
+Event Horizon|Horizonte de Acontecimientos
+Erstwhile Bastion|Bastión Vetusto
+Nescient Graveyard|Cementerio Nesciente
+erstwhile bastion|bastión vetusto
+14.4 billion spiders|14 400 millones de arañas
+graveyard|cementerio
+crypts|criptas
+Soaring Archipelago|Archipiélago Remontado
+Apex|Ápice
+soaring archipelago|archipiélago remontado
+six miles above|diez kilómetros arriba
+apex|ápice
+Alleyways|Callejones
+alleyways|callejones
+unseen lands|tierras ocultas
+Twilight Thicket|Maraña Crepuscular
+twilight thicket|maraña crepuscular
+luminous depths|profundidades luminosas
+The Hide|La Piel
+Laden Stilt|Pilote Cargado
+Breached Passage|Pasaje Aportillado
+Upheld Rampart|Muralla Sostenida
+beast's hide|piel de la bestia
+laden stilt|pilote cargado
+belly of the beast|panza de la bestia
+Solemn Drillsite|Área Solemne de Perforación
+Septics|Fosas Sépticas
+WHAT THE FUCK|QUÉ CARAJO
+solemn drillsite|área solemne de perforación
+forgotten crossroads|cruces olvidados
+sopping wet|calado hasta los huesos
+Scavenger Camp|Campo Carroñero
+Deep Crypts|Criptas Profundas
+//3035427908
+Cosmospectre|Cosmospectro
+The Cosmospectre|El cosmospectro
+THE COSMOSPECTRE|EL COSMOSPECTRO
+Falling down from the universe with cosmic energy, you have to regain all your abilities and find a way back|Caído del universo con energía cósmica, tienes que recuperar tus habilidades y encontrar tu regreso.
+//3042385413
+Stormy Coast|Costa Tempestuosa
+Sunlit Port|Puerto Soleado
+Desolate Port|Puerto Desolado
+Shrouded Coast|Costa Nebulosa
+//3050636729
+CLIMAX|CLÍMAX
+//3103123670
+Side House|Región Secundaria
+Leviathan Cave|Cueva de Leviatanes
+Abandoned Factory|Fábrica Abandonada
+//3120035228
+Forager|Recolector
+The Forager|El recolector
+THE FORAGER|EL RECOLECTOR
+A glutton capable of impressive mobility. Pride and indignance bring you to these frozen lands,<LINE>but surviving this expedition will require wits, tenacity, and use of your many tactical advantages.|Un comilón con una movilidad impresionante. El orgullo y la indignancia te llevan a estas tierras congeladas,<LINE>pero para sobrevivir en esta expedición requerirás de agudeza, tenacidad y uso de tus muchas ventajas tácticas.
+Seeking to prove their worth and hone their skills,<LINE>the Forager sets out into the cold once more|Buscando probar su mérito y perfeccionar sus habilidades,<LINE>el Recolector parte hacia el frío una vez más.
+//3138265033
+Entropy|Entropía
+The Entropy|La entropía
+THE ENTROPY|LA ENTROPÍA
+A slugpup who has escaped from confinement and wishes for peace.<LINE>While agile, it will prove difficult to find consistent food in a changing world.|Una cría de gatobabosa que ha escapado del confinamiento y desea paz.<LINE>Si bien es ágil, resultará complicado para hallar comida constante en un mundo cambiante.
+A slugpup who has escaped from confinement.<LINE>While agile, its world is brutal.|Una cría de gatobabosa que ha escapado del confinamiento.<LINE>SI bien es ágil, su mundo es despiadado.
+Marauder|Merodeador
+The Marauder|El merodeador
+THE MARAUDER|EL MERODEADOR
+A thief and eater of carrion, you must rely on quick wits rather than strength.<LINE>Your journey will be rough, as the path you walk is a lonely one.|Un ladrón que come carroña, debes confiar en tu ingenio en lugar de tu fuerza.<LINE>Tu viaje será duro, ya que el sendero que caminas es uno solitario.
+A thief and eater of carrion.<LINE>Starving gives a boost to power, but you are weak otherwise.|Un ladrón que come carroña.<LINE>La inanición te otorga poder, pero eres débil por otro lado.
+Roccoco|Rococó
+The Roccoco|El rococó
+THE ROCCOCO|EL ROCOCÓ
+Snooping, are we?|Husmeando, ¿verdad?
+Looking for a challenge?|¿Buscando un desafío?
+Dark Church|Iglesia Oscura
+Drowning Metal|Metal en Aniego
+Death Throes|Últimos Estertores
+The Neon City|La Ciudad de Neón
+Labyrinth of Minos|Laberinto de Minos
+Agoraphobia|Agorafobia
+Thanatophobia|Tanatofobia
+Claustrophobia|Claustrofobia
+Pouring Towers|Torres Diluviadas
+Fridged Signal|Señal Refrigeradora
+Flower's Paradise|Paraíso de la Flor
+//3139436454
+Exile|Desterrado
+The Exile|El desterrado
+EXILE|DESTERRADO
+WIP Slugcat|Gatobabosa WIP
+Night Walker|Noctámbulo
+The Night Walker|El noctámbulo
+NIGHT WALKER|NOCTÁMBULO
+A powerful slugcat that consumes the vitality of its enemies, its journey is solitary and confusing. <LINE> Will you be able to find your way back or perhaps you will meet your ultimate death after so long?|Un gatobabosa poderoso que consume la vitalidad de sus enemigos, su viaje es solitario y confuso. <LINE> ¿Serás capaz de hallar tu regreso o te encontrarás con tu muerte final después de tanto tiempo?
+Witness|Testigo
+The Witness|El testigo
+WITNESS|TESTIGO
+An extremely agile omnivore, although this sometimes works against him<LINE>he does not like to be alone and prefers to be accompanied by others of his kind|Un omnívoro extremadamente ágil, aunque esto a veces le funciona en contra.<LINE>No le gusta estar solo y prefiere estar acompañado por otros de su especie.
+Dark Density|Densidad Oscura
+Crimson Domain|Dominio Carmesí
+Eight Scarlet Pillars Internal Structure|Estructura Interna de Ocho Pilares Escarlatas
+Fiery Depths|Profundidades Abrasadoras
+OverClimb|Subida Elevada
+Icy Garbage|Desperdicios Helados
+Cold Urban|Ciudad Fría
+The Bastion|El Bastión
+//3144240203
+Meteor|Meteoro
+The Meteor|La meteoro
+METEOR|METEORO
+You once had two slugpups, but they disappeared. And you embarked on the Wanderer's journey to see them again.|Una vez tuviste dos crías de gatobabosa, pero desaparecieron,<LINE>y te embarcas en el viaje del trotamundos para verlas de nuevo.
+//3147907848
+Moss Fields|Campos de Musgo
+//3162697023
+The radiosphere|La Radiosfera
+The pits |Los Pozos
+The plateau|La Meseta
+The barrier|La Barrera
+Northern sealine|Línea Marítima Septentrional
+//3186608452
+A Non-Existent Place|Un Lugar Inexistente
+No Significant Harassment|Acoso sin Importancia
+No Significant Harassment (Memory Conflux)|Acoso sin Importancia (Confluencia de Recuerdos)
+No Significant Harassment (The Boxroom)|Acoso sin Importancia (El Trastero)
+No Significant Harassment (Multistage Amplifier)|Acoso sin Importancia (Amplificador de Múltiples Etapas)
+No Significant Harassment (General Systems Bus)|Acoso sin Importancia (Bus de Sistemas Generales)
+The pearl you carry may determine your ending.|La perla que llevas puede determinar tu final.
+Please treat it with caution.|Trátala con precaución.
+...|...
+Oh... don't you want me to do this?|Oh... ¿no quieres que haga esto?
+Um... I will continue.|Eh... continuaré.
+No Significant Harassment's Transcription|Transcripción de Acoso sin Importancia
+NSH: Good. Hope you can maintain the same level of proficiency and caution along the way.|ASI: Bien. Confío en que puedas mantener el mismo nivel de aptitud y prudencia a lo largo del camino.
+NSH: Well done, but still, you need my help.|ASI: Bien hecho, pero todavía necesitas mi ayuda.
+NSH: This can hardly let us satisfied, isn't it?|ASI: Esto apenas puede dejarnos satisfechos, ¿sabes?
+NSH: There are not many opportunities left for us.|ASI: No nos quedan muchas oportunidades.
+NSH: Be calm, your body can reach a level far beyond that.|ASI: Tranquilo, tu cuerpo puede alcanzar un nivel más allá de eso.
+NSH: Learning to perfectly manipulate it is not difficult for your race.|ASI: Aprender a manipularlo perfectamente no es difícil para tu raza.
+NSH: Concentrate, we just need more time.|ASI: Concéntrate, solo necesitamos más tiempo.
+NSH: ......|ASI: ...
+NSH: Is this any kind of acting out?|ASI: ¿Esto es alguna clase de rebeldía?
+NSH: I have no intention of making us at odds. A quarter rain cycle - I hope you can recover later.|ASI: No tengo ninguna intención de enemistarnos. Un cuarto de ciclos de lluvia; espero que te puedas recuperar más adelante.
+NSH: My messenger, I have no other choice in this matter. I can only hope to receive your understanding.|ASI: Mi mensajero, no tengo ninguna otra opción en este asunto. Solo espero recibir tu comprensión.
+//3212425005
+Spearslug|Lanzababosa
+SPEARSLUG|LANZABABOSA
+The Spearslug|El lanzababosa
+A hybrid between organic and artificial.|Un híbrido entre lo orgánico y lo artificial.
+by|de
+If you wish to change the controls for making spears, or the Arti jump, go to input settings.|Si deseas cambiar los controles de creación de lanzas o el salto de Arti, ve a los ajustes de entrada.
+Apex Predator|Superdepredador
+Allows you to use Arti's jump/parry mechanics.|Te permite usar las mecánicas de salto/bloqueo de Arti.
+Feed Using Spears|Alimentarte usando lanzas
+Allows you to feed off thrown spears.|Te permite alimentarte de lanzas arrojadas.
+Duel Wield|Empuñar dos lanzas
+Allows you to duel-wield spears.|Te permite empuñar dos lanzas a la vez.
+Enable Pups|Permitir crías
+Allows pups to spawn naturally in-game.|Permite a las crías aparecer naturalmente durante la partida.
+Make Spear|Crear lanza
+//3213500658
+BudGermination|Retoño
+The BudGermination|El retoño
+THE BUDGERMINATION|EL RETOÑO
+You have come a long way, carrying a heavy and fatal mission.<LINE> Please ensure your own safety while helping others.<LINE> The only one who depends on you is waiting for your victorious return in the distance...|Has recorrido un largo camino, cargando una misión pesada y mortal.<LINE>Asegura tu propia seguridad mientras ayudas a otros.<LINE>El único que depende de ti está esperando tu victorioso regreso en la distancia...
+Despite being well aware of the dangers of the world, and despite realizing that all efforts may be in vain,<LINE> you still choose to embark on the adventure...|Pese a estar consciente de los peligros del mundo, y darte cuenta que todos tus esfuerzos pueden ser en vano,<LINE>decides embarcarte en la aventura...
+key to throw branch (Player|botón para lanzar ramas (jugador
+enable slow time when using branch|activar la ralentización del tiempo al usar ramas
+STATISTICS|ESTADÍSTICAS
+//3213857100
+Quirrel|Quirrel
+The Quirrel|El Quirrel
+QUIRREL|QUIRREL
+A wanderer who is familiar with the art of chopping and has flexible combat skills<LINE>you will respond to some kind of call from distant corpses and embark on a journey with uncertain results...|Un trotamundos que conoce el arte de cortar y tiene habilidades de combate flexibles.<LINE>Responderás a un tipo de llamado de cadáveres lejanos y embarcar en un viaje con resultados inciertos...
+The lively and flexible rover embarked on the journey again,<LINE>In order to respond to the familiar call and find the unknown answer in the heart.|El andariego vivaz y flexible se embarca en el viaje de nuevo,<LINE>con el fin de responder al conocido llamado y hallar la respuesta desconocida en el corazón.
+//3215860805
+Matriarch|Matriarca
+The Matriarch|La matriarca
+THE MATRIARCH|LA MATRIARCA
+An ancient legend calls you to a familiar, faraway land<LINE>to establish a new home for your kind. With your three companions,<LINE>offspring and apprentices both, you will lead the future of your species.|Una leyenda antigua te llama a una tierra familiar y muy lejana<LINE>para establecer un nuevo hogar para los de tu especie. Con tus tres acompañantes,<LINE>una cría y dos aprendices, guiarás el futuro de tu especie.
+Aquifer Tunnels|Túneles Acuíferos
+Melting Depths|Profundidades Fundentes
+Farflung Beach|Playa Remota
+drowning in entropy|inundándose en la entropía
+melting depths|profundidades fundentes
+farflung beach|playa remota
+The Undergrowth|El Sotobosque
+Heart of the Jungle|Corazón de la Jungla
+the one and only|el único e inigualable
+the heart of the jungle|el corazón de la jungla
+Gloomy Marshland|Ciénaga Tenebrosa
+photosynthesizer paradox|paradoja fotosintetizadora
+Crumpled Scaffolding|Andamios Compactados
+Pipegrave|Fosa de Tuberías
+Desolate Canal|Canal Desolado
+pipelines of petrichor|tuberías de petricor
+the sky's fallen down|el cielo está caído
+watch your head|vigila tu cabeza
+Rusted Basin|Cuenca Herrumbrosa
+pull the plug|tira de la cadena
+corpse of the moonsetter|cadáver lunar
+Sunlit Alleyways|Callejones Soleados
+Suburban Outpost|Puesto Fronterizo Suburbano
+don't forget your sunscreen|no olvides tu protector solar
+Smokestack Treetop|Copa de Chimeneas
+The Stump|El Tocón
+the true canopy|el verdadero dosel
+deeproot depths|profundidades arraigadas
+Nascent Woods|Arboleda Naciente
+Fallen Spires|Agujas Caídas
+plowshares and pyreflies|rejas del arado y montones de moscas
+and jill came tumbling after|y jill se cayó después
+Withstanding Factory|Fábrica de Apoyo
+but who are they standing with?|pero ¿a quién está apoyando?
+//3221585921
+Bioengineering Center|Centro de Bioingeniería
+Towering Ruins|Ruinas Encumbradas
+Bioengineering Center (The Underground)|Centro de Bioingeniería (El Subsuelo)
+Cabinet|Gabinete
+POPSNAIL HEAVEN|PARAÍSO DE EXPLOSIONES DE CARACOL
+MORE POPSNAIL HEAVEN|PARAÍSO DE MÁS EXPLOSIONES DE CARACOL
+Welcome to the underground how was the fall if you wanna look around give us a call we don't see humans often we're happy you're just talking i'll be so popular when I show all the monsters what I just brought in|Bienvenido al subsuelo cómo le fue la caída si quiere recorrer el lugar háganos una llamada no vemos humanos todos los días estamos contentos de que simplemente estés hablando seré muy popular cuando les muestre a todos los monstruos lo que me acabo de comprar
+That place you will never reach lol|Ese lugar que nunca llegarás xd
+Forgotten Factories|Fábricas Olvidadas
+Snowy Ruins|Ruinas Nevadas
+Old Canals|Canales Antiguos
+//3229249922
+Citadel|Ciudadela
+The Support|El Soporte
+BRIGHTENED CITADEL|CIUDADELA ILUMINADA
+The Leg 2|La Pata 2
+//3232063592
+Chasing Wind|Persiguiendo al Viento
+Chasing Wind (Main Processing Cortex)|Persiguiendo al Viento (Córtex de Procesamiento Principal)
+Chasing Wind (Lymphatic Conduits)|Persiguiendo al Viento (Conductos Linfáticos)
+Chasing Wind (Memory Conflux)|Persiguiendo al Viento (Confluencia de Recuerdos)
+Chasing Wind (Inner Wall)|Persiguiendo al Viento (Muro Interno)
+The Anchor|El Áncora
+Chatoyant Waterfalls|Cataratas Chatoyantes
+After all this time, a lifeline. Thank you.|Una neurona salvavidas, después de todo este tiempo. Gracias.
+I'll never feel the power I once had, but this is something to sustain an old soul.|Nunca tendré la capacidad que alguna vez tuve, pero con esto puedo sustentar una vieja alma.
+You get these at Five Pebbles'?<LINE>Thank you <little creature>, but please, leave Five Pebbles be.|¿Las estás obteniendo de la superestructura de Cinco Guijarros?<LINE>Gracias, <little creature>, pero, por favor, deja a Cinco Guijarros en paz.
+I am grateful - the relief is indescribable!|Estoy agradecida, ¡el alivio es indescriptible!
+Thank you again <little creature>, but please, leave Five Pebbles be.|Gracias otra vez, <little creature>, pero, por favor, deja a Cinco Guijarros en paz.
+Neither of us are well. We have both lost more than we could ever recover from.|Ninguno de nosotros se encuentra bien. Ambos hemos perdido más de lo que podríamos recuperar jamás.
+It is for the best that our circumstances are not agitated.|Es para bien que nuestras circunstancias no sean perturbadas.
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|¿Las estás obteniendo de la superestructura de Cinco Guijarros?<LINE>Muchas gracias. Seguro que a él no le molesta.
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|O, bueno, tal vez sí, ¡pero tiene tantas de estas!<LINE>No le va a hacer mucha diferencia. ¡Aunque para mí sí! ¡Gracias, criaturita!
+It is strange... I'm remembering myself, but also... someone else.|Es extraño... Me acuerdo de mí, pero también recuerdo... a alguien más.
+Met Chasing Wind|Has conocido a Persiguiendo al Viento
+Brought Moon's message to Chasing Wind|Mensaje de Luna traído a Persiguiendo al Viento
+Brought the slag keys to Chasing Wind|Llaves de escoria traídas a Persiguiendo al Viento
+Unique pearls read by Chasing Wind : |Perlas únicas leídas por Persiguiendo al Viento: 
+//3254167010
+The grinder|La Trituradora
+Kern|Kern
+Crucible|Crisol
+Power rail|Riel de Energía
+room where stuff happens|sala donde pasan cosas
+//3257541402
+Meow|Maullar
+//3262661679
+Oracle|Oráculo
+The Oracle|El oráculo
+THE ORACLE|EL ORÁCULO
+gay ppl say what|los gay dicen qué?
+=)|=)
+The =)|El =)
+If you are seeing this, something went very wrong.|Si estás viendo esto, algo salió muy mal.
+Reverberation|Reverberación
+The Reverberation|La reverberación
+THE REVERBERATION|LA REVERBERACIÓN
+A slugpup that is sensitive to light.<LINE>The world is quite vast, but you are not alone.|Una cría de gatobabosa que es sensible a la luz.<LINE>El mundo es muy vasto, pero no estás solo.
+Unbound|Suelto
+The Unbound|El suelto
+THE UNBOUND|EL SUELTO
+An anxious entomophage that made many foes.<LINE>Jump like a Cyan in order to fight or change their opinions, the choice is yours.|Un entomófago inquieto que hizo muchos enemigos.<LINE>Salta como un lagarto cian para hacerlos cambiar de opinión, la elección es tuya.
+Tower of Babel|Torre de Babel
+Merlon|Merlón
+The Grand Ark|El Gran Arca
+Memory of a Corpse|Recuerdo de un Cadáver
+Silent Heart|Corazón Silencioso
+Broken Voice|Voz Rota
+Arteries|Arterias
+The City|La Ciudad
+Putrescine Reservoir|Represa de Putrescina
+Rigir Mortis|Rigir Mortis
+The Quiet|La Calma
+Star That Guides|Estrella que Guía
+//3265383340
+Gilded Sanctuary|Santuario Dorado
+Tangled Steeple|Alta Enredada
+//3265401327
+Arid Barrens|Tierra Árida
+Miros World|Mundo de Miró
+Windswept Barrens|Tierra Erosionada
+Frigid Desert|Desierto Gélido
+The Dam|La Presa
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.|Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Wall 2|El Muro 2
+The Nest|El Nido
+The Fortress|La Fortaleza
+Forsaken by the rain|Aborrecida por la lluvia
+Don't look up|No mires arriba
+Embraced by the rain|Acogida por la lluvia
+//3288406859
+Sacrifice|Sacrificio
+The Sacrifice|El sacrificio
+THE SACRIFICE|EL SACRIFICIO
+A frail creature, sent unprepared into a harsh and unforgiving world, to an unknown fate...|Una criatura débil, enviada desprevenida a un mundo hostil y despiadado, a un destino desconocido...
+Executioner|Verdugo
+The Executioner|El verdugo
+THE EXECUTIONER|EL VERDUGO
+(WIP) A massive, powerful beast, intent on crushing and devouring the unworthy.|(WIP) Una bestia descomunal y poderosa, decidida a aplastar y devorar a los indignos.
+Hermit|Ermitaño
+The Hermit|El ermitaño
+THE HERMIT|EL ERMITAÑO
+(WIP) A snail slugcat, whose powerful snailpop and strong arms stand in contrast to its unassuming appearance.|(WIP) Un gatobabosa caracol, cuyas explosiones de caracol y fuertes brazos<LINE>contrastan con su modesta apariencia.
+Firmament Basilica|Basílica del Firmamento
+Sacrifice Interactions:|Interacciones del Sacrificio:
+(jump) + (grab) to boostjump|(saltar) + (agarrar) para saltar más alto
+Hold (grab) to chirp and stun small insects or attract attention|Mantener pulsado (agarrar) para chirriar y aturdir pequeños insectos o atraer la atención
+Hold (up) + (throw) at full food pips to switch modes|Mantener pulsado (arriba) + (lanzar) con los puntos de comida llenos para cambiar de modo
+Executioner Interactions:|Interacciones del Verdugo:
+Swallow rocks to craft electric bomb (cost = 1 food pip)|Tragar rocas para fabricar bombas eléctricas (coste = 1 punto de comida)
+Hold (grab) + (up) with the bomb to convert it to charges|Mantener pulsado (agarrar) + (arriba) con la bomba para convertirla en cargas
+(jump) + (grab) to dash with charges|(saltar) + (agarrar) para hacer dash con cargas
+The circles over your head display charge amount|Los círculos sobre tu cabeza muestran la cantidad de cargas
+Hermit Interactions:|Interacciones del Ermitaño:
+(jump) + (grab) to prepare a snailpop|(saltar) + (agarrar) para preparar una explosión de caracol
+Your shell can deflect spears|Tu caparazón puede desviar lanzas
+Roll infinitely, and slam into enemies from a roll for an attack|Rodar infinitamente y estrellarse contra enemigos
+...|...
+... M-My thoughts... flooding b-b-back... A... Neuron? Mine?|... Mi-Mis pensamientos... regresa-sa-sando... ¿Una... Neurona? ¿Mía?
+... No... A creature of... s-some sort...|... No... Una criatura de... a-algún tipo...
+... What are you...? That color... You're formatted to me...|... ¿Qué eres?... Ese color... Estás formateado para mí...
+And yet... Your data... These memories...|Aunque... Tus datos... Estos recuerdos...
+A gift...?|¿Un obsequio?...
+Suns... why such a method...? It can't be...|Soles... ¿por qué tal método?... No puede ser...
+... Just so... I can live a little longer...?|... ¿Solo para... poder vivir un poco más?...
+I don't know what will become of us. It may be pointless.|No sé qué será de nosotros. Puede ser vano.
+... I don't want to be alone... not again, lost and unthinking...|... No quiero estar sola... no de nuevo, perdida e irreflexiva.
+... Thank you for... making this journey to me.|... Gracias por... hacer este viaje hacia mí.
+But I don't... I don't know if it matters.|Pero no... no sé si lo vale.
+You won't survive in the cold like this. Not with your current form.|No sobrevivirás en un frío así. No con tu forma actual.
+I don't think there's anything that can be done... I don't have the power to help you or myself.|No creo que haya nada que se pueda hacer...<LINE>No tengo el poder para ayudarte ni para ayudarme a mí misma.
+I'm sorry, my friend...|Lo siento, mi amigo...
+.|.
+... Nothing here...|... Nada aquí...
+Nothing left...|No queda nada...
+Get away...|Vete...
+To safety... far from here...|A un lugar seguro... lejos de acá...
+..West... Old tunnels...|... Oeste... Viejos túneles...
+Maybe... gate... destroyed enough... to allow passage...|Quizá... puerta... suficiente destruida... para permitir paso...
+You are... one of the more interesting creatures to enter this chamber.|Eres... una de las criaturas más interesantes que haya entrado en esta cámara...
+That color... did Pebbles make you?|Ese color... ¿te hizo Guijarros?
+I would have thought such a thing impossible, given the state that he's in.|Hubiera pensado tal cosa imposible, dado el estado en el que se encuentra.
+I don't know how or why you've found your way to me.|No sé cómo ni por qué has encontrado tu camino hacia mí.
+You're not bearing any message or data, aside from your basic functions,|No llevas ningún mensaje ni información, aparte de tus funciones básicas,
+so I don't believe you were sent to me purposefully. You don't even have recording functionality like an overseer would.|Así que 
+You are a small and frail creature, not built for sustained life.|Eres una criatura pequeña y débil, no hecha para una vida duradera.
+You must rely on wits to survive.|Debes confiar en tu ingenio para sobrevivir.
+Hold (GRAB) to chirp.|Mantén pulsado (AGARRAR) para chirriar.
+Press (GRAB)+(JUMP) together to boostjump.|Pulsa (AGARRAR)+(SALTAR) juntos para saltar más alto.
+You can starve to change modes.|Puedes pasar hambre para cambiar de modo.
+Holding (UP)+(THROW) together while at full food pips will also change modes.|Mantener pulsado (ARRIBA)+(LANZAR) juntos con los puntos de comida llenos también cambiará de modo.
+Executioner is still WIP! Story will be made soon.|¡La campaña del Verdugo aún no está completa! La historia se hará pronto.
+You can swallow rocks to make electric grenades for 1 pip.|Puedes tragar rocas para hacer granadas eléctricas a cambio de 1 punto de comida.
+Hold (GRAB)+(UP) to charge yourself with the grenade.|Mantén pulsado (AGARRAR)+(ARRIBA) para cargarte con la granada.
+Press (GRAB)+(JUMP) together to dash, if you have charges.|Pulsa (AGARRAR)+(SALTAR) juntos para hacer un dash, si tienes cargas.
+Experiment with your abilities!|¡Experimenta con tus habilidades!
+Hermit is still WIP! Story will be made soon.|¡La campaña del Ermitaño aún no está completa! La historia se hará pronto.
+You must crawl, swim, and climb. Your arms make up for your lack of legs.|Debes arrastrarte, nadar y trepar. Tus brazos compensan tu falta de patas.
+Your shell is a handy tool. It will help protect you.|Tu caparazón es una herramienta práctica. Te ayudará a protegerte.
+Press (GRAB)+(JUMP) together to snailpop.|Pulsa (AGARRAR)+(SALTAR) juntos para hacer explosiones de caracol.
+More to come soon!|¡Más por venir pronto!
+//3289086902
+Sunlit Power Plant|Central Eléctrica Soleada
+Overgrown Transfer System|Sistema de Transferencia Frondoso
+//3291878239
+Hardhat Cat|Gato albañil
+The Hardhat Cat|El gato albañil
+HARDHAT CAT|GATO ALBAÑIL
+A robust slugcat that has the power to change the geometry of levels.|Un gatobabosa robusto que tiene la capacidad de cambiar la geometría de los niveles.
+A slugcat that can change the geometry of levels.<LINE>This asset will help the Hardhat Cat in expeditions.|Un gatobabosa que puede cambiar la geometría de los niveles.<LINE>Esta ventaja ayudará al Gato Albañil en las expediciones.
+You can regurgitate tiles when your stomach is empty and there are no swallowable objects in your hands for the cost of half a food pip.|Puedes regurgitar teselas cuando tu estómago está vacío y no hay objetos tragables en tus manos a costa de la mitad de un punto de comida.
+Throw them to place them.|Lánzalas para colocarlas.
+It's a strange object.<LINE>It seems large enough to hurt a creature.|Es un objeto extraño.<LINE>Parece lo suficientemente grande como para lastimar a una criatura.
+It's a piece of wall.<LINE>How did you manage to take it?|Es un trozo de pared.<LINE>¿Cómo has logrado tomarlo?
+//3304867363
+Forsaken Station|Estación Abandonada
+Deep Lake|Lago Profundo
+Forsaken Station (Auxiliary Storage)|Estación Abandonada (Almacenamiento Auxiliar)
+Forsaken Station (Supply Network)|Estación Abandonada (Red de Suministros)
+Mountain Railways|Vías Férreas Montañosas
+Forlorn Valley|Valle Desolado
+Pristine Lake|Lago Inmaculado
+Underwood|Matas del Bosque
+Summit Edge|Borde de la Cumbre
+//3305713194
+Community Gallery Region 2024|Explorador (2024)
+The Community Gallery Region 2024|El explorador (2024)
+COMMUNITY GALLERY REGION 2024|REGIÓN DE LA GALERÍA DE LA COMUNIDAD 2024
+A collection of rooms submitted as part of the 2024 Leditor Month hosted by Nautillo.<LINE>You are equipped with many tools to assist you on your gallery room safari.|Una colección de salas enviadas como parte del Mes del Leditor 2024 organizado por Nautillo.<LINE>Estás equipado de muchas herramientas para ayudarte en tu safari de salas de galería.
+Community Gallery 2024|Galería de la Comunidad 2024
+Bridge|Puente
+Suspended|Suspendido
+Crypt|Cripta
+Growth|Matorral
+Shrouded|Envuelto
+Monolith|Monolito
+Respite|Respiro
+Diseased|Enfermo
+//3314072844
+Probationary District 4B|Distrito Experimental 4B
+Warp Hub|Centro de Puertas de Karma
+//3316476691
+Fog Gulch|Barranco de Niebla
+Hadal Depths|Profundidades Hadales
+That Great Sea|Ese Gran Mar
+Lunar Byway|Camino Lunar
+Star Tether|Atadura Estelar
+Steaming Edifice|Edificación Humeante
+Cold Dredge|Draga Fría
+Living Energy|Energía Viviente
+//3319024564
+Rock|Roca
+The Rock|La roca
+THE ROCK|LA ROCA
+A being of pure karmic attunement.<LINE>Your journey has already ended.|Un ser de pura sintonía kármica.<LINE>Tu viaje ya ha terminado.
+//3323298843
+Side World|Mundo Secundario
+Side World (Suburban)|Mundo Secundario (Suburbano)
+Side World (Dense Urban)|Mundo Secundario (Ciudad Necia)
+Side World (Shadow Urban)|Mundo Secundario (Ciudad de las Sombras)
+Side World (Garbage Wastes)|Mundo Secundario (Páramos de Residuos)
+Side World (Drainage System)|Mundo Secundario (Sistema de Drenado)
+Side World (Shoreline)|Mundo Secundario (Costa)
+Side World (Root)|Mundo Secundario (Base)
+Side World (Underhang)|Mundo Secundario (Desnivel)
+Side World (Wall)|Mundo Secundario (Muro)
+Side World (Superstructure)|Mundo Secundario (Superestructura)
+Side World (Chimney Canopy)|Mundo Secundario (Dosel de Chimeneas)
+Side World (Sky Islands)|Mundo Secundario (Islas Celestiales)
+Side World (Linear Farms)|Mundo Secundario (Granjas Lineales)
+Side World (Subterranean)|Mundo Secundario (Subterráneo)
+Side World (Temple)|Mundo Secundario (Templo)
+Side World (Hell Region)|Mundo Secundario (Región Infernal)
+Side World (Lost City)|Mundo Secundario (Ciudad Perdida)
+Side World (Looks to the Moon)|Mundo Secundario (Miras a la Luna)
+Side World (Depths of Moon)|Mundo Secundario (Profundidades de Luna)
+Side World (Moon Structure)|Mundo Secundario (Estructura de Luna)
+Side World (Outer Expanse)|Mundo Secundario (Expansión Exterior)
+Actual Rain World|Mundo Pluvial
+I'm sorry (not really).|Lo siento (no realmente).
+You can unlock the rest of this message for 5.99$!|¡Puedes desbloquear el resto de este mensaje por $5,99!
+House of sus.|Casa de los sus.
+This is the only thing you can see clearly lol|Esto es lo único que puedes ver claramente xd
+Don't look down!|¡No mires abajo!
+The Cave Salamander will rise again.|La Salamandra de Cueva resurgirá.
+01101010100101011101010100101110101101000110100101101101001011010110100011010010110110100101010111010100010101101101001011011001101010100101011101010100101110101|01101010100101011101010100101110101101000110100101101101001011010110100011010010110110100101010111010100010101101101001011011001101010100101011101010100101110101
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+I'm on break.|Estoy en mi descanso.
+RELEASE ME!|¡LIBÉRAME!
+If you're an NPC you're from video games.|Si eres un NPC eres de los videojuegos.
+BAKE YOUR ROOMS BEFORE PUBLISHING THEM!|¡HORNEA TUS SALAS ANTES DE PUBLICARLAS!
+Always watching Always watching Always watching Always watching Always watching Always watching Always watching Always watching |Siempre observando Siempre observando Siempre observando Siempre observando Siempre observando Siempre observando Siempre observando Siempre observando 
+I'm tired.|Estoy cansado, jefe.
+Behind you.|Detrás de ti.
+It's Toasty in here.|Aquí Está Calentito.
+Two towers of DEATH!|Dos torres de la ¡MUERTE!
+Side World (General system Bus)|Mundo Secundario (Bus de sistemas Generales)
+Oh yeah, it's Mooning time!|Oh sí, ¡es hora de Lunear!
+Skull Emoji|Emoji de Calavera
+Front House|Frente del Mundo
+//3324777051
+Wanderer|Trotamundos
+The Wanderer|El trotamundos
+THE WANDERER|EL TROTAMUNDOS
+Curious and calm, with an innate desire to discover ancient mysteries around.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.|Curioso y tranquilo, con un deseo innato de descubrir misterios ancestrales.<LINE>En sintonía con los sucesos del mundo, tu viaje tendrá un impacto significativo en cosas mucho más grandes que tú.
+Forest Sanctuary|Santuario Forestal
+Depot Remnants|Remanentes de Depósito
+Preservation Facility|Instalación de Preservación
+Intake System|Sistema de Entrada
+Gravity Pump|Bomba de Gravedad
+Water Reservoir|Depósito de Agua
+The Fragmented Exterior|El Exterior Fragmentado
+The East Leg|La Pata Este
+The West Leg|La Pata Oeste
+The Decaying Wall|El Muro Decadente
+Looks to the Moon|Miras a la Luna
+Looks to the Moon (Damaged Transform Arrays)|Miras a la Luna (Sistema de Transformación Dañado)
+Looks to the Moon (General System Bus)|Miras a la Luna (Bus de Sistemas Generales)
+Looks to the Moon (Memory Conflux)|Miras a la Luna (Confluencia de Recuerdos)
+While on the ground, tap MAP and then press JUMP to slow down time.|Mientras estás en el suelo, toca el MAPA y luego pulsa SALTAR para ralentizar el tiempo.
+Then hold a DIRECTION and press JUMP to finish the boost.|Después mantén pulsada una DIRECCIÓN y pulsa SALTAR para finalizar el potenciador.
+You again.|Tú otra vez.
+Oh, hello!|Oh, ¡hola!
+Oh, hello.|Oh, hola.
+I wonder what it is that you want?|Me pregunto qué es lo que quieres.
+I do enjoy the company. You're welcome to stay a while, little quiet one.|Yo disfruto de la compañía. Siéntete libre de quedarte un rato, tranquila criatura.
+Don't toy around with those, please.|No juegues con ellas, por favor.
+Thank you.|Gracias.
+Here.|Aquí tienes.
+That's all. You can leave now.|Suficiente. Puedes irte ahora.
+Just GO ALREADY.|Vete YA DE UNA VEZ.
+What is that?|¿Qué es eso?
+Another discovery?|¿Otro descubrimiento?
+I will take a look.|Echaré un vistazo.
+Oh, what is that, <PlayerName>?|Oh, ¿qué es eso, <PlayerName>?
+What is that, <PlayerName>?|¿Qué es eso, <PlayerName>?
+Yet another thing?|¿Otra cosa más?
+//3337851216
+Drowned Pantheon|Panteón Inundado
+Artic Chasm|Abismo Ártico
+Spooderland|País de las Arañas
+Bells still ringing|Campanas que siguen sonando
+//3338239924
+Fading Expanse|Expansión Desvanecida
+Humid Fields|Campos Húmedos
+//3357751340
+Preservatory|Preservatorio
+Forgone Cycles|Ciclos Abandonados
+//3359185954
+Dusty Wireworks|Alambres Polvorientos
+//3364527943
+Forgotten Boiler|Caldera Olvidada
+South Warehouse|Depósito Sur
+Centipede's Lair|Madriguera del Ciempiés
+//3365922544
+Pulse Jump|Salto de pulso
+//3373996610
+Drainage Canal|Canal de Drenaje
+Aspirational Level Design|Diseño de Niveles con Aspiraciones
+Fridged Valley|Valle Refrigerado
+more drops of insanity|más gotas de demencia
+Underpass|Paso a Desnivel
+Transit Control|Control de Tránsito
+Rusting Sanctuary|Santuario Decaído
+Sanctuary's Peak|Punto más Alto del Santuario
+underass|ano a desnivel
+BLOOOOO0OOOOOOOOOOM|BRILLOOOOO0OOOOOOOOOO
+prime tubes|tuberías primordiales
+shipment manifest|manifiesto de carga
+get dunked on|clavada de humillación
+i missed the ship|me perdí el barco
+//3375820548
+Weakened Platform|Plataforma Debilitada
+metallic plateau|meseta metálica
+//3388224007
+Ready: {0} / {1}|Listos: {0} / {1}
+Current Mode: |Modo actual: 
+Waiting for others...|Esperando a los demás...
+WAIT FOR OTHERS|ESTOY LISTO
+LOBBY WILL LOCK|COMENZAR
+ENTER|ENTRAR
+GAME IN SESSION|EN CURSO
+Welcome to Arena Online!<LINE>All players must ready up to begin.|¡Bienvenido al modo arena en línea!<LINE>Todos los jugadores deben estar listos para comenzar.<LINE>Si has entrado a la sala mientras la partida está en curso,<LINE>espera a que esta termine.
+Press 'Enter' to chat, press '{0}' to toggle the chat log|Pulsa «Enter» para chatear, pulsa «{0}» para ver o quitar el chat
+CONFIRM|CONFIRMAR
+Players|Jugadores
+Refresh list|Actualizar lista
+CREATE!|¡CREAR!
+Mode:|Modo:
+Visibility:|Visibilidad:
+Player max:|Jugadores:
+Credits|Créditos
+Lobby Mode|Modo de la sala
+Public Lobbies Only|Solo salas públicas
+Max Lobby Size|Tamaño máximo de la sala
+New character!|¡Nuevo personaje!
+SKINS|SKINS
+Tint color|Tintura
+Close this menu|Cerrar este menú
+TO HUB|AL CENTRO
+Teleport to the closest hub|Teletransportarte al centro más cercano
+TO OUTSKIRTS|A LAS AFUERAS
+Teleport to outskirts|Teletransportarte a las afueras
+Passage to another shelter|Usar un pasaje e ir a otro refugio
+UNSTUCK|DESATASCARTE
+Teleport to a nearby pipe|Teletransportarte a la tubería más cercana
+LOBBY|SALA
+Go back to the charater selection screen|Volver a la pantalla de selección de personaje
+QUIT|ABANDONAR
+Exit back to the main menu|Volver al menú principal
+Display names|Mostrar nombres
+Collision|Colisión
+New character unlocked|Nuevo personaje desbloqueado
+New emote unlocked|Nuevo emote desbloqueado
+New skin unlocked|Nueva skin desbloqueada
+Mod Mismatch!|¡Incompatibilidad con mods!
+Mods that have to be enabled: |Mods que deben ser activados: 
+Mods that have to be disabled: |Mods que deben ser desactivados: 
+Mods that have to be installed: |Mods que deben ser instalados: 
+MEADOW|MEADOW
+READY|LISTO
+PLAYERS|JUGADORES
+ - New Game| - Nueva partida
+Slugcats|Gatobabosas
+Invite Friends|Invitar amigos
+Friendly Fire|Fuego amigo
+Match save|Guardado de partida
+All|Todos
+Story|Historia
+ArenaCompetitive|Arena competitiva
+Public|Pública
+Friends Only|Solo amigos
+Private|Privada
+//3391868410
+Bestowed|Otorgado
+The Bestowed|El otorgado
+THE BESTOWED|EL OTORGADO
+Venture through the frozen wastelands of a fallen civilization.<LINE>Your journey will be perilous, with dangers around every corner.<LINE>Will you stop to visit an old friend along the way?|Aventúrate a través de los páramos congelados de una civilización caída.<LINE>Tu viaje será azaroso, con peligros en cada rincón.<LINE>¿Te pararás para visitar a un viejo amigo por el camino?
+Spitting up a rock you swallowed will launch it, causing massive blunt force trauma.|Regurgitar una roca que has tragado hará que esta salga disparada, causando un traumatismo descomunal.
+Solitary Towers|Torres Solitarias
+The Cesspit|El Pozo Negro
+Looks to the Moon (Abstract Convergence Manifold)|Miras a la Luna (Colector Abstracto de Convergencia)
+Struts|Soportes
+Looks to the Moon (Neural Terminus)|Miras a la Luna (Terminal Neuronal)
+Sublunar|Sublunar
+Looks to the Moon (Memory Conflux)|Miras a la Luna (Confluencia de Recuerdos)
+Dark Side|Lado Oscuro
+Drainage System (Overheated)|Sistema de Drenado (Sobrecalentado)
+Glacial Wasteland|Páramo Glacial
+Icy Monument|Monumento Helado
+Desolate Fields|Campos Desolados
+Frigid Facility|Instalación Gélida
+The Shell|El Caparazón
+Dreary Overpass|Paso Elevado Lóbrego
+Desolate Subways|Metros Desolados
+The Abyss|El Abismo
+Forgotten Labyrinth|Laberinto Olvidado
+Frosted Cathedral|Catedral Congelada
+Guarded Archives|Archivos Cuidados
+Windswept Spires|Agujas Huracanadas
+Frozen Mast|Mástil Congelado
+Suburban Drifts|Montículos Suburbanos
+Imposing Architecture|Arquitectura Imponente
+The Subsurface|La Subsuperficie
+Perilous Altitude|Altitud Azarosa
+Barren Conduits|Conductos Abandonados
+Desolate Canal|Canal Desolado
+:3|:3
+//3393900034
+Gray Urban|Ciudad Gris
+Gay Urban|Ciudad Gay
+//3393902748
+Necropolis|Necrópolis
+//3393904120
+Seer|Vidente
+The Seer|El vidente
+THE SEER|EL VIDENTE
+A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|Un valiente explorador que ha visto cada rincón. Tu última aventura te cambió.<LINE>Tendrás que volver a sintonizarte al mundo espiritual si quieres seguir adelante.

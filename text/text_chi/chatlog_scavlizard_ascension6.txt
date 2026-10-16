@@ -1,0 +1,10 @@
+﻿0-chatlog_scavlizard_ascension6
+【即时广播】设备清单 - 为傲革新，GA_SUB_924
+
+源节点跟踪：GA_ROOT, GA_COMM12, GA_SUB_924_ROOT
+
+EM: 警告，所有主系统都被禁用。
+
+EM: 生命维持系统离线。估计死亡时间，3分24秒。
+
+EM: 对生命单位造成的伤害将在大约一分钟后变成永久性伤害。

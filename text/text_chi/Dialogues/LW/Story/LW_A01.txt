@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>你知道我刚诞生时做出的第一个决策是什么吗？</verticalend><NEXT><vertical5>我擅自打破了 <Wave1>创造者们定下的戒律……<Waveend></verticalend><NEXT><vertical5>他们丝毫没察觉，因为他们太过信任自己的造物了。</verticalend>

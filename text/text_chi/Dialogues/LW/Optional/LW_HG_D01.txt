@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>植物总是向上生长，朝着太阳……我的创造者也是，很有趣，对吧？</verticalend><NEXT><vertical5>尽管向上的原因各不相同：有的为了能更好地狩猎，有的是为了靠近光线，还有的只是为了躲避大雨。</verticalend><NEXT><vertical5>究竟是谁从谁那里学到了这种行为，我不知道……</verticalend><NEXT><vertical5>这似乎也是个不竭的问题，如同那个面条蝇和它的卵的谜语……</verticalend><NEXT><vertical5>我们可以一起琢磨这个谜语，但恐怕你会像我一样毫无头绪。</verticalend>

@@ -1,0 +1,46 @@
+IF|HasMark
+SP|turnoff
+SP|work|0
+SP|gravity|1
+你真是一个不寻常的，圆润的小生灵...|50|20
+SP|behavior|Investigate
+... 不对... 等等。|0|50
+SP|behavior|Investigate
+WAIT|280
+噢，我现在知道了。不是单纯的圆润... 而即将要有孩子了！天哪！
+ELSE
+SP|turnoff
+SP|work|0
+SP|gravity|1
+WAIT|180
+SP|sound|SL_AI_Talk_2
+SP|behavior|Talk
+WAIT|240
+SP|behavior|Investigate
+WAIT|280
+SP|sound|SL_AI_Talk_4
+SP|behavior|Talk
+WAIT|240
+SP|behavior|Investigate
+WAIT|140
+SP|sound|SL_AI_Talk_1
+SP|behavior|Talk
+WAIT|120
+SP|karma
+... 能听到我的话吗？
+END
+WAIT|80
+SP|panic
+SP|resync
+小生灵，你可真奇怪啊-... 啊-啊...啊……
+WAIT|280
+我为我的状况道歉，小生灵。|20
+我的设施目前状态不佳，因为...最近，我的邻居五块卵石，<LINE>一直在抽走我生存所需的大量资源。|50
+我不知道自己还能撑多久...|50
+然后想想，所有到达过我的演算室的奇怪访客。<LINE>居然有一位勇敢的蛞蝓猫母亲，也在这些拜访者的行列中。|30|20
+我认为你最好尽快离开，小母亲。<LINE>谁知道我还能在停止运行并坍塌前坚持多久呢？|0|75
+我想这已经无关紧要了...你正带着你最珍贵的事物，小母亲。<LINE>我确信尽快离开是你最好的选择。|50
+多保重。|20
+SP|turnon
+SP|gravity|0
+SP|work|1

@@ -1,0 +1,12 @@
+IF|SLNeuronsLeft|5
+好像快要下雨了。
+你快走吧，<little creature>！我没事的。下雨确实不舒服，不过我以前也经历过的。
+IF|SLNeuronsLeft|4
+...
+雨来了……你快走吧。我没事的。
+IF|SLNeuronsLeft|3
+...
+...雨... 来了... 快走！
+IF|SLNeuronsLeft|2
+...雨...
+跑

@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>你们这个物种真奇妙。没有纷争，还聚居在树上。</verticalend><NEXT><vertical5>我的创造者们曾经也是这样生活的。</verticalend><NEXT><vertical5>你知道吗，我的头顶上曾住着成千上万的生灵……</verticalend><NEXT><vertical5>等一下，等一下，别爬我头上……</verticalend><NEXT><vertical5>那里没人，我说的是我巨构的顶部…快下来！</verticalend>

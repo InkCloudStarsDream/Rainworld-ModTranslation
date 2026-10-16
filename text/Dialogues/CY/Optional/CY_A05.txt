@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>啊，我一直在谈论我的创造者，你呢，还记得你的双亲吗？</verticalend><NEXT><vertical5>它们有没有给你讲过故事？<LINE>或许你曾给你年幼的手足讲过些什么？</verticalend><NEXT><vertical5>说实话，我现在也慢慢体会到做父母是什么感觉了。</verticalend>

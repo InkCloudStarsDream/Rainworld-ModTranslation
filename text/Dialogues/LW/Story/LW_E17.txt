@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>你喜欢这里吗？<LINE>……啊，我多想亲眼看看这美妙风光，不是通过监视者。</verticalend><NEXT><vertical5>当然，现在那片美景已经不复存在了。冰霜带走了一切。</verticalend>

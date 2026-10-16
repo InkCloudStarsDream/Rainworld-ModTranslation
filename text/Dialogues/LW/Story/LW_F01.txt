@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5><color#ffd13cff>[ 你似乎已经接近了故事的结局。]</colorend></verticalend>

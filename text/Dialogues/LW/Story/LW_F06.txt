@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>其实，我只是想通过这个故事传达一个简单的道理，记着：</verticalend><NEXT><vertical5>微末之举会影响深远，<LINE>而刚强妄动必招致灾难。</verticalend><NEXT><vertical5>还有，可疑的萌芽就应该趁早掐掉。</verticalend>

@@ -1,0 +1,1 @@
+<LSChatDialogue><vertical5>轮回在上，我敢说本地的僧侣们会对这样的事态发展很满意。</verticalend><NEXT><vertical5>在他们嘴里，这座工厂产出卑劣又亵渎的食物。<LINE>现在它已经破败，变成了一片洼地，长满各种“富有生命力的”野草，而僧侣们就靠这些野草果腹。</verticalend><NEXT><vertical5>依我观察，僧侣们奉行的这套饮食方式完全行不通。能否飞升根本不取决于你吃什么，<LINE>相反，他们把自己困在了过于努力的陷阱里。</verticalend>

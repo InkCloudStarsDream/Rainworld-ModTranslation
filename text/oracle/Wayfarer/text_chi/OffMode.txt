@@ -1,3 +1,0 @@
-SP|turnoff
-SP|gravity|1
-SP|locked

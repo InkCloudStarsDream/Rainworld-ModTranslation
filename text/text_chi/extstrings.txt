@@ -291,7 +291,7 @@ mod:Sewage_Water.thechampion|It’s an old conversation log from my friends and 
 \"[1650.800 - PRIVATE]:\r\n Five Pebbles, Chasing Wind, Big Sis Moon, No Significant Harassment|“1650.800 - 私聊五块卵石、追逐清风、月姐、无稽烦忧
 mod:Sewage_Water.thechampion|CW: this is in confidence, but apparently a pseudonym \"Erratic Pulse\" has appeared on a nearby Sliverist conversation with ideas about personal ascension.<LINE> Someone here in our vicinity is trying to cross themselves out.|追逐清风：这是机密，但显然在附近的分离派对话中出现了一个化名“不稳脉冲”的家伙，那家伙说了对个人飞升的想法。我们附近有家伙正试图把自己抹去。
 mod:Sewage_Water.thechampion|FP: WhErE dId YoU hEaR tHiS?|五块卵石：亻尔人人口那口斤至刂白勺这个氵肖息？
-mod:Sewage_Water.thechampion|NSH: I wish them super good luck in that endeavor. How is it going to happen? Have the overseers gnaw through bedrock until their entire can crashes down in the void sea?|无稽烦忧：我祝那家伙在这条路上好运连连啊。然后呢？难道让监视者啃穿基岩 ，连同罐头一起掉进虚空之海
+mod:Sewage_Water.thechampion|NSH: I wish them super good luck in that endeavor. How is it going to happen? Have the overseers gnaw through bedrock until their entire can crashes down in the void sea?|无稽烦忧：我祝那家伙在这条路上好运连连啊。然后呢？难道让监视者啃穿基岩 ，连同罐头一起掉进虚空之海？
 mod:Sewage_Water.thechampion|BSM: Please be respectful when speaking of the Void Sea. Grey Wind, where did you hear this?|月姐：说到虚空之海的时候放尊重点。灰风，你在哪听到的这个消息？
 mod:Sewage_Water.thechampion|CW: I really shouldn't say. He's going to attempt some sort of breeding program. Thought you might want to know.|追逐清风：我真不该提这个。他打算尝试某种育种计划。你也许会好奇。
 mod:Sewage_Water.thechampion|NSH: Haha with the slimers, lizards and etceteras? Surely the answer was in a lizard skull all along!|无稽烦忧：哈哈，就用粘液、蜥蜴那些东西？对对对，答案就在蜥蜴头骨里面！
@@ -301,7 +301,7 @@ mod:Sewage_Water.thechampion|NSH: Moon will go get them! Long live the inquisiti
 mod:Sewage_Water.thechampion|In hindsight, his reluctance to engage in conversation on the topic was suspicious...|事后回想，他那时对这个话题表现出的抗拒态度就有些可疑……
 /LTTM读天空群岛珍珠4
 mod:Sewage_Water.thechampion|It’s me writing to the local group… of a conversation I wish I could forget.|这是我发送到本地迭代器群组里的话……一段我希望可以忘掉的对话。
-mod:Sewage_Water.thechampion|\"[1654.110 - PUBLIC]:\r\n Big Sis Moon to Local Group|"1654.110 - 公开<LINE>“1654.110 - 公开月姐至本地群组
+mod:Sewage_Water.thechampion|\"[1654.110 - PUBLIC]:\r\n Big Sis Moon to Local Group|"1654.110 - 公开<LINE>月姐至本地群组
 mod:Sewage_Water.thechampion|BSM: Two cycles ago, my neighbor Five Pebbles drastically increased his water consumption to four times the normal amount.<LINE> He has been unresponsive for a period of time longer than that. The two of us share groundwater, and I have been without water for almost a cycle.|月姐：两个雨循环前，我的邻居五块卵石将他的用水量急剧增加到平时的四倍。他已经有一段时间没有回复我了。<LINE>我们两个共享地下水源，而我已经断水差不多一个雨循环了。
 mod:Sewage_Water.thechampion|BSM: Any attempts at communication have been met with complete silence, and my situation is becoming increasingly dangerous.|月姐：任何交流尝试都杳无音信，我的处境变得越来越危险。
 mod:Sewage_Water.thechampion|BSM: I ask the local group for information about when you were last able to contact him, and to try to use those same communication channels again,<LINE> repeatedly until you get a response. I will be clear on this - if he is not persuaded to stop whatever it is he's doing, I will die.|月姐：我要向本地群组询问你们最后一次联系他的时间，并请各位尝试再次使用相同的沟通渠道联系他，<LINE>直到你们得到回应之前都不要停下来。我要先说清楚——如果他不被说服停止他正在做的任何事情，<LINE>我会死的。
@@ -325,7 +325,7 @@ mod:Sewage_Water.thechampion|This one is an old conversation between Five Pebble
 mod:Sewage_Water.thechampion|\"1591.290 - PRIVATE:\r\nFive Pebbles, Seven Red Suns|“1591.290 - 私聊五块卵石，七轮红日
 mod:Sewage_Water.thechampion|FP: Can I tell you something? Lately...|五块卵石：我能和你聊聊吗？最近……
 mod:Sewage_Water.thechampion|FP: I'm tired of trying and trying. And angry that they left us here.<LINE> The anger makes me even less inclined to solve their puzzle for them. Why do we do this?|五块卵石：总是试来试去的，我已经受够了。而且他们把我们丢在这里，我很生气。<LINE>愤怒让我更不愿意为他们解决他们的难题。我们为什么要做这个？
-mod:Sewage_Water.thechampion|SRS: Yes, I'll spell this out - not because you're stupid or naive... Also, not saying that you're not ~|七轮红日：好，我会和你解释清楚的——这不是因为你蠢或者天真……<LINE>当然，也不是说你就不笨或不幼稚~
+mod:Sewage_Water.thechampion|SRS: Yes, I'll spell this out - not because you're stupid or naive... Also, not saying that you're not ~|七轮红日：好，我会和你解释清楚的——这不是因为你蠢或者天真……<LINE>当然，也不是说你就不蠢或不幼稚~
 mod:Sewage_Water.thechampion|FP: Please, I'm coming to you for guidance.|五块卵石：嘴下留情，我是在寻求你的帮助。
 mod:Sewage_Water.thechampion|SRS: Sorry, very sorry. I kid. Fact is, of course we are all aware of the evident futility of this Big Task.<LINE> It's not said out loud but if you were better at reading between the lines there's nowhere you wouldn't see it. We're all frustrated.|七轮红日：抱歉，真抱歉。开个玩笑。事实上，我们当然都知道这项重大任务显然是徒劳的。<LINE>虽然没明说，但如果你咬文嚼字的水平更高，你就会发现这一点。我们都很沮丧。
 mod:Sewage_Water.thechampion|FP: So why do we continue? We assemble work groups, we ponder, we iterate and try. Some of us die. It's not fair.|五块卵石：那我们为什么还要继续？我们组建工作组、我们思考、我们迭代并尝试。<LINE>有些迭代器还死了。这不公平。
@@ -341,16 +341,16 @@ mod:Sewage_Water.thechampion|I suppose that is siblings for you.|我想这就是
 mod:Sewage_Water.thechampion|Oh, this one is all plain text. It's an excerpt from an Iterator conversation group.|哦，这个全都是明文。这是迭代器对话组的摘录。
 mod:Sewage_Water.thechampion|\"1650.787 - CLOSED GROUP [SLIVEROFOCEAN]:\r\nSliverOfOcean group, all participants anonymous|“1650.787 - 非公开群组【大洋裂片】<LINE>大洋裂片群组，所有参与者皆为匿名
 mod:Sewage_Water.thechampion|UU: Hah! I wouldn't necessarily disagree!|UU：哈！我不一定会反对！
-mod:Sewage_Water.thechampion|NGI: SLIVER OF STRAW WAS A TRAITOR TO THE CAUSE|NGI：稻草裂片是这个事业的叛徒
-mod:Sewage_Water.thechampion|NGI: SLIVER OF STRAW BROKE THE SELF-DESTRUCTION TABOO|NGI：稻草裂片打破了自毁禁忌
+mod:Sewage_Water.thechampion|NGI: SLIVER OF STRAW WAS A TRAITOR TO THE CAUSE|NGI：茅草裂片是这个事业的叛徒
+mod:Sewage_Water.thechampion|NGI: SLIVER OF STRAW BROKE THE SELF-DESTRUCTION TABOO|NGI：茅草裂片打破了自毁禁忌
 mod:Sewage_Water.thechampion|UU: How did this idiot get in here? Kick them out ~|UU：这个蠢货是怎么进来的？踢出去~
 mod:Sewage_Water.thechampion|NGI: <Forcefully removed from group>|NGI：<被强制移出群组>
 mod:Sewage_Water.thechampion|EP: I think they had a point.|不稳脉冲：我认为这家伙说得有道理。
 mod:Sewage_Water.thechampion|UU: Hahaha really? Elaborate!|UU：嚯嚯嚯真的吗？仔细说说！
-mod:Sewage_Water.thechampion|EP: It was definitely coming from an idiotic state of mind, but there is something to it. Why is it, that even in a closed sliverist group,<LINE> the self-destruction taboo is held so high - while Sliver of Straw herself *evidently* is not among us anymore?|不稳脉冲：这绝对是蠢货的想法，但还是说到点子上了。为什么，即使在一个非公开的分离派群体中，<LINE>自我毁灭的禁忌也能得到如此重视？而稻草裂片她自己“很显然”已经不在我们之中了。
+mod:Sewage_Water.thechampion|EP: It was definitely coming from an idiotic state of mind, but there is something to it. Why is it, that even in a closed sliverist group,<LINE> the self-destruction taboo is held so high - while Sliver of Straw herself *evidently* is not among us anymore?|不稳脉冲：这绝对是蠢货的想法，但还是说到点子上了。为什么，即使在一个非公开的分离派群体中，<LINE>自我毁灭的禁忌也能得到如此重视？而茅草裂片她自己“很显然”已经不在我们之中了。
 mod:Sewage_Water.thechampion|HF: Wait now...|HF：等等……
 mod:Sewage_Water.thechampion|EP: I'm just saying that for all the research we are doing, all the theories we have, it's strange that we leave this path untrod.|不稳脉冲：我只是想说，我们进行了这么多研究，我们拥有这么多理论，我们抛弃这条路是很奇怪的。
-mod:Sewage_Water.thechampion|EP: It is not a new idea, but it needs to be vented occasionally. What if there is no universal solution? What if perception is in fact existence,<LINE> and when Sliver of Straw sent the triple positive it was *not* a mistake?<LINE> What if crossing oneself out, or even just death, is the way? We need to consider the possibility.\"|不稳脉冲：这不是什么新想法，只是偶尔需要提出来。如果没有普遍适用的解决方案呢？<LINE>如果灵感实际上是存在的，当稻草裂片发送三重肯定时它*不是*一个错误呢？<LINE>如果办法是把自己抹去，甚至就是死亡时呢？我们需要考虑这种可能性。”
+mod:Sewage_Water.thechampion|EP: It is not a new idea, but it needs to be vented occasionally. What if there is no universal solution? What if perception is in fact existence,<LINE> and when Sliver of Straw sent the triple positive it was *not* a mistake?<LINE> What if crossing oneself out, or even just death, is the way? We need to consider the possibility.\"|不稳脉冲：这不是什么新想法，只是偶尔需要提出来。如果没有普遍适用的解决方案呢？<LINE>如果灵感实际上是存在的，当茅草裂片发送三重肯定时它*不是*一个错误呢？<LINE>如果办法是把自己抹去，甚至就是死亡时呢？我们需要考虑这种可能性。”
 mod:Sewage_Water.thechampion|...\"Erratic Pulse\", so that was the name he used...<LINE> Quite fitting given our situation, I'll give him that...|……“不稳脉冲”，所以这就是他的化名……<LINE>我得承认，这倒挺符合我们的现状。
 mod:Sewage_Water.thechampion|...Wait...NGI..? Wasn't that the one who kept pratteling on about \"Transcendental Inversion\"???|…等一下，NGI…？这是那个一直念叨着“超验反转”的家伙吗？？？
 mod:Sewage_Water.thechampion|...Nevermind...|算了……

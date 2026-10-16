@@ -8330,7 +8330,7 @@ NULL: Could we have just thought a little harder, tried a little more? |空值�
 NULL: I assume you won't respond, because of, well, you know the answer to that, [NULL].|空值：我想你也不会回应我了，毕竟你我都知道答案是什么，[空值]。
 NULL: I suppose, I'm writing this for myself, not for you."|空值：啊，看来，我写下这些也是给我自己，而不是给你。”
 I wonder who the sender made the message for?|我真好奇这条消息原本是写给谁的，
-Perhaps sliver of straw?|莫非是稻草裂片？
+Perhaps sliver of straw?|莫非是茅草裂片？
 
 /LRW_STORAGECONV
 This one seems to be very damaged, I'm not sure if I can read any of it.|这颗损坏很严重，我不确定还能不能读取出内容。
@@ -9189,3 +9189,16 @@ Filtration Array|过滤阵列
 //3817061158
 ap.speedruns.a.region-description|在你所熟知的迭代器的一条支架附近，有一座小小的水流控制设施。<LINE>为竞速挑战而制作的小型区域，风格基于原版竞技场"Pit"。
 Bureau|办公区域
+
+//3820493533
+TropicalBogRegion-description|一片葱郁湿软的沼泽地带，食物意外地匮乏。湿热沼地的屏幕超过173个，连接阴影城堡、垃圾堆，直通悬苑的中心。
+Tropical Bog|湿热沼地
+Waste Dump|废水泵
+
+//3820509068
+mothsraindrops-description|一个还在制作中的区域模组！<LINE>译者注：自带一只新蛞蝓猫“被遗忘者”(The Forgotten)。
+Drowning Urban|水浸之城
+The Forgotten|被遗忘者
+THE FORGOTTEN|被遗忘者
+forgotten|被遗忘者
+Alone, lost, and scared. This stealthy omnivore lost in a downpour<LINE>looking for a home in a harsh and indifferent land.|孤独，迷茫，惊惶。一只行踪隐秘的杂食动物，<LINE>在倾盆大雨中迷了路，试图在这片严峻冷漠的土地上寻找家。

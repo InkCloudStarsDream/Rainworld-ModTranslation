@@ -9195,6 +9195,11 @@ semithefish-industrialtwin-description|是时候深入工业区，探索雨世�
 Digital Underground|数化地下
 Chilly Factory|寒冻厂房
 
+//3819697508
+ap.is.a.piece.of.shit-description|一座美丽的现代草药庄园兼果园
+Aeroponics|雾培区
+Peace|核平区
+
 //3820493533
 TropicalBogRegion-description|一片葱郁湿软的沼泽地带，食物意外地匮乏。湿热沼地的屏幕超过173个，连接阴影城堡、垃圾堆，直通悬苑的中心。
 Tropical Bog|湿热沼地

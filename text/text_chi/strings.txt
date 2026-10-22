@@ -5714,7 +5714,7 @@ Seafloor Base|海底基地
 //3457887314
 auxiliaryintake-description|一个基于水存在的区域，通过摄水系统将排水系统和海岸线延伸到五块卵石。
 Auxiliary Intake|辅助摄水系统
-The Reservior|水库
+The Reservoir|水库
 
 //3459890439
 easternexpanse-description|五块卵石之下，向东，在古老建筑下方隐藏着一处荒原。<LINE>探索野外沼泽，河流侵蚀的潮汐<LINE>踏上旅途，将过往印象甩在身后。（连接到记忆陵墓和沉没巨构）

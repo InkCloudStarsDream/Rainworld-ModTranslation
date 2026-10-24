@@ -8638,7 +8638,7 @@ This water facility was used to pump excess water from the Farm Arrays.|这座�
 It's become so useless.|它现在已经失业了。
 But I don't know if it's still working.|不过，我不确定它是否还运行着。
 
-//3763058691
+//3763058691&3825803301（同个模组重发，在此合并）
 ASE-description|该模组起初只是一个区域，现在它是一个系列拓展，通过它拜访某个熟悉的友好面孔！对沿途的环境保持警惕，你会遭遇大沙暴，走过血红天穹所笼罩的黑暗地带，穿过被浪潮摧毁的废墟，跨越那将先于其他建筑坠毁之地。该模组仍在大力开发中，我第一次制作如此规模的作品，所以请注意：可能存在各种问题或bug。
 The Dustbowl|尘碗
 Sanded Station|覆沙站台
@@ -8651,6 +8651,29 @@ bloody causeway|血染堤
 former capital|旧都
 chapel pathway|教堂走道
 northern face|北面
+Desecrated Faults|受渎之过
+darkened waterway|漆黑水道
+rumbling cascade|轰鸣瀑布
+supply ducts|供气管
+Cloud Forest|云端密林
+cloud forest|云端密林
+communication center|通信中心
+skyline path|天际路
+lush bridge|碧郁长桥
+No Significant Harassment|无稽烦忧
+Retaining Walls|挡土墙
+faultways|歧途
+the seawall|海堤
+barrier heights|界限塔
+Void Pumps|虚空泵
+fluid transport|流体运输线路
+purification conduits|提纯管道
+esoteric boundary|深奥边界
+Windy Skyways|呼啸天际线
+Shattered Seaways|伶仃海域
+ocean rig|海上钻井平台
+southern shore|南岸
+expanse coast|延广海岸
 
 //3765600200
 decaying_deadlands-description|一片孤寂荒凉的沙漠，被黑暗所笼罩。增加了2个(?)可探索区域。

@@ -9212,3 +9212,18 @@ The Forgotten|被遗忘者
 THE FORGOTTEN|被遗忘者
 forgotten|被遗忘者
 Alone, lost, and scared. This stealthy omnivore lost in a downpour<LINE>looking for a home in a harsh and indifferent land.|孤独，迷茫，惊惶。一只行踪隐秘的杂食动物，<LINE>在倾盆大雨中迷了路，试图在这片严峻冷漠的土地上寻找家。
+
+//3824516980
+randomspace2-description|在五块卵石的腐化区域深处，一种新事物正在随着腐化的蔓延一起诞生……<LINE>拼接区的续作，探索另一堆巨大的房间，展示房间制作的极限。<LINE>[警告：某些区域有像原作一样的巨大声响和强烈闪光。]
+Another Jumblezone|另一个拼接区
+
+//3824764323
+ccregions-description|我的首个付出了相当心力的拓展模组！目前包括盐碑，一座位于海岸线附近的混凝土建筑。入口在海岸线，靠近垃圾堆的业力门。
+Saline Slab|盐碑
+/CCRA_Pearl
+Interesting... This one seems to have been formatted shortly before my creators left.|有意思……这似乎是在我的创造者们离去前不久写好的。
+It appears to be an unfinished song, mixing different cultures and styles into one cohesive package.|看样子是一首未完成的歌曲，将不同的文化风格融汇到一起成为一个整体。
+Creations like these were often controversial, as it is particularly difficult to represent everything in the same light.|这类创作往往会很有争议，因为很难用相同的视角去呈现所有事物。
+Some would - intentionally or not - put too much focus on one topic. Others would make creations poking fun at some of these cultures,<LINE>which would bring about even more waves of controversy.|有些人——无论是有意还是无意——会将焦点过多地放在一个主题上。<LINE>另一些人则通过创作来调侃其中的某些文化，而这又会引发更多的争议。
+Some would even criticize the very existance of this trend, stating that most of these artists are doing it solely for the fame and attention,<LINE>and don't actually care about their source material.|有人甚至会批评这种潮流本身的存在，称那些艺术家大多只是为了<LINE>名利和关注度才这么做，并且对他们的创作素材来源毫不在乎。
+It is quite unfortunate that i cannot read these anymore, I would have loved to hear what this one was about!|很遗憾我不能再读到这些了，我本来很想知道这一颗要表达的是什么！

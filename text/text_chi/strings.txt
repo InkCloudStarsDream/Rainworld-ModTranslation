@@ -9138,6 +9138,19 @@ Alone, lost, and scared. This stealthy omnivore lost in a downpour<LINE>looking 
 //3824516980
 randomspace2-description|在五块卵石的腐化区域深处，一种新事物正在随着腐化的蔓延一起诞生……<LINE>拼接区的续作，探索另一堆巨大的房间，展示房间制作的极限。<LINE>[警告：某些区域有像原作一样的巨大声响和强烈闪光。]
 Another Jumblezone|另一个拼接区
+the gates have been chewed, you can walk right through|这门被大狗嚼嚼嚼了，你可以直接过去
+welcome|欢迎
+hi there little one! welcome home!|嗨嗨嗨小东西！欢迎回家！
+a slug? at this hour?|一只蛞蝓？在这个时候？
+oiled up|涂点油
+i was always there|我总在这儿
+[slugcat] fell out of the world|[蛞蝓猫] 掉出了这个世界
+SECRET ROOM|秘密房
+good night bludcat|晚安哈吉蝓
+slug runners!|奔跑吧蛞蝓！
+the buildings are gone now, you can rest|建筑物现在都不见了，你可以休息
+dont go east the signs leak blood if you go far enough|不要往东走，如果你走得太远，那些符号会渗血
+dont go west the rust can talk down there|不要往西走，那边的生锈大铁块会说话
 
 //3824764323
 ccregions-description|我的首个付出了相当心力的拓展模组！目前包括盐碑，一座位于海岸线附近的混凝土建筑。入口在海岸线，靠近垃圾堆的业力门。
@@ -9149,3 +9162,75 @@ Creations like these were often controversial, as it is particularly difficult t
 Some would - intentionally or not - put too much focus on one topic. Others would make creations poking fun at some of these cultures,<LINE>which would bring about even more waves of controversy.|有些人——无论是有意还是无意——会将焦点过多地放在一个主题上。<LINE>另一些人则通过创作来调侃其中的某些文化，而这又会引发更多的争议。
 Some would even criticize the very existance of this trend, stating that most of these artists are doing it solely for the fame and attention,<LINE>and don't actually care about their source material.|有人甚至会批评这种潮流本身的存在，称那些艺术家大多只是为了<LINE>名利和关注度才这么做，并且对他们的创作素材来源毫不在乎。
 It is quite unfortunate that i cannot read these anymore, I would have loved to hear what this one was about!|很遗憾我不能再读到这些了，我本来很想知道这一颗要表达的是什么！
+
+//3827444064
+Ancient Metropolis|上古都会
+Foggy Rooftops|蒙雾顶棚
+Eroded Highways|蚀坏高速路
+Ancient Pipework|古代管网
+/8E_RAIN
+The rain is getting really bad down here<LINE>who thought it was a good idea<LINE>to build that iterator?|这里的雨水越来越猛烈，谁还会觉得这儿适合建造迭代器呢？
+Many of us thought it was a good idea|答案是我们中的很多人。
+The rain is so bad even the<LINE>silly little air filters are breaking.|雨势过大，最后连那些蠢兮兮的小空气净化器都坏了。
+/8E_MEMORIES
+Who thought it was a good idea to store miros birds<LINE>and memory pearls under the metropolis?|什么人会认为把钢鸟和记忆珍珠存放在大都会的地底是个好主意呢？
+I am not sure, why couldn't they have made more space in the citadel.|我无法确定，为什么他们不在真圣城堡里多预留些空间。
+Maybe it was because they were too lazy to expand the citadel <LINE>and here just has extra space.|也许是因为他们太懒，不想扩建城堡，又或许只是这里刚好有片空地。
+/8E_MACHINERY
+<PLAYERNAME> this pearl seems to be blueprints of many machines.|这颗珍珠里似乎是多个机器的蓝图。
+#1: Portable air filter|#1：便携式空气净化器
+#2: Elevator|#2：电梯
+#3: Exterior heater|#3：外置加热器
+#4: Old radio dish|#4：老式收音天线
+<PLAYERNAME> these are mostly more modern compact versions<LINE> of machines found in the old metropolis|这些东西是旧都会里那些机器的更现代、袖珍版本。
+/8E_AIRFILTERS
+Why do we need this many air filters in this city?|为什么在这座城市里我们需要如此多空气净化器？
+We need them because the pollution from<LINE>the industrial district is getting really bad.|原因在于工业区的污染已非常严重。
+But why does that matter we can't get harmed from it<LINE>the filters just waste way too much space.|但这是又为什么呢，我们并不会因这些污染受到伤害，<LINE>净化器只是在白白浪费空间而已。
+What was that space going to be used for anyways<LINE>most useful machinery is too big to be attached to the side of the buildings.|那片空间究竟打算用来做什么？大多数真正有用的机器体积都太大，<LINE>没法挂载在建筑物侧面。
+Like solar panels or something?|是太阳能板之类的东西吗？
+
+//3827550413
+ASE-description|该模组起初只是一个区域，现在它是一个系列拓展，通过它拜访某个熟悉的友好面孔！对沿途的环境保持警惕，你会遭遇大沙暴，走过血红天穹所笼罩的黑暗地带，穿过被浪潮摧毁的废墟，跨越那将先于其他建筑坠毁之地。该模组仍在大力开发中，我第一次制作如此规模的作品，所以请注意：可能存在各种问题或bug。
+The Dustbowl|尘碗
+Sanded Station|覆沙站台
+sanded station|覆沙站台
+Former Canals|老运河
+former canals|老运河
+rusty central|锈色中心
+dusted coast|尘封海岸
+bloody causeway|血染堤
+former capital|旧都
+chapel pathway|教堂走道
+northern face|北面
+Desecrated Faults|受渎之过
+darkened waterway|漆黑水道
+rumbling cascade|轰鸣瀑布
+supply ducts|供气管
+Cloud Forest|云端密林
+cloud forest|云端密林
+communication center|通信中心
+skyline path|天际路
+lush bridge|碧郁长桥
+No Significant Harassment|无稽烦忧
+Retaining Walls|挡土墙
+faultways|歧途
+the seawall|海堤
+barrier heights|界限塔
+Void Pumps|虚空泵
+fluid transport|流体运输线路
+purification conduits|提纯管道
+esoteric boundary|深奥边界
+Windy Skyways|呼啸天际线
+blackened ridge|黑山脊
+forgotten faults|遗落断层
+snowswept summit|雪漫尖峰
+resource crossing|资源路口
+Shattered Seaways|伶仃海域
+ocean rig|海上钻井平台
+southern shore|南岸
+expanse coast|延广海岸
+
+//3827939947
+pipesea-description|我的第一个区域模组，主要是为了好玩，也是想看看自己能不能真的做出一个区域。它很线性，不过我还是希望你能喜欢，我在做的过程中很开心！<LINE>连接翠绿水道(WVWA_H02)，锈蚀残骸(WRRA_A19)，以太山脊(WARF_B16)。<LINE>推荐从以太山脊进入，从锈骸或水道离开。
+Pipe Sea|管道海洋

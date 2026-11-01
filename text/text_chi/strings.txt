@@ -9234,3 +9234,25 @@ expanse coast|延广海岸
 //3827939947
 pipesea-description|我的第一个区域模组，主要是为了好玩，也是想看看自己能不能真的做出一个区域。它很线性，不过我还是希望你能喜欢，我在做的过程中很开心！<LINE>连接翠绿水道(WVWA_H02)，锈蚀残骸(WRRA_A19)，以太山脊(WARF_B16)。<LINE>推荐从以太山脊进入，从锈骸或水道离开。
 Pipe Sea|管道海洋
+
+//3828381557
+scavband-description|雨世界中的威胁曲是由多个独立音轨共同构成的——而现在每段音轨都会有一只拾荒者实时演奏对应部分。<LINE><LINE>当威胁级别上升时，一段音轨会被引入，而对应的拾荒者会跑到屏幕的右上角并实时演奏，一板一眼：鼓手跟随节拍敲鼓，贝斯手演奏低音，歌手歌唱。<LINE><LINE>当音轨淡出时，拾荒者会放下乐器并离开——若再次陷入危险它会回来继续演奏。<LINE><LINE>当播放普通乐曲时，曲名会在角落显示，乐队将实时演奏。可在剧情模式、竞技场、观览模式以及雨甸房间内使用。<LINE><LINE>部分区域会有特邀嘉宾演奏——欢迎亲自去触发它们。<LINE><LINE>大小，位置以及附加功能可以在拓展菜单中设置。
+Scavenger Band|拾荒乐队
+Band size|乐队大小
+Shift left / right|左移/右移
+Shift down / up|上移/下移
+Soft spotlight behind playing scavengers|使正在演奏的拾荒者后方发出柔光
+Show the track name under each scavenger|在每个拾荒者下方显示对应音轨名称
+When a song plays, announce it and bring out the whole band|当音乐播放时，显示曲名并使乐队所有成员出场
+Test mode: hold the key below to raise the threat level|试音模式：按住试音键调高威胁层级
+Test key|试音键
+How big the band is drawn in the corner|调整乐队所占据的位置大小
+Move the band along the top of the screen|将乐队在屏幕顶端左右移动
+Move the band up or down|将乐队上移/下移
+A warm light fades in behind each scavenger while it plays|当拾荒者开始演奏时，它的背后会逐渐亮起柔光
+Which layer of the music each scavenger plays (KICK, BASS, LEAD...)|显示该拾荒者所演奏的是音乐的哪一层级（打击，贝斯，前奏……）
+The threat band packs up and all eight come out, each playing its own part of the song's sound|威胁曲乐队8名成员将全员到齐，然后演奏各自的音轨
+For watching the band without real danger|观看乐队演奏而不需要真的触发威胁
+Hold it in game to bring the threat music in|在游戏中按住此键主动播放威胁曲
+Band away / back|召唤乐队/遣散乐队
+Press it in game: the whole band leaves the screen; press it again and they come back|游戏中按下此键：使整个乐队离开屏幕；再次按下此键会召唤它们返场

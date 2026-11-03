@@ -9213,18 +9213,25 @@ communication center|通信中心
 skyline path|天际路
 lush bridge|碧郁长桥
 No Significant Harassment|无稽烦忧
+no significant harassment|无稽烦忧
+supports|支承
+filter network|过滤管网
+memory sectors|内存部
+the heart|心脏
+neuron terminus|神经末梢
+the barrier|屏障
 Retaining Walls|挡土墙
 faultways|歧途
 the seawall|海堤
 barrier heights|界限塔
 Void Pumps|虚空泵
 fluid transport|流体运输线路
-purification conduits|提纯管道
+purification conduits|提滤管道
 esoteric boundary|深奥边界
 Windy Skyways|呼啸天际线
 blackened ridge|黑山脊
 forgotten faults|遗落断层
-snowswept summit|雪漫尖峰
+snowswept summit|积雪尖峰
 resource crossing|资源路口
 Shattered Seaways|伶仃海域
 ocean rig|海上钻井平台

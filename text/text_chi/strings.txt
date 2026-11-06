@@ -9263,3 +9263,7 @@ For watching the band without real danger|观看乐队演奏而不需要真的�
 Hold it in game to bring the threat music in|在游戏中按住此键主动播放威胁曲
 Band away / back|召唤乐队/遣散乐队
 Press it in game: the whole band leaves the screen; press it again and they come back|游戏中按下此键：使整个乐队离开屏幕；再次按下此键会召唤它们返场
+
+//3833396222
+Nycthemeron
+nycthemeron-description|使雨世界随时间动态变化

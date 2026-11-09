@@ -9265,5 +9265,14 @@ Band away / back|召唤乐队/遣散乐队
 Press it in game: the whole band leaves the screen; press it again and they come back|游戏中按下此键：使整个乐队离开屏幕；再次按下此键会召唤它们返场
 
 //3833396222
-Nycthemeron
+Nycthemeron|循环轮转
 nycthemeron-description|使雨世界随时间动态变化
+
+//3834523946
+thehardpan-description|一片被炙烤得滚烫的干涸湖床，边上有一座废弃的仓库。<LINE>连接表面、信号尖塔与恶魔（间域）。
+The Hardpan|硬土
+Edifice|厦间
+
+//3836124699
+abyssalhollow-description|我的第一个区域模组，希望它值得一玩。目前只能通过传送菜单进入，现有的两个业力门计划未来连接至我的其他自制区域。
+Abyssal Hollow|深渊空洞

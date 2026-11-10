@@ -9237,6 +9237,10 @@ Shattered Seaways|伶仃海域
 ocean rig|海上钻井平台
 southern shore|南岸
 expanse coast|延广海岸
+Cracked Crevasse|明裂冰隙
+manufacturing|制造厂
+old transport|旧交通线
+cloudy climb|云间峭壁
 
 //3827939947
 pipesea-description|我的第一个区域模组，主要是为了好玩，也是想看看自己能不能真的做出一个区域。它很线性，不过我还是希望你能喜欢，我在做的过程中很开心！<LINE>连接翠绿水道(WVWA_H02)，锈蚀残骸(WRRA_A19)，以太山脊(WARF_B16)。<LINE>推荐从以太山脊进入，从锈骸或水道离开。

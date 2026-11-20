@@ -9304,3 +9304,10 @@ Deserted Train Station|废弃火车站
 Eternity River|永恒之河
 Crash Zone|撞击区
 Other Side of Lake|湖的另一头
+
+//3839509370
+thegreengoobermousezone-description|连接郊区（SU_A40）和阴影城堡（SH_C07）的愚蠢子区域<LINE>请谨慎进入
+the mouse zone|鼠巢
+
+//3840613942
+mudpoolsremake-description|泥浆风味重制

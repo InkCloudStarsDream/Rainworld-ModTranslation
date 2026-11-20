@@ -9268,13 +9268,19 @@ Hold it in game to bring the threat music in|在游戏中按住此键主动播�
 Band away / back|召唤乐队/遣散乐队
 Press it in game: the whole band leaves the screen; press it again and they come back|游戏中按下此键：使整个乐队离开屏幕；再次按下此键会召唤它们返场
 
+//3829432055
+pj.halloween-description|这是一个专为万圣节制作的剧情模式！与蛞蝓猫们邂逅并交谈，还能获得新能力！
+Visitor|讨糖小鬼
+VISITOR|讨糖小鬼
+Threat or threat!|不给糖就捣蛋！
+
 //3833396222
 Nycthemeron|循环轮转
 nycthemeron-description|使雨世界随时间动态变化
 
 //3834523946
 thehardpan-description|一片被炙烤得滚烫的干涸湖床，边上有一座废弃的仓库。<LINE>连接表面、信号尖塔与恶魔（间域）。
-The Hardpan|硬土
+The Hardpan|涸床
 Edifice|厦间
 
 //3836124699

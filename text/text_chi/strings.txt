@@ -9271,6 +9271,7 @@ Press it in game: the whole band leaves the screen; press it again and they come
 //3829432055
 pj.halloween-description|这是一个专为万圣节制作的剧情模式！与蛞蝓猫们邂逅并交谈，还能获得新能力！
 Visitor|讨糖小鬼
+The Visitor|讨糖小鬼
 VISITOR|讨糖小鬼
 Threat or threat!|不给糖就捣蛋！
 
@@ -9305,9 +9306,14 @@ Eternity River|永恒之河
 Crash Zone|撞击区
 Other Side of Lake|湖的另一头
 
-//3839509370
-thegreengoobermousezone-description|连接郊区（SU_A40）和阴影城堡（SH_C07）的愚蠢子区域<LINE>请谨慎进入
-the mouse zone|鼠巢
-
-//3840613942
-mudpoolsremake-description|泥浆风味重制
+//3842793401
+aquifertunnels-description|一套隐藏起来的古老水阀兼过滤网络，曾被用于在两座巨构之间输水，如今因为失去了其用途而逐渐衰败。连接排水系统和海岸线。
+Aquifer Tunnels（名称和其他模组重复，不翻译）
+lantern cove|灯笼湾
+forgotten tunnel|遗忘隧道
+/M3_LIGHT_BLUE_PEARL
+Oh you have something you'd like me to read Little Creature?|啊，你有东西想让我读是吗，小生灵？
+This pearl appears to be a layout of an old tunnel network<LINE>below me and my neighbor's superstructures that once served as a valve between our two water supplies.|看上去这是一张旧隧道网的布局图，该管网在我和我邻居的巨构下方，<LINE>曾作为我俩之间的水源阀门。
+Though the system has long since failed both our structures.<LINE>Especially after my supply of water was drained.|这个系统早就对我们的结构失效了，尤其是我的水源被耗尽之后。
+I suspect Five Pebbles is not using it anymore either<LINE>given his current state.|根据五块卵石的现状来看，我怀疑他也不再使用它了。
+But please remain careful down there Little Creature, it's likely unstable below.|但还请谨慎点，小生灵，那下面可能不太稳定。

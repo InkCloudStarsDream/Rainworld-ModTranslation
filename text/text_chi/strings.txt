@@ -9306,6 +9306,13 @@ Eternity River|永恒之河
 Crash Zone|撞击区
 Other Side of Lake|湖的另一头
 
+//3839509370
+thegreengoobermousezone-description|连接郊区（SU_A40）和阴影城堡（SH_C07）的愚蠢子区域<LINE>请谨慎进入
+the mouse zone|鼠巢
+
+//3840613942
+mudpoolsremake-description|泥浆风味重制
+
 //3842793401
 aquifertunnels-description|一套隐藏起来的古老水阀兼过滤网络，曾被用于在两座巨构之间输水，如今因为失去了其用途而逐渐衰败。连接排水系统和海岸线。
 Aquifer Tunnels（名称和其他模组重复，不翻译）

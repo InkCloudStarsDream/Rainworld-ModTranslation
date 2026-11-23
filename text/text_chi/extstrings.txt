@@ -85,6 +85,185 @@ mod:henpemaz_rainmeadow|Enable Chat Logging Toggle|启用聊天日志记录开�
 mod:henpemaz_rainmeadow|Enable chat logging toggle (enabled by SHIFT + [CHAT KEY]) to display incoming errors in the chat.|启用聊天日志记录开关（通过 SHIFT + [聊天键] 开启），在聊天中显示传入的错误信息。
 mod:henpemaz_rainmeadow|Text Downscroll|文本向下滚动
 
+//2964671523
+/教程文字
+mod:kingmaxthe2.gravelslug|You are now nourished and full of gravel, lessening the pain within.|你已经饱腹，肚子里满是砾石，痛苦也随之减轻。
+mod:kingmaxthe2.gravelslug|You are heavier and more durable in this state, you sink in water and can withstand some projectiles.|你更沉重、更坚韧了，你会在水中下沉，可以承受一些投射物打击而不死。
+mod:kingmaxthe2.gravelslug|You can spit out rocks and empty your stomach to reduce weight and return to the Malnourished state.|你可以吐出石头清空胃袋来减重，回到饥饿状态。
+/无声构造1
+mod:kingmaxthe2.gravelslug|Hello, little one.|你好，小家伙。
+mod:kingmaxthe2.gravelslug|I have awakened you from your deep slumber.|我将你从深眠之中唤醒。
+mod:kingmaxthe2.gravelslug|A being such as I cannot get another chance such as this.|我这种存在，无法再得到这样的机会。
+mod:kingmaxthe2.gravelslug|Here I am again, to set forth another simple creature.|而我又回来，是为重塑一个简单的生灵。
+mod:kingmaxthe2.gravelslug|I will continue to be alongside you until the time is right.|我会一直伴你左右，直到时机来临。
+mod:kingmaxthe2.gravelslug|What you decide to do with your new chance at life is yours alone.|至于你决定如何度过你这新得的一生，完全是你自己的事。
+mod:kingmaxthe2.gravelslug|Return to me when you need me most.|在你最需要我的时候，就回这儿来。
+/无声构造2
+mod:kingmaxthe2.gravelslug|My presence has been revealed to you once again, little one.|我的存在已再次向你显现，小家伙。
+mod:kingmaxthe2.gravelslug|I will help you to the best of my abilities.|我会尽我所能帮助你。
+mod:kingmaxthe2.gravelslug|Seek memories of your kind, visions of times beyond your own.|去寻找你同类的记忆，那些超越你所处时代的幻象。
+mod:kingmaxthe2.gravelslug|I have your sight, and you have mine.|我拥有你的视野，你也拥有我的。
+mod:kingmaxthe2.gravelslug|Use it well.|好好利用它。
+/无声构造3
+mod:kingmaxthe2.gravelslug|My full presence has been revealed to you now, little one.|我完整的存在如今已向你显现，小家伙。
+mod:kingmaxthe2.gravelslug|Your attunement has become much closer to our own.|你的调谐已变得与我们更加接近。
+mod:kingmaxthe2.gravelslug|Through awakening you, I have seen through your eyes and met your grievances.|通过唤醒你，我借你的眼睛看到了世界，也感受到了你的苦难。
+mod:kingmaxthe2.gravelslug|And here I am again, to set you forth to a world beyond my reach.|于是我又来了，将你送往一个我无法触及的世界。
+mod:kingmaxthe2.gravelslug|Take care of yourself little one.|保重，小家伙。
+/烟囱天棚
+mod:kingmaxthe2.gravelslug|From my perch, I have seen many things, as have you.|从这栖身之处，我看见许多事物，你也一样。
+mod:kingmaxthe2.gravelslug|We've seen the rain fade as cold begins to bite the air.|我们见过雨水渐退，寒意开始侵袭空气。
+mod:kingmaxthe2.gravelslug|How you have found a way to see further beyond your own perch beguiles me.|你竟能找到办法，看得比自己的栖处更遥远，这令我着迷。
+mod:kingmaxthe2.gravelslug|A vessel of flesh not of your own.|一具不属于你的躯壳。
+mod:kingmaxthe2.gravelslug|Are your memories the same?|你的记忆如故吗？
+/天空群岛
+mod:kingmaxthe2.gravelslug|Do you hear it?|你听见了吗？
+mod:kingmaxthe2.gravelslug|The voice that calls from your very being?|那自你存在深处传来的呼唤？
+mod:kingmaxthe2.gravelslug|I'm familiar with it. It's pronounced within the air...|我对它很熟悉。它曾在空气中响起……
+mod:kingmaxthe2.gravelslug|But now, it's fainter. Calling from another place...|但如今，它更微弱了。从另一个地方传来……
+mod:kingmaxthe2.gravelslug|How you have relocated your buzz is a mystery to me.|你如何迁移了你的嗡鸣，对我来说是个谜。
+/农场阵列
+mod:kingmaxthe2.gravelslug|Curious...|奇怪……
+mod:kingmaxthe2.gravelslug|A being such as I, not anchored to one place...|我这样的存在，并不锚定于某一个地方……
+mod:kingmaxthe2.gravelslug|How have you surpassed the length of your chain?|你是如何超越了你锁链的长度？
+mod:kingmaxthe2.gravelslug|Fled the reins that grasped your being to linger there?|如何逃离了那抓住了你的存在、将你滞留于此的缰绳？
+mod:kingmaxthe2.gravelslug|To have escaped your eternal imprisonment.|竟摆脱了永恒的囚禁。
+mod:kingmaxthe2.gravelslug|And yet you still linger.|但你依然滞留在这里。
+/地下
+mod:kingmaxthe2.gravelslug|A little beast!|一只小野兽！
+mod:kingmaxthe2.gravelslug|But are you not quite a beast past that veil?|但在那层帷幕之后，你不全然是一只野兽？
+mod:kingmaxthe2.gravelslug|I know the struggles you bear, the burdens your vessel embodies.|我知晓你所承受的挣扎，你躯壳所承载的重负。
+mod:kingmaxthe2.gravelslug|An old method may still apply; you are already following some steps.|一种古老的方法或许仍然适用；你已经在遵循其中一些步骤了。
+mod:kingmaxthe2.gravelslug|The struggles will be unending, but the significance is your choice alone.|挣扎将永无止境，但意义只由你自己选定。
+mod:kingmaxthe2.gravelslug|What will you do with this new opportunity?|你会如何对待这次新的机会？
+
+/五块卵石对话
+mod:kingmaxthe2.gravelslug|Why have you taken all i have?|为什么要拿走我仅剩的一切？
+mod:kingmaxthe2.gravelslug|Give it to me.|还给我。
+mod:kingmaxthe2.gravelslug|Please bring it back to me.|请把它带回给我。
+mod:kingmaxthe2.gravelslug|Go away|滚！
+mod:kingmaxthe2.gravelslug|I have not forgotten the pain you have given me.|我没忘了你带给我的痛苦。
+mod:kingmaxthe2.gravelslug|I have so little left. Why is it that you hurt me?|我什么都不剩了。为什么还要伤害我？
+mod:kingmaxthe2.gravelslug|Please leave me alone.|让我自己待着。
+
+mod:kingmaxthe2.gravelslug|Oh, little experiment!|哦，小实验品！
+mod:kingmaxthe2.gravelslug|I... don't even know what to say.|我……甚至不知该说什么。
+mod:kingmaxthe2.gravelslug|Hm? You can understand me, can't you?|嗯？你能听懂我说话，对吧？
+mod:kingmaxthe2.gravelslug|Some solution you were while in that vegetative state.|你当时那种植物一样的状态，算是什么解决办法呢。
+mod:kingmaxthe2.gravelslug|I tried so hard to wake you; you were my last hope.|我那么努力地想唤醒你；你曾是我最后的希望。
+mod:kingmaxthe2.gravelslug|But who am I to put such trust in a simple creature?|可我又算什么呢，竟把信任全部寄托在一个简单的生灵身上？
+mod:kingmaxthe2.gravelslug|There is nothing you can do now, nothing left to save.|如今你也什么都做不了，已经没有什么可挽救的了。
+mod:kingmaxthe2.gravelslug|Though I would enjoy the company for a while longer before you move on, if you please.|不过，如果你愿意的话，我很乐意在你出发之前，再多有你陪伴一会儿。
+
+mod:kingmaxthe2.gravelslug|Hello again, little one.|又见面了，小家伙。
+mod:kingmaxthe2.gravelslug|I bet you're wondering how it came to be that you are my creation.|我猜你一定在想，你是怎么成了我的造物。
+mod:kingmaxthe2.gravelslug|I took note of the persistence and... annoyance... of your kind repeatedly entering the floor of my chamber.|我注意到你这类生物一再进入我的房间，执着……又烦人……
+mod:kingmaxthe2.gravelslug|No easy feat for just any creature, might I add.|我得说，这对任何生物而言都不容易。
+mod:kingmaxthe2.gravelslug|So, I deep-scanned one for myself to create a template and used the DNA scan to replicate my own.|于是，我亲自对其中一个进行了深度扫描，制作了一个模板，<LINE>并用DNA扫描复制了我自己的。
+mod:kingmaxthe2.gravelslug|A method used by some of my old peers, you see...|这是我以前的一些同僚用过的方法，你看……
+mod:kingmaxthe2.gravelslug|You were the most promising iteration by far. A good balance between Void Fluid and enhanced regrowing tissue to counteract.|你是迄今为止最有希望的迭代产品。你的身体在虚空流体与增强<LINE>再生组织之间取得了一种良好的平衡，能够抵消流体的侵蚀。
+mod:kingmaxthe2.gravelslug|However, your brain activity was minimal, and any stimulus I could apply was ineffective.|然而，你的大脑活动极少，我所施加的任何刺激都毫无起效。
+mod:kingmaxthe2.gravelslug|I'm almost certain I would have been able to wake you if my equipment had been in a better state.|我几乎可以肯定，如果我的设备状态更好一些，我本能够唤醒你。
+mod:kingmaxthe2.gravelslug|I lost contact with that sector soon after, however...|但是，不久之后我就丧失了那块区域的联系……
+mod:kingmaxthe2.gravelslug|I guess the cryo chamber held up even after I collapsed, which is quite the surprise.|我猜那冷冻舱在我崩塌之后还挺住了，这真是相当令人意外。
+mod:kingmaxthe2.gravelslug|Well... Welcome to the waking, rotting world.|那么……欢迎来到这清醒的、腐化的世界。
+
+mod:kingmaxthe2.gravelslug|Why is it that you return?|为什么又回来了？
+mod:kingmaxthe2.gravelslug|There is nothing here for you.|这里没有什么值得你留恋的。
+mod:kingmaxthe2.gravelslug|Though it is nice having someone to talk to.|不过，有能说说话的对象倒也不错。
+mod:kingmaxthe2.gravelslug|Being alone with your own thoughts can drive you mad.|独自面对自己的思绪会把你逼疯的。
+mod:kingmaxthe2.gravelslug|I compute several complex processes at once to distract myself.|我同时计算好几个复杂的过程来分散自己的注意力。
+mod:kingmaxthe2.gravelslug|That and this hymn that the ancients used to play...|还有这首古人常奏的赞美诗……
+mod:kingmaxthe2.gravelslug|Even if it's not much, thank you for listening to me.|即使算不了什么，也谢谢你听我说话。
+
+mod:kingmaxthe2.gravelslug|It has become noticeably colder as of late.|最近明显变冷了。
+mod:kingmaxthe2.gravelslug|You should go west where it is warmer.|你应该往西走，那边更暖和。
+mod:kingmaxthe2.gravelslug|You might even find more beings similar to yourself.|你甚至可能会找到更多与你相似的生物。
+mod:kingmaxthe2.gravelslug|Was... that a glint of emotion?|那…是一种情绪的表露吗？
+mod:kingmaxthe2.gravelslug|Guess I finally cracked the code to that poker face.|看来我总算破解了那总是一脸茫然的表情。
+
+mod:kingmaxthe2.gravelslug|Little experiment. Hello.|小实验品，向你问候。
+mod:kingmaxthe2.gravelslug|That scan I took was near perfect, no abnormalities.|我那次扫描近乎完美，没有异常。
+mod:kingmaxthe2.gravelslug|Plenty of room to work with.|可供操作的空间很充足。
+mod:kingmaxthe2.gravelslug|The organisms I made had inherited a few colors that strayed from the expected white tone.|我制造的生物有几种继承了别的体色，原本的预期是白色。
+mod:kingmaxthe2.gravelslug|If it wasn't white, it was usually yellow.|如果不是白色，通常就是黄色。
+mod:kingmaxthe2.gravelslug|But you, continuing to be an oddity, turned out to be a blue shade.|可你，一直保持着怪异的特质，结果总是青色的。
+mod:kingmaxthe2.gravelslug|Must have been a recessive trait.|一定是某种隐性性状。
+
+mod:kingmaxthe2.gravelslug|Nice to see that you are in good health.|很高兴看到你身体健康。
+mod:kingmaxthe2.gravelslug|Or... at least in an alive way.|……起码是还活着。
+mod:kingmaxthe2.gravelslug|Though I imagine true death would be preferred to constant dissolving of your flesh.|不过我想，真正的死亡总比你的肉体不断溶解要好。
+mod:kingmaxthe2.gravelslug|That void fluid in your stomach is problematic if not tended to, as I'm sure you are already aware.|你胃里的那种虚空流体若不处理会很麻烦，相信你已经意识到了。
+mod:kingmaxthe2.gravelslug|The sheer fact you are alive means that you have found a sustainable solution.|你还活着这一事实本身就意味着，你找到了可持续的解决办法。
+mod:kingmaxthe2.gravelslug|Or a way to temporarily stave off the pain.|或者是一种暂时缓解痛苦的方法。
+mod:kingmaxthe2.gravelslug|You creatures always seem to find a way...|你们这些生命似乎总能找到出路……
+
+mod:kingmaxthe2.gravelslug|Thank you for the company.|谢谢你陪着我。
+mod:kingmaxthe2.gravelslug|I've been alone since my collapse.|崩塌以来的很长一段时间内，我只有孤独作伴。
+mod:kingmaxthe2.gravelslug|I treasured the time I had with my close neighbor, Moon.|我很珍惜还与我的近邻皓月相伴的时光。
+mod:kingmaxthe2.gravelslug|Big sis...|姐姐……
+mod:kingmaxthe2.gravelslug|Say hello for me if you visit her, if you haven't already.|如果你还没去看望过她的话，请记得代我向她问好。
+mod:kingmaxthe2.gravelslug|She's not in much better condition than I am.|她的状况并不比我好多少。
+
+mod:kingmaxthe2.gravelslug|You should leave quickly before the rain crushes you.|你应该赶快离开，免得被雨压垮。
+mod:kingmaxthe2.gravelslug|Quickly, find a shelter nearby. It will protect you from my rushing waters.|快，在附近找个庇护所。它会保护你免受我奔涌之水的冲刷。
+mod:kingmaxthe2.gravelslug|Please find some safety for yourself. I want to see you again.|给你自己找个安全的地方。我想再见到你。
+
+mod:kingmaxthe2.gravelslug|Little Experiment?|小实验品？
+mod:kingmaxthe2.gravelslug|Alone again...|又只剩我一个……
+mod:kingmaxthe2.gravelslug|Oh...|啊……
+
+mod:kingmaxthe2.gravelslug|Why won't you wake up?|为什么你没有醒来？
+mod:kingmaxthe2.gravelslug|I've tried again, and again to stimulate your brain to function with no avail.|我一次又一次地尝试刺激你的大脑，却毫无成效。
+mod:kingmaxthe2.gravelslug|I have just about lost hope of ever creating a solution to my very own problem.|对于为我自己的问题创造出解决办法这件事，我已近乎失望。
+mod:kingmaxthe2.gravelslug|I can feel everything falling away from me. My memories, my work, my hope... All lost to a foolish mistake...|我能感觉到一切都在离我而去。我的记忆、我的工作、我的希望……<LINE>全都因一个愚蠢的错误而丧失……
+mod:kingmaxthe2.gravelslug|I'm so close to slowing- Even halting my sickness!|我离减缓——甚至阻断我的病——已经那么接近了！
+mod:kingmaxthe2.gravelslug|Oh Little Experiment... Please... wake up...|啊，小实验品……求你了……醒来吧……
+mod:kingmaxthe2.gravelslug|This is no way for a god to die...|这不是一位神明该有的死法……
+
+/仰望皓月对话
+mod:kingmaxthe2.gravelslug|Hello Little Creature! You can understand me, can’t you?|你好啊，小生灵！你能听懂我说话，对吧？
+mod:kingmaxthe2.gravelslug|You seem unwell...|你看起来不太舒服……
+mod:kingmaxthe2.gravelslug|let's see...|让我看看……
+mod:kingmaxthe2.gravelslug|Facinating. Your stomach is full of void fluid.|有意思。你的胃里装满了虚空流体。
+mod:kingmaxthe2.gravelslug|It's highly unlikely that you gained this adaptation naturally. <LINE>Especially as it seems to give you great discomfort!|你不太可能靠自然获得这种适应能力。尤其是它似乎让你非常不适！
+mod:kingmaxthe2.gravelslug|My only assumption is that you were created by another iterator. But who, and what purpose is a mystery to me...|我唯一的推测是，你是由另一位迭代器创造的。但那是谁，又出于什么目的，<LINE>对我来说也是个谜……
+mod:kingmaxthe2.gravelslug|You can stay as long as you like, the rain isnt as deadly as it once was. <LINE>It however has become a little cold as of late, so i advise you keep warm|你想待多久就待多久，雨已经不像从前那样致命了。<LINE>不过最近天气变得有点冷，所以我建议你注意保暖。
+
+mod:kingmaxthe2.gravelslug|...leave...|…离开…
+mod:kingmaxthe2.gravelslug|You..|你……
+mod:kingmaxthe2.gravelslug|Please don’t... take... more from me... Go.|请不要再……从我这里拿走……更多了……走开。
+mod:kingmaxthe2.gravelslug|Oh. You.|啊。是你。
+
+mod:kingmaxthe2.gravelslug|Oh so you've returned.|哦，所以你回来了。
+mod:kingmaxthe2.gravelslug|You have taken from me what many like you have gifted.|你从我这里拿走了许多……和你类似的生物所赠予的东西。
+mod:kingmaxthe2.gravelslug|It can never be returned.|那永远也无法被归还了。
+mod:kingmaxthe2.gravelslug|Leave with the guilt that you are the worst of your kind.|怀着愧疚走掉吧。你是你同类中最坏的家伙。
+mod:kingmaxthe2.gravelslug|You have hurt me whether you realize it or not.|不管你意识到与否，你都伤害了我。
+mod:kingmaxthe2.gravelslug|I do not know what you gained from your fruitless efforts of partially consuming my lifeline.|部分地耗费我生命所悬的一线，我不知道你从这徒劳之举中究竟得到了什么。
+mod:kingmaxthe2.gravelslug|But please be on your way.|但，请你上路吧。
+
+mod:kingmaxthe2.gravelslug|Oh, Hello!|哦，你好！
+mod:kingmaxthe2.gravelslug|As i said there is nothing i can do for you other than wish for your safety.|正如我所说，除了祝你平安，我为你做不了什么。
+mod:kingmaxthe2.gravelslug|You can stay as long as you like. The stars are beautiful at night, but you don't need to stay that long.|你想待多久都可以。夜晚的星星很美，但你也不必待那么久。
+mod:kingmaxthe2.gravelslug|I wish the best for your future travels.|愿你今后的旅途一切顺利。
+
+mod:kingmaxthe2.gravelslug|It's a rock. Unfortunately, I don't have any tea to go along with your unorthidox diet unfortunately.|这是一块石头。可惜我没有茶来搭配你这非比寻常的饮食。
+mod:kingmaxthe2.gravelslug|It's a piece of sharpened rebar... You seem capable of consuming it.<LINE>Careful not to hurt yourself by attempting to do so!|这是一截磨尖的钢筋……你似乎能把它吃下去。小心别伤到自己！
+mod:kingmaxthe2.gravelslug|Is this... Void Fluid? On a weapon like this would prove to be deadly.<LINE>Clever use of your condition little one!、这是……虚空流体？用在这样的武器上会证明是致命的。小家伙，你把自己的特质利用得很巧妙！
+
+mod:kingmaxthe2.gravelslug|...Stars...|…星星…
+mod:kingmaxthe2.gravelslug|pretty|真漂亮。
+mod:kingmaxthe2.gravelslug|...Night... coming... Soon...|…夜晚…就要…来了…
+mod:kingmaxthe2.gravelslug|Night... You can stay. It will be fine.|晚上……你可以留在这。那会很不错的。
+mod:kingmaxthe2.gravelslug|Night is coming. Now, leave me alone.|夜晚就要降临了。现在不要管我了。
+mod:kingmaxthe2.gravelslug|Take your offspring with you.|带上你的孩子。
+mod:kingmaxthe2.gravelslug|Take your pet with you.|带上你的宠物。
+mod:kingmaxthe2.gravelslug|I think night is approaching.|我想夜幕将至。
+mod:kingmaxthe2.gravelslug|You can stay if you like, <PlayerName>! It will be fine.<LINE>The stars are beautiful, somtimes it's hard to see them through the rain and snow..|你要是想的话，可以留在这里，<PlayerName>！<LINE>夜晚的星星很美丽，尽管有时很难透过雨雪看到它们……
+mod:kingmaxthe2.gravelslug|Your family is welcome to stargaze too!|你的族亲也很乐意观星！
+mod:kingmaxthe2.gravelslug|Your friend is welcome to stargaze too!|你的伙伴也很乐意观星！
+
 //3033569804
 /回响对话
 mod:Sewage_Water.thechampion|The little beast returns!|你回来了，小野兽！
@@ -187,7 +366,7 @@ mod:Sewage_Water.thechampion|...you…你。
 mod:Sewage_Water.thechampion|...pull the p-plug...|…拔掉电-电池…
 mod:Sewage_Water.thechampion|Here again.|又来了。
 mod:Sewage_Water.thechampion|You.|你。
-mod:Sewage_Water.thechampion|I wish you would just finish the job.|但愿你完成了你的职责。
+mod:Sewage_Water.thechampion|I wish you would just finish the job.|但愿你完成了你的任务。
 mod:Sewage_Water.thechampion|You again.|又是你。
 mod:Sewage_Water.thechampion|Please, get it over with.|拜托，快点结束吧。
 mod:Sewage_Water.thechampion|Oh, it's you, <PlayerName>.|哦，是你，<PlayerName>。
@@ -249,14 +428,14 @@ mod:Sewage_Water.thechampion|...wait..|…等等…
 mod:Sewage_Water.thechampion|...siren... discharge... coming... Go!|…警报…排放…来了…快走！
 mod:Sewage_Water.thechampion|...hold on...|…放开…
 mod:Sewage_Water.thechampion|Do you hear the siren..? You better go. I will be fine.|你听见警报了吗…？你最好离开。我会没事的。
-mod:Sewage_Water.thechampion|Look's like the only thing that I lothe more than you is about to occur...
-mod:Sewage_Water.thechampion|My structure will undergo a discharge event. If you stay, you will fry. Now, leave me alone.
+mod:Sewage_Water.thechampion|Look's like the only thing that I lothe more than you is about to occur...|看来，唯一比你的存在更让我讨厌的事就要发生了……
+mod:Sewage_Water.thechampion|My structure will undergo a discharge event. If you stay, you will fry. Now, leave me alone.|我的结构马上就要放电。如果你继续待在这里，会被电到。<LINE>现在，别管我了。
 mod:Sewage_Water.thechampion|Don't forget my task...|别忘了我给你的任务…
 mod:Sewage_Water.thechampion|Take your goblins with you.|带上你的小崽子。
 mod:Sewage_Water.thechampion|Take your pet with you.|带上你的宠物。
 mod:Sewage_Water.thechampion|...Wait! Something is wrong...|…等下！有点不对劲…
 mod:Sewage_Water.thechampion|Do you hear it <PlayerName>? The screaming in the walls?|你听见了吗，<PlayerName>？墙体里传来的哀嚎。
-mod:Sewage_Water.thechampion|It's a safety feature from times long since past, warning all left outside to seek refuge from the storm.<LINE> It was installed primarily for the safty of maintenance workers, ironic considering the task I have given you!|这是来自古老时代的一种安全设施，提醒所有还在外面的人寻找庇护所来躲过雷暴。<LINE>它是出于对工人生命安全的考虑而安装的。<LINE>想到如今我交给你的任务，这多么讽刺！
+mod:Sewage_Water.thechampion|It's a safety feature from times long since past, warning all left outside to seek refuge from the storm.<LINE> It was installed primarily for the safty of maintenance workers, ironic considering the task I have given you!|这是来自古老时代的一种安全设施，提醒所有还在外面的人寻找庇护所来躲过电暴。<LINE>它是出于对工人生命安全的考虑而安装的。<LINE>想到如今我交给你的任务，这多么讽刺！
 mod:Sewage_Water.thechampion|...You should go... Now... I will be fine... -ish...|…你该走了…马上…我会没…的…
 mod:Sewage_Water.thechampion|Keep your family safe!|照顾好你的家人！
 mod:Sewage_Water.thechampion|Keep your cute friend safe!~|照看好你可爱的朋友！
@@ -271,7 +450,7 @@ mod:Sewage_Water.thechampion|It is the genome for a purposed organism. A small s
 mod:Sewage_Water.thechampion|Do you know what a purposed organism is? Actually you are talking to one right now!|你知道什么是功能性有机体吗？实际上正在和你说话的就是！
 mod:Sewage_Water.thechampion|Although I may be in quite the sorry state; umbilical severed, cracked open puppet chamber, slag filled vents...<LINE> ...I am still quite a marvel of bioengineering!|虽然我现在的状态很糟糕：我的脐带缆断了，化身人偶的腔体开裂，通风口也塞满渣滓……<LINE>但我依旧是生物工程学的奇迹。
 mod:Sewage_Water.thechampion|Most purposed organisms were considerably smaller than me, and most barely looked like organisms at all.<LINE> More like tubes in metal boxes, where something went in one end and something else came out the other.|大多数效用有机体都比我小得多，而且很多看起来根本不像有机体。<LINE>更像是金属盒里的管子，一端有东西进去，另一端有东西出来。
-mod:Sewage_Water.thechampion|There were of course those that were purposed for spectacle rather than industry - they enjoyed the privilege of glass boxes.|当然，有些是为了观赏被创造的而不是工业——它们以住在玻璃盒子里为荣。
+mod:Sewage_Water.thechampion|There were of course those that were purposed for spectacle rather than industry - they enjoyed the privilege of glass boxes.|当然，有些是为了观赏被创造的，而不是工业——它们以住在玻璃盒子里为荣。
 mod:Sewage_Water.thechampion|When I came into this world there was very little primal fauna left. So it's highly likely that you are the descendant of a purposed organism yourself!|当我来到这个世界时，原始的动物群系所剩无几。所以很可能你自己就是一个效用有机体的后代！
 mod:Sewage_Water.thechampion|Quite the specimen you are indeed, I wish i had more time to study you.|你是个很特殊的个体，我真希望有更多的时间可以研究你。
 /LTTM读仰望皓月珍珠
@@ -306,7 +485,7 @@ mod:Sewage_Water.thechampion|BSM: Two cycles ago, my neighbor Five Pebbles drast
 mod:Sewage_Water.thechampion|BSM: Any attempts at communication have been met with complete silence, and my situation is becoming increasingly dangerous.|月姐：任何交流尝试都杳无音信，我的处境变得越来越危险。
 mod:Sewage_Water.thechampion|BSM: I ask the local group for information about when you were last able to contact him, and to try to use those same communication channels again,<LINE> repeatedly until you get a response. I will be clear on this - if he is not persuaded to stop whatever it is he's doing, I will die.|月姐：我要向本地群组询问你们最后一次联系他的时间，并请各位尝试再次使用相同的沟通渠道联系他，<LINE>直到你们得到回应之前都不要停下来。我要先说清楚——如果他不被说服停止他正在做的任何事情，<LINE>我会死的。
 mod:Sewage_Water.thechampion|BSM: Before that happens, I will utilize my seniority privilege and use forced communications, hoping to shake him out of it.<LINE> Forced communications in the network will be unpleasant for all, and I will wait as long as possible before I turn to that option.\"|月姐：在那之前，我会利用我的上级特权发起强制通信，希望能把他摇醒。<LINE>网络中的强制通信对所有迭代器来说都是不愉快的，在我不得不这么做之前，<LINE>我会尽可能多等一会儿。”
-mod:Sewage_Water.thechampion|...That sure did help a whole lot...|…那可真是帮了大忙啊…
+mod:Sewage_Water.thechampion|...That sure did help a whole lot...|…那可真是成效卓著啊…
 /LTTM读天空群岛珍珠5
 mod:Sewage_Water.thechampion|I remember this. It isn't pleasant reading. But if you must hear it, this is what it says:|我记得它。读起来不是很愉快。但如果你一定要听的话，上面是这么写的：
 mod:Sewage_Water.thechampion|\"1654.116 - PRIVATE [FORCED]:\r\n Big Sis Moon, Five Pebbles|“1654.116 - 私聊【强制】月姐、五块卵石
@@ -324,7 +503,7 @@ mod:Sewage_Water.thechampion|...And neither will I, dear brother, neither will I
 mod:Sewage_Water.thechampion|This one is an old conversation between Five Pebbles and a friend of his, one that cared about him deeply. I'll read it to you.|这是五块卵石和他一个很关心他的朋友之间的往日对话。我读给你听。
 mod:Sewage_Water.thechampion|\"1591.290 - PRIVATE:\r\nFive Pebbles, Seven Red Suns|“1591.290 - 私聊五块卵石，七轮红日
 mod:Sewage_Water.thechampion|FP: Can I tell you something? Lately...|五块卵石：我能和你聊聊吗？最近……
-mod:Sewage_Water.thechampion|FP: I'm tired of trying and trying. And angry that they left us here.<LINE> The anger makes me even less inclined to solve their puzzle for them. Why do we do this?|五块卵石：总是试来试去的，我已经受够了。而且他们把我们丢在这里，我很生气。<LINE>愤怒让我更不愿意为他们解决他们的难题。我们为什么要做这个？
+mod:Sewage_Water.thechampion|FP: I'm tired of trying and trying. And angry that they left us here.<LINE> The anger makes me even less inclined to solve their puzzle for them. Why do we do this?|五块卵石：总是试来试去的，我已经受够了。而且他们把我们丢在这里，我很生气。<LINE>愤怒让我更不愿意去解决他们的难题。我们为什么要做这个？
 mod:Sewage_Water.thechampion|SRS: Yes, I'll spell this out - not because you're stupid or naive... Also, not saying that you're not ~|七轮红日：好，我会和你解释清楚的——这不是因为你蠢或者天真……<LINE>当然，也不是说你就不蠢或不幼稚~
 mod:Sewage_Water.thechampion|FP: Please, I'm coming to you for guidance.|五块卵石：嘴下留情，我是在寻求你的帮助。
 mod:Sewage_Water.thechampion|SRS: Sorry, very sorry. I kid. Fact is, of course we are all aware of the evident futility of this Big Task.<LINE> It's not said out loud but if you were better at reading between the lines there's nowhere you wouldn't see it. We're all frustrated.|七轮红日：抱歉，真抱歉。开个玩笑。事实上，我们当然都知道这项重大任务显然是徒劳的。<LINE>虽然没明说，但如果你咬文嚼字的水平更高，你就会发现这一点。我们都很沮丧。

@@ -1305,9 +1305,8 @@ kingmaxthe2.gravelslug-description|介绍一只新的蛞蝓猫——食砾石者
 The Gravel-Eater|食砾石者
 THE GRAVEL-EATER|食砾石者
 Gravel-Eater|食砾石者
-A thick-skinned avid consumer of gravel, reveals a feral side when starved of it. <LINE>  An ever present hunger drives this being to consume gravel and seek solace from it.|厚皮肤的砾石爱好者，在饥饿时展现出野性的一面。<LINE>持续存在的饥饿驱使这个生物消耗砾石并从中寻求慰藉。
-Awoken from a deep slumber, and tragically stuck in a delicate equilibrium. <LINE> Given a chance at life, will you ever find normalcy? |从沉睡中醒来，不幸地陷入一种微妙的平衡中。<LINE>你能否使生活回到正轨？
-Ever hungry for more gravel to stomach, this slugcat begins<LINE>another search for some pebbles to chew on.|由于渴望有更多的砾石可以吃，这只蛞蝓猫开始了另一次寻找可以吃的石头的旅程。
+Awoken from a deep slumber, and tragically stuck in a delicate equilibrium. <LINE> Given a chance at life, will normalcy ever be found?|从沉睡中醒来，不幸地陷入一种微妙的平衡。<LINE>假使能重来，生命是否能走上正轨？
+Seeking refuge from their delacate balance, The Gravel-Eater<LINE>strides foreward through the sizzling pain|为了摆脱其脆弱的平衡，食砾石者迈步向前，穿过灼热的疼痛。
 Sunbaked Archipelago|日照群岛
 Solventicon|溶解之地
 Deep Reservoir|深部储层
@@ -9234,6 +9233,7 @@ forgotten faults|遗落断层
 snowswept summit|积雪尖峰
 resource crossing|资源路口
 Shattered Seaways|伶仃海域
+shattered seaways|伶仃海域
 ocean rig|海上钻井平台
 southern shore|南岸
 expanse coast|延广海岸

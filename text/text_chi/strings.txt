@@ -4368,7 +4368,7 @@ Just a minute, little messenger.|小信使，稍等一下。
 /// 扔出去
 You've helped me, and I am thankful for that, but you must go now.|你帮助了我，我对此不胜感激，但是你现在必须得走了。
 /// 杂类物品引入语
-Oh, Something from outside?|哦，来自外界的什么东西？ /// 第一次
+Oh, something from outside?|哦，来自外界的什么东西？ /// 第一次
 Another thing for me to inspect?|想让我再看看这些？ /// 第二次
 I will take a look.|我看一下。
 What is that, <PlayerName>?|那是什么啊，<PlayerName>？ /// 第三次-喜爱

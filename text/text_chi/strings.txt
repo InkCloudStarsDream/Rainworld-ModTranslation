@@ -9324,3 +9324,10 @@ This pearl appears to be a layout of an old tunnel network<LINE>below me and my 
 Though the system has long since failed both our structures.<LINE>Especially after my supply of water was drained.|这个系统早就对我们的结构失效了，尤其是我的水源被耗尽之后。
 I suspect Five Pebbles is not using it anymore either<LINE>given his current state.|根据五块卵石的现状来看，我怀疑他也不再使用它了。
 But please remain careful down there Little Creature, it's likely unstable below.|但还请谨慎点，小生灵，那下面可能不太稳定。
+
+//3843430092
+twall-description|添加了一个植被茂密的区域。本模组包含：90个房间，167个屏幕，3个子区域，拥有原创音乐。
+The Edge
+The Back Side|背阴面
+Retaining Wall
+Surface
